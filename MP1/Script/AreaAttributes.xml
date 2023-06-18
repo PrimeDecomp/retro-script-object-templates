@@ -31,7 +31,7 @@
             <Element Type="Float" ID="0x6">
                 <Name>Initial World Lighting Level</Name>
             </Element>
-            <Element Type="Asset" ID="0x7">
+            <Element Type="Asset" ID="0x7" IgnoreDependenciesMlvl="True">
                 <Name>Skybox Model</Name>
                 <TypeFilter>
                     <Element>CMDL</Element>
