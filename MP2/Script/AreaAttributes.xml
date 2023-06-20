@@ -38,7 +38,7 @@
             <Element Type="Float" ID="0xBA5F801E">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0xD208C9FA" IgnoreDependenciesMlvl="True">
+            <Element Type="Asset" ID="0xD208C9FA">
                 <TypeFilter>
                     <Element>CMDL</Element>
                 </TypeFilter>
