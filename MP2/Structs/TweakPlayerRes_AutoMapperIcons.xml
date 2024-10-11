@@ -12,6 +12,21 @@
             <Element Type="String" ID="0x51FE3F1F"/>
             <Element Type="String" ID="0xA4127A5A"/>
             <Element Type="String" ID="0xF8403D18"/>
+
+            <!-- PAL Entries -->
+            <!-- Cook Preference set so when editing NTSC, these don't get added -->
+            <Element Type="String" ID="0x5096bfa5">
+                <CookPreference>OnlyIfModified</CookPreference>
+            </Element>
+            <Element Type="String" ID="0xf4e6e0eb">
+                <CookPreference>OnlyIfModified</CookPreference>
+            </Element>
+            <Element Type="String" ID="0x65700ccc">
+                <CookPreference>OnlyIfModified</CookPreference>
+            </Element>
+            <Element Type="String" ID="0xa0d73242">
+                <CookPreference>OnlyIfModified</CookPreference>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>
