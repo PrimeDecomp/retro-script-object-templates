@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Choice">
+        <Name>ControllerMapping</Name>
+        <Values>
+            <Element Name="None" ID="0x0"/>
+            <Element Name="Left Stick Up" ID="0x1"/>
+            <Element Name="Left Stick Down" ID="0x2"/>
+            <Element Name="Left Stick Left" ID="0x3"/>
+            <Element Name="Left Stick Right" ID="0x4"/>
+            <Element Name="Right Stick Up" ID="0x5"/>
+            <Element Name="Right Stick Down" ID="0x6"/>
+            <Element Name="Right Stick Left" ID="0x7"/>
+            <Element Name="Right Stick Right" ID="0x8"/>
+            <Element Name="Left Trigger" ID="0x9"/>
+            <Element Name="Right Trigger" ID="0xA"/>
+            <Element Name="D-Pad Up" ID="0xB"/>
+            <Element Name="D-Pad Down" ID="0xC"/>
+            <Element Name="D-Pad Left" ID="0xD"/>
+            <Element Name="D-Pad Right" ID="0xE"/>
+            <Element Name="A Button" ID="0xF"/>
+            <Element Name="B Button" ID="0x10"/>
+            <Element Name="X Button" ID="0x11"/>
+            <Element Name="Y Button" ID="0x12"/>
+            <Element Name="Z Button" ID="0x13"/>
+            <Element Name="Left Trigger Press" ID="0x14"/>
+            <Element Name="Right Trigger Press" ID="0x15"/>
+            <Element Name="Start" ID="0x16"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>
