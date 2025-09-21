@@ -22,97 +22,30 @@
             <Element Type="Float" ID="0x6A45D9D0">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9A78A8BB">
+            <Element Type="Flags" ID="0x9A78A8BB">
                 <DefaultValue>0</DefaultValue>
+                <Flags>
+                    <Element Name="Disable All Controls" Mask="0x1"/>
+                    <Element Name="Disable Movement?" Mask="0x2"/>
+                    <Element Name="Disable Gun 1" Mask="0x4"/>
+                    <Element Name="Disable Gun 2" Mask="0x8"/>
+                    <Element Name="Unknown 5 (Unused?)" Mask="0x10"/>
+                    <Element Name="Remove Lock-On" Mask="0x20"/>
+                    <Element Name="Disable Morph Transitions" Mask="0x40"/>
+                    <Element Name="Disable Morph 2" Mask="0x80"/>
+                    <Element Name="Unknown 9 (Unused?)" Mask="0x100"/>
+                    <Element Name="Unknown 10" Mask="0x200"/>
+                    <Element Name="Disable Aiming?" Mask="0x400"/>
+                </Flags>
             </Element>
-            <Element Type="Struct" ID="0xA0840DD7" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0xD71ADF27" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0x4CBF9348" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0x38277AC7" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0xA38236A8" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0xD41CE458" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0x4FB9A837" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0x3D2D3746" Archetype="ControlHintStruct">
-                <SubProperties>
-                    <Element Type="Struct" ID="0x359C7AAF">
-                        <SubProperties>
-                            <Element Type="Int" ID="0x94BA5737">
-                                <DefaultValue>0</DefaultValue>
-                            </Element>
-                        </SubProperties>
-                    </Element>
-                </SubProperties>
-            </Element>
+            <Element Type="Struct" ID="0xA0840DD7" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0xD71ADF27" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0x4CBF9348" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0x38277AC7" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0xA38236A8" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0xD41CE458" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0x4FB9A837" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0x3D2D3746" Archetype="ControlHintStruct"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

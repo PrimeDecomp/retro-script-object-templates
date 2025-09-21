@@ -28286,8 +28286,8 @@
             <Value Name="WaveBuster"/>
         </Element>
         <Element>
-            <Key ID="0x9A78A8BB" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x9A78A8BB" Type="Flags"/>
+            <Value Name="FlagsControlHint"/>
         </Element>
         <Element>
             <Key ID="0x9A83F472" Type="float"/>

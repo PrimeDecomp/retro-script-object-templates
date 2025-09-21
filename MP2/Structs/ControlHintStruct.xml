@@ -5,8 +5,8 @@
         <SubProperties>
             <Element Type="Struct" ID="0x359C7AAF" Archetype="ControllerActionStruct">
                 <SubProperties>
-                    <Element Type="Int" ID="0x94BA5737">
-                        <DefaultValue>-2143184152</DefaultValue>
+                    <Element Type="Choice" ID="0x94BA5737" Archetype="ControllerActionCommand">
+                        <DefaultValue>0</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>

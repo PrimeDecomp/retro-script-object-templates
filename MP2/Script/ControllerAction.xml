@@ -4,13 +4,7 @@
         <Name>ControllerAction</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x4C6EEFAE" Archetype="ControllerActionStruct">
-                <SubProperties>
-                    <Element Type="Int" ID="0x94BA5737">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
+            <Element Type="Struct" ID="0x4C6EEFAE" Archetype="ControllerActionStruct"/>
             <Element Type="Bool" ID="0xEAD7B7BB">
                 <DefaultValue>false</DefaultValue>
             </Element>
