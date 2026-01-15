@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="Corruption">
     <Properties Type="Struct">
-        <Name>AVIS</Name>
+        <Name>RainSplash</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Asset" ID="0xB2556C66">
-                <TypeFilter>
-                    <Element>CAAD</Element>
-                </TypeFilter>
+            <Element Type="Float" ID="0x8231AC9">
+                <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0x42097686">
-                <TypeFilter>
-                    <Element>TXTR</Element>
-                </TypeFilter>
+            <Element Type="Int" ID="0x6248AA06">
+                <DefaultValue>20</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x7F5A86DD">
+                <DefaultValue>2</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xC40527F6">
+                <DefaultValue>1.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xE04E0270">
+                <DefaultValue>0.125</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>

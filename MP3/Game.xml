@@ -75,11 +75,11 @@
         </Element>
         <Element>
             <Key>AVIS</Key>
-            <Value Path="Script/AVIS.xml"/>
+            <Value Path="Script/AudioVisualizer.xml"/>
         </Element>
         <Element>
             <Key>AVMC</Key>
-            <Value Path="Script/AVMC.xml"/>
+            <Value Path="Script/AreaVisitMapController.xml"/>
         </Element>
         <Element>
             <Key>BALS</Key>
@@ -587,7 +587,7 @@
         </Element>
         <Element>
             <Key>RSPL</Key>
-            <Value Path="Script/RSPL.xml"/>
+            <Value Path="Script/RainSplash.xml"/>
         </Element>
         <Element>
             <Key>RUMB</Key>
@@ -2377,7 +2377,7 @@
         </Element>
         <Element>
             <Key>ATPA</Key>
-            <Value>AttatchedPath</Value>
+            <Value>AttachedPath</Value>
         </Element>
         <Element>
             <Key>ATTK</Key>
