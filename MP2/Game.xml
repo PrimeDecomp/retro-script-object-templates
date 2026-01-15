@@ -1697,19 +1697,19 @@
         </Element>
         <Element>
             <Key>DBAI</Key>
-            <Value>DBAI</Value>
+            <Value>DamageAI</Value>
         </Element>
         <Element>
             <Key>DBAL</Key>
-            <Value>DBAL</Value>
+            <Value>DamageBoostBall</Value>
         </Element>
         <Element>
             <Key>DBMB</Key>
-            <Value>DBMB</Value>
+            <Value>DamageBomb</Value>
         </Element>
         <Element>
             <Key>DCAN</Key>
-            <Value>DCAN</Value>
+            <Value>DamageCannonBall</Value>
         </Element>
         <Element>
             <Key>DDRK</Key>
@@ -1721,7 +1721,7 @@
         </Element>
         <Element>
             <Key>DFST</Key>
-            <Value>DFST</Value>
+            <Value>DefaultState</Value>
         </Element>
         <Element>
             <Key>DGNR</Key>
@@ -1733,15 +1733,15 @@
         </Element>
         <Element>
             <Key>DMIS</Key>
-            <Value>DMIS</Value>
+            <Value>DamageMissile</Value>
         </Element>
         <Element>
             <Key>DPBM</Key>
-            <Value>DPBM</Value>
+            <Value>DamagePowerBomb</Value>
         </Element>
         <Element>
             <Key>DPHZ</Key>
-            <Value>DPHZ</Value>
+            <Value>DamagePhazon</Value>
         </Element>
         <Element>
             <Key>DPWR</Key>
@@ -1753,7 +1753,7 @@
         </Element>
         <Element>
             <Key>DSCW</Key>
-            <Value>DSCW</Value>
+            <Value>DamageScrew</Value>
         </Element>
         <Element>
             <Key>ENTR</Key>
