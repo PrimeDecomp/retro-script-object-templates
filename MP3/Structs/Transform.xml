@@ -23,9 +23,9 @@
             <Element Type="Vector" ID="0x2">
                 <Name>Scale</Name>
                 <DefaultValue>
-                    <X>1.0</X>
-                    <Y>1.0</Y>
-                    <Z>1.0</Z>
+                    <X>2.0</X>
+                    <Y>2.0</Y>
+                    <Z>2.0</Z>
                 </DefaultValue>
             </Element>
         </SubProperties>
