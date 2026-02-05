@@ -7,13 +7,13 @@
                 <Name>Name</Name>
             </Element>
             <Element Type="Int" ID="0x1">
-                <Name>Connection Count</Name>
+                <Name>SendSetSize</Name>
             </Element>
             <Element Type="Int" ID="0x2">
-                <Name>Variance</Name>
+                <Name>SendSetVariance</Name>
             </Element>
             <Element Type="Bool" ID="0x3">
-                <Name>Unknown</Name>
+                <Name>PercentSize</Name>
             </Element>
             <Element Type="Bool" ID="0x4">
                 <Name>Active</Name>
