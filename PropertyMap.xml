@@ -13778,7 +13778,7 @@
             <Value Name="PatrolSound"/>
         </Element>
         <Element>
-            <Key ID="0x4AB3B95B" Type="int"/>
+            <Key ID="0x4AB3B95B" Type="enum"/>
             <Value Name="DisplayType"/>
         </Element>
         <Element>
