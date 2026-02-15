@@ -25,19 +25,19 @@
                     <Element Name="Unknown 6" Mask="0x100"/>
                     <Element Name="Unknown 7" Mask="0x200"/>
                     <Element Name="Unknown 8" Mask="0x400"/>
-                    <Element Name="Detect Player 1 (Broken)" Mask="0x800"/>
-                    <Element Name="Detect Player 2 (Broken)" Mask="0x1000"/>
-                    <Element Name="Detect Player 3 (Broken)" Mask="0x2000"/>
-                    <Element Name="Detect Player 4 (Broken)" Mask="0x4000"/>
+                    <Element Name="Detect Player 1" Mask="0x800"/>
+                    <Element Name="Detect Player 2" Mask="0x1000"/>
+                    <Element Name="Detect Player 3" Mask="0x2000"/>
+                    <Element Name="Detect Player 4" Mask="0x4000"/>
                     <Element Name="Detect AI" Mask="0x8000"/>
                     <Element Name="Kill On Entered" Mask="0x10000"/>
-                    <Element Name="Apply Force" Mask="0x20000"/>
-                    <Element Name="Unknown 9" Mask="0x40000"/>
-                    <Element Name="Detect Player If Completely Inside" Mask="0x80000"/>
+                    <Element Name="Use Collision Impulses" Mask="0x20000"/>
+                    <Element Name="Use Boolean Intersection" Mask="0x40000"/>
+                    <Element Name="Detect Camera" Mask="0x80000"/>
                     <Element Name="Block Environmental Effects" Mask="0x100000"/>
                     <Element Name="Detect Projectiles" Mask="0x200000"/>
                     <Element Name="Detect Bombs" Mask="0x400000"/>
-                    <Element Name="Unknown 10" Mask="0x800000"/>
+                    <Element Name="Unknown 9" Mask="0x800000"/>
                     <Element Name="Detect Boost Ball" Mask="0x1000000"/>
                     <Element Name="Sunlight (Makes Lumites Appear)" Mask="0x2000000"/>
                     <Element Name="Delete Objects" Mask="0x4000000"/>
