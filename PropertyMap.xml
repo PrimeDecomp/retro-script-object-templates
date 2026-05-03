@@ -1066,10 +1066,6 @@
             <Value Name="FlagsCinematicCamera"/>
         </Element>
         <Element>
-            <Key ID="0x5C5FC6E" Type="int"/>
-            <Value Name="Unknown"/>
-        </Element>
-        <Element>
             <Key ID="0x5C67D0B" Type="bool"/>
             <Value Name="Unknown"/>
         </Element>
