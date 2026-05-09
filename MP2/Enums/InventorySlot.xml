@@ -22,6 +22,9 @@
             <Element Name="Boost Ball" ID="0x10"/>
             <Element Name="Spider Ball" ID="0x11"/>
             <Element Name="Morph Ball Bomb" ID="0x12"/>
+            <Element Name="Light Bomb" ID="0x13"/>
+            <Element Name="Dark Bomb" ID="0x14"/>
+            <Element Name="Annihilator Bomb" ID="0x15"/>
             <Element Name="Charge Beam" ID="0x16"/>
             <Element Name="Grapple Beam" ID="0x17"/>
             <Element Name="Space Jump Boots" ID="0x18"/>
@@ -29,8 +32,9 @@
             <Element Name="Seeker Launcher" ID="0x1A"/>
             <Element Name="Screw Attack" ID="0x1B"/>
             <Element Name="Power Bomb" ID="0x1C"/>
-            <Element Name="Missile Launcher" ID="0x1D"/>
-            <Element Name="Beam Ammo Expansion" ID="0x1E"/>
+            <Element Name="Missile" ID="0x1D"/>
+            <Element Name="Dark Ammo" ID="0x1E"/>
+            <Element Name="Light Ammo" ID="0x1F"/>
             <Element Name="Energy Tank" ID="0x20"/>
             <Element Name="Sky Temple Key 1" ID="0x21"/>
             <Element Name="Sky Temple Key 2" ID="0x22"/>
