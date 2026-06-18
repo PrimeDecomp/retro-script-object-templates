@@ -7,16 +7,16 @@
             <Element Type="Enum" ID="0xE7D8D823">
                 <DefaultValue>0xCBF698CA</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xCBF698CA"/>
-                    <Element Name="Unknown 2" ID="0xBCF1A85C"/>
-                    <Element Name="Unknown 3" ID="0x25F8F9E6"/>
-                    <Element Name="Unknown 4" ID="0x52FFC970"/>
-                    <Element Name="Unknown 5" ID="0xCC9B5CD3"/>
-                    <Element Name="Unknown 6" ID="0xBB9C6C45"/>
-                    <Element Name="Unknown 7" ID="0x22953DFF"/>
-                    <Element Name="Unknown 8" ID="0x55920D69"/>
-                    <Element Name="Unknown 9" ID="0xC52D10F8"/>
-                    <Element Name="Unknown 10" ID="0xB22A206E"/>
+                    <Element Name="State0" ID="0xCBF698CA"/>
+                    <Element Name="State1" ID="0xBCF1A85C"/>
+                    <Element Name="State2" ID="0x25F8F9E6"/>
+                    <Element Name="State3" ID="0x52FFC970"/>
+                    <Element Name="State4" ID="0xCC9B5CD3"/>
+                    <Element Name="State5" ID="0xBB9C6C45"/>
+                    <Element Name="State6" ID="0x22953DFF"/>
+                    <Element Name="State7" ID="0x55920D69"/>
+                    <Element Name="State8" ID="0xC52D10F8"/>
+                    <Element Name="State9" ID="0xB22A206E"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x5C9246C">

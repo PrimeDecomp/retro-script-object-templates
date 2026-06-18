@@ -28,8 +28,12 @@
             <Element Type="Bool" ID="0xBD6F7B11">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x4AB3B95B">
+            <Element Type="Enum" ID="0x4AB3B95B">
                 <DefaultValue>0</DefaultValue>
+                <Values>
+                    <Element Name="Status Message" ID="0"/>
+                    <Element Name="Message Box" ID="1"/>
+                </Values>
             </Element>
             <Element Type="Asset" ID="0x9182250C">
                 <TypeFilter>

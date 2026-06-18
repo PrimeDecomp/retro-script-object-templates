@@ -13774,7 +13774,7 @@
             <Value Name="PatrolSound"/>
         </Element>
         <Element>
-            <Key ID="0x4AB3B95B" Type="int"/>
+            <Key ID="0x4AB3B95B" Type="enum"/>
             <Value Name="DisplayType"/>
         </Element>
         <Element>
@@ -26227,7 +26227,7 @@
         </Element>
         <Element>
             <Key ID="0x8F115E7A" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="IsOpen"/>
         </Element>
         <Element>
             <Key ID="0x8F1A76C3" Type="asset"/>
@@ -27387,7 +27387,7 @@
         </Element>
         <Element>
             <Key ID="0x95A100AB" Type="asset"/>
-            <Value Name="CAAD"/>
+            <Value Name="Waveform"/>
         </Element>
         <Element>
             <Key ID="0x95A30488" Type="int"/>
@@ -33663,7 +33663,7 @@
         </Element>
         <Element>
             <Key ID="0xB7A3E235" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ManualClose"/>
         </Element>
         <Element>
             <Key ID="0xB7A4789F" Type="UnknownStruct50"/>
@@ -38691,7 +38691,7 @@
         </Element>
         <Element>
             <Key ID="0xD25A8445" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShowHurryButton"/>
         </Element>
         <Element>
             <Key ID="0xD26376FD" Type="TDamageInfo"/>
