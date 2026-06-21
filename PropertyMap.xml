@@ -18875,7 +18875,7 @@
         </Element>
         <Element>
             <Key ID="0x6714021C" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="DeleteWhenDone"/>
         </Element>
         <Element>
             <Key ID="0x671429BC" Type="bool"/>
@@ -25079,7 +25079,7 @@
         </Element>
         <Element>
             <Key ID="0x88D914A6" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisibleInScanOrNormal"/>
         </Element>
         <Element>
             <Key ID="0x88DF3EA8" Type="float"/>
@@ -30378,6 +30378,10 @@
             <Value Name="OrbitMaxAngularChange"/>
         </Element>
         <Element>
+            <Key ID="0xA64AB9B8" Type="Flags"/>
+            <Value Name="Flags"/>
+        </Element>
+        <Element>
             <Key ID="0xA64AB9B8" Type="int"/>
             <Value Name="Sound?"/>
         </Element>
@@ -31959,11 +31963,7 @@
         </Element>
         <Element>
             <Key ID="0xAE80628F" Type="Flags"/>
-            <Value Name="Unknown"/>
-        </Element>
-        <Element>
-            <Key ID="0xAE80628F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlatformFlags"/>
         </Element>
         <Element>
             <Key ID="0xAE813F86" Type="asset"/>

@@ -1301,7 +1301,7 @@
         </Element>
         <Element>
             <Key>DFST</Key>
-            <Value>DFST</Value>
+            <Value>DrawFirst</Value>
         </Element>
         <Element>
             <Key>DGNR</Key>

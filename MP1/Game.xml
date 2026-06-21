@@ -909,7 +909,7 @@
         </Element>
         <Element>
             <Key>0x1E</Key>
-            <Value>DefaultState</Value>
+            <Value>DrawFirst</Value>
         </Element>
         <Element>
             <Key>0x1F</Key>

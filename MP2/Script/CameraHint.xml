@@ -11,8 +11,42 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x380585EC" Archetype="UnknownStruct4"/>
-            <Element Type="Int" ID="0x21D720A9">
+            <Element Type="Flags" ID="0x21D720A9">
                 <DefaultValue>286</DefaultValue>
+                <Flags>
+                    <Element Name="Unknown 1" Mask="0x1"/>
+                    <Element Name="Unknown 2" Mask="0x2"/>
+                    <Element Name="Unknown 3" Mask="0x4"/>
+                    <Element Name="Unknown 4" Mask="0x8"/>
+                    <Element Name="Unknown 5" Mask="0x10"/>
+                    <Element Name="Unknown 6" Mask="0x20"/>
+                    <Element Name="Unknown 7" Mask="0x40"/>
+                    <Element Name="Unknown 8" Mask="0x80"/>
+                    <Element Name="Unknown 9" Mask="0x100"/>
+                    <Element Name="Unknown 10" Mask="0x200"/>
+                    <Element Name="Unknown 11" Mask="0x400"/>
+                    <Element Name="Unknown 12" Mask="0x800"/>
+                    <Element Name="Unknown 13" Mask="0x1000"/>
+                    <Element Name="Unknown 14" Mask="0x2000"/>
+                    <Element Name="Unknown 15" Mask="0x4000"/>
+                    <Element Name="Unknown 16" Mask="0x8000"/>
+                    <Element Name="Unknown 17" Mask="0x10000"/>
+                    <Element Name="Unknown 18" Mask="0x20000"/>
+                    <Element Name="Unknown 19" Mask="0x40000"/>
+                    <Element Name="Unknown 20" Mask="0x80000"/>
+                    <Element Name="Unknown 21" Mask="0x100000"/>
+                    <Element Name="Unknown 22" Mask="0x200000"/>
+                    <Element Name="Unknown 23" Mask="0x400000"/>
+                    <Element Name="Unknown 24" Mask="0x800000"/>
+                    <Element Name="Unknown 25" Mask="0x1000000"/>
+                    <Element Name="Unknown 26" Mask="0x2000000"/>
+                    <Element Name="Instant Unmorph" Mask="0x4000000"/>
+                    <Element Name="Instant Morph" Mask="0x8000000"/>
+                    <Element Name="Unknown 29" Mask="0x10000000"/>
+                    <Element Name="Unknown 30" Mask="0x20000000"/>
+                    <Element Name="Unknown 31" Mask="0x40000000"/>
+                    <Element Name="Unknown 32" Mask="0x80000000"/>
+                </Flags>
             </Element>
             <Element Type="Struct" ID="0x456D05C6" Archetype="CameraHintStructB"/>
             <Element Type="Struct" ID="0xF5521FFA" Archetype="CameraHintStructB"/>
