@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
+    <PropertyArchetype Type="Enum">
+        <Name>QuickSelectMethod</Name>
+        <Values>
+            <Element Name="kQSM_None" ID="0xBB12C51F"/>
+            <Element Name="kQSM_Held" ID="0xD6DF4D01"/>
+            <Element Name="kQSM_Release" ID="0x59B42EFC"/>
+            <Element Name="kQSM_Modal" ID="0xE7EC0841"/>
+            <Element Name="kQSM_ModalAndPress" ID="0xFA565001"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

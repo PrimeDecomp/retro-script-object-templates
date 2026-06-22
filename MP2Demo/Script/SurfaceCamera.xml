@@ -4,7 +4,7 @@
         <Name>SurfaceCamera</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0x1FFC65D8">
+            <Element Type="Flags" ID="0x1FFC65D8">
                 <DefaultValue>2</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x1405B5E4">

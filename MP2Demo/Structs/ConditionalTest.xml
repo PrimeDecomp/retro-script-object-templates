@@ -9,10 +9,13 @@
             <Element Type="Int" ID="0xD3AF8D72">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x3BDEA98">
-                <DefaultValue>0</DefaultValue>
+            <Element Type="Choice" ID="0x3BDEA98">
+                <Values>
+                    <Element Name="Amount" ID="0x0"/>
+                    <Element Name="Capacity" ID="0x1"/>
+                </Values>
             </Element>
-            <Element Type="Int" ID="0x70729364">
+            <Element Type="Choice" ID="0x70729364">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x8DB9398A">

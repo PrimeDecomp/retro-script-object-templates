@@ -7,7 +7,7 @@
             <Element Type="Int" ID="0x7975DB5B">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6A3E9A3D">
+            <Element Type="Choice" ID="0x6A3E9A3D">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x58BDBD7B">

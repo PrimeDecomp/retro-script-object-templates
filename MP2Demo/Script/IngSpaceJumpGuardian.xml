@@ -30,7 +30,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0xF9837AB3" Archetype="UnknownStruct18"/>
+            <Element Type="Struct" ID="0xF9837AB3" Archetype="IngSpaceJumpGuardianData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

@@ -29,7 +29,7 @@
                     <Element>ELSC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x58A492EF">
+            <Element Type="Sound" ID="0x58A492EF">
                 <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>

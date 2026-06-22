@@ -852,10 +852,6 @@
             <Value Path="Structs/AiDifficultySettings.xml"/>
         </Element>
         <Element>
-            <Key>Armor</Key>
-            <Value Path="Structs/Armor.xml"/>
-        </Element>
-        <Element>
             <Key>AuroraUnit1Data</Key>
             <Value Path="Structs/AuroraUnit1Data.xml"/>
         </Element>
@@ -882,10 +878,6 @@
         <Element>
             <Key>BerserkerData</Key>
             <Value Path="Structs/BerserkerData.xml"/>
-        </Element>
-        <Element>
-            <Key>BerserkerEnum</Key>
-            <Value Path="Enums/BerserkerEnum.xml"/>
         </Element>
         <Element>
             <Key>BlinkWolfData</Key>
@@ -946,14 +938,6 @@
         <Element>
             <Key>CameraShakerEnvelope</Key>
             <Value Path="Structs/CameraShakerEnvelope.xml"/>
-        </Element>
-        <Element>
-            <Key>CattleProd</Key>
-            <Value Path="Structs/CattleProd.xml"/>
-        </Element>
-        <Element>
-            <Key>Chakram</Key>
-            <Value Path="Structs/Chakram.xml"/>
         </Element>
         <Element>
             <Key>ChasePosition</Key>
@@ -1036,6 +1020,10 @@
             <Value Path="Structs/DefenseMechanoidData.xml"/>
         </Element>
         <Element>
+            <Key>DifficultyEnum</Key>
+            <Value Path="Enums/DifficultyEnum.xml"/>
+        </Element>
+        <Element>
             <Key>DynamicLightFalloff</Key>
             <Value Path="Structs/DynamicLightFalloff.xml"/>
         </Element>
@@ -1062,10 +1050,6 @@
         <Element>
             <Key>ElectricBeamInfo</Key>
             <Value Path="Structs/ElectricBeamInfo.xml"/>
-        </Element>
-        <Element>
-            <Key>EnergyWhip</Key>
-            <Value Path="Structs/EnergyWhip.xml"/>
         </Element>
         <Element>
             <Key>EyePodData</Key>
@@ -1112,6 +1096,14 @@
             <Value Path="Structs/FlyerSwarmData.xml"/>
         </Element>
         <Element>
+            <Key>FlyingPirateArmorData</Key>
+            <Value Path="Structs/FlyingPirateArmorData.xml"/>
+        </Element>
+        <Element>
+            <Key>FlyingPirateBlasterData</Key>
+            <Value Path="Structs/FlyingPirateBlasterData.xml"/>
+        </Element>
+        <Element>
             <Key>FlyingPirateData</Key>
             <Value Path="Structs/FlyingPirateData.xml"/>
         </Element>
@@ -1120,8 +1112,12 @@
             <Value Path="Structs/FlyingPirateHelixMissileData.xml"/>
         </Element>
         <Element>
-            <Key>FlyingPirateStruct</Key>
-            <Value Path="Structs/FlyingPirateStruct.xml"/>
+            <Key>FlyingPirateHyperModeData</Key>
+            <Value Path="Structs/FlyingPirateHyperModeData.xml"/>
+        </Element>
+        <Element>
+            <Key>FlyingPirateJetPackData</Key>
+            <Value Path="Structs/FlyingPirateJetPackData.xml"/>
         </Element>
         <Element>
             <Key>FriendlyData</Key>
@@ -1160,8 +1156,8 @@
             <Value Path="Structs/GrappleData.xml"/>
         </Element>
         <Element>
-            <Key>GrappleInfo</Key>
-            <Value Path="Structs/GrappleInfo.xml"/>
+            <Key>GrappleParameters</Key>
+            <Value Path="Structs/GrappleParameters.xml"/>
         </Element>
         <Element>
             <Key>GuiWidgetProperties</Key>
@@ -1208,10 +1204,6 @@
             <Value Path="Structs/InventoryControls.xml"/>
         </Element>
         <Element>
-            <Key>JetPack</Key>
-            <Value Path="Structs/JetPack.xml"/>
-        </Element>
-        <Element>
             <Key>KorakkData</Key>
             <Value Path="Structs/KorakkData.xml"/>
         </Element>
@@ -1238,6 +1230,10 @@
         <Element>
             <Key>LightParameters</Key>
             <Value Path="Structs/LightParameters.xml"/>
+        </Element>
+        <Element>
+            <Key>LogBookControls</Key>
+            <Value Path="Structs/LogBookControls.xml"/>
         </Element>
         <Element>
             <Key>MapControls</Key>
@@ -1270,18 +1266,6 @@
         <Element>
             <Key>MiscControls</Key>
             <Value Path="Structs/MiscControls.xml"/>
-        </Element>
-        <Element>
-            <Key>MiscControls_UnknownEnum1</Key>
-            <Value Path="Enums/MiscControls_UnknownEnum1.xml"/>
-        </Element>
-        <Element>
-            <Key>MiscControls_UnknownStruct1</Key>
-            <Value Path="Structs/MiscControls_UnknownStruct1.xml"/>
-        </Element>
-        <Element>
-            <Key>MiscControls_UnknownStruct2</Key>
-            <Value Path="Structs/MiscControls_UnknownStruct2.xml"/>
         </Element>
         <Element>
             <Key>ModIncaData</Key>
@@ -1334,10 +1318,6 @@
         <Element>
             <Key>PTCNoseTurretData</Key>
             <Value Path="Structs/PTCNoseTurretData.xml"/>
-        </Element>
-        <Element>
-            <Key>ParticleBlaster</Key>
-            <Value Path="Structs/ParticleBlaster.xml"/>
         </Element>
         <Element>
             <Key>PathDetermination</Key>
@@ -1448,6 +1428,14 @@
             <Value Path="Structs/PuddleControlPhaseData.xml"/>
         </Element>
         <Element>
+            <Key>QuickSelectControls</Key>
+            <Value Path="Structs/QuickSelectControls.xml"/>
+        </Element>
+        <Element>
+            <Key>QuickSelectMethod</Key>
+            <Value Path="Enums/QuickSelectMethod.xml"/>
+        </Element>
+        <Element>
             <Key>RagDollData</Key>
             <Value Path="Structs/RagDollData.xml"/>
         </Element>
@@ -1456,12 +1444,24 @@
             <Value Path="Structs/RainProperties.xml"/>
         </Element>
         <Element>
+            <Key>ReptilicusHunterCattleProd</Key>
+            <Value Path="Structs/ReptilicusHunterCattleProd.xml"/>
+        </Element>
+        <Element>
+            <Key>ReptilicusHunterChakram</Key>
+            <Value Path="Structs/ReptilicusHunterChakram.xml"/>
+        </Element>
+        <Element>
             <Key>ReptilicusHunterData</Key>
             <Value Path="Structs/ReptilicusHunterData.xml"/>
         </Element>
         <Element>
-            <Key>ReptilicusHunterStruct</Key>
-            <Value Path="Structs/ReptilicusHunterStruct.xml"/>
+            <Key>ReptilicusHunterEnergyWhip</Key>
+            <Value Path="Structs/ReptilicusHunterEnergyWhip.xml"/>
+        </Element>
+        <Element>
+            <Key>ReptilicusHunterHyperMode</Key>
+            <Value Path="Structs/ReptilicusHunterHyperMode.xml"/>
         </Element>
         <Element>
             <Key>RevolutionControl</Key>
@@ -1470,14 +1470,6 @@
         <Element>
             <Key>RevolutionControlType</Key>
             <Value Path="Enums/RevolutionControlType.xml"/>
-        </Element>
-        <Element>
-            <Key>RevolutionControl_UnknownEnum1</Key>
-            <Value Path="Enums/RevolutionControl_UnknownEnum1.xml"/>
-        </Element>
-        <Element>
-            <Key>RevolutionControl_UnknownEnum2</Key>
-            <Value Path="Enums/RevolutionControl_UnknownEnum2.xml"/>
         </Element>
         <Element>
             <Key>RevolutionControl_UnknownStruct1</Key>
@@ -1496,12 +1488,20 @@
             <Value Path="Structs/RevolutionControl_UnknownStruct4.xml"/>
         </Element>
         <Element>
+            <Key>RevolutionGesture</Key>
+            <Value Path="Enums/RevolutionGesture.xml"/>
+        </Element>
+        <Element>
             <Key>RevolutionPhysicalControl</Key>
             <Value Path="Structs/RevolutionPhysicalControl.xml"/>
         </Element>
         <Element>
             <Key>RevolutionPhysicalControl_UnknownEnum1</Key>
             <Value Path="Enums/RevolutionPhysicalControl_UnknownEnum1.xml"/>
+        </Element>
+        <Element>
+            <Key>RevolutionPointerShape</Key>
+            <Value Path="Enums/RevolutionPointerShape.xml"/>
         </Element>
         <Element>
             <Key>RevolutionVirtualControl</Key>
@@ -1604,8 +1604,8 @@
             <Value Path="Structs/SpacePirateData.xml"/>
         </Element>
         <Element>
-            <Key>SpacePirateStruct</Key>
-            <Value Path="Structs/SpacePirateStruct.xml"/>
+            <Key>SpacePirateHyperModeData</Key>
+            <Value Path="Structs/SpacePirateHyperModeData.xml"/>
         </Element>
         <Element>
             <Key>SpacePirateWeaponData</Key>

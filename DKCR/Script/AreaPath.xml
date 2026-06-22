@@ -39,7 +39,7 @@
                 <DefaultValue>0.5</DefaultValue>
             </Element>
             <Element Type="Spline" ID="0xFA0EED84"/>
-            <Element Type="Struct" ID="0x91FA7B19" Archetype="AreaPathStructA"/>
+            <Element Type="Struct" ID="0x91FA7B19" Archetype="PathType"/>
             <Element Type="Asset" ID="0x1B32DC50">
                 <TypeFilter>
                     <Element>PART</Element>

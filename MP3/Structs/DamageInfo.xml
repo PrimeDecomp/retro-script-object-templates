@@ -6,17 +6,17 @@
             <Element Type="Enum" ID="0x445E00C8">
                 <DefaultValue>0xBC709037</DefaultValue>
                 <Values>
-                    <Element Name="Power" ID="0x8FB41846"/>
-                    <Element Name="Plasma" ID="0x42A6A2BC"/>
-                    <Element Name="Nova" ID="0x7F366C5A"/>
-                    <Element Name="Phazon" ID="0x1A7E40E0"/>
-                    <Element Name="Missile" ID="0x10EB21C"/>
-                    <Element Name="Screw Attack" ID="0x9B37D58B"/>
-                    <Element Name="AI" ID="0xBC709037"/>
-                    <Element Name="Friendly" ID="0xCD26D8F0"/>
-                    <Element Name="UnknownSource" ID="0x4A2039D3"/>
-                    <Element Name="Electric" ID="0xF8009F03"/>
-                    <Element Name="Poison Water" ID="0xE7194EEA"/>
+                    <Element Name="kWeaponType_Power" ID="0x8FB41846"/>
+                    <Element Name="kWeaponType_Plasma" ID="0x42A6A2BC"/>
+                    <Element Name="kWeaponType_Nova" ID="0x7F366C5A"/>
+                    <Element Name="kWeaponType_Phazon" ID="0x1A7E40E0"/>
+                    <Element Name="kWeaponType_Missile" ID="0x10EB21C"/>
+                    <Element Name="kWeaponType_ScrewAttack" ID="0x9B37D58B"/>
+                    <Element Name="kWeaponType_Ai" ID="0xBC709037"/>
+                    <Element Name="kWeaponType_FriendlyAi" ID="0xCD26D8F0"/>
+                    <Element Name="kWeaponType_UnknownSource" ID="0x4A2039D3"/>
+                    <Element Name="kWeaponType_Electrical" ID="0xF8009F03"/>
+                    <Element Name="kWeaponType_PoisonWater" ID="0xE7194EEA"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xF2D02613">

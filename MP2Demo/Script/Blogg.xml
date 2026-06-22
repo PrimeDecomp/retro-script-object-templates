@@ -106,8 +106,8 @@
             <Element Type="Float" ID="0xD1F82F92">
                 <DefaultValue>5.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x41949B8">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x41949B8">
+                <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>

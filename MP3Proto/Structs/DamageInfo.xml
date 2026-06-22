@@ -6,13 +6,13 @@
             <Element Type="Enum" ID="0x445E00C8">
                 <DefaultValue>0xBC709037</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x8FB41846"/>
-                    <Element Name="Unknown 2" ID="0x42A6A2BC"/>
-                    <Element Name="Unknown 3" ID="0x7F366C5A"/>
-                    <Element Name="Unknown 4" ID="0x1A7E40E0"/>
-                    <Element Name="Unknown 5" ID="0x10EB21C"/>
-                    <Element Name="Unknown 6" ID="0xBC709037"/>
-                    <Element Name="Unknown 7" ID="0xCD26D8F0"/>
+                    <Element Name="kWeaponType_Power" ID="0x8FB41846"/>
+                    <Element Name="kWeaponType_Plasma" ID="0x42A6A2BC"/>
+                    <Element Name="kWeaponType_Nova" ID="0x7F366C5A"/>
+                    <Element Name="kWeaponType_Phazon" ID="0x1A7E40E0"/>
+                    <Element Name="kWeaponType_Missile" ID="0x10EB21C"/>
+                    <Element Name="kWeaponType_Ai" ID="0xBC709037"/>
+                    <Element Name="kWeaponType_FriendlyAi" ID="0xCD26D8F0"/>
                     <Element Name="Unknown 8" ID="0x4A2039D3"/>
                 </Values>
             </Element>

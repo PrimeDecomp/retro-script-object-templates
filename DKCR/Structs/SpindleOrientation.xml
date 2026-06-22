@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>SpindleOrientation</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x1B4962BF">
+            <Element Type="Flags" ID="0x1B4962BF">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>786432</DefaultValue>
             </Element>

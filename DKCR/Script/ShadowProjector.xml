@@ -32,7 +32,7 @@
             <Element Type="Int" ID="0x606E341C">
                 <DefaultValue>128</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xA21B515A" Archetype="UnknownStruct510"/>
+            <Element Type="Struct" ID="0xA21B515A" Archetype="ShadowProjection"/>
             <Element Type="Float" ID="0x8CE1176E">
                 <DefaultValue>0.0</DefaultValue>
             </Element>

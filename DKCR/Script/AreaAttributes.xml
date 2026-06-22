@@ -8,7 +8,7 @@
                 <Description>Show the skybox. If no Skybox Model is specified, it will show the World's default skybox.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x56263E35">
+            <Element Type="Sound" ID="0x56263E35">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>

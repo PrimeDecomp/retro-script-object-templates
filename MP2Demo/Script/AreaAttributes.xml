@@ -14,7 +14,7 @@
                 <Description>Show the skybox. If no Skybox Model is specified, it will show the World's default skybox.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9D0006AB">
+            <Element Type="Choice" ID="0x9D0006AB">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x64E5FE9F">
@@ -28,7 +28,7 @@
                     <Element>CMDL</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xFFEEBC46">
+            <Element Type="Choice" ID="0xFFEEBC46">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

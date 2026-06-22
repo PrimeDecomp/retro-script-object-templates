@@ -19,21 +19,21 @@
             <Element Type="Enum" ID="0xB1AC9176">
                 <DefaultValue>0xC1A4F436</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xC1A4F436"/>
-                    <Element Name="Unknown 2" ID="0x8FF87D5E"/>
-                    <Element Name="Unknown 3" ID="0xD1949C1D"/>
-                    <Element Name="Unknown 4" ID="0xAA08D9D7"/>
-                    <Element Name="Unknown 5" ID="0x5C88FB62"/>
+                    <Element Name="kCST_Cut" ID="0xC1A4F436"/>
+                    <Element Name="kCST_Blend" ID="0x8FF87D5E"/>
+                    <Element Name="kCST_FadeIn" ID="0xD1949C1D"/>
+                    <Element Name="kCST_CrossFade" ID="0xAA08D9D7"/>
+                    <Element Name="kCST_Wipe" ID="0x5C88FB62"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x9EC65273" Archetype="CinematicBlend"/>
             <Element Type="Enum" ID="0x974A961F">
                 <DefaultValue>0x639D1F97</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x639D1F97"/>
-                    <Element Name="Unknown 2" ID="0xB55F9164"/>
-                    <Element Name="Unknown 3" ID="0x4164C49B"/>
-                    <Element Name="Unknown 4" ID="0xF2F54A8F"/>
+                    <Element Name="kCET_Stop" ID="0x639D1F97"/>
+                    <Element Name="kCET_Time" ID="0xB55F9164"/>
+                    <Element Name="kCET_Motion" ID="0x4164C49B"/>
+                    <Element Name="kCET_Target" ID="0xF2F54A8F"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xAB8151EA">

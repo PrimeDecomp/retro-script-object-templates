@@ -128,8 +128,10 @@
             <Element Type="Float" ID="0xBF88FE4F">
                 <DefaultValue>4.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x35EE175D">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x35EE175D">
+                <TypeFilter>
+                    <Element>WPSC</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0x94C2150F" Archetype="DamageInfo">
                 <SubProperties>

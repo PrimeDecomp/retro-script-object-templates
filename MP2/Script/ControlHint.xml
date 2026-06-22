@@ -38,14 +38,14 @@
                     <Element Name="Disable Aiming?" Mask="0x400"/>
                 </Flags>
             </Element>
-            <Element Type="Struct" ID="0xA0840DD7" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0xD71ADF27" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0x4CBF9348" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0x38277AC7" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0xA38236A8" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0xD41CE458" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0x4FB9A837" Archetype="ControlHintStruct"/>
-            <Element Type="Struct" ID="0x3D2D3746" Archetype="ControlHintStruct"/>
+            <Element Type="Struct" ID="0xA0840DD7" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0xD71ADF27" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0x4CBF9348" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0x38277AC7" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0xA38236A8" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0xD41CE458" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0x4FB9A837" Archetype="CommandData"/>
+            <Element Type="Struct" ID="0x3D2D3746" Archetype="CommandData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

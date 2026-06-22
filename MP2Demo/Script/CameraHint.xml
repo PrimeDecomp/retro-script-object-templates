@@ -7,14 +7,14 @@
             <Element Type="Int" ID="0x42087650">
                 <DefaultValue>10</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x380585EC" Archetype="UnknownStruct6"/>
-            <Element Type="Int" ID="0x21D720A9">
+            <Element Type="Struct" ID="0x380585EC" Archetype="CameraBehaviour"/>
+            <Element Type="Flags" ID="0x21D720A9">
                 <DefaultValue>318</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x456D05C6" Archetype="CameraHintStructA"/>
-            <Element Type="Struct" ID="0xF5521FFA" Archetype="CameraHintStructA"/>
-            <Element Type="Struct" ID="0x89658A06" Archetype="CameraHintStructA"/>
-            <Element Type="Struct" ID="0x8D0A9113" Archetype="UnknownStruct7"/>
+            <Element Type="Struct" ID="0x456D05C6" Archetype="CameraDistance"/>
+            <Element Type="Struct" ID="0xF5521FFA" Archetype="CameraDistance"/>
+            <Element Type="Struct" ID="0x89658A06" Archetype="CameraDistance"/>
+            <Element Type="Struct" ID="0x8D0A9113" Archetype="CameraOffset"/>
             <Element Type="Vector" ID="0xEFEBE838">
                 <DefaultValue>
                     <X>1.0</X>
@@ -22,11 +22,11 @@
                     <Z>1.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xF71C36F2" Archetype="UnknownStruct8"/>
+            <Element Type="Struct" ID="0xF71C36F2" Archetype="CameraFOV"/>
             <Element Type="Struct" ID="0x664C450A" Archetype="CameraHintStructB"/>
             <Element Type="Struct" ID="0xC82395FA" Archetype="CameraHintStructB"/>
-            <Element Type="Struct" ID="0x645EB009" Archetype="UnknownStruct9"/>
-            <Element Type="Struct" ID="0x80CFBB54" Archetype="UnknownStruct10"/>
+            <Element Type="Struct" ID="0x645EB009" Archetype="CameraSpeed"/>
+            <Element Type="Struct" ID="0x80CFBB54" Archetype="CameraZOffset"/>
             <Element Type="Float" ID="0x2AE08BE1">
                 <DefaultValue>2.0</DefaultValue>
             </Element>

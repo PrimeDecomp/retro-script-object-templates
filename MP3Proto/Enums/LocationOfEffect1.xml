@@ -3,9 +3,9 @@
     <PropertyArchetype Type="Enum">
         <Name>LocationOfEffect1</Name>
         <Values>
-            <Element Name="Unknown 1" ID="0x80DD21B4"/>
-            <Element Name="Unknown 2" ID="0x24CF38F1"/>
-            <Element Name="Unknown 3" ID="0x23363FD3"/>
+            <Element Name="kLocation_Start" ID="0x80DD21B4"/>
+            <Element Name="kLocation_Burn" ID="0x24CF38F1"/>
+            <Element Name="kLocation_End" ID="0x23363FD3"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

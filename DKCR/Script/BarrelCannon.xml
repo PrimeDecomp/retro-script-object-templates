@@ -50,7 +50,7 @@
             </Element>
             <Element Type="Struct" ID="0xA9DBF91" Archetype="PlatformMotionProperties">
                 <SubProperties>
-                    <Element Type="Int" ID="0xAE80628F">
+                    <Element Type="Flags" ID="0xAE80628F">
                         <DefaultValue>262176</DefaultValue>
                     </Element>
                 </SubProperties>

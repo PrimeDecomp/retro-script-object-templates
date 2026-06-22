@@ -106,14 +106,14 @@
             <Element Type="Float" ID="0x2B15406D">
                 <DefaultValue>3.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x672B454D" Archetype="ParticleBlaster"/>
+            <Element Type="Struct" ID="0x672B454D" Archetype="FlyingPirateBlasterData"/>
             <Element Type="Struct" ID="0x92B304AD" Archetype="FlyingPirateHelixMissileData"/>
             <Element Type="Struct" ID="0x2263E77F" Archetype="SpacePirateWeaponData"/>
-            <Element Type="Struct" ID="0x3F07905E" Archetype="FlyingPirateStruct"/>
-            <Element Type="Struct" ID="0x97203AB" Archetype="FlyingPirateStruct"/>
-            <Element Type="Struct" ID="0x4123A3B6" Archetype="FlyingPirateStruct"/>
-            <Element Type="Struct" ID="0x70B96A25" Archetype="Armor"/>
-            <Element Type="Struct" ID="0xFBAA9F01" Archetype="JetPack"/>
+            <Element Type="Struct" ID="0x3F07905E" Archetype="FlyingPirateHyperModeData"/>
+            <Element Type="Struct" ID="0x97203AB" Archetype="FlyingPirateHyperModeData"/>
+            <Element Type="Struct" ID="0x4123A3B6" Archetype="FlyingPirateHyperModeData"/>
+            <Element Type="Struct" ID="0x70B96A25" Archetype="FlyingPirateArmorData"/>
+            <Element Type="Struct" ID="0xFBAA9F01" Archetype="FlyingPirateJetPackData"/>
             <Element Type="Struct" ID="0xE39738EA" Archetype="RagDollData"/>
             <Element Type="Bool" ID="0x531A8C85">
                 <DefaultValue>false</DefaultValue>

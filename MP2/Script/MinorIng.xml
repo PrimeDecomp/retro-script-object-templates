@@ -82,7 +82,7 @@
             <Element Type="Bool" ID="0x2107E4FB">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x7E9D446" Archetype="UnknownStruct33"/>
+            <Element Type="Struct" ID="0x7E9D446" Archetype="MinorIngIngSpot"/>
             <Element Type="Struct" ID="0x3DA35851" Archetype="UnknownStruct34"/>
         </SubProperties>
     </Properties>
