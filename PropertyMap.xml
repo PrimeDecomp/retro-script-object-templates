@@ -30094,10 +30094,6 @@
             <Value Name="Flags"/>
         </Element>
         <Element>
-            <Key ID="0xA64AB9B8" Type="int"/>
-            <Value Name="Sound?"/>
-        </Element>
-        <Element>
             <Key ID="0xA6597839" Type="asset"/>
             <Value Name="Sound_TongueRelease"/>
         </Element>
