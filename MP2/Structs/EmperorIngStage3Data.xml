@@ -21,8 +21,8 @@
             <Element Type="Struct" ID="0x1440D152" Archetype="DamageInfo"/>
             <Element Type="Struct" ID="0xEF582BD6" Archetype="DamageInfo"/>
             <Element Type="Struct" ID="0x4738C321" Archetype="DamageInfo"/>
-            <Element Type="Struct" ID="0x98E311C1" Archetype="EmperorIngStage3StructA"/>
-            <Element Type="Struct" ID="0x93DAE216" Archetype="EmperorIngStage3StructA"/>
+            <Element Type="Struct" ID="0x98E311C1" Archetype="EmperorIngStage3DarkBeamAttackData"/>
+            <Element Type="Struct" ID="0x93DAE216" Archetype="EmperorIngStage3DarkBeamAttackData"/>
             <Element Type="Asset" ID="0x4F82B9E5">
                 <TypeFilter>
                     <Element>PART</Element>
@@ -31,7 +31,7 @@
             <Element Type="Struct" ID="0x43E9C2E" Archetype="BasicSwarmProperties"/>
             <Element Type="Struct" ID="0x91001508" Archetype="AudioPlaybackParms"/>
             <Element Type="Struct" ID="0x3552953" Archetype="AudioPlaybackParms"/>
-            <Element Type="Struct" ID="0xAF7E3033" Archetype="UnknownStruct26"/>
+            <Element Type="Struct" ID="0xAF7E3033" Archetype="EmperorIngStage3PortalAttackData"/>
             <Element Type="Struct" ID="0xAB4ED456" Archetype="ShockWaveInfo"/>
             <Element Type="Sound" ID="0x985F72FD">
                 <DefaultValue>0</DefaultValue>

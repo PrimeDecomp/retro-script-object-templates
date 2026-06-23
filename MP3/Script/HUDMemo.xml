@@ -13,11 +13,11 @@
             <Element Type="Bool" ID="0xAFD0158E">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x4AB3B95B">
+            <Element Type="Choice" ID="0x4AB3B95B">
                 <DefaultValue>0</DefaultValue>
                 <Values>
-                    <Element Name="Status Message" ID="0"/>
-                    <Element Name="Message Box" ID="1"/>
+                    <Element Name="Status Message" ID="0x0"/>
+                    <Element Name="Message Box" ID="0x1"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0x2B4E290C">

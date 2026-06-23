@@ -692,10 +692,6 @@
             <Value Path="Structs/AreaDamageData.xml"/>
         </Element>
         <Element>
-            <Key>AreaPathStructA</Key>
-            <Value Path="Structs/AreaPathStructA.xml"/>
-        </Element>
-        <Element>
             <Key>BalloonBarrelData</Key>
             <Value Path="Structs/BalloonBarrelData.xml"/>
         </Element>
@@ -898,6 +894,10 @@
         <Element>
             <Key>DebrisPropertiesOrientationEnum</Key>
             <Value Path="Structs/DebrisPropertiesOrientationEnum.xml"/>
+        </Element>
+        <Element>
+            <Key>DebugControls</Key>
+            <Value Path="Structs/DebugControls.xml"/>
         </Element>
         <Element>
             <Key>DespawnRules</Key>
@@ -1212,6 +1212,10 @@
             <Value Path="Structs/PathPosition.xml"/>
         </Element>
         <Element>
+            <Key>PathType</Key>
+            <Value Path="Structs/PathType.xml"/>
+        </Element>
+        <Element>
             <Key>PatternedAITypedef</Key>
             <Value Path="Structs/PatternedAITypedef.xml"/>
         </Element>
@@ -1476,14 +1480,6 @@
             <Value Path="Enums/RevolutionControlType.xml"/>
         </Element>
         <Element>
-            <Key>RevolutionControl_UnknownEnum1</Key>
-            <Value Path="Enums/RevolutionControl_UnknownEnum1.xml"/>
-        </Element>
-        <Element>
-            <Key>RevolutionControl_UnknownEnum2</Key>
-            <Value Path="Enums/RevolutionControl_UnknownEnum2.xml"/>
-        </Element>
-        <Element>
             <Key>RevolutionControl_UnknownStruct1</Key>
             <Value Path="Structs/RevolutionControl_UnknownStruct1.xml"/>
         </Element>
@@ -1500,8 +1496,16 @@
             <Value Path="Structs/RevolutionControl_UnknownStruct4.xml"/>
         </Element>
         <Element>
+            <Key>RevolutionGesture</Key>
+            <Value Path="Enums/RevolutionGesture.xml"/>
+        </Element>
+        <Element>
             <Key>RevolutionPhysicalControl</Key>
             <Value Path="Structs/RevolutionPhysicalControl.xml"/>
+        </Element>
+        <Element>
+            <Key>RevolutionPointerShape</Key>
+            <Value Path="Enums/RevolutionPointerShape.xml"/>
         </Element>
         <Element>
             <Key>RevolutionVirtualControl</Key>
@@ -1558,6 +1562,10 @@
         <Element>
             <Key>ShadowData</Key>
             <Value Path="Structs/ShadowData.xml"/>
+        </Element>
+        <Element>
+            <Key>ShadowProjection</Key>
+            <Value Path="Structs/ShadowProjection.xml"/>
         </Element>
         <Element>
             <Key>Shape</Key>
@@ -1714,10 +1722,6 @@
         <Element>
             <Key>TweakControls_UnknownStruct2</Key>
             <Value Path="Structs/TweakControls_UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakControls_UnknownStruct3</Key>
-            <Value Path="Structs/TweakControls_UnknownStruct3.xml"/>
         </Element>
         <Element>
             <Key>TweakGraphicalTransitions_UnknownEnum1</Key>
@@ -2474,10 +2478,6 @@
         <Element>
             <Key>UnknownStruct51</Key>
             <Value Path="Structs/UnknownStruct51.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct510</Key>
-            <Value Path="Structs/UnknownStruct510.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct52</Key>

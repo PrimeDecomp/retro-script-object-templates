@@ -10,7 +10,7 @@
                     <Element Name="Unknown 2" ID="0x6732509F"/>
                     <Element Name="Unknown 3" ID="0x1AA27CC"/>
                     <Element Name="Unknown 4" ID="0xB70830A8"/>
-                    <Element Name="Unknown 5" ID="0xDC7EC6B2"/>
+                    <Element Name="kCommand_Jump" ID="0xDC7EC6B2"/>
                     <Element Name="Unknown 6" ID="0xED42C0E8"/>
                     <Element Name="Unknown 7" ID="0x23F7DE2C"/>
                     <Element Name="Unknown 8" ID="0x6AD40029"/>
@@ -20,23 +20,23 @@
                     <Element Name="Unknown 12" ID="0x95B1CCD6"/>
                     <Element Name="Unknown 13" ID="0xC9CEDF9E"/>
                     <Element Name="Unknown 14" ID="0x6FA8C19C"/>
-                    <Element Name="Unknown 15" ID="0x26E4C965"/>
+                    <Element Name="kCommand_MapSelect" ID="0x26E4C965"/>
                     <Element Name="Unknown 16" ID="0x3B00E6D7"/>
                     <Element Name="Unknown 17" ID="0xE4E02146"/>
                     <Element Name="Unknown 18" ID="0xDFE16BE4"/>
                     <Element Name="Unknown 19" ID="0xB9791CB7"/>
                     <Element Name="Unknown 20" ID="0x70674B27"/>
-                    <Element Name="Unknown 21" ID="0xC5F44B08"/>
-                    <Element Name="Unknown 22" ID="0xF4CD7E74"/>
+                    <Element Name="kCommand_MapZoomIn" ID="0xC5F44B08"/>
+                    <Element Name="kCommand_MapZoomOut" ID="0xF4CD7E74"/>
                     <Element Name="Unknown 23" ID="0x9B383394"/>
                     <Element Name="Unknown 24" ID="0xA8961C2A"/>
-                    <Element Name="Unknown 25" ID="0x84D0DFFA"/>
+                    <Element Name="kCommand_ScreenshotTool" ID="0x84D0DFFA"/>
                     <Element Name="Unknown 26" ID="0xAAF6CB4D"/>
                     <Element Name="Unknown 27" ID="0x2693A3C"/>
                     <Element Name="Unknown 28" ID="0x24B96818"/>
                     <Element Name="Unknown 29" ID="0x36157B6F"/>
                     <Element Name="Unknown 30" ID="0xCE529E10"/>
-                    <Element Name="Unknown 31" ID="0x1FDD1EC2"/>
+                    <Element Name="kCommand_SkipCinematic" ID="0x1FDD1EC2"/>
                     <Element Name="Unknown 32" ID="0x2D22145F"/>
                     <Element Name="Unknown 33" ID="0x305911A1"/>
                     <Element Name="Unknown 34" ID="0x7FD04BC9"/>

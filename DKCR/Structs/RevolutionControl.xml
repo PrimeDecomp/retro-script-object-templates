@@ -32,7 +32,7 @@
             <Element Type="Enum" ID="0xEDA6D736" Archetype="RevolutionVirtualControl">
                 <DefaultValue>0xB2AA1FD4</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0xBF80D594" Archetype="RevolutionControl_UnknownEnum1">
+            <Element Type="Enum" ID="0xBF80D594" Archetype="RevolutionGesture">
                 <DefaultValue>0x9AD4E0BC</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x91B8C18A" Archetype="RevolutionControl_UnknownStruct1"/>

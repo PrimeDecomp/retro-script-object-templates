@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Enum">
+        <Name>RevolutionGesture</Name>
+        <Values>
+            <Element Name="kRG_ThrustForward" ID="0x9AD4E0BC"/>
+            <Element Name="kRG_ThrustBackward" ID="0x46F7F0A1"/>
+            <Element Name="kRG_LeftToRight" ID="0x8D7CBCC5"/>
+            <Element Name="kRG_RightToLeft" ID="0xA5F59788"/>
+            <Element Name="kRG_DownToUp" ID="0x5C94CF86"/>
+            <Element Name="kRG_UpToDown" ID="0xCCEF60E0"/>
+            <Element Name="kRG_NunchakuThrustForward" ID="0x8C3E9AC2"/>
+            <Element Name="kRG_NunchakuThrustBackward" ID="0xF15C46E0"/>
+            <Element Name="kRG_NunchakuLeftToRight" ID="0xEB95B715"/>
+            <Element Name="kRG_NunchakuRightToLeft" ID="0xC31C9C58"/>
+            <Element Name="kRG_NunchakuDownToUp" ID="0x83DA814B"/>
+            <Element Name="kRG_NunchakuUpToDown" ID="0x13A12E2D"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

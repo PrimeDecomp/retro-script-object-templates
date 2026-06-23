@@ -24,10 +24,10 @@
                 <SubProperties>
                     <Element Type="Struct" ID="0x7B71AE90">
                         <SubProperties>
-                            <Element Type="Int" ID="0x10F37815">
+                            <Element Type="Flags" ID="0x10F37815">
                                 <DefaultValue>656426</DefaultValue>
                             </Element>
-                            <Element Type="Int" ID="0xF65FEEF8">
+                            <Element Type="Flags" ID="0xF65FEEF8">
                                 <DefaultValue>524304</DefaultValue>
                             </Element>
                         </SubProperties>

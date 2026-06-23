@@ -57,17 +57,23 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0x8DDD85CA">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x8DDD85CA">
+                <TypeFilter>
+                    <Element>CMDL</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Float" ID="0xE3DD61E6">
                 <DefaultValue>100.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x5EF8B288">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x5EF8B288">
+                <TypeFilter>
+                    <Element>CMDL</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x45D00B59">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x45D00B59">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Float" ID="0xA324E26C">
                 <DefaultValue>2.0</DefaultValue>

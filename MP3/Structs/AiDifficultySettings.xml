@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>AiDifficultySettings</Name>
         <SubProperties>
-            <Element Type="Enum" ID="0x2B082C6D" Archetype="BerserkerEnum">
+            <Element Type="Enum" ID="0x2B082C6D" Archetype="DifficultyEnum">
                 <DefaultValue>0xF12A35C6</DefaultValue>
             </Element>
         </SubProperties>

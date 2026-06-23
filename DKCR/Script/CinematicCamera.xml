@@ -19,16 +19,16 @@
             <Element Type="Enum" ID="0x974A961F">
                 <DefaultValue>0x639D1F97</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x639D1F97"/>
-                    <Element Name="Unknown 2" ID="0xB55F9164"/>
-                    <Element Name="Unknown 3" ID="0x4164C49B"/>
-                    <Element Name="Unknown 4" ID="0xF2F54A8F"/>
+                    <Element Name="kCET_Stop" ID="0x639D1F97"/>
+                    <Element Name="kCET_Time" ID="0xB55F9164"/>
+                    <Element Name="kCET_Motion" ID="0x4164C49B"/>
+                    <Element Name="kCET_Target" ID="0xF2F54A8F"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xAB8151EA">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x5C5FC6E">
+            <Element Type="Flags" ID="0x5C5FC6E">
                 <DefaultValue>133236</DefaultValue>
             </Element>
             <Element Type="Spline" ID="0x27E5F874"/>
@@ -38,7 +38,7 @@
                     <Element Type="Enum" ID="0x5C72A964">
                         <DefaultValue>0x26AD4A6B</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x6219022E">
+                    <Element Type="Flags" ID="0x6219022E">
                         <DefaultValue>12</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0xDA54B3E9">
@@ -62,7 +62,7 @@
             <Element Type="Spline" ID="0xF4F4798E"/>
             <Element Type="Struct" ID="0x764827D4" Archetype="CameraInterpolation">
                 <SubProperties>
-                    <Element Type="Int" ID="0x1D49D35C">
+                    <Element Type="Flags" ID="0x1D49D35C">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0xA738790A">
@@ -86,7 +86,7 @@
                             </Element>
                         </SubProperties>
                     </Element>
-                    <Element Type="Int" ID="0x58C1B1D">
+                    <Element Type="Flags" ID="0x58C1B1D">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0x7FAC732A">

@@ -53,11 +53,15 @@
                     <Element>TXTR</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x5BA7702E">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x5BA7702E">
+                <TypeFilter>
+                    <Element>TXTR</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x9A3463A7">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x9A3463A7">
+                <TypeFilter>
+                    <Element>TXTR</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Color" ID="0x41398D5">
                 <DefaultValue>
@@ -134,7 +138,7 @@
             <Element Type="Sound" ID="0xBA717F19">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xAE7C7EFC">
+            <Element Type="Sound" ID="0xAE7C7EFC">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xEEF81E4C">

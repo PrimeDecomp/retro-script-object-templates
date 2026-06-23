@@ -25,7 +25,7 @@
             <Element Type="Float" ID="0xC492FEDF">
                 <DefaultValue>0.0099999998</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9A78A8BB">
+            <Element Type="Flags" ID="0x9A78A8BB">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xA0840DD7" Archetype="CommandData"/>

@@ -7,52 +7,52 @@
             <Element Type="Enum" ID="0xB8AFCF21">
                 <DefaultValue>0x98C5AED7</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x98C5AED7"/>
-                    <Element Name="Unknown 2" ID="0xFF6D9BE6"/>
+                    <Element Name="kSF_None" ID="0x98C5AED7"/>
+                    <Element Name="kSF_PlayerFollowLocator" ID="0xFF6D9BE6"/>
                     <Element Name="Unknown 3" ID="0xFC4247D3"/>
-                    <Element Name="Unknown 4" ID="0x982A42A3"/>
+                    <Element Name="kSF_ObjectFollowLocator" ID="0x982A42A3"/>
                     <Element Name="Unknown 5" ID="0x746A8F4F"/>
-                    <Element Name="Unknown 6" ID="0xE13871E3"/>
-                    <Element Name="Unknown 7" ID="0x2C1DC485"/>
-                    <Element Name="Unknown 8" ID="0xB528A4F0"/>
+                    <Element Name="kSF_InventoryActivator" ID="0xE13871E3"/>
+                    <Element Name="kSF_MapStation" ID="0x2C1DC485"/>
+                    <Element Name="kSF_SaveStation" ID="0xB528A4F0"/>
                     <Element Name="Unknown 9" ID="0x1D97AD5B"/>
-                    <Element Name="Unknown 10" ID="0x129C99C0"/>
+                    <Element Name="kSF_ViewFrustumTester" ID="0x129C99C0"/>
                     <Element Name="Unknown 11" ID="0x792634B9"/>
-                    <Element Name="Unknown 12" ID="0xBBFADF2F"/>
-                    <Element Name="Unknown 13" ID="0x370F508E"/>
-                    <Element Name="Unknown 14" ID="0x7E025D14"/>
-                    <Element Name="Unknown 15" ID="0x766ED410"/>
-                    <Element Name="Unknown 16" ID="0x29837C6C"/>
+                    <Element Name="kSF_EscapeSequenceTrigger" ID="0xBBFADF2F"/>
+                    <Element Name="kSF_BossEnergyBar" ID="0x370F508E"/>
+                    <Element Name="kSF_EndGame" ID="0x7E025D14"/>
+                    <Element Name="kSF_DisableHud" ID="0x766ED410"/>
+                    <Element Name="kSF_CinematicSkip" ID="0x29837C6C"/>
                     <Element Name="Unknown 17" ID="0x71967142"/>
                     <Element Name="Unknown 18" ID="0x53DD05AD"/>
-                    <Element Name="Unknown 19" ID="0x3D1A78AC"/>
-                    <Element Name="Unknown 20" ID="0x73810303"/>
-                    <Element Name="Unknown 21" ID="0xA8B03E1A"/>
-                    <Element Name="Unknown 22" ID="0xD5D0EA93"/>
+                    <Element Name="kSF_AreaDamagePlayer" ID="0x3D1A78AC"/>
+                    <Element Name="kSF_ObjectFollowObject" ID="0x73810303"/>
+                    <Element Name="kSF_HintController" ID="0xA8B03E1A"/>
+                    <Element Name="kSF_DropBomb" ID="0xD5D0EA93"/>
                     <Element Name="Unknown 23" ID="0x6C963236"/>
-                    <Element Name="Unknown 24" ID="0xB5FC495C"/>
+                    <Element Name="kSF_MissileStation" ID="0xB5FC495C"/>
                     <Element Name="Unknown 25" ID="0x78AD9BEF"/>
-                    <Element Name="Unknown 26" ID="0xFE41E1E9"/>
-                    <Element Name="Unknown 27" ID="0x1C7FDCAB"/>
+                    <Element Name="kSF_PlayerInAreaRelay" ID="0xFE41E1E9"/>
+                    <Element Name="kSF_HUDTarget" ID="0x1C7FDCAB"/>
                     <Element Name="Unknown 28" ID="0x63F10B1F"/>
-                    <Element Name="Unknown 29" ID="0x14A3B65C"/>
+                    <Element Name="kSF_EnterLogBookScreen" ID="0x14A3B65C"/>
                     <Element Name="Unknown 30" ID="0xFE065C29"/>
-                    <Element Name="Unknown 31" ID="0x8838D84A"/>
+                    <Element Name="kSF_EndingActivator" ID="0x8838D84A"/>
                     <Element Name="Unknown 32" ID="0x9B86DE10"/>
                     <Element Name="Unknown 33" ID="0xD4988D98"/>
-                    <Element Name="Unknown 34" ID="0x90031E91"/>
-                    <Element Name="Unknown 35" ID="0x9BE4E305"/>
+                    <Element Name="kSF_LaunchPlayer" ID="0x90031E91"/>
+                    <Element Name="kSF_RechargeStation" ID="0x9BE4E305"/>
                     <Element Name="Unknown 36" ID="0xD6394D61"/>
                     <Element Name="Unknown 37" ID="0x26AA4AC9"/>
                     <Element Name="Unknown 38" ID="0xD8AD2D4A"/>
                     <Element Name="Unknown 39" ID="0xEF4684FC"/>
                     <Element Name="Unknown 40" ID="0xDF1BE1A6"/>
-                    <Element Name="Unknown 41" ID="0x441AEE66"/>
-                    <Element Name="Unknown 42" ID="0x8F226F1D"/>
-                    <Element Name="Unknown 43" ID="0x96AB6130"/>
-                    <Element Name="Unknown 44" ID="0x83888007"/>
-                    <Element Name="Unknown 45" ID="0x698AAB1A"/>
-                    <Element Name="Unknown 46" ID="0x9349C56D"/>
+                    <Element Name="kSF_SetInventoryCapacity" ID="0x441AEE66"/>
+                    <Element Name="kSF_SetInventoryAmount" ID="0x8F226F1D"/>
+                    <Element Name="kSF_ModifyInventoryAmount" ID="0x96AB6130"/>
+                    <Element Name="kSF_ModifyInventoryCapacity" ID="0x83888007"/>
+                    <Element Name="kSF_ModifyInventoryAmountAndCapacity" ID="0x698AAB1A"/>
+                    <Element Name="kSF_SetInventoryAmountAndCapacity" ID="0x9349C56D"/>
                     <Element Name="Unknown 47" ID="0x3D20812F"/>
                     <Element Name="Unknown 48" ID="0x5F266355"/>
                     <Element Name="Unknown 49" ID="0x1B2F7D23"/>
@@ -60,24 +60,24 @@
                     <Element Name="Unknown 51" ID="0xC05D96F3"/>
                     <Element Name="Unknown 52" ID="0x2A535FD6"/>
                     <Element Name="Unknown 53" ID="0x14B45D36"/>
-                    <Element Name="Unknown 54" ID="0xD7E2F62F"/>
-                    <Element Name="Unknown 55" ID="0x7F0CE328"/>
-                    <Element Name="Unknown 56" ID="0x9EAEB97A"/>
+                    <Element Name="kSF_SunGeneratorTeleporter" ID="0xD7E2F62F"/>
+                    <Element Name="kSF_SkyLighting" ID="0x7F0CE328"/>
+                    <Element Name="kSF_OcclusionRelay" ID="0x9EAEB97A"/>
                     <Element Name="Unknown 57" ID="0xB0D2FCA9"/>
                     <Element Name="Unknown 58" ID="0x9A22561C"/>
-                    <Element Name="Unknown 59" ID="0x5FE350B"/>
+                    <Element Name="kSF_ObjectFollowJoint" ID="0x5FE350B"/>
                     <Element Name="Unknown 60" ID="0xE6472D82"/>
-                    <Element Name="Unknown 61" ID="0x2CB1471C"/>
-                    <Element Name="Unknown 62" ID="0xF73614C9"/>
-                    <Element Name="Unknown 63" ID="0xE578ADF"/>
+                    <Element Name="kSF_ExtraRenderClipPlane" ID="0x2CB1471C"/>
+                    <Element Name="kSF_VisorBlowout" ID="0xF73614C9"/>
+                    <Element Name="kSF_AreaAutoLoadController" ID="0xE578ADF"/>
                     <Element Name="Unknown 64" ID="0xDFE51E86"/>
-                    <Element Name="Unknown 65" ID="0x661EC9E0"/>
+                    <Element Name="kSF_GameStateEnvVarController" ID="0x661EC9E0"/>
                     <Element Name="Unknown 66" ID="0xD3F99123"/>
                     <Element Name="Unknown 67" ID="0xBFA25CC"/>
-                    <Element Name="Unknown 68" ID="0x49069735"/>
+                    <Element Name="kSF_CinematicSkipSignal" ID="0x49069735"/>
                     <Element Name="Unknown 69" ID="0xB08E8E0"/>
-                    <Element Name="Unknown 70" ID="0x2E5341"/>
-                    <Element Name="Unknown 71" ID="0x136F5286"/>
+                    <Element Name="kSF_CompletionScreen" ID="0x2E5341"/>
+                    <Element Name="kSF_AudioListener" ID="0x136F5286"/>
                 </Values>
             </Element>
             <Element Type="String" ID="0x9D7A576D"/>

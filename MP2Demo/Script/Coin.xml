@@ -92,8 +92,8 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xBB3CCAE">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xBB3CCAE">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x991202C3">
                 <DefaultValue>1</DefaultValue>
@@ -117,7 +117,7 @@
             <Element Type="Bool" ID="0x3BDD2FED">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x334A34BB">
+            <Element Type="Choice" ID="0x334A34BB">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xC7493FEE">
@@ -138,7 +138,7 @@
             <Element Type="Bool" ID="0xC98AC215">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD9CCE9D9">
+            <Element Type="Choice" ID="0xD9CCE9D9">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x979042C8">
@@ -153,7 +153,7 @@
                     <Z>1.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9DFADEE0">
+            <Element Type="Choice" ID="0x9DFADEE0">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x2C7B18DD">

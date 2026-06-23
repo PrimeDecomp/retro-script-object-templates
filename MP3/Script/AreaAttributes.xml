@@ -17,12 +17,12 @@
             <Element Type="Enum" ID="0xEA2700E9">
                 <DefaultValue>0xF9A89E57</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xF9A89E57"/>
-                    <Element Name="Unknown 2" ID="0xB0BB3B2B"/>
-                    <Element Name="Unknown 3" ID="0x316A1435"/>
-                    <Element Name="Unknown 4" ID="0xB2945E7"/>
-                    <Element Name="Unknown 5" ID="0x64E6A979"/>
-                    <Element Name="Unknown 6" ID="0xAE38F1F3"/>
+                    <Element Name="None" ID="0xF9A89E57"/>
+                    <Element Name="Snow" ID="0xB0BB3B2B"/>
+                    <Element Name="Rain" ID="0x316A1435"/>
+                    <Element Name="AcidRain" ID="0xB2945E7"/>
+                    <Element Name="PhazonCloud" ID="0x64E6A979"/>
+                    <Element Name="HyperMode" ID="0xAE38F1F3"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xCE0328FA" Archetype="RainProperties"/>

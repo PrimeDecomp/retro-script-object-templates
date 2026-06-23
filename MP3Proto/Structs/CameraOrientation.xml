@@ -14,7 +14,7 @@
                     <Element Name="Unknown 6" ID="0xC5148ADE"/>
                 </Values>
             </Element>
-            <Element Type="Int" ID="0x6219022E">
+            <Element Type="Flags" ID="0x6219022E">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Enum" ID="0x44191FB8">

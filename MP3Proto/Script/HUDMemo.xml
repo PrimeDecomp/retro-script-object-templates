@@ -28,7 +28,7 @@
             <Element Type="Bool" ID="0xBD6F7B11">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x4AB3B95B">
+            <Element Type="Choice" ID="0x4AB3B95B">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x9182250C"/>

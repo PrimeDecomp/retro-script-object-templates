@@ -3,59 +3,59 @@
     <PropertyArchetype Type="Enum">
         <Name>UnknownEnum1</Name>
         <Values>
-            <Element Name="Unknown 1" ID="0xD086634A"/>
-            <Element Name="Unknown 2" ID="0x9EFEC452"/>
-            <Element Name="Unknown 3" ID="0x7A08E735"/>
-            <Element Name="Unknown 4" ID="0x50C802D9"/>
-            <Element Name="Unknown 5" ID="0xF0F41378"/>
-            <Element Name="Unknown 6" ID="0x85CC49A7"/>
-            <Element Name="Unknown 7" ID="0xF3FA81F9"/>
-            <Element Name="Unknown 8" ID="0x12D7814B"/>
-            <Element Name="Unknown 9" ID="0x3ED0780A"/>
-            <Element Name="Unknown 10" ID="0xD30DC76F"/>
-            <Element Name="Unknown 11" ID="0xAF419B49"/>
-            <Element Name="Unknown 12" ID="0xA3CA9851"/>
-            <Element Name="Unknown 13" ID="0x841A1F8E"/>
-            <Element Name="Unknown 14" ID="0xDE847FAF"/>
-            <Element Name="Unknown 15" ID="0xA1933C0A"/>
-            <Element Name="Unknown 16" ID="0x2B471C09"/>
-            <Element Name="Unknown 17" ID="0xB24E4DB3"/>
-            <Element Name="Unknown 18" ID="0xABEC556C"/>
-            <Element Name="Unknown 19" ID="0x8B3230C7"/>
-            <Element Name="Unknown 20" ID="0xAED13BCA"/>
-            <Element Name="Unknown 21" ID="0x3EEF8753"/>
-            <Element Name="Unknown 22" ID="0xB3FB5FA4"/>
-            <Element Name="Unknown 23" ID="0xC547BF6B"/>
-            <Element Name="Unknown 24" ID="0x11F351AB"/>
-            <Element Name="Unknown 25" ID="0x3498471C"/>
-            <Element Name="Unknown 26" ID="0xC466996F"/>
-            <Element Name="Unknown 27" ID="0xFA2C9120"/>
-            <Element Name="Unknown 28" ID="0x5178A767"/>
-            <Element Name="Unknown 29" ID="0x709C8FC"/>
-            <Element Name="Unknown 30" ID="0x21695AC9"/>
-            <Element Name="Unknown 31" ID="0xC25A07B4"/>
-            <Element Name="Unknown 32" ID="0x84ED6FA3"/>
-            <Element Name="Unknown 33" ID="0xD7E08B3"/>
-            <Element Name="Unknown 34" ID="0x88667A15"/>
-            <Element Name="Unknown 35" ID="0xE2A6D5C"/>
-            <Element Name="Unknown 36" ID="0xB480D1C5"/>
-            <Element Name="Unknown 37" ID="0x57B38CB8"/>
-            <Element Name="Unknown 38" ID="0xD22CE16B"/>
-            <Element Name="Unknown 39" ID="0x45DAD13"/>
-            <Element Name="Unknown 40" ID="0x6CB4849F"/>
-            <Element Name="Unknown 41" ID="0xA30916F"/>
-            <Element Name="Unknown 42" ID="0x6A8C25"/>
-            <Element Name="Unknown 43" ID="0x2FE99ACD"/>
-            <Element Name="Unknown 44" ID="0xCCDAC7B0"/>
-            <Element Name="Unknown 45" ID="0xDFA559AB"/>
-            <Element Name="Unknown 46" ID="0xA1D4C6A"/>
-            <Element Name="Unknown 47" ID="0x11FA9AD3"/>
-            <Element Name="Unknown 48" ID="0x7527D2CA"/>
-            <Element Name="Unknown 49" ID="0x3CCFABB4"/>
-            <Element Name="Unknown 50" ID="0x892ADAE9"/>
-            <Element Name="Unknown 51" ID="0x6A198794"/>
-            <Element Name="Unknown 52" ID="0xA0B21A0E"/>
-            <Element Name="Unknown 53" ID="0x36B86BFB"/>
+            <Element Name="kMT_Unknown" ID="0xD086634A"/>
+            <Element Name="kMT_Default" ID="0x9EFEC452"/>
+            <Element Name="kMT_Cloth" ID="0x7A08E735"/>
+            <Element Name="kMT_Dirt_Jungle" ID="0x50C802D9"/>
+            <Element Name="kMT_Grass" ID="0xF0F41378"/>
+            <Element Name="kMT_Metal_Beach" ID="0x85CC49A7"/>
+            <Element Name="kMT_Plant" ID="0xF3FA81F9"/>
+            <Element Name="kMT_Rubber" ID="0x12D7814B"/>
+            <Element Name="kMT_Sand" ID="0x3ED0780A"/>
+            <Element Name="kMT_Stone_Beach" ID="0xD30DC76F"/>
+            <Element Name="kMT_Tar" ID="0xAF419B49"/>
+            <Element Name="kMT_Water" ID="0xA3CA9851"/>
+            <Element Name="kMT_WaterOverStone" ID="0x841A1F8E"/>
+            <Element Name="kMT_Wood_Plank_Beach" ID="0xDE847FAF"/>
+            <Element Name="kMT_Wood_Solid_Beach" ID="0xA1933C0A"/>
+            <Element Name="kMT_Experimental_1" ID="0x2B471C09"/>
+            <Element Name="kMT_Experimental_2" ID="0xB24E4DB3"/>
+            <Element Name="kMT_Bone" ID="0xABEC556C"/>
+            <Element Name="kMT_Stone_Cliffside" ID="0x8B3230C7"/>
+            <Element Name="kMT_Dirt_Cave" ID="0xAED13BCA"/>
+            <Element Name="kMT_Dirt_Volcano" ID="0x3EEF8753"/>
+            <Element Name="kMT_Dirt_Forest" ID="0xB3FB5FA4"/>
+            <Element Name="kMT_Dirt_Beach" ID="0xC547BF6B"/>
+            <Element Name="kMT_Dirt_Cliff" ID="0x11F351AB"/>
+            <Element Name="kMT_Dirt_Factory" ID="0x3498471C"/>
+            <Element Name="kMT_Dirt_Ruins" ID="0xC466996F"/>
+            <Element Name="kMT_Metal_Cave" ID="0xFA2C9120"/>
+            <Element Name="kMT_Metal_Cliff" ID="0x5178A767"/>
+            <Element Name="kMT_Metal_Factory" ID="0x709C8FC"/>
+            <Element Name="kMT_Metal_Forest" ID="0x21695AC9"/>
+            <Element Name="kMT_Metal_Jungle" ID="0xC25A07B4"/>
+            <Element Name="kMT_Metal_Ruins" ID="0x84ED6FA3"/>
+            <Element Name="kMT_Metal_Volcano" ID="0xD7E08B3"/>
+            <Element Name="kMT_Stone_Cave" ID="0x88667A15"/>
+            <Element Name="kMT_Stone_Factory" ID="0xE2A6D5C"/>
+            <Element Name="kMT_Stone_Forest" ID="0xB480D1C5"/>
+            <Element Name="kMT_Stone_Jungle" ID="0x57B38CB8"/>
+            <Element Name="kMT_Stone_Ruins" ID="0xD22CE16B"/>
+            <Element Name="kMT_Stone_Volcano" ID="0x45DAD13"/>
+            <Element Name="kMT_Wood_Plank_Cave" ID="0x6CB4849F"/>
+            <Element Name="kMT_Wood_Plank_Cliff" ID="0xA30916F"/>
+            <Element Name="kMT_Wood_Plank_Factory" ID="0x6A8C25"/>
+            <Element Name="kMT_Wood_Plank_Forest" ID="0x2FE99ACD"/>
+            <Element Name="kMT_Wood_Plank_Jungle" ID="0xCCDAC7B0"/>
+            <Element Name="kMT_Wood_Plank_Ruins" ID="0xDFA559AB"/>
+            <Element Name="kMT_Wood_Plank_Volcano" ID="0xA1D4C6A"/>
+            <Element Name="kMT_Wood_Solid_Cave" ID="0x11FA9AD3"/>
+            <Element Name="kMT_Wood_Solid_Cliff" ID="0x7527D2CA"/>
+            <Element Name="kMT_Wood_Solid_Factory" ID="0x3CCFABB4"/>
+            <Element Name="kMT_Wood_Solid_Forest" ID="0x892ADAE9"/>
+            <Element Name="kMT_Wood_Solid_Jungle" ID="0x6A198794"/>
+            <Element Name="kMT_Wood_Solid_Ruins" ID="0xA0B21A0E"/>
+            <Element Name="kMT_Wood_Solid_Volcano" ID="0x36B86BFB"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

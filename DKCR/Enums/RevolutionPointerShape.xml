@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Enum">
+        <Name>RevolutionPointerShape</Name>
+        <Values>
+            <Element Name="kRPS_Circle" ID="0x44D3E4FB"/>
+            <Element Name="kRPS_Rectangle" ID="0x39AEE0BE"/>
+            <Element Name="kRPS_PieSlice" ID="0x67FBB27E"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

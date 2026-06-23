@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Struct">
+        <Name>CommandData</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0x359C7AAF" Archetype="Command">
+                <SubProperties>
+                    <Element Type="Choice" ID="0x94BA5737" Archetype="ControllerActionCommand">
+                        <DefaultValue>0</DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Int" ID="0x4063422A">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

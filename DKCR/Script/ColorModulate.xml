@@ -22,13 +22,13 @@
             <Element Type="Enum" ID="0xFF457546">
                 <DefaultValue>0xE51B07EB</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xE51B07EB"/>
-                    <Element Name="Unknown 2" ID="0xFA128E4E"/>
+                    <Element Name="kBM_Blended" ID="0xE51B07EB"/>
+                    <Element Name="kBM_AdditiveAlpha" ID="0xFA128E4E"/>
                     <Element Name="Unknown 3" ID="0xA4FAAAB8"/>
-                    <Element Name="Unknown 4" ID="0xB63E5A45"/>
-                    <Element Name="Unknown 5" ID="0xD0F901B2"/>
-                    <Element Name="Unknown 6" ID="0x94BD815D"/>
-                    <Element Name="Unknown 7" ID="0x9F8E45C7"/>
+                    <Element Name="kBM_Modulate" ID="0xB63E5A45"/>
+                    <Element Name="kBM_ColorAdd" ID="0xD0F901B2"/>
+                    <Element Name="kBM_Static" ID="0x94BD815D"/>
+                    <Element Name="kBM_Warp" ID="0x9F8E45C7"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x1AFA5C48">

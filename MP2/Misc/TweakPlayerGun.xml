@@ -9,7 +9,7 @@
             <Element Type="Struct" ID="0x87882CB0" Archetype="TweakPlayerGun_Position"/>
             <Element Type="Struct" ID="0x255007AD" Archetype="TweakPlayerGun_Arm_Position"/>
             <Element Type="Struct" ID="0x83D758AB" Archetype="TweakPlayerGun_Weapons"/>
-            <Element Type="Struct" ID="0x888C8775" Archetype="TweakPlayerGun_UnknownStruct1"/>
+            <Element Type="Struct" ID="0x888C8775" Archetype="TweakPlayerGun_Beam_Combo"/>
             <Element Type="Struct" ID="0xAAEBB73E" Archetype="TweakPlayerGun_Beam_Misc"/>
             <Element Type="Struct" ID="0x8DA058FE" Archetype="TweakPlayerGun_RicochetDamage_Factor"/>
             <Element Type="Struct" ID="0xFFDB4BB7" Archetype="CameraShakerData"/>

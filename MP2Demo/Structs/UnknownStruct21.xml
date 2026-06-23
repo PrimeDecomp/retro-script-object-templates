@@ -39,20 +39,28 @@
             <Element Type="Float" ID="0x7B21E31A">
                 <DefaultValue>3.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x18381479">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x18381479">
+                <TypeFilter>
+                    <Element>CMDL</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x15534429">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x15534429">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x4CCEB7AD">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x4CCEB7AD">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xE41CB449">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xE41CB449">
+                <TypeFilter>
+                    <Element>SPSC</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x6758BF01">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x6758BF01">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xEE492513">
                 <DefaultValue>1.5</DefaultValue>

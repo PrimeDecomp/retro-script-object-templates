@@ -72,8 +72,8 @@
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
-            <Element Type="Int" ID="0x3DE26FC8">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x3DE26FC8">
+                <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>

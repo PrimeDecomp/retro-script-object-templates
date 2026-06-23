@@ -18,10 +18,10 @@
                 <Description>Enable Dark World damage and switch to the Dark World map.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9D0006AB">
+            <Element Type="Choice" ID="0x9D0006AB">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x56263E35">
+            <Element Type="Sound" ID="0x56263E35">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x64E5FE9F">
@@ -35,7 +35,7 @@
                     <Element>CMDL</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xFFEEBC46">
+            <Element Type="Choice" ID="0xFFEEBC46">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>
