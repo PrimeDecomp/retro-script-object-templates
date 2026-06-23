@@ -30090,8 +30090,8 @@
             <Value Name="OrbitMaxAngularChange"/>
         </Element>
         <Element>
-            <Key ID="0xA64AB9B8" Type="int"/>
-            <Value Name="Sound?"/>
+            <Key ID="0xA64AB9B8" Type="Flags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xA6597839" Type="asset"/>
