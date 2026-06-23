@@ -6,7 +6,7 @@
             <Element Type="Struct" ID="0x4BD8ECB9" Archetype="TweakControls_UnknownStruct2"/>
             <Element Type="Struct" ID="0x9ACB4ACE" Archetype="MapControls"/>
             <Element Type="Struct" ID="0xBE77DED2" Archetype="MiscControls"/>
-            <Element Type="Struct" ID="0x47069911" Archetype="TweakControls_UnknownStruct3"/>
+            <Element Type="Struct" ID="0x47069911" Archetype="DebugControls"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

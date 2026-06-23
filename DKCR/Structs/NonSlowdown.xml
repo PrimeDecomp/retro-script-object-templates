@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>NonSlowdown</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x7FCD6908" Archetype="AreaPathStructA">
+            <Element Type="Struct" ID="0x7FCD6908" Archetype="PathType">
                 <SubProperties>
                     <Element Type="Enum" ID="0xF4AC7CAA">
                         <DefaultValue>0x8C1B1D20</DefaultValue>

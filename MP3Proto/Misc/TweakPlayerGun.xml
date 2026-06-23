@@ -13,21 +13,21 @@
             <Element Type="Struct" ID="0x8DA058FE" Archetype="TweakPlayerGun_RicochetDamage_Factor"/>
             <Element Type="Struct" ID="0xFFDB4BB7" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Int" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F">
                         <DefaultValue>304</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x26196738" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Int" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F">
                         <DefaultValue>304</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x12F14C5A" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Int" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F">
                         <DefaultValue>307</DefaultValue>
                     </Element>
                 </SubProperties>

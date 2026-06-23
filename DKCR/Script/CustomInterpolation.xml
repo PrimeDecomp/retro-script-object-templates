@@ -4,7 +4,7 @@
         <Name>CustomInterpolation</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0x67A984CB">
+            <Element Type="Flags" ID="0x67A984CB">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>3</DefaultValue>
             </Element>

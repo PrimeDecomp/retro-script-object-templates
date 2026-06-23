@@ -54,11 +54,11 @@
             <Element Type="Int" ID="0x454F16B1">
                 <DefaultValue>5</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7F1613B7">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x7F1613B7">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7050D866">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x7050D866">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD4903C98">
                 <DefaultValue>2.0</DefaultValue>

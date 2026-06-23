@@ -82,12 +82,12 @@
             <Element Type="Float" ID="0x9579B1F2">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x9C5E7D6F" Archetype="ReptilicusHunterStruct"/>
-            <Element Type="Struct" ID="0xAA2BEE9A" Archetype="ReptilicusHunterStruct"/>
-            <Element Type="Struct" ID="0xE27A4E87" Archetype="ReptilicusHunterStruct"/>
-            <Element Type="Struct" ID="0x87B10A69" Archetype="CattleProd"/>
-            <Element Type="Struct" ID="0xD7548E97" Archetype="EnergyWhip"/>
-            <Element Type="Struct" ID="0x19A58C31" Archetype="Chakram"/>
+            <Element Type="Struct" ID="0x9C5E7D6F" Archetype="ReptilicusHunterHyperMode"/>
+            <Element Type="Struct" ID="0xAA2BEE9A" Archetype="ReptilicusHunterHyperMode"/>
+            <Element Type="Struct" ID="0xE27A4E87" Archetype="ReptilicusHunterHyperMode"/>
+            <Element Type="Struct" ID="0x87B10A69" Archetype="ReptilicusHunterCattleProd"/>
+            <Element Type="Struct" ID="0xD7548E97" Archetype="ReptilicusHunterEnergyWhip"/>
+            <Element Type="Struct" ID="0x19A58C31" Archetype="ReptilicusHunterChakram"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

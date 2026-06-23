@@ -91,7 +91,7 @@
             <Element Type="Float" ID="0x23CA0676">
                 <DefaultValue>0.5</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xFA51D735">
+            <Element Type="Flags" ID="0xFA51D735">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>

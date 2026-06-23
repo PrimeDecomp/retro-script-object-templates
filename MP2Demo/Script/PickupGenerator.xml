@@ -15,8 +15,10 @@
                 <CookPreference>Never</CookPreference>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xC5143FE">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xC5143FE">
+                <TypeFilter>
+                    <Element>RULE</Element>
+                </TypeFilter>
             </Element>
         </SubProperties>
     </Properties>

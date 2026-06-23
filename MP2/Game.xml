@@ -848,20 +848,48 @@
             <Value Path="Structs/BloggStruct.xml"/>
         </Element>
         <Element>
-            <Key>CameraHintStructA</Key>
-            <Value Path="Structs/CameraHintStructA.xml"/>
+            <Key>CameraBehaviour</Key>
+            <Value Path="Structs/CameraBehaviour.xml"/>
         </Element>
         <Element>
-            <Key>CameraHintStructB</Key>
-            <Value Path="Structs/CameraHintStructB.xml"/>
+            <Key>CameraDistance</Key>
+            <Value Path="Structs/CameraDistance.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraFOV</Key>
+            <Value Path="Structs/CameraFOV.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraHintStructA</Key>
+            <Value Path="Structs/CameraHintStructA.xml"/>
         </Element>
         <Element>
             <Key>CameraHintStructC</Key>
             <Value Path="Structs/CameraHintStructC.xml"/>
         </Element>
         <Element>
+            <Key>CameraOffset</Key>
+            <Value Path="Structs/CameraOffset.xml"/>
+        </Element>
+        <Element>
             <Key>CameraShakerData</Key>
             <Value Path="Structs/CameraShakerData.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraSpeed</Key>
+            <Value Path="Structs/CameraSpeed.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraZOffset</Key>
+            <Value Path="Structs/CameraZOffset.xml"/>
+        </Element>
+        <Element>
+            <Key>Command</Key>
+            <Value Path="Structs/Command.xml"/>
+        </Element>
+        <Element>
+            <Key>CommandData</Key>
+            <Value Path="Structs/CommandData.xml"/>
         </Element>
         <Element>
             <Key>ConditionalTest</Key>
@@ -872,18 +900,10 @@
             <Value Path="Structs/Connection.xml"/>
         </Element>
         <Element>
-            <Key>ControlHintStruct</Key>
-            <Value Path="Structs/ControlHintStruct.xml"/>
-        </Element>
-	<Element>
             <Key>ControllerActionCommand</Key>
             <Value Path="Enums/ControllerActionCommand.xml"/>
         </Element>
         <Element>
-            <Key>ControllerActionStruct</Key>
-            <Value Path="Structs/ControllerActionStruct.xml"/>
-        </Element>
-	<Element>
             <Key>ControllerMapping</Key>
             <Value Path="Enums/ControllerMapping.xml"/>
         </Element>
@@ -940,24 +960,52 @@
             <Value Path="Structs/EditorProperties.xml"/>
         </Element>
         <Element>
+            <Key>EmperorIngStage1BeamAttackData</Key>
+            <Value Path="Structs/EmperorIngStage1BeamAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>EmperorIngStage1Data</Key>
             <Value Path="Structs/EmperorIngStage1Data.xml"/>
+        </Element>
+        <Element>
+            <Key>EmperorIngStage1MeleeData</Key>
+            <Value Path="Structs/EmperorIngStage1MeleeData.xml"/>
+        </Element>
+        <Element>
+            <Key>EmperorIngStage1ProjectileAttackData</Key>
+            <Value Path="Structs/EmperorIngStage1ProjectileAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>EmperorIngStage1TauntAttackData</Key>
+            <Value Path="Structs/EmperorIngStage1TauntAttackData.xml"/>
         </Element>
         <Element>
             <Key>EmperorIngStage1TentacleData</Key>
             <Value Path="Structs/EmperorIngStage1TentacleData.xml"/>
         </Element>
         <Element>
+            <Key>EmperorIngStage1WarpAttackData</Key>
+            <Value Path="Structs/EmperorIngStage1WarpAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>EmperorIngStage2TentacleData</Key>
             <Value Path="Structs/EmperorIngStage2TentacleData.xml"/>
+        </Element>
+        <Element>
+            <Key>EmperorIngStage3Action</Key>
+            <Value Path="Structs/EmperorIngStage3Action.xml"/>
+        </Element>
+        <Element>
+            <Key>EmperorIngStage3DarkBeamAttackData</Key>
+            <Value Path="Structs/EmperorIngStage3DarkBeamAttackData.xml"/>
         </Element>
         <Element>
             <Key>EmperorIngStage3Data</Key>
             <Value Path="Structs/EmperorIngStage3Data.xml"/>
         </Element>
         <Element>
-            <Key>EmperorIngStage3StructA</Key>
-            <Value Path="Structs/EmperorIngStage3StructA.xml"/>
+            <Key>EmperorIngStage3PortalAttackData</Key>
+            <Value Path="Structs/EmperorIngStage3PortalAttackData.xml"/>
         </Element>
         <Element>
             <Key>EmperorIngStage3StructB</Key>
@@ -988,6 +1036,10 @@
             <Value Path="Structs/IngPossessionData.xml"/>
         </Element>
         <Element>
+            <Key>IngSpaceJumpGuardianData</Key>
+            <Value Path="Structs/IngSpaceJumpGuardianData.xml"/>
+        </Element>
+        <Element>
             <Key>IngSpaceJumpGuardianStruct</Key>
             <Value Path="Structs/IngSpaceJumpGuardianStruct.xml"/>
         </Element>
@@ -1010,6 +1062,10 @@
         <Element>
             <Key>LightParameters</Key>
             <Value Path="Structs/LightParameters.xml"/>
+        </Element>
+        <Element>
+            <Key>MinorIngIngSpot</Key>
+            <Value Path="Structs/MinorIngIngSpot.xml"/>
         </Element>
         <Element>
             <Key>MysteryFlyerData</Key>
@@ -1102,6 +1158,10 @@
         <Element>
             <Key>SplineType</Key>
             <Value Path="Structs/SplineType.xml"/>
+        </Element>
+        <Element>
+            <Key>SplitterCommandModuleData</Key>
+            <Value Path="Structs/SplitterCommandModuleData.xml"/>
         </Element>
         <Element>
             <Key>SplitterMainChassisData</Key>
@@ -1232,8 +1292,8 @@
             <Value Path="Structs/TweakGui_Credits.xml"/>
         </Element>
         <Element>
-            <Key>TweakGui_DarkVisor</Key>
-            <Value Path="Structs/TweakGui_DarkVisor.xml"/>
+            <Key>TweakGui_DarkWorld</Key>
+            <Value Path="Structs/TweakGui_DarkWorld.xml"/>
         </Element>
         <Element>
             <Key>TweakGui_EchoVisor</Key>
@@ -1280,6 +1340,10 @@
             <Value Path="Structs/TweakPlayerGun_Arm_Position.xml"/>
         </Element>
         <Element>
+            <Key>TweakPlayerGun_Beam_Combo</Key>
+            <Value Path="Structs/TweakPlayerGun_Beam_Combo.xml"/>
+        </Element>
+        <Element>
             <Key>TweakPlayerGun_Beam_Misc</Key>
             <Value Path="Structs/TweakPlayerGun_Beam_Misc.xml"/>
         </Element>
@@ -1298,10 +1362,6 @@
         <Element>
             <Key>TweakPlayerGun_RicochetDamage_Factor</Key>
             <Value Path="Structs/TweakPlayerGun_RicochetDamage_Factor.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakPlayerGun_UnknownStruct1</Key>
-            <Value Path="Structs/TweakPlayerGun_UnknownStruct1.xml"/>
         </Element>
         <Element>
             <Key>TweakPlayerGun_Weapons</Key>
@@ -1420,34 +1480,6 @@
             <Value Path="Structs/UnknownStruct17.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct2</Key>
-            <Value Path="Structs/UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct20</Key>
-            <Value Path="Structs/UnknownStruct20.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct21</Key>
-            <Value Path="Structs/UnknownStruct21.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct22</Key>
-            <Value Path="Structs/UnknownStruct22.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct23</Key>
-            <Value Path="Structs/UnknownStruct23.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct24</Key>
-            <Value Path="Structs/UnknownStruct24.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct26</Key>
-            <Value Path="Structs/UnknownStruct26.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct28</Key>
             <Value Path="Structs/UnknownStruct28.xml"/>
         </Element>
@@ -1466,14 +1498,6 @@
         <Element>
             <Key>UnknownStruct31</Key>
             <Value Path="Structs/UnknownStruct31.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct32</Key>
-            <Value Path="Structs/UnknownStruct32.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct33</Key>
-            <Value Path="Structs/UnknownStruct33.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct34</Key>
@@ -1500,10 +1524,6 @@
             <Value Path="Structs/UnknownStruct39.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct4</Key>
-            <Value Path="Structs/UnknownStruct4.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct40</Key>
             <Value Path="Structs/UnknownStruct40.xml"/>
         </Element>
@@ -1514,26 +1534,6 @@
         <Element>
             <Key>UnknownStruct42</Key>
             <Value Path="Structs/UnknownStruct42.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct43</Key>
-            <Value Path="Structs/UnknownStruct43.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct5</Key>
-            <Value Path="Structs/UnknownStruct5.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct6</Key>
-            <Value Path="Structs/UnknownStruct6.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct7</Key>
-            <Value Path="Structs/UnknownStruct7.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct8</Key>
-            <Value Path="Structs/UnknownStruct8.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct9</Key>

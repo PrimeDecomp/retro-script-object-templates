@@ -4,7 +4,7 @@
         <Name>PlayerTurret</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0xEEADEFA6">
+            <Element Type="Flags" ID="0xEEADEFA6">
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x17CD8B2A">

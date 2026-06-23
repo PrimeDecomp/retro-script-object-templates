@@ -41,7 +41,7 @@
                     <Element Name="kMT_Metal" ID="0x989B7842"/>
                     <Element Name="kMT_Grass" ID="0xF0F41378"/>
                     <Element Name="kMT_Ice" ID="0xA5A4C2F"/>
-                    <Element Name="kMT_MetaGrating" ID="0x220F8C0"/>
+                    <Element Name="kMT_MetalGrating" ID="0x220F8C0"/>
                     <Element Name="kMT_Phazon" ID="0x29019A90"/>
                     <Element Name="kMT_Dirt" ID="0x6CD0BAD"/>
                     <Element Name="kMT_SP_Metal" ID="0x1F07868B"/>
@@ -49,7 +49,7 @@
                     <Element Name="kMT_Snow" ID="0xA8294FA8"/>
                     <Element Name="kMT_Shield" ID="0xB6A39E41"/>
                     <Element Name="kMT_Sand" ID="0x3ED0780A"/>
-                    <Element Name="kMT_SeedOrganics" ID="0xD32E4F9E"/>
+                    <Element Name="kMT_Seed_Organics" ID="0xD32E4F9E"/>
                     <Element Name="kMT_Web" ID="0xD4DCF070"/>
                     <Element Name="kMT_Wood" ID="0xA237F316"/>
                     <Element Name="kMT_Organic" ID="0x519DB628"/>
@@ -60,8 +60,8 @@
                 <DefaultValue>0xDE8CE5BD</DefaultValue>
                 <Values>
                     <Element Name="kACR_Default" ID="0xDE8CE5BD"/>
-                    <Element Name="Unknown 2" ID="0x26E57C67"/>
-                    <Element Name="Unknown 3" ID="0x3FDFBD8E"/>
+                    <Element Name="kACR_EnemyMetal" ID="0x26E57C67"/>
+                    <Element Name="kACR_EnemyOther" ID="0x3FDFBD8E"/>
                 </Values>
             </Element>
             <Element Type="Int" ID="0xC712847C">

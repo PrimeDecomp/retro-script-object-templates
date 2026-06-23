@@ -8,7 +8,7 @@
         <Name>OctapedeSegment</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0xBE73724A">
+            <Element Type="Choice" ID="0xBE73724A">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xB3774750" Archetype="PatternedAITypedef">

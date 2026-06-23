@@ -31,7 +31,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0x560CF813" Archetype="UnknownStruct43"/>
+            <Element Type="Struct" ID="0x560CF813" Archetype="SplitterCommandModuleData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

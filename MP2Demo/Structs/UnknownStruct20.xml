@@ -27,8 +27,10 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xCB0B919B">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xCB0B919B">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Float" ID="0x75DBB375">
                 <DefaultValue>4.0</DefaultValue>

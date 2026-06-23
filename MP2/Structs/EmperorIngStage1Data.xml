@@ -4,11 +4,11 @@
         <Name>EmperorIngStage1Data</Name>
         <SubProperties>
             <Element Type="Struct" ID="0xB3C6398F" Archetype="EmperorIngStage1TentacleData"/>
-            <Element Type="Struct" ID="0xF59F9A60" Archetype="UnknownStruct20"/>
-            <Element Type="Struct" ID="0xA1CDA0B6" Archetype="UnknownStruct21"/>
-            <Element Type="Struct" ID="0x85F36473" Archetype="UnknownStruct22"/>
-            <Element Type="Struct" ID="0xB4BC04C4" Archetype="UnknownStruct23"/>
-            <Element Type="Struct" ID="0x8E6D20EC" Archetype="UnknownStruct24"/>
+            <Element Type="Struct" ID="0xF59F9A60" Archetype="EmperorIngStage1MeleeData"/>
+            <Element Type="Struct" ID="0xA1CDA0B6" Archetype="EmperorIngStage1ProjectileAttackData"/>
+            <Element Type="Struct" ID="0x85F36473" Archetype="EmperorIngStage1WarpAttackData"/>
+            <Element Type="Struct" ID="0xB4BC04C4" Archetype="EmperorIngStage1TauntAttackData"/>
+            <Element Type="Struct" ID="0x8E6D20EC" Archetype="EmperorIngStage1BeamAttackData"/>
             <Element Type="Float" ID="0xA588AFD1">
                 <DefaultValue>0.0</DefaultValue>
             </Element>

@@ -12,14 +12,14 @@
             <Element Type="Float" ID="0x76BA1C18">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x3826EC75" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0x93BF1106" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0xC4B88B80" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0x32C6DC77" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0xC6E7B293" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0x20746B56" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0x2AB44ADB" Archetype="UnknownStruct2"/>
-            <Element Type="Struct" ID="0xE2E78A78" Archetype="UnknownStruct2"/>
+            <Element Type="Struct" ID="0x3826EC75" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0x93BF1106" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0xC4B88B80" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0x32C6DC77" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0xC6E7B293" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0x20746B56" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0x2AB44ADB" Archetype="EmperorIngStage3Action"/>
+            <Element Type="Struct" ID="0xE2E78A78" Archetype="EmperorIngStage3Action"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

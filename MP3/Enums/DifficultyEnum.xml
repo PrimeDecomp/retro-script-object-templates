@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
+    <PropertyArchetype Type="Enum">
+        <Name>DifficultyEnum</Name>
+        <Values>
+            <Element Name="kDifficulty_Normal" ID="0x9275262C"/>
+            <Element Name="kDifficulty_Veteran" ID="0x8CD01A7E"/>
+            <Element Name="kDifficulty_Hypermode" ID="0x80DA56BD"/>
+            <Element Name="kDifficulty_All" ID="0xF12A35C6"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

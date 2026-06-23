@@ -632,10 +632,6 @@
             <Value Path="Structs/ActorParameters.xml"/>
         </Element>
         <Element>
-            <Key>Armor</Key>
-            <Value Path="Structs/Armor.xml"/>
-        </Element>
-        <Element>
             <Key>Ball</Key>
             <Value Path="Structs/Ball.xml"/>
         </Element>
@@ -706,14 +702,6 @@
         <Element>
             <Key>CameraShakerEnvelope</Key>
             <Value Path="Structs/CameraShakerEnvelope.xml"/>
-        </Element>
-        <Element>
-            <Key>CattleProd</Key>
-            <Value Path="Structs/CattleProd.xml"/>
-        </Element>
-        <Element>
-            <Key>Chakram</Key>
-            <Value Path="Structs/Chakram.xml"/>
         </Element>
         <Element>
             <Key>ChasePosition</Key>
@@ -808,10 +796,6 @@
             <Value Path="Structs/ElectricBeamInfo.xml"/>
         </Element>
         <Element>
-            <Key>EnergyWhip</Key>
-            <Value Path="Structs/EnergyWhip.xml"/>
-        </Element>
-        <Element>
             <Key>EyePodData</Key>
             <Value Path="Structs/EyePodData.xml"/>
         </Element>
@@ -848,12 +832,24 @@
             <Value Path="Structs/FlyerSwarmData.xml"/>
         </Element>
         <Element>
+            <Key>FlyingPirateArmorData</Key>
+            <Value Path="Structs/FlyingPirateArmorData.xml"/>
+        </Element>
+        <Element>
+            <Key>FlyingPirateBlasterData</Key>
+            <Value Path="Structs/FlyingPirateBlasterData.xml"/>
+        </Element>
+        <Element>
             <Key>FlyingPirateData</Key>
             <Value Path="Structs/FlyingPirateData.xml"/>
         </Element>
         <Element>
             <Key>FlyingPirateHelixMissileData</Key>
             <Value Path="Structs/FlyingPirateHelixMissileData.xml"/>
+        </Element>
+        <Element>
+            <Key>FlyingPirateJetPackData</Key>
+            <Value Path="Structs/FlyingPirateJetPackData.xml"/>
         </Element>
         <Element>
             <Key>FriendlyData</Key>
@@ -876,8 +872,8 @@
             <Value Path="Structs/GrappleData.xml"/>
         </Element>
         <Element>
-            <Key>GrappleInfo</Key>
-            <Value Path="Structs/GrappleInfo.xml"/>
+            <Key>GrappleParameters</Key>
+            <Value Path="Structs/GrappleParameters.xml"/>
         </Element>
         <Element>
             <Key>GuiWidgetProperties</Key>
@@ -914,10 +910,6 @@
         <Element>
             <Key>InventoryControls</Key>
             <Value Path="Structs/InventoryControls.xml"/>
-        </Element>
-        <Element>
-            <Key>JetPack</Key>
-            <Value Path="Structs/JetPack.xml"/>
         </Element>
         <Element>
             <Key>KorakkData</Key>
@@ -1020,10 +1012,6 @@
             <Value Path="Structs/PTCNoseTurretData.xml"/>
         </Element>
         <Element>
-            <Key>ParticleBlaster</Key>
-            <Value Path="Structs/ParticleBlaster.xml"/>
-        </Element>
-        <Element>
             <Key>PathDetermination</Key>
             <Value Path="Structs/PathDetermination.xml"/>
         </Element>
@@ -1124,8 +1112,20 @@
             <Value Path="Structs/RagDollData.xml"/>
         </Element>
         <Element>
+            <Key>ReptilicusHunterCattleProd</Key>
+            <Value Path="Structs/ReptilicusHunterCattleProd.xml"/>
+        </Element>
+        <Element>
+            <Key>ReptilicusHunterChakram</Key>
+            <Value Path="Structs/ReptilicusHunterChakram.xml"/>
+        </Element>
+        <Element>
             <Key>ReptilicusHunterData</Key>
             <Value Path="Structs/ReptilicusHunterData.xml"/>
+        </Element>
+        <Element>
+            <Key>ReptilicusHunterEnergyWhip</Key>
+            <Value Path="Structs/ReptilicusHunterEnergyWhip.xml"/>
         </Element>
         <Element>
             <Key>RevolutionControl</Key>

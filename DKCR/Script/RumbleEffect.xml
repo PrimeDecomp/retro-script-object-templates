@@ -10,7 +10,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0x4F7FEC39">
+            <Element Type="Flags" ID="0x4F7FEC39">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>240</DefaultValue>
             </Element>

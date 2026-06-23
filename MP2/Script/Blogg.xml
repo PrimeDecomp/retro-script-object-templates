@@ -112,8 +112,8 @@
             <Element Type="Float" ID="0x648A2486">
                 <DefaultValue>0.2</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x41949B8">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x41949B8">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
             <Element Type="Struct" ID="0x2AF6FF25" Archetype="DamageVulnerability"/>

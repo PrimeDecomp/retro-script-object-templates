@@ -33,11 +33,15 @@
             <Element Type="Struct" ID="0xA7326A3" Archetype="DamageVulnerability"/>
             <Element Type="AnimationSet" ID="0xA18F626B"/>
             <Element Type="AnimationSet" ID="0xABEF809"/>
-            <Element Type="Int" ID="0x4F3A4566">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x4F3A4566">
+                <TypeFilter>
+                    <Element>CMDL</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x401BC111">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x401BC111">
+                <TypeFilter>
+                    <Element>CSKR</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Float" ID="0xEA4B88C8">
                 <DefaultValue>10.0</DefaultValue>
@@ -115,8 +119,10 @@
             <Element Type="Float" ID="0xB00775E6">
                 <DefaultValue>20.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7EF9AA67">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x7EF9AA67">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0x5285DB00" Archetype="DamageInfo">
                 <SubProperties>
@@ -128,14 +134,18 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0x30B81A7E">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x30B81A7E">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Int" ID="0xED76B137">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xFFCEE1A9">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xFFCEE1A9">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Int" ID="0x5D47E3DF">
                 <DefaultValue>-1</DefaultValue>
@@ -144,8 +154,10 @@
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xEDD43636" Archetype="DamageInfo"/>
-            <Element Type="Int" ID="0x5439A08">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x5439A08">
+                <TypeFilter>
+                    <Element>WPSC</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Int" ID="0xD4753FF4">
                 <DefaultValue>4</DefaultValue>

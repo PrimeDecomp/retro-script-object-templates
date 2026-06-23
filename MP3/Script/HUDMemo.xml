@@ -13,16 +13,20 @@
             <Element Type="Bool" ID="0xAFD0158E">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x4AB3B95B">
+            <Element Type="Choice" ID="0x4AB3B95B">
                 <DefaultValue>0</DefaultValue>
+                <Values>
+                    <Element Name="Status Message" ID="0x0"/>
+                    <Element Name="Message Box" ID="0x1"/>
+                </Values>
             </Element>
             <Element Type="Enum" ID="0x2B4E290C">
                 <DefaultValue>0x35E07A31</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x35E07A31"/>
-                    <Element Name="Unknown 2" ID="0x1313DCF"/>
-                    <Element Name="Unknown 3" ID="0x150DCCDB"/>
-                    <Element Name="Unknown 4" ID="0xCE142DAA"/>
+                    <Element Name="Traditional" ID="0x35E07A31"/>
+                    <Element Name="Tutorial" ID="0x1313DCF"/>
+                    <Element Name="Unknown" ID="0x150DCCDB"/>
+                    <Element Name="IFT" ID="0xCE142DAA"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0xE4C54C15">

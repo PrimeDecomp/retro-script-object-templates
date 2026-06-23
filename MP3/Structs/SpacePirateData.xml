@@ -211,9 +211,9 @@
                 <DefaultValue>1.5</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xC3B6103B" Archetype="SpacePirateWeaponData"/>
-            <Element Type="Struct" ID="0x4FDAB367" Archetype="SpacePirateStruct"/>
-            <Element Type="Struct" ID="0x37212693" Archetype="SpacePirateStruct"/>
-            <Element Type="Struct" ID="0x91B4CB73" Archetype="SpacePirateStruct"/>
+            <Element Type="Struct" ID="0x4FDAB367" Archetype="SpacePirateHyperModeData"/>
+            <Element Type="Struct" ID="0x37212693" Archetype="SpacePirateHyperModeData"/>
+            <Element Type="Struct" ID="0x91B4CB73" Archetype="SpacePirateHyperModeData"/>
             <Element Type="Bool" ID="0x7C1DE29">
                 <DefaultValue>false</DefaultValue>
             </Element>

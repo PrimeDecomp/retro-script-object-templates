@@ -11,90 +11,90 @@
             <Element Type="Enum" ID="0x58D2DDB">
                 <DefaultValue>0x9165E2BE</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x4CE54A6A"/>
-                    <Element Name="Unknown 2" ID="0x67C819A9"/>
-                    <Element Name="Unknown 3" ID="0x73BC7843"/>
-                    <Element Name="Unknown 4" ID="0x6E214FD6"/>
-                    <Element Name="Unknown 5" ID="0x2859DC8"/>
-                    <Element Name="Unknown 6" ID="0x894242F4"/>
-                    <Element Name="Unknown 7" ID="0xDBA58F64"/>
-                    <Element Name="Unknown 8" ID="0x99808819"/>
-                    <Element Name="Unknown 9" ID="0x3A47B841"/>
-                    <Element Name="Unknown 10" ID="0x67CE3CA7"/>
-                    <Element Name="Unknown 11" ID="0xE25001DE"/>
-                    <Element Name="Unknown 12" ID="0x886C144C"/>
-                    <Element Name="Unknown 13" ID="0x79F4F13D"/>
-                    <Element Name="Unknown 14" ID="0xC7835EA3"/>
-                    <Element Name="Unknown 15" ID="0x6C31463A"/>
-                    <Element Name="Unknown 16" ID="0x3C8DD8C3"/>
-                    <Element Name="Unknown 17" ID="0x643D011"/>
-                    <Element Name="Unknown 18" ID="0x4CC9E3C"/>
-                    <Element Name="Unknown 19" ID="0x6D31E148"/>
-                    <Element Name="Unknown 20" ID="0x6D244648"/>
-                    <Element Name="Unknown 21" ID="0xF42D17F2"/>
-                    <Element Name="Unknown 22" ID="0x832A2764"/>
-                    <Element Name="Unknown 23" ID="0x55A9BEB5"/>
-                    <Element Name="Unknown 24" ID="0x1166F1A0"/>
-                    <Element Name="Unknown 25" ID="0xE4F24DCE"/>
-                    <Element Name="Unknown 26" ID="0xEA9E166B"/>
-                    <Element Name="Unknown 27" ID="0xEAF2E55"/>
-                    <Element Name="Unknown 28" ID="0x2D6989E7"/>
-                    <Element Name="Unknown 29" ID="0xE466E0DA"/>
-                    <Element Name="Unknown 30" ID="0x61F8DDA3"/>
-                    <Element Name="Unknown 31" ID="0x6DFFFB18"/>
-                    <Element Name="Unknown 32" ID="0xB6B63209"/>
-                    <Element Name="Unknown 33" ID="0x8A190E03"/>
-                    <Element Name="Unknown 34" ID="0xDB7B08CA"/>
-                    <Element Name="Unknown 35" ID="0x8A4A9B4B"/>
-                    <Element Name="Unknown 36" ID="0x8D782A7E"/>
-                    <Element Name="Unknown 37" ID="0x8AB6770A"/>
-                    <Element Name="Unknown 38" ID="0xB77D7BCF"/>
-                    <Element Name="Unknown 39" ID="0x37058133"/>
-                    <Element Name="Unknown 40" ID="0x397C9E8A"/>
-                    <Element Name="Unknown 41" ID="0xE98512A7"/>
-                    <Element Name="Unknown 42" ID="0xC36FD7F4"/>
-                    <Element Name="Unknown 43" ID="0x5A66864E"/>
-                    <Element Name="Unknown 44" ID="0x2D61B6D8"/>
-                    <Element Name="Unknown 45" ID="0xEDA3D152"/>
-                    <Element Name="Unknown 46" ID="0x128B02F6"/>
-                    <Element Name="Unknown 47" ID="0x4C1AD4BF"/>
-                    <Element Name="Unknown 48" ID="0xD58C3130"/>
-                    <Element Name="Unknown 49" ID="0x9872842"/>
-                    <Element Name="Unknown 50" ID="0xDAC42DF0"/>
-                    <Element Name="Unknown 51" ID="0xB4E7A2D1"/>
-                    <Element Name="Unknown 52" ID="0x9C3D08C1"/>
-                    <Element Name="Unknown 53" ID="0x534597B"/>
-                    <Element Name="Unknown 54" ID="0x723369ED"/>
-                    <Element Name="Unknown 55" ID="0xEC57FC4E"/>
-                    <Element Name="Unknown 56" ID="0x2845A7A5"/>
-                    <Element Name="Unknown 57" ID="0x5E5ADE98"/>
-                    <Element Name="Unknown 58" ID="0xE535F8F1"/>
-                    <Element Name="Unknown 59" ID="0x3CD8CFAE"/>
-                    <Element Name="Unknown 60" ID="0xA4310A14"/>
-                    <Element Name="Unknown 61" ID="0x85694AAD"/>
-                    <Element Name="Unknown 62" ID="0x80BC1276"/>
-                    <Element Name="Unknown 63" ID="0xB45D853A"/>
-                    <Element Name="Unknown 64" ID="0x5B78C277"/>
-                    <Element Name="Unknown 65" ID="0xF887030"/>
-                    <Element Name="Unknown 66" ID="0x70E804F"/>
-                    <Element Name="Unknown 67" ID="0x62C68436"/>
-                    <Element Name="Unknown 68" ID="0x7110511D"/>
-                    <Element Name="Unknown 69" ID="0xE2AEF7CE"/>
-                    <Element Name="Unknown 70" ID="0x72A644B7"/>
-                    <Element Name="Unknown 71" ID="0x9284C215"/>
-                    <Element Name="Unknown 72" ID="0x14002BB4"/>
-                    <Element Name="Unknown 73" ID="0xCA55D7B6"/>
-                    <Element Name="Unknown 74" ID="0x2FB34C10"/>
-                    <Element Name="Unknown 75" ID="0x1769996B"/>
-                    <Element Name="Unknown 76" ID="0xD14C8C39"/>
-                    <Element Name="Unknown 77" ID="0x6014E229"/>
-                    <Element Name="Unknown 78" ID="0x4F5FC5C3"/>
-                    <Element Name="Unknown 79" ID="0xF7A149A4"/>
-                    <Element Name="Unknown 80" ID="0xEA56EA89"/>
-                    <Element Name="Unknown 81" ID="0x16AF6C86"/>
-                    <Element Name="Unknown 82" ID="0x1C127C5A"/>
-                    <Element Name="Unknown 83" ID="0xA0DE5AC2"/>
-                    <Element Name="Unknown 84" ID="0x9165E2BE"/>
+                    <Element Name="kBA_TinCan10" ID="0x4CE54A6A"/>
+                    <Element Name="kBA_TinCan20" ID="0x67C819A9"/>
+                    <Element Name="kBA_BossBerserker_GFShip" ID="0x73BC7843"/>
+                    <Element Name="kBA_BossBerserkerHard_GFShip" ID="0x6E214FD6"/>
+                    <Element Name="Save Trooper 1" ID="0x2859DC8"/>
+                    <Element Name="Save Trooper 2" ID="0x894242F4"/>
+                    <Element Name="Save Trooper 3" ID="0xDBA58F64"/>
+                    <Element Name="Save Trooper 4" ID="0x99808819"/>
+                    <Element Name="kBA_EscapeRidley" ID="0x3A47B841"/>
+                    <Element Name="kBA_BossHatcher_GFPlanet" ID="0x67CE3CA7"/>
+                    <Element Name="kBA_BossHatcherHard_GFPlanet" ID="0xE25001DE"/>
+                    <Element Name="kBA_BossRidley_GFPlanet" ID="0x886C144C"/>
+                    <Element Name="kBA_BossRidleyHard_GFPlanet" ID="0x79F4F13D"/>
+                    <Element Name="kBA_BossRundas" ID="0xC7835EA3"/>
+                    <Element Name="kBA_BossRundasHard" ID="0x6C31463A"/>
+                    <Element Name="kBA_BossKorakk" ID="0x3C8DD8C3"/>
+                    <Element Name="kBA_BossKorakkHard" ID="0x643D011"/>
+                    <Element Name="kBA_BossMogenar" ID="0x4CC9E3C"/>
+                    <Element Name="kBA_BossMogenarHard" ID="0x6D31E148"/>
+                    <Element Name="kBA_RedPhazzoid_Bryyo1" ID="0x6D244648"/>
+                    <Element Name="kBA_RedPhazzoid_Bryyo2" ID="0xF42D17F2"/>
+                    <Element Name="kBA_RedPhazzoid_Bryyo3" ID="0x832A2764"/>
+                    <Element Name="kBA_BombGeneratorFire" ID="0x55A9BEB5"/>
+                    <Element Name="kBA_BombGeneratorPirate" ID="0x1166F1A0"/>
+                    <Element Name="kBA_DiscoverBryyoIce" ID="0xE4F24DCE"/>
+                    <Element Name="kBA_GauntletShortcut" ID="0xEA9E166B"/>
+                    <Element Name="kBA_ReptilicusSuicide" ID="0xEAF2E55"/>
+                    <Element Name="kBA_BryyoSwitches" ID="0x2D6989E7"/>
+                    <Element Name="kBA_BossHatcher_Valhalla" ID="0xE466E0DA"/>
+                    <Element Name="kBA_BossHatcherHard_Valhalla" ID="0x61F8DDA3"/>
+                    <Element Name="AU 313 Secret Message" ID="0x6DFFFB18"/>
+                    <Element Name="kBA_BossGhor" ID="0xB6B63209"/>
+                    <Element Name="kBA_BossGhorHard" ID="0x8A190E03"/>
+                    <Element Name="kBA_BossSteamlord" ID="0xDB7B08CA"/>
+                    <Element Name="kBA_BossSteamlordHard" ID="0x8A4A9B4B"/>
+                    <Element Name="kBA_BossMechanoid" ID="0x8D782A7E"/>
+                    <Element Name="kBA_BossMechanoidHard" ID="0x8AB6770A"/>
+                    <Element Name="kBA_BossBerserker_Skytown" ID="0xB77D7BCF"/>
+                    <Element Name="kBA_BossBerserkerHard_Skytown" ID="0x37058133"/>
+                    <Element Name="kBA_BossHelios" ID="0x397C9E8A"/>
+                    <Element Name="kBA_BossHeliosHard" ID="0xE98512A7"/>
+                    <Element Name="kBA_RedPhazzoid_Skytown1" ID="0xC36FD7F4"/>
+                    <Element Name="kBA_RedPhazzoid_Skytown2" ID="0x5A66864E"/>
+                    <Element Name="kBA_RedPhazzoid_Skytown3" ID="0x2D61B6D8"/>
+                    <Element Name="kBA_SkytownBridge" ID="0xEDA3D152"/>
+                    <Element Name="kBA_DiscoverPod" ID="0x128B02F6"/>
+                    <Element Name="Seed Shield Destroyed" ID="0x4C1AD4BF"/>
+                    <Element Name="kBA_LeviathanEye" ID="0xD58C3130"/>
+                    <Element Name="kBA_DefenseSystem" ID="0x9872842"/>
+                    <Element Name="kBA_BossRidley_Pirate" ID="0xDAC42DF0"/>
+                    <Element Name="kBA_BossRidleyHard_Pirate" ID="0xB4E7A2D1"/>
+                    <Element Name="kBA_RedPhazzoid_Pirate1" ID="0x9C3D08C1"/>
+                    <Element Name="kBA_RedPhazzoid_Pirate2" ID="0x534597B"/>
+                    <Element Name="kBA_RedPhazzoid_Pirate3" ID="0x723369ED"/>
+                    <Element Name="kBA_RedPhazzoid_Pirate4" ID="0xEC57FC4E"/>
+                    <Element Name="kBA_BossGandrayda" ID="0x2845A7A5"/>
+                    <Element Name="kBA_BossGandraydaHard" ID="0x5E5ADE98"/>
+                    <Element Name="kBA_BossHatcher_Pirate" ID="0xE535F8F1"/>
+                    <Element Name="kBA_BossHatcherHard_Pirate" ID="0x3CD8CFAE"/>
+                    <Element Name="kBA_BossHarvester" ID="0xA4310A14"/>
+                    <Element Name="kBA_BossHarvesterHard" ID="0x85694AAD"/>
+                    <Element Name="kBA_BossCommander" ID="0x80BC1276"/>
+                    <Element Name="kBA_BossCommanderHard" ID="0xB45D853A"/>
+                    <Element Name="20 Commando Kills" ID="0x5B78C277"/>
+                    <Element Name="All Troopers Survived" ID="0xF887030"/>
+                    <Element Name="kBA_BossDarkSamus" ID="0x70E804F"/>
+                    <Element Name="kBA_BossDarkSamusHard" ID="0x62C68436"/>
+                    <Element Name="kBA_BossAU" ID="0x7110511D"/>
+                    <Element Name="kBA_BossAUHard" ID="0xE2AEF7CE"/>
+                    <Element Name="kBA_AllSeedSwarmsKilled" ID="0x72A644B7"/>
+                    <Element Name="kBA_ScanAU" ID="0x9284C215"/>
+                    <Element Name="kBA_ScanMogenar" ID="0x14002BB4"/>
+                    <Element Name="kBA_ScanMechaRidley" ID="0xCA55D7B6"/>
+                    <Element Name="kBA_ScanHelios" ID="0x2FB34C10"/>
+                    <Element Name="kBA_ScanGhor" ID="0x1769996B"/>
+                    <Element Name="kBA_ScanRundas" ID="0xD14C8C39"/>
+                    <Element Name="kBA_ScanGandrayda" ID="0x6014E229"/>
+                    <Element Name="kBA_ScanDarkSamus" ID="0x4F5FC5C3"/>
+                    <Element Name="kBA_BeatenReptilicus" ID="0xF7A149A4"/>
+                    <Element Name="kBA_FlyingPirateJetpackGrappled" ID="0xEA56EA89"/>
+                    <Element Name="kBA_ScanDefenseMechanoid" ID="0x16AF6C86"/>
+                    <Element Name="kBA_BowlingForBots" ID="0x1C127C5A"/>
+                    <Element Name="kBA_Kill100" ID="0xA0DE5AC2"/>
+                    <Element Name="kBA_Invalid" ID="0x9165E2BE"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x974F4AA1">

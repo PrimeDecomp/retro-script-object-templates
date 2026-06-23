@@ -31,11 +31,15 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x1660C34E">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x1660C34E">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xDD3C10EB">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xDD3C10EB">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xD756416E" Archetype="DamageInfo">
                 <SubProperties>

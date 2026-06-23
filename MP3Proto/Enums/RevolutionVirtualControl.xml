@@ -3,16 +3,16 @@
     <PropertyArchetype Type="Enum">
         <Name>RevolutionVirtualControl</Name>
         <Values>
-            <Element Name="Unknown1" ID="0xB2AA1FD4"/>
-            <Element Name="Unknown2" ID="0xFA440E50"/>
-            <Element Name="Unknown3" ID="0xFFF587AC"/>
-            <Element Name="Unknown4" ID="0x143C838B"/>
-            <Element Name="Unknown5" ID="0x996DF0FF"/>
-            <Element Name="Unknown6" ID="0x179F1B62"/>
-            <Element Name="Unknown7" ID="0x3104E81D"/>
-            <Element Name="Unknown8" ID="0xDEA0461C"/>
-            <Element Name="Unknown9" ID="0x2FA1AFC0"/>
-            <Element Name="Unknown10" ID="0xB838314F"/>
+            <Element Name="kRVC_Tap" ID="0xB2AA1FD4"/>
+            <Element Name="kRVC_FlickRight" ID="0xFA440E50"/>
+            <Element Name="kRVC_FlickLeft" ID="0xFFF587AC"/>
+            <Element Name="kRVC_FlickUp" ID="0x143C838B"/>
+            <Element Name="kRVC_FlickDown" ID="0x996DF0FF"/>
+            <Element Name="kRVC_NunchakuTap" ID="0x179F1B62"/>
+            <Element Name="kRVC_NunchakuFlickRight" ID="0x3104E81D"/>
+            <Element Name="kRVC_NunchakuFlickLeft" ID="0xDEA0461C"/>
+            <Element Name="kRVC_NunchakuFlickUp" ID="0x2FA1AFC0"/>
+            <Element Name="kRVC_NunchakuFlickDown" ID="0xB838314F"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

@@ -96,14 +96,18 @@
             <Element Type="Int" ID="0xBF583BF2">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x1660C34E">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x1660C34E">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Int" ID="0x86D50737">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xDD3C10EB">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xDD3C10EB">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Int" ID="0x91AE1374">
                 <DefaultValue>0</DefaultValue>
