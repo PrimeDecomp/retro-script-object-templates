@@ -379,7 +379,7 @@
         </Element>
         <Element>
             <Key>IFTC</Key>
-            <Value Path="Script/IFT.xml"/>
+            <Value Path="Script/IncomingFieldTransmission.xml"/>
         </Element>
         <Element>
             <Key>KRAK</Key>
@@ -1308,6 +1308,10 @@
             <Value Path="Structs/OptionalAreaAssetTypes.xml"/>
         </Element>
         <Element>
+            <Key>Orientation</Key>
+            <Value Path="Enums/Orientation.xml"/>
+        </Element>
+        <Element>
             <Key>OrientationInterpolationMethod</Key>
             <Value Path="Structs/OrientationInterpolationMethod.xml"/>
         </Element>
@@ -1462,6 +1466,10 @@
         <Element>
             <Key>ReptilicusHunterHyperMode</Key>
             <Value Path="Structs/ReptilicusHunterHyperMode.xml"/>
+        </Element>
+        <Element>
+            <Key>RevViewLockType</Key>
+            <Value Path="Enums/RevViewLockType.xml"/>
         </Element>
         <Element>
             <Key>RevolutionControl</Key>
@@ -1880,10 +1888,6 @@
             <Value Path="Structs/TweakPlayer_AimStuff.xml"/>
         </Element>
         <Element>
-            <Key>TweakPlayer_AimStuff_UnknownEnum1</Key>
-            <Value Path="Enums/TweakPlayer_AimStuff_UnknownEnum1.xml"/>
-        </Element>
-        <Element>
             <Key>TweakPlayer_AimStuff_UnknownEnum2</Key>
             <Value Path="Enums/TweakPlayer_AimStuff_UnknownEnum2.xml"/>
         </Element>
@@ -1970,10 +1974,6 @@
         <Element>
             <Key>TweakTargeting_UnknownStruct3</Key>
             <Value Path="Structs/TweakTargeting_UnknownStruct3.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownEnum1</Key>
-            <Value Path="Enums/UnknownEnum1.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct1</Key>

@@ -6,13 +6,13 @@
             <Element Type="Enum" ID="0xB7CD4710">
                 <DefaultValue>0xC239D6DB</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xC239D6DB"/>
-                    <Element Name="Unknown 2" ID="0x29BA93E8"/>
-                    <Element Name="Unknown 3" ID="0x93F79C1A"/>
-                    <Element Name="Unknown 4" ID="0x59BFFB56"/>
-                    <Element Name="Unknown 5" ID="0x10AB9150"/>
-                    <Element Name="Unknown 6" ID="0x13B150BB"/>
-                    <Element Name="Unknown 7" ID="0xACB5235F"/>
+                    <Element Name="kPT_Colliders" ID="0xC239D6DB"/>
+                    <Element Name="kPT_Chase" ID="0x29BA93E8"/>
+                    <Element Name="kPT_Path" ID="0x93F79C1A"/>
+                    <Element Name="kPT_Stationary" ID="0x59BFFB56"/>
+                    <Element Name="kPT_Spindle" ID="0x10AB9150"/>
+                    <Element Name="kPT_Surface" ID="0x13B150BB"/>
+                    <Element Name="kPT_Offset" ID="0xACB5235F"/>
                 </Values>
             </Element>
             <Element Type="Flags" ID="0xB1B6CF33">

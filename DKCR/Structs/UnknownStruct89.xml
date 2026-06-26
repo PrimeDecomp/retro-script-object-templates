@@ -32,7 +32,7 @@
             </Element>
             <Element Type="Struct" ID="0x68FD49AE" Archetype="AnimGridModifierData"/>
             <Element Type="Struct" ID="0xA81F44" Archetype="UnknownStruct85"/>
-            <Element Type="Struct" ID="0xACEEF42B" Archetype="UnknownStruct86"/>
+            <Element Type="Struct" ID="0xACEEF42B" Archetype="LocomotionSpeed"/>
             <Element Type="Struct" ID="0x1E64B8DF" Archetype="UnknownStruct87"/>
             <Element Type="Struct" ID="0x4DEDF14" Archetype="UnknownStruct88"/>
         </SubProperties>

@@ -6,14 +6,14 @@
             <Element Type="Enum" ID="0x723DD19C">
                 <DefaultValue>0xCEA073FF</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xCEA073FF"/>
-                    <Element Name="Unknown 2" ID="0x4E5B5AA9"/>
+                    <Element Name="kIT_Radius" ID="0xCEA073FF"/>
+                    <Element Name="kIT_ZOffset" ID="0x4E5B5AA9"/>
                     <Element Name="Unknown 3" ID="0x2612ACD"/>
                     <Element Name="Unknown 4" ID="0xA7993B8"/>
                     <Element Name="Unknown 5" ID="0x60C3E081"/>
-                    <Element Name="Unknown 6" ID="0x8F2901CB"/>
-                    <Element Name="Unknown 7" ID="0x6FAE276E"/>
-                    <Element Name="Unknown 8" ID="0xB8FE02D2"/>
+                    <Element Name="kIT_SpindleObjectRadius" ID="0x8F2901CB"/>
+                    <Element Name="kIT_SpindleObjectZOffset" ID="0x6FAE276E"/>
+                    <Element Name="kIT_PlayerSpline" ID="0xB8FE02D2"/>
                 </Values>
             </Element>
             <Element Type="Spline" ID="0x9A598FA5"/>

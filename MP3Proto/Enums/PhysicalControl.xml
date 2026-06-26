@@ -20,10 +20,10 @@
             <Element Name="kControl_REV_AnalogLeft" ID="0x783DE2D4"/>
             <Element Name="kControl_REV_Z1" ID="0x45C3998B"/>
             <Element Name="kControl_REV_Z2" ID="0xDCCAC831"/>
-            <Element Name="Unknown18" ID="0x572AC00B"/>
-            <Element Name="Unknown19" ID="0x4D3B3B88"/>
-            <Element Name="Unknown20" ID="0x34F1BC04"/>
-            <Element Name="Unknown21" ID="0x2BA34CDB"/>
+            <Element Name="kControl_REV_DPD_Up" ID="0x572AC00B"/>
+            <Element Name="kControl_REV_DPD_Down" ID="0x4D3B3B88"/>
+            <Element Name="kControl_REV_DPD_Right" ID="0x34F1BC04"/>
+            <Element Name="kControl_REV_DPD_Left" ID="0x2BA34CDB"/>
             <Element Name="kControl_GC_A" ID="0xE118233E"/>
             <Element Name="kControl_GC_B" ID="0x78117284"/>
             <Element Name="kControl_GC_X" ID="0x85738BFE"/>
@@ -46,13 +46,13 @@
             <Element Name="kControl_GC_CStickDown" ID="0x9C368418"/>
             <Element Name="kControl_GC_CStickRight" ID="0xC42F22FF"/>
             <Element Name="kControl_GC_CStickLeft" ID="0xFAAEF34B"/>
-            <Element Name="Unknown44" ID="0xEF810AAF"/>
-            <Element Name="Unknown45" ID="0xFCE1D160"/>
-            <Element Name="Unknown46" ID="0x9A910CA4"/>
-            <Element Name="Unknown47" ID="0x9A79A633"/>
-            <Element Name="Unknown48" ID="0x1752C5AD"/>
-            <Element Name="Unknown49" ID="0x738A4388"/>
-            <Element Name="Unknown50" ID="0x3E6D0DB6"/>
+            <Element Name="kControl_PC_MouseUp" ID="0xEF810AAF"/>
+            <Element Name="kControl_PC_MouseDown" ID="0xFCE1D160"/>
+            <Element Name="kControl_PC_MouseRight" ID="0x9A910CA4"/>
+            <Element Name="kControl_PC_MouseLeft" ID="0x9A79A633"/>
+            <Element Name="kControl_PC_MouseLeftButton" ID="0x1752C5AD"/>
+            <Element Name="kControl_PC_MouseMiddleButton" ID="0x738A4388"/>
+            <Element Name="kControl_PC_MouseRightButton" ID="0x3E6D0DB6"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

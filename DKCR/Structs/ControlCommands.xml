@@ -6,44 +6,44 @@
             <Element Type="Enum" ID="0x418B3422">
                 <DefaultValue>0xF4863F16</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x1192F1D1"/>
-                    <Element Name="Unknown 2" ID="0x6732509F"/>
-                    <Element Name="Unknown 3" ID="0x1AA27CC"/>
-                    <Element Name="Unknown 4" ID="0xB70830A8"/>
+                    <Element Name="kCommand_Up" ID="0x1192F1D1"/>
+                    <Element Name="kCommand_Down" ID="0x6732509F"/>
+                    <Element Name="kCommand_Left" ID="0x1AA27CC"/>
+                    <Element Name="kCommand_Right" ID="0xB70830A8"/>
                     <Element Name="kCommand_Jump" ID="0xDC7EC6B2"/>
-                    <Element Name="Unknown 6" ID="0xED42C0E8"/>
-                    <Element Name="Unknown 7" ID="0x23F7DE2C"/>
-                    <Element Name="Unknown 8" ID="0x6AD40029"/>
-                    <Element Name="Unknown 9" ID="0xE08296BA"/>
-                    <Element Name="Unknown 10" ID="0x5EFCA4AE"/>
-                    <Element Name="Unknown 11" ID="0x4BA7BD0"/>
-                    <Element Name="Unknown 12" ID="0x95B1CCD6"/>
-                    <Element Name="Unknown 13" ID="0xC9CEDF9E"/>
-                    <Element Name="Unknown 14" ID="0x6FA8C19C"/>
+                    <Element Name="kCommand_Context" ID="0xED42C0E8"/>
+                    <Element Name="kCommand_Run" ID="0x23F7DE2C"/>
+                    <Element Name="kCommand_GroundPoundLeftStart" ID="0x6AD40029"/>
+                    <Element Name="kCommand_GroundPoundRightStart" ID="0xE08296BA"/>
+                    <Element Name="kCommand_GroundPoundLeftContinue" ID="0x5EFCA4AE"/>
+                    <Element Name="kCommand_GroundPoundRightContinue" ID="0x4BA7BD0"/>
+                    <Element Name="kCommand_Dismount" ID="0x95B1CCD6"/>
+                    <Element Name="kCommand_RespawnBalloon" ID="0xC9CEDF9E"/>
+                    <Element Name="kCommand_MoveBalloon" ID="0x6FA8C19C"/>
                     <Element Name="kCommand_MapSelect" ID="0x26E4C965"/>
-                    <Element Name="Unknown 16" ID="0x3B00E6D7"/>
-                    <Element Name="Unknown 17" ID="0xE4E02146"/>
-                    <Element Name="Unknown 18" ID="0xDFE16BE4"/>
-                    <Element Name="Unknown 19" ID="0xB9791CB7"/>
-                    <Element Name="Unknown 20" ID="0x70674B27"/>
+                    <Element Name="kCommand_MapCancel" ID="0x3B00E6D7"/>
+                    <Element Name="kCommand_MapUp" ID="0xE4E02146"/>
+                    <Element Name="kCommand_MapDown" ID="0xDFE16BE4"/>
+                    <Element Name="kCommand_MapLeft" ID="0xB9791CB7"/>
+                    <Element Name="kCommand_MapRight" ID="0x70674B27"/>
                     <Element Name="kCommand_MapZoomIn" ID="0xC5F44B08"/>
                     <Element Name="kCommand_MapZoomOut" ID="0xF4CD7E74"/>
-                    <Element Name="Unknown 23" ID="0x9B383394"/>
-                    <Element Name="Unknown 24" ID="0xA8961C2A"/>
+                    <Element Name="kCommand_MapFreeLook" ID="0x9B383394"/>
+                    <Element Name="kCommand_MapStartGame" ID="0xA8961C2A"/>
                     <Element Name="kCommand_ScreenshotTool" ID="0x84D0DFFA"/>
-                    <Element Name="Unknown 26" ID="0xAAF6CB4D"/>
-                    <Element Name="Unknown 27" ID="0x2693A3C"/>
-                    <Element Name="Unknown 28" ID="0x24B96818"/>
-                    <Element Name="Unknown 29" ID="0x36157B6F"/>
-                    <Element Name="Unknown 30" ID="0xCE529E10"/>
+                    <Element Name="kCommand_PauseGame" ID="0xAAF6CB4D"/>
+                    <Element Name="kCommand_NextMenuEntry" ID="0x2693A3C"/>
+                    <Element Name="kCommand_PreviousMenuEntry" ID="0x24B96818"/>
+                    <Element Name="kCommand_ExitMenu" ID="0x36157B6F"/>
+                    <Element Name="kCommand_SelectMenu" ID="0xCE529E10"/>
                     <Element Name="kCommand_SkipCinematic" ID="0x1FDD1EC2"/>
-                    <Element Name="Unknown 32" ID="0x2D22145F"/>
-                    <Element Name="Unknown 33" ID="0x305911A1"/>
-                    <Element Name="Unknown 34" ID="0x7FD04BC9"/>
-                    <Element Name="Unknown 35" ID="0x82B045FA"/>
-                    <Element Name="Unknown 36" ID="0xF4863F16"/>
-                    <Element Name="Invalid 1" ID="0x955321A2"/>
-                    <Element Name="Invalid 2" ID="0x5F3FCED8"/>
+                    <Element Name="kCommand_Retry" ID="0x2D22145F"/>
+                    <Element Name="kCommand_ViewReplay" ID="0x305911A1"/>
+                    <Element Name="kCommand_CopyFile" ID="0x7FD04BC9"/>
+                    <Element Name="kCommand_EraseFile" ID="0x82B045FA"/>
+                    <Element Name="kCommand_Invalid" ID="0xF4863F16"/>
+                    <Element Name="kCommand_DebugTeleportSpawnNext" ID="0x955321A2"/>
+                    <Element Name="kCommand_DebugTeleportSpawnPrevious" ID="0x5F3FCED8"/>
                 </Values>
             </Element>
         </SubProperties>

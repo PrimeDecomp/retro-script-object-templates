@@ -70,9 +70,9 @@
             <Element Type="Enum" ID="0x9939D085">
                 <DefaultValue>0xC22624A2</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xC22624A2"/>
-                    <Element Name="Unknown 2" ID="0xBA9C442B"/>
-                    <Element Name="Unknown 3" ID="0xDBEED746"/>
+                    <Element Name="kTransform_Exact" ID="0xC22624A2"/>
+                    <Element Name="kTransform_FastApprox" ID="0xBA9C442B"/>
+                    <Element Name="kTransform_PositionOnly" ID="0xDBEED746"/>
                 </Values>
             </Element>
             <Element Type="Color" ID="0x1F83D350">

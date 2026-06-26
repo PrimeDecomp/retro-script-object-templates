@@ -7,15 +7,15 @@
             <Element Type="Enum" ID="0x9654AF0E">
                 <DefaultValue>0xD43A816B</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xD43A816B"/>
-                    <Element Name="Unknown 2" ID="0xD8DC7212"/>
-                    <Element Name="Unknown 3" ID="0x88B63F61"/>
-                    <Element Name="Unknown 4" ID="0x929711CF"/>
-                    <Element Name="Unknown 5" ID="0x98ACA83D"/>
-                    <Element Name="Unknown 6" ID="0xE3EC9CAE"/>
-                    <Element Name="Unknown 7" ID="0x739501A9"/>
-                    <Element Name="Unknown 8" ID="0x521814AF"/>
-                    <Element Name="Unknown 9" ID="0x97A4BEDE"/>
+                    <Element Name="kPT_Normal" ID="0xD43A816B"/>
+                    <Element Name="kPT_SlaveObject" ID="0xD8DC7212"/>
+                    <Element Name="kPT_Visor_Combat" ID="0x88B63F61"/>
+                    <Element Name="kPT_Visor_Scan" ID="0x929711CF"/>
+                    <Element Name="kPT_Visor_Command" ID="0x98ACA83D"/>
+                    <Element Name="kPT_Visor_XRay" ID="0xE3EC9CAE"/>
+                    <Element Name="kPT_OrbitLock" ID="0x739501A9"/>
+                    <Element Name="kPT_HyperMode" ID="0x521814AF"/>
+                    <Element Name="kPT_HudMemo" ID="0x97A4BEDE"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0xD62F2D4E">

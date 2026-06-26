@@ -22,11 +22,11 @@
             <Element Type="Enum" ID="0x87A1C204">
                 <DefaultValue>0x62792E89</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x62792E89"/>
-                    <Element Name="Unknown 2" ID="0x4CB47445"/>
-                    <Element Name="Unknown 3" ID="0xC7A53277"/>
-                    <Element Name="Unknown 4" ID="0x5FA45235"/>
-                    <Element Name="Unknown 5" ID="0xAC00A131"/>
+                    <Element Name="kCS_CSI" ID="0x62792E89"/>
+                    <Element Name="kCS_Talk" ID="0x4CB47445"/>
+                    <Element Name="kCS_CantTalk" ID="0xC7A53277"/>
+                    <Element Name="kCS_Holstered" ID="0x5FA45235"/>
+                    <Element Name="kCS_None" ID="0xAC00A131"/>
                 </Values>
             </Element>
         </SubProperties>

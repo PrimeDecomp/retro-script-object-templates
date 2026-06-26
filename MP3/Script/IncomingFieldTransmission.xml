@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="Corruption">
     <Properties Type="Struct">
-        <Name>IFT</Name>
+        <Name>IncomingFieldTransmission</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Bool" ID="0x248DE37C">

@@ -6,7 +6,7 @@
             <Element Type="Enum" ID="0xE2AE470C">
                 <DefaultValue>0xB745A689</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB745A689"/>
+                    <Element Name="kCPT_Standard" ID="0xB745A689"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xC3BF43BE">

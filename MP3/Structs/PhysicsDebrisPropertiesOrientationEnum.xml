@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>PhysicsDebrisPropertiesOrientationEnum</Name>
         <SubProperties>
-            <Element Type="Enum" ID="0xF4BF6637" Archetype="UnknownEnum1">
+            <Element Type="Enum" ID="0xF4BF6637" Archetype="Orientation">
                 <DefaultValue>0x76A5FBFD</DefaultValue>
             </Element>
         </SubProperties>

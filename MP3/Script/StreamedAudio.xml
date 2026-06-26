@@ -45,9 +45,9 @@
             <Element Type="Enum" ID="0x9558711E">
                 <DefaultValue>0xFE6A473A</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x944017C4"/>
-                    <Element Name="Unknown 2" ID="0xE24C05EF"/>
-                    <Element Name="Unknown 3" ID="0xFE6A473A"/>
+                    <Element Name="kVG_SoundEffects" ID="0x944017C4"/>
+                    <Element Name="kVG_Music" ID="0xE24C05EF"/>
+                    <Element Name="kVG_Speech" ID="0xFE6A473A"/>
                 </Values>
             </Element>
         </SubProperties>

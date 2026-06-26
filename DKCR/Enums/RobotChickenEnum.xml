@@ -3,8 +3,8 @@
     <PropertyArchetype Type="Enum">
         <Name>RobotChickenEnum</Name>
         <Values>
-            <Element Name="Unknown 1" ID="0x8C665F9A"/>
-            <Element Name="Unknown 2" ID="0x5E7931A4"/>
+            <Element Name="Loop" ID="0x8C665F9A"/>
+            <Element Name="Once" ID="0x5E7931A4"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

@@ -6,8 +6,8 @@
             <Element Type="Enum" ID="0x5CE1B917">
                 <DefaultValue>0xAE14FDF2</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x2C537229"/>
-                    <Element Name="Unknown 2" ID="0xAE14FDF2"/>
+                    <Element Name="kSoundSelect_None" ID="0x2C537229"/>
+                    <Element Name="kSoundSelect_Default" ID="0xAE14FDF2"/>
                     <Element Name="Unknown 3" ID="0xD5CA1C57"/>
                     <Element Name="Unknown 4" ID="0xE9FDBE0"/>
                 </Values>

@@ -3,16 +3,16 @@
     <PropertyArchetype Type="Enum">
         <Name>MusicEnumB</Name>
         <Values>
-            <Element Name="Unknown 1" ID="0xCBF698CA"/>
-            <Element Name="Unknown 2" ID="0xBCF1A85C"/>
-            <Element Name="Unknown 3" ID="0x25F8F9E6"/>
-            <Element Name="Unknown 4" ID="0x52FFC970"/>
-            <Element Name="Unknown 5" ID="0xCC9B5CD3"/>
-            <Element Name="Unknown 6" ID="0xBB9C6C45"/>
-            <Element Name="Unknown 7" ID="0x22953DFF"/>
-            <Element Name="Unknown 8" ID="0x55920D69"/>
-            <Element Name="Unknown 9" ID="0xC52D10F8"/>
-            <Element Name="Unknown 10" ID="0xB22A206E"/>
+            <Element Name="kRSS_Music0" ID="0xCBF698CA"/>
+            <Element Name="kRSS_Music1" ID="0xBCF1A85C"/>
+            <Element Name="kRSS_Music2" ID="0x25F8F9E6"/>
+            <Element Name="kRSS_Music3" ID="0x52FFC970"/>
+            <Element Name="kRSS_Music4" ID="0xCC9B5CD3"/>
+            <Element Name="kRSS_Music5" ID="0xBB9C6C45"/>
+            <Element Name="kRSS_Music6" ID="0x22953DFF"/>
+            <Element Name="kRSS_Music7" ID="0x55920D69"/>
+            <Element Name="kRSS_Music8" ID="0xC52D10F8"/>
+            <Element Name="kRSS_Music9" ID="0xB22A206E"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

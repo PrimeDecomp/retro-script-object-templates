@@ -6,12 +6,12 @@
             <Element Type="Enum" ID="0x7D939A1">
                 <DefaultValue>0xB5C34B64</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB5C34B64"/>
-                    <Element Name="Unknown 2" ID="0x4A5C32BC"/>
-                    <Element Name="Unknown 3" ID="0xEC9FB9C8"/>
-                    <Element Name="Unknown 4" ID="0xF4859593"/>
+                    <Element Name="kAttackType_None" ID="0xB5C34B64"/>
+                    <Element Name="kAttackType_Bomb" ID="0x4A5C32BC"/>
+                    <Element Name="kAttackType_Swoop" ID="0xEC9FB9C8"/>
+                    <Element Name="kAttackType_Sink" ID="0xF4859593"/>
                     <Element Name="Unknown 5" ID="0xCC1C74A4"/>
-                    <Element Name="Unknown 6" ID="0x240ABE65"/>
+                    <Element Name="kAttackType_Taunt" ID="0x240ABE65"/>
                 </Values>
             </Element>
             <Element Type="Int" ID="0x8A58A7F8">

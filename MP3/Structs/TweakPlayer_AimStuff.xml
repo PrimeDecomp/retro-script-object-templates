@@ -66,7 +66,7 @@
             <Element Type="Bool" ID="0xD2DFC16A">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x60F08BEB" Archetype="TweakPlayer_AimStuff_UnknownEnum1">
+            <Element Type="Enum" ID="0x60F08BEB" Archetype="RevViewLockType">
                 <DefaultValue>0xE4AD6A9D</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xCCA13E22">

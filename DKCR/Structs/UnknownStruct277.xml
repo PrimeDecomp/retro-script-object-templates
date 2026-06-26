@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0xC5C91839">
                 <DefaultValue>0x10DEA989</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x10DEA989"/>
-                    <Element Name="Unknown 2" ID="0x318017FE"/>
-                    <Element Name="Unknown 3" ID="0x61A05138"/>
+                    <Element Name="kTutorialLocation_World" ID="0x10DEA989"/>
+                    <Element Name="kTutorialLocation_Player" ID="0x318017FE"/>
+                    <Element Name="kTutorialLocation_Multiplayer" ID="0x61A05138"/>
                 </Values>
             </Element>
         </SubProperties>

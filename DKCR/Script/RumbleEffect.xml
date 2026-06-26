@@ -17,32 +17,32 @@
             <Element Type="Enum" ID="0x295D238B">
                 <DefaultValue>0x186ECB5</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x186ECB5"/>
-                    <Element Name="Unknown 2" ID="0x34467A03"/>
-                    <Element Name="Unknown 3" ID="0xBC450D39"/>
-                    <Element Name="Unknown 4" ID="0xA33DC408"/>
-                    <Element Name="Unknown 5" ID="0xAD1366EB"/>
-                    <Element Name="Unknown 6" ID="0xCB452228"/>
-                    <Element Name="Unknown 7" ID="0xA87EC998"/>
-                    <Element Name="Unknown 8" ID="0x5DAEA7B9"/>
-                    <Element Name="Unknown 9" ID="0x78B08D32"/>
-                    <Element Name="Unknown 10" ID="0xD4796F99"/>
-                    <Element Name="Unknown 11" ID="0xD77F748B"/>
-                    <Element Name="Unknown 12" ID="0x282F7C0"/>
-                    <Element Name="Unknown 13" ID="0x956FE681"/>
-                    <Element Name="Unknown 14" ID="0x5DAE32D4"/>
-                    <Element Name="Unknown 15" ID="0x4570D977"/>
-                    <Element Name="Unknown 16" ID="0x18A94DF6"/>
-                    <Element Name="Unknown 17" ID="0x4C33216B"/>
-                    <Element Name="Unknown 18" ID="0xA9BF7098"/>
-                    <Element Name="Unknown 19" ID="0x40852C39"/>
-                    <Element Name="Unknown 20" ID="0x95238F0C"/>
-                    <Element Name="Unknown 21" ID="0x752B6589"/>
-                    <Element Name="Unknown 22" ID="0xD1D767DD"/>
-                    <Element Name="Unknown 23" ID="0x2E5525FE"/>
-                    <Element Name="Unknown 24" ID="0x3DD52B8B"/>
-                    <Element Name="Unknown 25" ID="0x2A1D82EA"/>
-                    <Element Name="Unknown 26" ID="0xA0E5443D"/>
+                    <Element Name="kRumbleEffect_Lightning" ID="0x186ECB5"/>
+                    <Element Name="kRumbleEffect_Debris" ID="0x34467A03"/>
+                    <Element Name="kRumbleEffect_Machinery" ID="0xBC450D39"/>
+                    <Element Name="kRumbleEffect_SmallExplosion" ID="0xA33DC408"/>
+                    <Element Name="kRumbleEffect_LargeExplosion" ID="0xAD1366EB"/>
+                    <Element Name="UkRumbleEffect_Fire" ID="0xCB452228"/>
+                    <Element Name="kRumbleEffect_ElevatorUpDown" ID="0xA87EC998"/>
+                    <Element Name="kRumbleEffect_ElevatorLanding" ID="0x5DAEA7B9"/>
+                    <Element Name="kRumbleEffect_ElevatorBump" ID="0x78B08D32"/>
+                    <Element Name="kRumbleEffect_ElevatorDoorImpact" ID="0xD4796F99"/>
+                    <Element Name="kRumbleEffect_ScreenShake" ID="0xD77F748B"/>
+                    <Element Name="kRumbleEffect_PistonStartup" ID="0x282F7C0"/>
+                    <Element Name="kRumbleEffect_PistonMotion" ID="0x956FE681"/>
+                    <Element Name="kRumbleEffect_PowerBeam" ID="0x5DAE32D4"/>
+                    <Element Name="kRumbleEffect_Hum" ID="0x4570D977"/>
+                    <Element Name="kRumbleEffect_SamusStruck" ID="0x18A94DF6"/>
+                    <Element Name="kRumbleEffect_SamusGunCharge" ID="0x4C33216B"/>
+                    <Element Name="kRumbleEffect_SamusComboFire" ID="0xA9BF7098"/>
+                    <Element Name="kRumbleEffect_GrappleShoot" ID="0x40852C39"/>
+                    <Element Name="kRumbleEffect_SamusLand" ID="0x95238F0C"/>
+                    <Element Name="kRumbleEffect_ForceField" ID="0x752B6589"/>
+                    <Element Name="kRumbleEffect_GrappleSwing" ID="0xD1D767DD"/>
+                    <Element Name="kRumbleEffect_IceBeam" ID="0x2E5525FE"/>
+                    <Element Name="kRumbleEffect_ParasiteQueenBeam" ID="0x3DD52B8B"/>
+                    <Element Name="kRumbleEffect_SandwormShake" ID="0x2A1D82EA"/>
+                    <Element Name="kRumbleEffect_UIBump" ID="0xA0E5443D"/>
                 </Values>
             </Element>
             <Element Type="Spline" ID="0x5A451ED"/>

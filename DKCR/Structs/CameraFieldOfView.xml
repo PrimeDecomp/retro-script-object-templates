@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0x19EA151B">
                 <DefaultValue>0xA93DE248</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xA93DE248"/>
-                    <Element Name="Unknown 2" ID="0x97F935EE"/>
-                    <Element Name="Unknown 3" ID="0x3A1B60FF"/>
+                    <Element Name="kFT_Constant" ID="0xA93DE248"/>
+                    <Element Name="kFT_Path" ID="0x97F935EE"/>
+                    <Element Name="kFT_Spindle" ID="0x3A1B60FF"/>
                 </Values>
             </Element>
             <Element Type="Flags" ID="0x69ACC94A">
@@ -18,9 +18,9 @@
             <Element Type="Enum" ID="0xD1E91886">
                 <DefaultValue>0xD2CFE11</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xD2CFE11"/>
-                    <Element Name="Unknown 2" ID="0xD35AAB88"/>
-                    <Element Name="Unknown 3" ID="0xAE296A71"/>
+                    <Element Name="kFPO_Player" ID="0xD2CFE11"/>
+                    <Element Name="kFPO_Target" ID="0xD35AAB88"/>
+                    <Element Name="kFPO_Camera" ID="0xAE296A71"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xCAFE3DA7">

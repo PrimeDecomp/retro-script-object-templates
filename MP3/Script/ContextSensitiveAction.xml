@@ -13,8 +13,8 @@
             <Element Type="Enum" ID="0xB068F40B">
                 <DefaultValue>0xE20A1F5E</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xE20A1F5E"/>
-                    <Element Name="Unknown 2" ID="0x28F8D0F2"/>
+                    <Element Name="Distance" ID="0xE20A1F5E"/>
+                    <Element Name="Time" ID="0x28F8D0F2"/>
                 </Values>
             </Element>
             <Element Type="Spline" ID="0xF9DFE01D"/>
@@ -29,9 +29,9 @@
             <Element Type="Enum" ID="0x8972A86F">
                 <DefaultValue>0xB44651B4</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB44651B4"/>
-                    <Element Name="Unknown 2" ID="0x10019A43"/>
-                    <Element Name="Unknown 3" ID="0x66AA1A61"/>
+                    <Element Name="Distance" ID="0xB44651B4"/>
+                    <Element Name="Roll" ID="0x10019A43"/>
+                    <Element Name="Pitch" ID="0x66AA1A61"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xBF0ADF40">

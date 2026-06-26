@@ -6,10 +6,10 @@
             <Element Type="Enum" ID="0xB3E0A3A">
                 <DefaultValue>0xDDB5F41</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xDDB5F41"/>
-                    <Element Name="Unknown 2" ID="0x2FFDBA76"/>
-                    <Element Name="Unknown 3" ID="0x526D62E4"/>
-                    <Element Name="Unknown 4" ID="0xEEF648F8"/>
+                    <Element Name="kMovementType_Ground" ID="0xDDB5F41"/>
+                    <Element Name="kMovementType_Air" ID="0x2FFDBA76"/>
+                    <Element Name="kMovementType_Wall" ID="0x526D62E4"/>
+                    <Element Name="kMovementType_Prop" ID="0xEEF648F8"/>
                 </Values>
             </Element>
             <Element Type="Asset" ID="0x19FF362">

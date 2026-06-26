@@ -25,18 +25,18 @@
             <Element Name="kControl_REV_AnalogLeft" ID="0x783DE2D4"/>
             <Element Name="kControl_REV_Z1" ID="0x45C3998B"/>
             <Element Name="kControl_REV_Z2" ID="0xDCCAC831"/>
-            <Element Name="Unknown23" ID="0xB99F4240"/>
-            <Element Name="Unknown24" ID="0x53BECAC6"/>
-            <Element Name="Unknown25" ID="0xA4751ABD"/>
-            <Element Name="Unknown26" ID="0x99A2FA23"/>
-            <Element Name="Unknown27" ID="0x572AC00B"/>
-            <Element Name="Unknown28" ID="0x4D3B3B88"/>
-            <Element Name="Unknown29" ID="0x34F1BC04"/>
-            <Element Name="Unknown30" ID="0x2BA34CDB"/>
-            <Element Name="Unknown31" ID="0x6618486E"/>
-            <Element Name="Unknown32" ID="0x8FB74003"/>
-            <Element Name="Unknown33" ID="0x4390F711"/>
-            <Element Name="Unknown34" ID="0x45AB70E6"/>
+            <Element Name="kControl_UNK1_RollLeft" ID="0xB99F4240"/>
+            <Element Name="kControl_UNK1_RollRight" ID="0x53BECAC6"/>
+            <Element Name="kControl_UNK1_PitchUp" ID="0xA4751ABD"/>
+            <Element Name="kControl_UNK1_PitchDown" ID="0x99A2FA23"/>
+            <Element Name="kControl_REV_DPD_Up" ID="0x572AC00B"/>
+            <Element Name="kControl_REV_DPD_Down" ID="0x4D3B3B88"/>
+            <Element Name="kControl_REV_DPD_Right" ID="0x34F1BC04"/>
+            <Element Name="kControl_REV_DPD_Left" ID="0x2BA34CDB"/>
+            <Element Name="kControl_REV_DPD_RollLeft" ID="0x6618486E"/>
+            <Element Name="kControl_REV_DPD_RollRight" ID="0x8FB74003"/>
+            <Element Name="kControl_REV_DPD_PitchUp" ID="0x4390F711"/>
+            <Element Name="kControl_REV_DPD_PitchDown" ID="0x45AB70E6"/>
             <Element Name="kControl_GC_A" ID="0xE118233E"/>
             <Element Name="kControl_GC_B" ID="0x78117284"/>
             <Element Name="kControl_GC_X" ID="0x85738BFE"/>
@@ -59,13 +59,13 @@
             <Element Name="kControl_GC_CStickDown" ID="0x9C368418"/>
             <Element Name="kControl_GC_CStickRight" ID="0xC42F22FF"/>
             <Element Name="kControl_GC_CStickLeft" ID="0xFAAEF34B"/>
-            <Element Name="Unknown57" ID="0xEF810AAF"/>
-            <Element Name="Unknown58" ID="0xFCE1D160"/>
-            <Element Name="Unknown59" ID="0x9A910CA4"/>
-            <Element Name="Unknown60" ID="0x9A79A633"/>
-            <Element Name="Unknown61" ID="0x1752C5AD"/>
-            <Element Name="Unknown62" ID="0x738A4388"/>
-            <Element Name="Unknown63" ID="0x3E6D0DB6"/>
+            <Element Name="kControl_PC_MouseUp" ID="0xEF810AAF"/>
+            <Element Name="kControl_PC_MouseDown" ID="0xFCE1D160"/>
+            <Element Name="kControl_PC_MouseRight" ID="0x9A910CA4"/>
+            <Element Name="kControl_PC_MouseLeft" ID="0x9A79A633"/>
+            <Element Name="kControl_PC_MouseLeftButton" ID="0x1752C5AD"/>
+            <Element Name="kControl_PC_MouseMiddleButton" ID="0x738A4388"/>
+            <Element Name="kControl_PC_MouseRightButton" ID="0x3E6D0DB6"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

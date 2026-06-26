@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0x2F78C9A">
                 <DefaultValue>0x99761FAF</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x99761FAF"/>
-                    <Element Name="Unknown 2" ID="0xDAE7367C"/>
-                    <Element Name="Unknown 3" ID="0xAD7F83E3"/>
+                    <Element Name="kBodyPart_Head" ID="0x99761FAF"/>
+                    <Element Name="kBodyPart_RightHand" ID="0xDAE7367C"/>
+                    <Element Name="kBodyPart_LeftHand" ID="0xAD7F83E3"/>
                 </Values>
             </Element>
         </SubProperties>

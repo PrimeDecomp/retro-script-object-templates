@@ -11,16 +11,16 @@
             <Element Type="Enum" ID="0x4B3A87E6">
                 <DefaultValue>0xD6629DCA</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x944A8986"/>
-                    <Element Name="Unknown 2" ID="0xD6629DCA"/>
+                    <Element Name="kType_Static" ID="0x944A8986"/>
+                    <Element Name="kType_Dynamic" ID="0xD6629DCA"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0xCD578193">
                 <DefaultValue>0xB9B7640F</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB9B7640F"/>
-                    <Element Name="Unknown 2" ID="0xC1EC6DF9"/>
-                    <Element Name="Unknown 3" ID="0xDD1CFE2B"/>
+                    <Element Name="kST_CatmullRom" ID="0xB9B7640F"/>
+                    <Element Name="kST_Linear" ID="0xC1EC6DF9"/>
+                    <Element Name="kST_RoundedCatmullRom" ID="0xDD1CFE2B"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0xB6A06760">

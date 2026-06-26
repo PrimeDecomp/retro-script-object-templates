@@ -38,9 +38,9 @@
             <Element Type="Enum" ID="0x58CBCBCA">
                 <DefaultValue>0x29EF53A1</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x29EF53A1"/>
-                    <Element Name="Unknown 2" ID="0xD3CC5482"/>
-                    <Element Name="Unknown 3" ID="0xA3156F16"/>
+                    <Element Name="kSelection_Yes" ID="0x29EF53A1"/>
+                    <Element Name="kSelection_No" ID="0xD3CC5482"/>
+                    <Element Name="kSelection_None" ID="0xA3156F16"/>
                 </Values>
             </Element>
             <Element Type="Asset" ID="0xE8FE6E9D">

@@ -10,11 +10,11 @@
             <Element Type="Enum" ID="0x340E4CA3">
                 <DefaultValue>0xD25FBD92</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xD25FBD92"/>
-                    <Element Name="Unknown 2" ID="0xB785F3ED"/>
-                    <Element Name="Unknown 3" ID="0xAFF81F46"/>
-                    <Element Name="Unknown 4" ID="0xE2D0AE9"/>
-                    <Element Name="Unknown 5" ID="0x25DCCDF3"/>
+                    <Element Name="kIP_Game" ID="0xD25FBD92"/>
+                    <Element Name="kIP_Start" ID="0xB785F3ED"/>
+                    <Element Name="kIP_End" ID="0xAFF81F46"/>
+                    <Element Name="kIP_Closest" ID="0xE2D0AE9"/>
+                    <Element Name="kIP_GameViewAngle" ID="0x25DCCDF3"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xAED5C7D" Archetype="PathDetermination"/>

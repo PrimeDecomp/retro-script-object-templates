@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="CorruptionProto">
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Enum">
         <Name>Orientation</Name>
         <Values>

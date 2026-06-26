@@ -6,27 +6,27 @@
             <Element Type="Enum" ID="0x65C4FB4A">
                 <DefaultValue>0x927FA703</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x927FA703"/>
-                    <Element Name="Unknown 2" ID="0x675615F"/>
-                    <Element Name="Unknown 3" ID="0x751A3689"/>
-                    <Element Name="Unknown 4" ID="0x2A14AEDE"/>
-                    <Element Name="Unknown 5" ID="0x5E968EA6"/>
-                    <Element Name="Unknown 6" ID="0xC8039280"/>
-                    <Element Name="Unknown 7" ID="0xDE9941ED"/>
-                    <Element Name="Unknown 8" ID="0xB1B8E49"/>
-                    <Element Name="Unknown 9" ID="0xCB231252"/>
-                    <Element Name="Unknown 10" ID="0xB1AD01BF"/>
-                    <Element Name="Unknown 11" ID="0x99ADF85"/>
-                    <Element Name="Unknown 12" ID="0xA8F27AEC"/>
-                    <Element Name="Unknown 13" ID="0xA319FA4B"/>
-                    <Element Name="Unknown 14" ID="0x8EC53D57"/>
-                    <Element Name="Unknown 15" ID="0x50A8387E"/>
-                    <Element Name="Unknown 16" ID="0xF5A4D59E"/>
-                    <Element Name="Unknown 17" ID="0xC1C3DDB9"/>
-                    <Element Name="Unknown 18" ID="0x8C284EAF"/>
-                    <Element Name="Unknown 19" ID="0x48C912A"/>
-                    <Element Name="Unknown 20" ID="0x744A1F16"/>
-                    <Element Name="Unknown 21" ID="0x6B2540D4"/>
+                    <Element Name="kDamageType_Ai" ID="0x927FA703"/>
+                    <Element Name="kDamageType_Player" ID="0x675615F"/>
+                    <Element Name="kDamageType_Hazard" ID="0x751A3689"/>
+                    <Element Name="kDamageType_DeathFall" ID="0x2A14AEDE"/>
+                    <Element Name="kDamageType_Thrown" ID="0x5E968EA6"/>
+                    <Element Name="kDamageType_Melee" ID="0xC8039280"/>
+                    <Element Name="kDamageType_Fire" ID="0xDE9941ED"/>
+                    <Element Name="kDamageType_Electricity" ID="0xB1B8E49"/>
+                    <Element Name="kDamageType_Crush" ID="0xCB231252"/>
+                    <Element Name="kDamageType_Peanut" ID="0xB1AD01BF"/>
+                    <Element Name="kDamageType_WaterDeathFall" ID="0x99ADF85"/>
+                    <Element Name="kDamageType_Roll" ID="0xA8F27AEC"/>
+                    <Element Name="kDamageType_RambiTouch" ID="0xA319FA4B"/>
+                    <Element Name="kDamageType_RambiHorn" ID="0x8EC53D57"/>
+                    <Element Name="kDamageType_RambiRush" ID="0x50A8387E"/>
+                    <Element Name="kDamageType_Tar" ID="0xF5A4D59E"/>
+                    <Element Name="kDamageType_Barreling" ID="0xC1C3DDB9"/>
+                    <Element Name="kDamageType_LavaDeathFall" ID="0x8C284EAF"/>
+                    <Element Name="kDamageType_TidalWave" ID="0x48C912A"/>
+                    <Element Name="kDamageType_PushBlock" ID="0x744A1F16"/>
+                    <Element Name="kDamageType_BonusRoom" ID="0x6B2540D4"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xF2D02613">
@@ -50,9 +50,9 @@
             <Element Type="Enum" ID="0x8266B529">
                 <DefaultValue>0x54584D54</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xE880ACE"/>
-                    <Element Name="Unknown 2" ID="0x54584D54"/>
-                    <Element Name="Unknown 3" ID="0x72448B21"/>
+                    <Element Name="kDefaultContactRule_HitSpark_LoseMomentum" ID="0xE880ACE"/>
+                    <Element Name="kDefaultContactRule_HitSpark_KeepMomentum" ID="0x54584D54"/>
+                    <Element Name="kDefaultContactRule_FullKnockBack" ID="0x72448B21"/>
                 </Values>
             </Element>
         </SubProperties>

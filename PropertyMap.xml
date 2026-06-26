@@ -1427,7 +1427,7 @@
         </Element>
         <Element>
             <Key ID="0x825C1F5" Type="RevolutionControl"/>
-            <Value Name="Unknown"/>
+            <Value Name="MoveCameraIn"/>
         </Element>
         <Element>
             <Key ID="0x8349BD6" Type="bool"/>
@@ -3163,7 +3163,7 @@
         </Element>
         <Element>
             <Key ID="0x126DB9C4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="IsLightInDarkWorld"/>
         </Element>
         <Element>
             <Key ID="0x12861F7D" Type="spline"/>
@@ -6779,7 +6779,7 @@
         </Element>
         <Element>
             <Key ID="0x25C9C68F" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseCustomTouch"/>
         </Element>
         <Element>
             <Key ID="0x25D02BC5" Type="float"/>
@@ -7651,7 +7651,7 @@
         </Element>
         <Element>
             <Key ID="0x2AC6123A" Type="RevolutionControl"/>
-            <Value Name="Unknown"/>
+            <Value Name="MapStartGame"/>
         </Element>
         <Element>
             <Key ID="0x2AC6AA4B" Type="float"/>
@@ -10355,7 +10355,7 @@
         </Element>
         <Element>
             <Key ID="0x39638E7C" Type="RevolutionControl"/>
-            <Value Name="Unknown"/>
+            <Value Name="MoveCameraOut"/>
         </Element>
         <Element>
             <Key ID="0x39665BC8" Type="asset"/>
@@ -14658,8 +14658,8 @@
             <Value Name="Colliders"/>
         </Element>
         <Element>
-            <Key ID="0x50224907" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x50224907" Type="Flags"/>
+            <Value Name="EffectFlagsTriggerEffect"/>
         </Element>
         <Element>
             <Key ID="0x50228364" Type="Data"/>
@@ -15219,7 +15219,7 @@
         </Element>
         <Element>
             <Key ID="0x532087D5" Type="RevolutionControl"/>
-            <Value Name="Unknown"/>
+            <Value Name="GroundPoundLeftContinue"/>
         </Element>
         <Element>
             <Key ID="0x5324CBFB" Type="float"/>
@@ -17651,7 +17651,7 @@
         </Element>
         <Element>
             <Key ID="0x60F08BEB" Type="enum"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevViewLockType"/>
         </Element>
         <Element>
             <Key ID="0x60F7E83F" Type="bool"/>
@@ -24831,7 +24831,7 @@
         </Element>
         <Element>
             <Key ID="0x88B5FD4D" Type="RevolutionControl"/>
-            <Value Name="Unknown"/>
+            <Value Name="PreviousMenuEntry"/>
         </Element>
         <Element>
             <Key ID="0x88BE5CB2" Type="float"/>
@@ -27563,11 +27563,7 @@
         </Element>
         <Element>
             <Key ID="0x97C0611F" Type="Flags"/>
-            <Value Name="Unknown"/>
-        </Element>
-        <Element>
-            <Key ID="0x97C0611F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="DetectionFlagsTriggerDetection"/>
         </Element>
         <Element>
             <Key ID="0x97C95A99" Type="bool"/>
@@ -27859,7 +27855,7 @@
         </Element>
         <Element>
             <Key ID="0x9939D085" Type="enum"/>
-            <Value Name="Unknown"/>
+            <Value Name="TransformCalculationType"/>
         </Element>
         <Element>
             <Key ID="0x993D3556" Type="float"/>
@@ -28415,7 +28411,7 @@
         </Element>
         <Element>
             <Key ID="0x9CA552B4" Type="RevolutionControl"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextMenuEntry"/>
         </Element>
         <Element>
             <Key ID="0x9CA8F357" Type="float"/>
@@ -31322,8 +31318,8 @@
             <Value Name="JungleBossStructB"/>
         </Element>
         <Element>
-            <Key ID="0xACEEF42B" Type="UnknownStruct86"/>
-            <Value Name="UnknownStruct86"/>
+            <Key ID="0xACEEF42B" Type="LocomotionSpeed"/>
+            <Value Name="LocomotionSpeed"/>
         </Element>
         <Element>
             <Key ID="0xACF22673" Type="UnknownStruct160"/>
@@ -37339,7 +37335,7 @@
         </Element>
         <Element>
             <Key ID="0xCD4C81A1" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="IsHighlightedInDarkVisor"/>
         </Element>
         <Element>
             <Key ID="0xCD4EDCA2" Type="float"/>
@@ -45327,7 +45323,7 @@
         </Element>
         <Element>
             <Key ID="0xF8243D17" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="StartInPieces"/>
         </Element>
         <Element>
             <Key ID="0xF8252BCA" Type="float"/>

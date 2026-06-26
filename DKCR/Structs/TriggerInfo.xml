@@ -3,11 +3,11 @@
     <PropertyArchetype Type="Struct">
         <Name>TriggerInfo</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x97C0611F">
+            <Element Type="Flags" ID="0x97C0611F">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x50224907">
+            <Element Type="Flags" ID="0x50224907">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>128</DefaultValue>
             </Element>

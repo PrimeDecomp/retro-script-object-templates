@@ -46,17 +46,17 @@
             <Element Type="Enum" ID="0xD18215AA">
                 <DefaultValue>0xDED898E0</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xDED898E0"/>
-                    <Element Name="Unknown 2" ID="0x29BCEF3D"/>
+                    <Element Name="kBehavior_Random" ID="0xDED898E0"/>
+                    <Element Name="kBehavior_Sequence" ID="0x29BCEF3D"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0xB3F7A00">
                 <DefaultValue>0x548C9FF3</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x548C9FF3"/>
-                    <Element Name="Unknown 2" ID="0xCD85CE49"/>
-                    <Element Name="Unknown 3" ID="0xBA82FEDF"/>
-                    <Element Name="Unknown 4" ID="0x24E66B7C"/>
+                    <Element Name="kMessageSet_A" ID="0x548C9FF3"/>
+                    <Element Name="kMessageSet_B" ID="0xCD85CE49"/>
+                    <Element Name="kMessageSet_C" ID="0xBA82FEDF"/>
+                    <Element Name="kMessageSet_D" ID="0x24E66B7C"/>
                 </Values>
             </Element>
         </SubProperties>
