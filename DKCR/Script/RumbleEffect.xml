@@ -22,7 +22,7 @@
                     <Element Name="kRumbleEffect_Machinery" ID="0xBC450D39"/>
                     <Element Name="kRumbleEffect_SmallExplosion" ID="0xA33DC408"/>
                     <Element Name="kRumbleEffect_LargeExplosion" ID="0xAD1366EB"/>
-                    <Element Name="UkRumbleEffect_Fire" ID="0xCB452228"/>
+                    <Element Name="kRumbleEffect_Fire" ID="0xCB452228"/>
                     <Element Name="kRumbleEffect_ElevatorUpDown" ID="0xA87EC998"/>
                     <Element Name="kRumbleEffect_ElevatorLanding" ID="0x5DAEA7B9"/>
                     <Element Name="kRumbleEffect_ElevatorBump" ID="0x78B08D32"/>

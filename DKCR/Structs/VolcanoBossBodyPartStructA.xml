@@ -14,7 +14,7 @@
                     <Element Name="kAttackType_HandSwipeAttack" ID="0x6AB65AF9"/>
                     <Element Name="kAttackType_PalmSwipeAttack" ID="0x1CA886EB"/>
                     <Element Name="kAttackType_LavaAttack" ID="0x7DA3D58B"/>
-                    <Element Name="UkAttackType_SeekerFireballAttack" ID="0xFA424E49"/>
+                    <Element Name="kAttackType_SeekerFireballAttack" ID="0xFA424E49"/>
                     <Element Name="kAttackType_SmashAttack" ID="0xD3729B5A"/>
                     <Element Name="kAttackType_SwoopAttack" ID="0x5419A724"/>
                 </Values>
