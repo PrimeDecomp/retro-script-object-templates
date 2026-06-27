@@ -16,14 +16,14 @@
             <Element Type="Enum" ID="0x8D3AB314">
                 <DefaultValue>0x24E6FE6B</DefaultValue>
                 <Values>
-                    <Element Name="Start" ID="0xBB40E5E"/>
-                    <Element Name="Stage" ID="0x24E6FE6B"/>
-                    <Element Name="Boss" ID="0xFB8DD144"/>
-                    <Element Name="Shop" ID="0x60BCB31"/>
-                    <Element Name="Trophy" ID="0xC8068C4F"/>
-                    <Element Name="Unknown" ID="0xA5355C31"/>
-                    <Element Name="Rocket" ID="0xCA17800"/>
-                    <Element Name="Temple" ID="0x9DFC67D1"/>
+                    <Element Name="StartNode" ID="0xBB40E5E"/>
+                    <Element Name="LevelNode" ID="0x24E6FE6B"/>
+                    <Element Name="BossNode" ID="0xFB8DD144"/>
+                    <Element Name="StoreNode" ID="0x60BCB31"/>
+                    <Element Name="TrophyNode" ID="0xC8068C4F"/>
+                    <Element Name="PathBlockerNode" ID="0xA5355C31"/>
+                    <Element Name="Transition" ID="0xCA17800"/>
+                    <Element Name="SecretWorld" ID="0x9DFC67D1"/>
                 </Values>
             </Element>
             <Element Type="String" ID="0x6A02F05F"/>

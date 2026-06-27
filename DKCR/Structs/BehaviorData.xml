@@ -6,44 +6,44 @@
             <Element Type="Enum" ID="0x6403DAED">
                 <DefaultValue>0x26D0F77A</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x26D0F77A"/>
-                    <Element Name="Unknown 2" ID="0xCD3D7CB1"/>
+                    <Element Name="kBehaviorType_None" ID="0x26D0F77A"/>
+                    <Element Name="kBehaviorType_Damaged" ID="0xCD3D7CB1"/>
                     <Element Name="Unknown 3" ID="0xC58D26AF"/>
-                    <Element Name="Unknown 4" ID="0xA177EB37"/>
-                    <Element Name="Unknown 5" ID="0xC53C3ED5"/>
-                    <Element Name="Unknown 6" ID="0xDD08D80B"/>
-                    <Element Name="Unknown 7" ID="0xA819961D"/>
-                    <Element Name="Unknown 8" ID="0x2D6B807"/>
-                    <Element Name="Unknown 9" ID="0xCAA3D8E4"/>
-                    <Element Name="Unknown 10" ID="0xDFB05E60"/>
-                    <Element Name="Unknown 11" ID="0xB6057A9C"/>
-                    <Element Name="Unknown 12" ID="0x856442A0"/>
-                    <Element Name="Unknown 13" ID="0x9910206D"/>
-                    <Element Name="Unknown 14" ID="0xC553A047"/>
-                    <Element Name="Unknown 15" ID="0xDC206846"/>
-                    <Element Name="Unknown 16" ID="0xC12DFB21"/>
-                    <Element Name="Unknown 17" ID="0xF95E279E"/>
-                    <Element Name="Unknown 18" ID="0x16039717"/>
+                    <Element Name="kBehaviorType_TouchAttack" ID="0xA177EB37"/>
+                    <Element Name="kBehaviorType_FollowWaypoints" ID="0xC53C3ED5"/>
+                    <Element Name="kBehaviorType_ProjectileAttack" ID="0xDD08D80B"/>
+                    <Element Name="kBehaviorType_Grabbed" ID="0xA819961D"/>
+                    <Element Name="kBehaviorType_Flee" ID="0x2D6B807"/>
+                    <Element Name="kBehaviorType_Wander" ID="0xCAA3D8E4"/>
+                    <Element Name="kBehaviorType_FollowSurface" ID="0xDFB05E60"/>
+                    <Element Name="kBehaviorType_BopJump" ID="0xB6057A9C"/>
+                    <Element Name="kBehaviorType_Idle" ID="0x856442A0"/>
+                    <Element Name="kBehaviorType_IdleTrack" ID="0x9910206D"/>
+                    <Element Name="kBehaviorType_Projectile" ID="0xC553A047"/>
+                    <Element Name="kBehaviorType_VerticalFlight" ID="0xDC206846"/>
+                    <Element Name="kBehaviorType_StackableBlock" ID="0xC12DFB21"/>
+                    <Element Name="kBehaviorType_Spawn" ID="0xF95E279E"/>
+                    <Element Name="kBehaviorType_Swoop" ID="0x16039717"/>
                     <Element Name="Unknown 19" ID="0x21DC6F2D"/>
-                    <Element Name="Unknown 20" ID="0xC53F0B30"/>
-                    <Element Name="Unknown 21" ID="0x1BBF061B"/>
-                    <Element Name="Unknown 22" ID="0xCD30F2D2"/>
-                    <Element Name="Unknown 23" ID="0xA2C56363"/>
+                    <Element Name="kBehaviorType_FloatingBubble" ID="0xC53F0B30"/>
+                    <Element Name="kBehaviorType_Slide" ID="0x1BBF061B"/>
+                    <Element Name="kBehaviorType_FollowSpline" ID="0xCD30F2D2"/>
+                    <Element Name="kBehaviorType_StealObject" ID="0xA2C56363"/>
                     <Element Name="Unknown 24" ID="0xF87D2399"/>
-                    <Element Name="Unknown 25" ID="0xC0454E18"/>
-                    <Element Name="Unknown 26" ID="0xD9535D1F"/>
-                    <Element Name="Unknown 27" ID="0x594FF8C0"/>
-                    <Element Name="Unknown 28" ID="0x37D88B14"/>
+                    <Element Name="kBehaviorType_SwingLine" ID="0xC0454E18"/>
+                    <Element Name="kBehaviorType_GrabPlayer" ID="0xD9535D1F"/>
+                    <Element Name="kBehaviorType_AdditiveTouchAttack" ID="0x594FF8C0"/>
+                    <Element Name="kBehaviorType_Summon" ID="0x37D88B14"/>
                     <Element Name="Unknown 29" ID="0xE4A9F055"/>
                     <Element Name="Unknown 30" ID="0xE0880C40"/>
-                    <Element Name="Unknown 31" ID="0xB83A5EA6"/>
-                    <Element Name="Unknown 32" ID="0xC990ACE8"/>
-                    <Element Name="Unknown 33" ID="0xA21028B9"/>
-                    <Element Name="Unknown 34" ID="0xBE366E61"/>
+                    <Element Name="kBehaviorType_OneShot" ID="0xB83A5EA6"/>
+                    <Element Name="kBehaviorType_TargetPlayer" ID="0xC990ACE8"/>
+                    <Element Name="kBehaviorType_Fall" ID="0xA21028B9"/>
+                    <Element Name="kBehaviorType_AreaAttack" ID="0xBE366E61"/>
                     <Element Name="Unknown 35" ID="0x1B9CD6"/>
                     <Element Name="Unknown 36" ID="0xBC00B733"/>
-                    <Element Name="Unknown 37" ID="0x93AD73AA"/>
-                    <Element Name="Unknown 38" ID="0x78EFFC0E"/>
+                    <Element Name="kBehaviorType_AdditiveProjectileAttack" ID="0x93AD73AA"/>
+                    <Element Name="kBehaviorType_Seeker" ID="0x78EFFC0E"/>
                     <Element Name="Unknown 39" ID="0x33E3B15E"/>
                 </Values>
             </Element>

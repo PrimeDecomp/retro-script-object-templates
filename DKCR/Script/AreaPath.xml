@@ -19,8 +19,8 @@
             <Element Type="Enum" ID="0x474BCCE3">
                 <DefaultValue>0x1F46814C</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x1F46814C"/>
-                    <Element Name="Unknown 2" ID="0xDBE9ABC6"/>
+                    <Element Name="kPathType_Area" ID="0x1F46814C"/>
+                    <Element Name="kPathType_Island" ID="0xDBE9ABC6"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x7561F8F7">

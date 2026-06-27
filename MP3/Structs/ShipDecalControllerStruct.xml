@@ -6,15 +6,15 @@
             <Element Type="Enum" ID="0x77EDD0F1">
                 <DefaultValue>0x2ADA4FEE</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x2ADA4FEE"/>
-                    <Element Name="Unknown 2" ID="0x2DDDD69C"/>
-                    <Element Name="Unknown 3" ID="0xC2867014"/>
-                    <Element Name="Unknown 4" ID="0x367943F"/>
-                    <Element Name="Unknown 5" ID="0xBFDD84AE"/>
-                    <Element Name="Unknown 6" ID="0x25D8B3E5"/>
-                    <Element Name="Unknown 7" ID="0xE7264645"/>
-                    <Element Name="Unknown 8" ID="0x10FDF8F"/>
-                    <Element Name="Unknown 9" ID="0x5EB68811"/>
+                    <Element Name="kSG_PaperMario" ID="0x2ADA4FEE"/>
+                    <Element Name="kSG_SuperMarioGalaxy" ID="0x2DDDD69C"/>
+                    <Element Name="kSG_MarioParty8" ID="0xC2867014"/>
+                    <Element Name="kSG_ExciteTruck" ID="0x367943F"/>
+                    <Element Name="kSG_LegendOfZeldaTwilightPrincess" ID="0xBFDD84AE"/>
+                    <Element Name="kSG_SuperSmashBrosBrawl?" ID="0x25D8B3E5"/>
+                    <Element Name="kSG_WiiSports" ID="0xE7264645"/>
+                    <Element Name="kSG_WiiPlay" ID="0x10FDF8F"/>
+                    <Element Name="kSG_WarioWareSmoothMoves" ID="0x5EB68811"/>
                 </Values>
             </Element>
             <Element Type="Asset" ID="0x2F11C14F">

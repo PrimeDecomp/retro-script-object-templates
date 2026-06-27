@@ -6,11 +6,11 @@
             <Element Type="Enum" ID="0x2EF22401">
                 <DefaultValue>0xBCC8352</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xBCC8352"/>
-                    <Element Name="Unknown 2" ID="0xA569D6"/>
-                    <Element Name="Unknown 3" ID="0xADD84D7B"/>
-                    <Element Name="Unknown 4" ID="0x6DF9B393"/>
-                    <Element Name="Unknown 5" ID="0x9E3CD754"/>
+                    <Element Name="kCT_Spring" ID="0xBCC8352"/>
+                    <Element Name="kCT_PID" ID="0xA569D6"/>
+                    <Element Name="kCT_Velocity" ID="0xADD84D7B"/>
+                    <Element Name="kCT_Instant" ID="0x6DF9B393"/>
+                    <Element Name="kCT_Proportional" ID="0x9E3CD754"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x6F9D9B33" Archetype="VelocityConvergence"/>

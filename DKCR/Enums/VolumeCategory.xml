@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Enum">
+        <Name>VolumeCategory</Name>
+        <Values>
+            <Element Name="kVolumeCategory_SoundEffects" ID="0x9EFE0717"/>
+            <Element Name="kVolumeCategory_Music" ID="0x28D5A7D7"/>
+            <Element Name="kVolumeCategory_Speech" ID="0xD6A26606"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

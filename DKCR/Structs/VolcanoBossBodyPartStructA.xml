@@ -6,17 +6,17 @@
             <Element Type="Enum" ID="0x7D939A1">
                 <DefaultValue>0xB5C34B64</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB5C34B64"/>
+                    <Element Name="kAttackType_None" ID="0xB5C34B64"/>
                     <Element Name="Unknown 2" ID="0xD9D0F7A1"/>
                     <Element Name="Unknown 3" ID="0xF58B676"/>
-                    <Element Name="Unknown 4" ID="0x2EFFCA90"/>
-                    <Element Name="Unknown 5" ID="0x28F6379E"/>
-                    <Element Name="Unknown 6" ID="0x6AB65AF9"/>
-                    <Element Name="Unknown 7" ID="0x1CA886EB"/>
-                    <Element Name="Unknown 8" ID="0x7DA3D58B"/>
-                    <Element Name="Unknown 9" ID="0xFA424E49"/>
-                    <Element Name="Unknown 10" ID="0xD3729B5A"/>
-                    <Element Name="Unknown 11" ID="0x5419A724"/>
+                    <Element Name="kAttackType_HandSlamAttack" ID="0x2EFFCA90"/>
+                    <Element Name="kAttackType_HandSlapAttack" ID="0x28F6379E"/>
+                    <Element Name="kAttackType_HandSwipeAttack" ID="0x6AB65AF9"/>
+                    <Element Name="kAttackType_PalmSwipeAttack" ID="0x1CA886EB"/>
+                    <Element Name="kAttackType_LavaAttack" ID="0x7DA3D58B"/>
+                    <Element Name="kAttackType_SeekerFireballAttack" ID="0xFA424E49"/>
+                    <Element Name="kAttackType_SmashAttack" ID="0xD3729B5A"/>
+                    <Element Name="kAttackType_SwoopAttack" ID="0x5419A724"/>
                 </Values>
             </Element>
         </SubProperties>

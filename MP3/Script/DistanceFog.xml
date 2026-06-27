@@ -13,8 +13,8 @@
             <Element Type="Enum" ID="0x88E8D530">
                 <DefaultValue>0xD863C36B</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xD863C36B"/>
-                    <Element Name="Unknown 2" ID="0xA143C899"/>
+                    <Element Name="kFRM_Normal" ID="0xD863C36B"/>
+                    <Element Name="kFRM_XRay" ID="0xA143C899"/>
                 </Values>
             </Element>
             <Element Type="Int" ID="0x9AD63DE">

@@ -40,10 +40,10 @@
             <Element Type="Enum" ID="0x48EF8ADE">
                 <DefaultValue>0xF16CAFBC</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x8BC6AF97"/>
-                    <Element Name="Unknown 2" ID="0x405B8040"/>
-                    <Element Name="Unknown 3" ID="0xE3D3CDE"/>
-                    <Element Name="Unknown 4" ID="0xF16CAFBC"/>
+                    <Element Name="kShipPickupDrop_ExplosiveDevice" ID="0x8BC6AF97"/>
+                    <Element Name="kShipPickupDrop_GolemHead" ID="0x405B8040"/>
+                    <Element Name="kShipPickupDrop_Generator" ID="0xE3D3CDE"/>
+                    <Element Name="kShipPickupDrop_Invalid" ID="0xF16CAFBC"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x69A7E62C">

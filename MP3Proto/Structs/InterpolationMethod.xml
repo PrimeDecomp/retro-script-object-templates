@@ -6,13 +6,13 @@
             <Element Type="Enum" ID="0x9B5957D">
                 <DefaultValue>0xDD7C3483</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x574B201C"/>
-                    <Element Name="Unknown 2" ID="0xDD7C3483"/>
-                    <Element Name="Unknown 3" ID="0xC740F1F9"/>
-                    <Element Name="Unknown 4" ID="0xF1B5D3EC"/>
-                    <Element Name="Unknown 5" ID="0xED3D458D"/>
-                    <Element Name="Unknown 6" ID="0x7355CEFE"/>
-                    <Element Name="Unknown 7" ID="0x348ED10D"/>
+                    <Element Name="kICT_None" ID="0x574B201C"/>
+                    <Element Name="kICT_Linear" ID="0xDD7C3483"/>
+                    <Element Name="kICT_Slerp" ID="0xC740F1F9"/>
+                    <Element Name="kICT_Sine" ID="0xF1B5D3EC"/>
+                    <Element Name="kICT_EaseInOut" ID="0xED3D458D"/>
+                    <Element Name="kICT_ControlSpline" ID="0x7355CEFE"/>
+                    <Element Name="kICT_MatchVelocity" ID="0x348ED10D"/>
                 </Values>
             </Element>
             <Element Type="Spline" ID="0x15567FE7"/>

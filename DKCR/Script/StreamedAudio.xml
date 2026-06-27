@@ -69,7 +69,7 @@
             <Element Type="Enum" ID="0xFB8F0B1F" Archetype="MusicEnumB">
                 <DefaultValue>0xCBF698CA</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x9558711E" Archetype="MusicEnumA">
+            <Element Type="Enum" ID="0x9558711E" Archetype="VolumeCategory">
                 <DefaultValue>0x28D5A7D7</DefaultValue>
             </Element>
         </SubProperties>

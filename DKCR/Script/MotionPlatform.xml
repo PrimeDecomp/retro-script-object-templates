@@ -26,8 +26,8 @@
             <Element Type="Enum" ID="0xA441E0C">
                 <DefaultValue>0xDCCF49F4</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xDCCF49F4"/>
-                    <Element Name="Unknown 2" ID="0x3EB622AA"/>
+                    <Element Name="kDirection_Forward" ID="0xDCCF49F4"/>
+                    <Element Name="kDirection_Backward" ID="0x3EB622AA"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x56F4BC93" Archetype="Convergence"/>

@@ -10,9 +10,9 @@
             <Element Type="Enum" ID="0xB674EA3D">
                 <DefaultValue>0x3AF0EDA3</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x3AF0EDA3"/>
-                    <Element Name="Unknown 2" ID="0xC4263063"/>
-                    <Element Name="Unknown 3" ID="0x3D38B76"/>
+                    <Element Name="kProjectileCollision_None" ID="0x3AF0EDA3"/>
+                    <Element Name="kProjectileCollision_ModelBounds" ID="0xC4263063"/>
+                    <Element Name="kProjectileCollision_Sphere" ID="0x3D38B76"/>
                     <Element Name="Unknown 4" ID="0x183EE363"/>
                 </Values>
             </Element>

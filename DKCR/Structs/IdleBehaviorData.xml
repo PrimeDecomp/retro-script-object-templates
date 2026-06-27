@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0xC9549D2B">
                 <DefaultValue>0x957B3EDC</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x957B3EDC"/>
-                    <Element Name="Unknown 2" ID="0x5A651ED3"/>
-                    <Element Name="Unknown 3" ID="0x2E6CC058"/>
+                    <Element Name="kIdleType_Normal" ID="0x957B3EDC"/>
+                    <Element Name="kIdleType_Periodic" ID="0x5A651ED3"/>
+                    <Element Name="kIdleType_Signaled" ID="0x2E6CC058"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x24F6D956">

@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0xBE253B54">
                 <DefaultValue>0x54F30820</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x54F30820"/>
-                    <Element Name="Unknown 2" ID="0xDBDD553"/>
-                    <Element Name="Unknown 3" ID="0x47CB8D3E"/>
+                    <Element Name="kFluidType_Water" ID="0x54F30820"/>
+                    <Element Name="kFluidType_SwampWater" ID="0xDBDD553"/>
+                    <Element Name="kFluidType_FireGel" ID="0x47CB8D3E"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0xB5E9859F">

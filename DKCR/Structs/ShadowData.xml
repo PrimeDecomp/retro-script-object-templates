@@ -14,10 +14,10 @@
             <Element Type="Enum" ID="0x79CFA775">
                 <DefaultValue>0xB5F070C1</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB5F070C1"/>
-                    <Element Name="Unknown 2" ID="0x67406469"/>
-                    <Element Name="Unknown 3" ID="0x81197C46"/>
-                    <Element Name="Unknown 4" ID="0xBD47002C"/>
+                    <Element Name="None" ID="0xB5F070C1"/>
+                    <Element Name="Clip" ID="0x67406469"/>
+                    <Element Name="ClipDetailed" ID="0x81197C46"/>
+                    <Element Name="Shrink" ID="0xBD47002C"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x1CF3F468">

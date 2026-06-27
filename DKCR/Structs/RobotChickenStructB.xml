@@ -6,34 +6,34 @@
             <Element Type="Enum" ID="0x7D939A1">
                 <DefaultValue>0xB5C34B64</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB5C34B64"/>
-                    <Element Name="Unknown 2" ID="0xCC1C74A4"/>
-                    <Element Name="Unknown 3" ID="0xE5A636A9"/>
-                    <Element Name="Unknown 4" ID="0xCD1F6C81"/>
-                    <Element Name="Unknown 5" ID="0x8AF5D531"/>
-                    <Element Name="Unknown 6" ID="0xCDF9585D"/>
-                    <Element Name="Unknown 7" ID="0xB695F517"/>
-                    <Element Name="Unknown 8" ID="0xA4B9FB6C"/>
-                    <Element Name="Unknown 9" ID="0x3DB0AAD6"/>
-                    <Element Name="Unknown 10" ID="0x4AB79A40"/>
-                    <Element Name="Unknown 11" ID="0xD4D30FE3"/>
-                    <Element Name="Unknown 12" ID="0xA3D43F75"/>
-                    <Element Name="Unknown 13" ID="0x3ADD6ECF"/>
-                    <Element Name="Unknown 14" ID="0x4DDA5E59"/>
-                    <Element Name="Unknown 15" ID="0xDD6543C8"/>
-                    <Element Name="Unknown 16" ID="0xAA62735E"/>
-                    <Element Name="Unknown 17" ID="0x6279A424"/>
-                    <Element Name="Unknown 18" ID="0xB2E0863D"/>
-                    <Element Name="Unknown 19" ID="0x2BE9D787"/>
-                    <Element Name="Unknown 20" ID="0x5CEEE711"/>
-                    <Element Name="Unknown 21" ID="0xC28A72B2"/>
-                    <Element Name="Unknown 22" ID="0xB58D4224"/>
-                    <Element Name="Unknown 23" ID="0x2C84139E"/>
-                    <Element Name="Unknown 24" ID="0x5B832308"/>
-                    <Element Name="Unknown 25" ID="0xCB3C3E99"/>
-                    <Element Name="Unknown 26" ID="0xBC3B0E0F"/>
-                    <Element Name="Unknown 27" ID="0x7E039C3B"/>
-                    <Element Name="Unknown 28" ID="0xC6A4C835"/>
+                    <Element Name="kAttackType_None" ID="0xB5C34B64"/>
+                    <Element Name="Unknown2" ID="0xCC1C74A4"/>
+                    <Element Name="Unknown3" ID="0xE5A636A9"/>
+                    <Element Name="Unknown4" ID="0xCD1F6C81"/>
+                    <Element Name="kAttackType_Barf" ID="0x8AF5D531"/>
+                    <Element Name="kAttackType_Sumo" ID="0xCDF9585D"/>
+                    <Element Name="kAttackType_Run" ID="0xB695F517"/>
+                    <Element Name="kAttackType_Pattern1" ID="0xA4B9FB6C"/>
+                    <Element Name="kAttackType_Pattern2" ID="0x3DB0AAD6"/>
+                    <Element Name="kAttackType_Pattern3" ID="0x4AB79A40"/>
+                    <Element Name="kAttackType_Pattern4" ID="0xD4D30FE3"/>
+                    <Element Name="kAttackType_Pattern5" ID="0xA3D43F75"/>
+                    <Element Name="kAttackType_Pattern6" ID="0x3ADD6ECF"/>
+                    <Element Name="kAttackType_Pattern7" ID="0x4DDA5E59"/>
+                    <Element Name="kAttackType_Pattern8" ID="0xDD6543C8"/>
+                    <Element Name="kAttackType_Pattern9" ID="0xAA62735E"/>
+                    <Element Name="kAttackType_Pattern10" ID="0x6279A424"/>
+                    <Element Name="kAttackType_Pack1" ID="0xB2E0863D"/>
+                    <Element Name="kAttackType_Pack2" ID="0x2BE9D787"/>
+                    <Element Name="kAttackType_Pack3" ID="0x5CEEE711"/>
+                    <Element Name="kAttackType_Pack4" ID="0xC28A72B2"/>
+                    <Element Name="kAttackType_Pack5" ID="0xB58D4224"/>
+                    <Element Name="kAttackType_Pack6" ID="0x2C84139E"/>
+                    <Element Name="kAttackType_Pack7" ID="0x5B832308"/>
+                    <Element Name="kAttackType_Pack8" ID="0xCB3C3E99"/>
+                    <Element Name="kAttackType_Pack9" ID="0xBC3B0E0F"/>
+                    <Element Name="kAttackType_Pack10" ID="0x7E039C3B"/>
+                    <Element Name="kAttackType_RandomPack" ID="0xC6A4C835"/>
                 </Values>
             </Element>
             <Element Type="Int" ID="0x968337AB">

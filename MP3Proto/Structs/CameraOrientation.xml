@@ -6,12 +6,12 @@
             <Element Type="Enum" ID="0x5C72A964">
                 <DefaultValue>0x75A7A55F</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x75A7A55F"/>
-                    <Element Name="Unknown 2" ID="0x290F31B4"/>
-                    <Element Name="Unknown 3" ID="0x26AD4A6B"/>
-                    <Element Name="Unknown 4" ID="0x589A40D9"/>
-                    <Element Name="Unknown 5" ID="0xC60E4B35"/>
-                    <Element Name="Unknown 6" ID="0xC5148ADE"/>
+                    <Element Name="kOT_MotionPredictive" ID="0x75A7A55F"/>
+                    <Element Name="kOT_CameraTarget" ID="0x290F31B4"/>
+                    <Element Name="kOT_TargetPath" ID="0x26AD4A6B"/>
+                    <Element Name="kOT_CameraHint" ID="0x589A40D9"/>
+                    <Element Name="kOT_Spindle" ID="0xC60E4B35"/>
+                    <Element Name="kOT_Surface" ID="0xC5148ADE"/>
                 </Values>
             </Element>
             <Element Type="Flags" ID="0x6219022E">
@@ -20,12 +20,12 @@
             <Element Type="Enum" ID="0x44191FB8">
                 <DefaultValue>0x33D21F2E</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x33D21F2E"/>
-                    <Element Name="Unknown 2" ID="0xBF3B8FDD"/>
-                    <Element Name="Unknown 3" ID="0xE9DA98B8"/>
+                    <Element Name="kLAT_LookAtPosition" ID="0x33D21F2E"/>
+                    <Element Name="kLAT_OrbitPosition" ID="0xBF3B8FDD"/>
+                    <Element Name="kLAT_AimPosition" ID="0xE9DA98B8"/>
                     <Element Name="Unknown 4" ID="0x4901B714"/>
-                    <Element Name="Unknown 5" ID="0xC68C39EC"/>
-                    <Element Name="Unknown 6" ID="0xFBEF7FBD"/>
+                    <Element Name="kLAT_Origin" ID="0xC68C39EC"/>
+                    <Element Name="kLAT_Locator" ID="0xFBEF7FBD"/>
                 </Values>
             </Element>
             <Element Type="String" ID="0xFBC6C110"/>

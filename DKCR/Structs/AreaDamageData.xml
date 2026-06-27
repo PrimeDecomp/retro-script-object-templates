@@ -39,8 +39,8 @@
             <Element Type="Enum" ID="0xB8F60F9A">
                 <DefaultValue>0xB41B960</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB41B960"/>
-                    <Element Name="Unknown 2" ID="0xD9B88007"/>
+                    <Element Name="kAdditiveMode_Forward" ID="0xB41B960"/>
+                    <Element Name="kAdditiveMode_Up" ID="0xD9B88007"/>
                 </Values>
             </Element>
         </SubProperties>

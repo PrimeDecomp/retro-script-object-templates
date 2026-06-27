@@ -8,8 +8,8 @@
             <Element Type="Enum" ID="0xCC08EF1B">
                 <DefaultValue>0x85F15E1D</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x85F15E1D"/>
-                    <Element Name="Unknown 2" ID="0x8E9B2817"/>
+                    <Element Name="kCCM_Normal" ID="0x85F15E1D"/>
+                    <Element Name="kCCM_Keyframed" ID="0x8E9B2817"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x6387E44B">

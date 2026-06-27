@@ -1096,6 +1096,10 @@
             <Value Path="Structs/LocomotionContextEnum.xml"/>
         </Element>
         <Element>
+            <Key>LocomotionSpeed</Key>
+            <Value Path="Structs/LocomotionSpeed.xml"/>
+        </Element>
+        <Element>
             <Key>MapControls</Key>
             <Value Path="Structs/MapControls.xml"/>
         </Element>
@@ -1146,10 +1150,6 @@
         <Element>
             <Key>MultiModelInformation</Key>
             <Value Path="Structs/MultiModelInformation.xml"/>
-        </Element>
-        <Element>
-            <Key>MusicEnumA</Key>
-            <Value Path="Enums/MusicEnumA.xml"/>
         </Element>
         <Element>
             <Key>MusicEnumB</Key>
@@ -2600,10 +2600,6 @@
             <Value Path="Structs/UnknownStruct85.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct86</Key>
-            <Value Path="Structs/UnknownStruct86.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct87</Key>
             <Value Path="Structs/UnknownStruct87.xml"/>
         </Element>
@@ -2674,6 +2670,10 @@
         <Element>
             <Key>VolcanoBossBodyPartStructD</Key>
             <Value Path="Structs/VolcanoBossBodyPartStructD.xml"/>
+        </Element>
+        <Element>
+            <Key>VolumeCategory</Key>
+            <Value Path="Enums/VolumeCategory.xml"/>
         </Element>
         <Element>
             <Key>WanderBehaviorData</Key>

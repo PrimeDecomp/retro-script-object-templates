@@ -17,16 +17,16 @@
             <Element Type="Enum" ID="0xBADA8DEA">
                 <DefaultValue>0x9EFB69B1</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x9EFB69B1"/>
+                    <Element Name="kSWT_EnergyProjectile" ID="0x9EFB69B1"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0x921B78A9">
                 <DefaultValue>0x2B9C9A74</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xAFD6A3AA"/>
-                    <Element Name="Unknown 2" ID="0xD57D2DBA"/>
-                    <Element Name="Unknown 3" ID="0xAB7F6A00"/>
-                    <Element Name="Unknown 4" ID="0x2B9C9A74"/>
+                    <Element Name="kCC_None" ID="0xAFD6A3AA"/>
+                    <Element Name="kCC_World" ID="0xD57D2DBA"/>
+                    <Element Name="kCC_Actor" ID="0xAB7F6A00"/>
+                    <Element Name="kCC_Both" ID="0x2B9C9A74"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xFB0F9549" Archetype="StaticGeometryTest"/>

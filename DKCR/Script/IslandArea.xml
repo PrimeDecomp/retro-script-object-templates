@@ -39,15 +39,15 @@
             <Element Type="Enum" ID="0x28E29F9B">
                 <DefaultValue>0x9DCDF5E0</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x9DCDF5E0"/>
-                    <Element Name="Unknown 2" ID="0x4CD7A1F7"/>
-                    <Element Name="Unknown 3" ID="0x49791B20"/>
-                    <Element Name="Unknown 4" ID="0x7AE6F698"/>
-                    <Element Name="Unknown 5" ID="0xC9C98F46"/>
-                    <Element Name="Unknown 6" ID="0x2AFAD23B"/>
-                    <Element Name="Unknown 7" ID="0x9CECD3E4"/>
-                    <Element Name="Unknown 8" ID="0x709136D7"/>
-                    <Element Name="Unknown 9" ID="0x3D363417"/>
+                    <Element Name="kAreaType_Beach" ID="0x9DCDF5E0"/>
+                    <Element Name="kAreaType_Cave" ID="0x4CD7A1F7"/>
+                    <Element Name="kAreaType_Cliff" ID="0x49791B20"/>
+                    <Element Name="kAreaType_Factory" ID="0x7AE6F698"/>
+                    <Element Name="kAreaType_Forest" ID="0xC9C98F46"/>
+                    <Element Name="kAreaType_Jungle" ID="0x2AFAD23B"/>
+                    <Element Name="kAreaType_Ruins" ID="0x9CECD3E4"/>
+                    <Element Name="kAreaType_Volcano" ID="0x709136D7"/>
+                    <Element Name="kAreaType_Secret" ID="0x3D363417"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xDF692967" Archetype="UnknownStruct184"/>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
+    <PropertyArchetype Type="Enum">
+        <Name>RevViewLockType</Name>
+        <Values>
+            <Element Name="kVLT_HoldToLock" ID="0xE4AD6A9D"/>
+            <Element Name="kVLT_HoldToFreeLook" ID="0xE2488BD0"/>
+            <Element Name="kVLT_Toggle" ID="0xFC54340F"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>
