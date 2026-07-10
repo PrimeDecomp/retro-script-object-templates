@@ -6,10 +6,10 @@
             <Element Type="Enum" ID="0x559542AB">
                 <DefaultValue>0x571AA317</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xEBC96FEE"/>
-                    <Element Name="Unknown 2" ID="0xE52BC0C1"/>
-                    <Element Name="Unknown 3" ID="0x571AA317"/>
-                    <Element Name="Unknown 4" ID="0xED705EB1"/>
+                    <Element Name="kPLT_MotionPath" ID="0xEBC96FEE"/>
+                    <Element Name="kPLT_TargetPath" ID="0xE52BC0C1"/>
+                    <Element Name="kPLT_PlayerPath" ID="0x571AA317"/>
+                    <Element Name="kPLT_ObjectPath" ID="0xED705EB1"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x4150490C" Archetype="PathDeterminationMethodType"/>

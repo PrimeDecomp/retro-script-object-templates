@@ -31,7 +31,7 @@
             <Element Type="Int" ID="0x69CDE528">
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x37A20376">
+            <Element Type="Choice" ID="0x37A20376">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD3AD55B6">

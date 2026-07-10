@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>UnknownStruct4</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xDCABE91A">
+            <Element Type="Choice" ID="0xDCABE91A">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x6096FC1">

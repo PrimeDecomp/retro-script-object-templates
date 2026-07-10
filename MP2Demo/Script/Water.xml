@@ -17,7 +17,7 @@
             <Element Type="Float" ID="0x8518047A">
                 <DefaultValue>5.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7D606B78">
+            <Element Type="Choice" ID="0x7D606B78">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x2421A2BF">

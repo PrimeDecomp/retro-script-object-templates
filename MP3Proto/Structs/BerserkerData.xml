@@ -66,7 +66,7 @@
             <Element Type="Asset" ID="0x237C0374"/>
             <Element Type="Struct" ID="0x9C8094F5" Archetype="GrappleData">
                 <SubProperties>
-                    <Element Type="Int" ID="0x5DCF91E1">
+                    <Element Type="Choice" ID="0x5DCF91E1">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>

@@ -7,8 +7,8 @@
                 <DefaultValue>0xB5C34B64</DefaultValue>
                 <Values>
                     <Element Name="kAttackType_None" ID="0xB5C34B64"/>
-                    <Element Name="Unknown 2" ID="0xD9D0F7A1"/>
-                    <Element Name="Unknown 3" ID="0xF58B676"/>
+                    <Element Name="kAttackType_DoubleHandSlamAttack" ID="0xD9D0F7A1"/>
+                    <Element Name="kAttackType_HandClapAttack" ID="0xF58B676"/>
                     <Element Name="kAttackType_HandSlamAttack" ID="0x2EFFCA90"/>
                     <Element Name="kAttackType_HandSlapAttack" ID="0x28F6379E"/>
                     <Element Name="kAttackType_HandSwipeAttack" ID="0x6AB65AF9"/>

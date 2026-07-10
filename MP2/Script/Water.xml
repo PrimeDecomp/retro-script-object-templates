@@ -17,7 +17,7 @@
             <Element Type="Float" ID="0x8518047A">
                 <DefaultValue>5.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7D606B78">
+            <Element Type="Choice" ID="0x7D606B78">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x2421A2BF">
@@ -87,7 +87,7 @@
             </Element>
             <Element Type="Struct" ID="0x244E9E6D" Archetype="LayerInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0xE94F7E87">
+                    <Element Type="Choice" ID="0xE94F7E87">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3C5B0C98">
@@ -103,7 +103,7 @@
             </Element>
             <Element Type="Struct" ID="0xE75248E4" Archetype="LayerInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0xE94F7E87">
+                    <Element Type="Choice" ID="0xE94F7E87">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3C5B0C98">
@@ -119,7 +119,7 @@
             </Element>
             <Element Type="Struct" ID="0x385E0D43" Archetype="LayerInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0xE94F7E87">
+                    <Element Type="Choice" ID="0xE94F7E87">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3C5B0C98">
@@ -135,7 +135,7 @@
             </Element>
             <Element Type="Struct" ID="0xD369B640" Archetype="LayerInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0xE94F7E87">
+                    <Element Type="Choice" ID="0xE94F7E87">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3C5B0C98">
@@ -151,7 +151,7 @@
             </Element>
             <Element Type="Struct" ID="0x6DDEA66D" Archetype="LayerInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0xE94F7E87">
+                    <Element Type="Choice" ID="0xE94F7E87">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3C5B0C98">

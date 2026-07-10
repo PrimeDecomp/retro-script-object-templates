@@ -1468,6 +1468,10 @@
             <Value Path="Structs/ReactiveActorBehaviors.xml"/>
         </Element>
         <Element>
+            <Key>RenderingType</Key>
+            <Value Path="Enums/RenderingType.xml"/>
+        </Element>
+        <Element>
             <Key>RetronomeMessage</Key>
             <Value Path="Structs/RetronomeMessage.xml"/>
         </Element>
@@ -1722,10 +1726,6 @@
         <Element>
             <Key>TweakControls_UnknownStruct2</Key>
             <Value Path="Structs/TweakControls_UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakGraphicalTransitions_UnknownEnum1</Key>
-            <Value Path="Enums/TweakGraphicalTransitions_UnknownEnum1.xml"/>
         </Element>
         <Element>
             <Key>TweakGraphicalTransitions_UnknownStruct1</Key>

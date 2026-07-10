@@ -5,7 +5,7 @@
         <SubProperties>
             <Element Type="Struct" ID="0x6173AD96" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>7</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x37B6DF3D">
@@ -35,7 +35,7 @@
             <Element Type="Spline" ID="0xF9125D7E"/>
             <Element Type="Struct" ID="0x58F00B0A" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>4</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -54,7 +54,7 @@
             </Element>
             <Element Type="Struct" ID="0xE58D6C84" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>5</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -73,7 +73,7 @@
             </Element>
             <Element Type="Struct" ID="0xD26376FD" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>5</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">

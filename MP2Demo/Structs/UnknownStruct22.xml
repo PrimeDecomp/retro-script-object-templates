@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>UnknownStruct22</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x46D866D1">
+            <Element Type="Choice" ID="0x46D866D1">
                 <DefaultValue>10</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xDEFF74EA" Archetype="DamageInfo"/>

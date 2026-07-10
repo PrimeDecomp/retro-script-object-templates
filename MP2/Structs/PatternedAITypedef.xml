@@ -117,7 +117,11 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Asset" ID="0xF35F5164"/>
+            <Element Type="Asset" ID="0xF35F5164">
+                <TypeFilter>
+                    <Element>ELSC</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Vector" ID="0x130539A0">
                 <DefaultValue>
                     <X>0.0</X>
@@ -144,7 +148,7 @@
                     <Element>RULE</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x4BC4C4D9">
+            <Element Type="Choice" ID="0x4BC4C4D9">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x4476BED8" Archetype="EchoParameters">

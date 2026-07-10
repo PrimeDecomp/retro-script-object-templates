@@ -16,7 +16,7 @@
             <Element Type="Choice" ID="0x94BA5737">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x363D98A4">
+            <Element Type="Choice" ID="0x363D98A4">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

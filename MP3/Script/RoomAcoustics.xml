@@ -7,11 +7,11 @@
             <Element Type="Enum" ID="0xBE7CA9E">
                 <DefaultValue>0x3AAA1114</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x1C750ED3"/>
-                    <Element Name="Unknown 2" ID="0x3AAA1114"/>
-                    <Element Name="Unknown 3" ID="0xD42E70C4"/>
-                    <Element Name="Unknown 4" ID="0x1BAD2014"/>
-                    <Element Name="Unknown 5" ID="0x9D82E6BE"/>
+                    <Element Name="Low" ID="0x1C750ED3"/>
+                    <Element Name="Background" ID="0x3AAA1114"/>
+                    <Element Name="Medium" ID="0xD42E70C4"/>
+                    <Element Name="Foreground" ID="0x1BAD2014"/>
+                    <Element Name="High" ID="0x9D82E6BE"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x555B055E" Archetype="UnknownStruct54"/>

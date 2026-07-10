@@ -21,7 +21,7 @@
                     <Element Type="Float" ID="0xD9355674">
                         <DefaultValue>1.0</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>
@@ -139,16 +139,20 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xED76B137">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xED76B137">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Asset" ID="0xFFCEE1A9">
                 <TypeFilter>
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x5D47E3DF">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x5D47E3DF">
+                <TypeFilter>
+                    <Element>SWHC</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Int" ID="0xF0E4D621">
                 <DefaultValue>-1</DefaultValue>

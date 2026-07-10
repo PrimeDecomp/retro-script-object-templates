@@ -1788,6 +1788,10 @@
             <Value Path="Structs/TweakGuiColors_TurretHudTypedef.xml"/>
         </Element>
         <Element>
+            <Key>TweakGui_CommandVisor</Key>
+            <Value Path="Structs/TweakGui_CommandVisor.xml"/>
+        </Element>
+        <Element>
             <Key>TweakGui_Completion</Key>
             <Value Path="Structs/TweakGui_Completion.xml"/>
         </Element>
@@ -1796,8 +1800,16 @@
             <Value Path="Structs/TweakGui_Credits.xml"/>
         </Element>
         <Element>
+            <Key>TweakGui_GrappleEffect</Key>
+            <Value Path="Structs/TweakGui_GrappleEffect.xml"/>
+        </Element>
+        <Element>
             <Key>TweakGui_HudColorTypedef</Key>
             <Value Path="Structs/TweakGui_HudColorTypedef.xml"/>
+        </Element>
+        <Element>
+            <Key>TweakGui_Hypermode</Key>
+            <Value Path="Structs/TweakGui_Hypermode.xml"/>
         </Element>
         <Element>
             <Key>TweakGui_Misc</Key>
@@ -1824,28 +1836,16 @@
             <Value Path="Enums/TweakGui_UnknownEnum1.xml"/>
         </Element>
         <Element>
-            <Key>TweakGui_UnknownStruct1</Key>
-            <Value Path="Structs/TweakGui_UnknownStruct1.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakGui_UnknownStruct2</Key>
-            <Value Path="Structs/TweakGui_UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakGui_UnknownStruct3</Key>
-            <Value Path="Structs/TweakGui_UnknownStruct3.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakGui_UnknownStruct4</Key>
-            <Value Path="Structs/TweakGui_UnknownStruct4.xml"/>
-        </Element>
-        <Element>
             <Key>TweakGui_UnknownStruct5</Key>
             <Value Path="Structs/TweakGui_UnknownStruct5.xml"/>
         </Element>
         <Element>
             <Key>TweakGui_VisorColorSchemeTypedef</Key>
             <Value Path="Structs/TweakGui_VisorColorSchemeTypedef.xml"/>
+        </Element>
+        <Element>
+            <Key>TweakGui_XRayVisor</Key>
+            <Value Path="Structs/TweakGui_XRayVisor.xml"/>
         </Element>
         <Element>
             <Key>TweakPlayerGun_Arm_Position</Key>

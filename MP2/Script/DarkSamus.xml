@@ -18,7 +18,7 @@
                     <Element Type="Float" ID="0x3011B5DF">
                         <DefaultValue>1.0</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>
@@ -133,8 +133,8 @@
                     <Element>CRSC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xEA17CB66">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xEA17CB66">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xEF8DC15">
                 <DefaultValue>-1</DefaultValue>

@@ -136,7 +136,7 @@
             <Element Type="AnimationSet" ID="0xC699AD35"/>
             <Element Type="Struct" ID="0xBE1AFBC0" Archetype="GrappleData">
                 <SubProperties>
-                    <Element Type="Int" ID="0x5DCF91E1">
+                    <Element Type="Choice" ID="0x5DCF91E1">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>

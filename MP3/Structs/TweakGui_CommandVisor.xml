@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>TweakGui_UnknownStruct1</Name>
+        <Name>TweakGui_CommandVisor</Name>
         <SubProperties>
             <Element Type="Color" ID="0xDFD3CFF0">
                 <DefaultValue>

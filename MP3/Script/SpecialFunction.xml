@@ -99,7 +99,7 @@
             <Element Type="Enum" ID="0x825E1E14">
                 <DefaultValue>0xCC1DFCF5</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xCC1DFCF5"/>
+                    <Element Name="kExtraInfo_None" ID="0xCC1DFCF5"/>
                     <Element Name="Unknown 2" ID="0xC5920CA3"/>
                 </Values>
             </Element>

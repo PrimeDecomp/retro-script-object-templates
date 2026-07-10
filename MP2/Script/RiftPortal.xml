@@ -34,7 +34,7 @@
             <Element Type="Bool" ID="0xF5B73AF8">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x87D5A35F">
+            <Element Type="Choice" ID="0x87D5A35F">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x709C1413">

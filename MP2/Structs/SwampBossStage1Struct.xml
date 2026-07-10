@@ -18,16 +18,16 @@
             <Element Type="Int" ID="0x60B0AE31">
                 <DefaultValue>3</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9CFA9ACB">
+            <Element Type="Choice" ID="0x9CFA9ACB">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x180F81DD">
+            <Element Type="Choice" ID="0x180F81DD">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x42617CFD">
+            <Element Type="Choice" ID="0x42617CFD">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xC39F864E">
+            <Element Type="Choice" ID="0xC39F864E">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Enum">
+        <Name>RenderingType</Name>
+        <Values>
+            <Element Name="kRenderingType_AlphaBlend" ID="0x10C04105"/>
+            <Element Name="kRenderingType_Multiply" ID="0x633CB215"/>
+            <Element Name="kRenderingType_Additive" ID="0x94B15057"/>
+            <Element Name="kRenderingType_Subtract" ID="0x53D289D7"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

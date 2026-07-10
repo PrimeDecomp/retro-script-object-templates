@@ -43,10 +43,8 @@
                     <Element>CMDL</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Asset" ID="0xDCC2BF11">
-                <TypeFilter>
-                    <Element>CMDL</Element>
-                </TypeFilter>
+            <Element Type="Sound" ID="0xDCC2BF11">
+                <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

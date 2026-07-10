@@ -33,8 +33,8 @@
                     <B>1.0</B>
                 </DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xA6DC9A92">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xA6DC9A92">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xD5B78BC9">
                 <DefaultValue>false</DefaultValue>

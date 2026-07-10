@@ -27,7 +27,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="String" ID="0xD501C87E"/>
-            <Element Type="Int" ID="0x94F0365C">
+            <Element Type="Choice" ID="0x94F0365C">
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x90AA341F">

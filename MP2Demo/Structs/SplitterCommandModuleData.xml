@@ -120,11 +120,11 @@
             <Element Type="Sound" ID="0xE7724802">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD4A06273">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xD4A06273">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xAFC20631">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xAFC20631">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x2FF5A809">
                 <DefaultValue>0</DefaultValue>

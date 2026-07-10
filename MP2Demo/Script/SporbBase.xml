@@ -108,8 +108,8 @@
             <Element Type="Sound" ID="0xA87D72FC">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x8661285E">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x8661285E">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x4123323A">
                 <DefaultValue>0</DefaultValue>

@@ -64,7 +64,7 @@
             <Element Type="Float" ID="0x8CB20C53">
                 <DefaultValue>0.5</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x21B3D07C">
+            <Element Type="Choice" ID="0x21B3D07C">
                 <DefaultValue>3</DefaultValue>
             </Element>
             <Element Type="Color" ID="0x1F83D350">

@@ -4,7 +4,7 @@
         <Name>VisorFlare</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0xCB13EF46">
+            <Element Type="Choice" ID="0xCB13EF46">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xE0C5FC06">
@@ -19,7 +19,7 @@
             <Element Type="Float" ID="0x3161F38C">
                 <DefaultValue>2.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x43B503A6">
+            <Element Type="Choice" ID="0x43B503A6">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xA51F243E">

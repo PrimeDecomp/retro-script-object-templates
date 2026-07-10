@@ -41,7 +41,7 @@
                     <Element Name="kBA_BryyoSwitches" ID="0x2D6989E7"/>
                     <Element Name="kBA_BossHatcher_Valhalla" ID="0xE466E0DA"/>
                     <Element Name="kBA_BossHatcherHard_Valhalla" ID="0x61F8DDA3"/>
-                    <Element Name="AU 313 Secret Message" ID="0x6DFFFB18"/>
+                    <Element Name="kBA_SecretAUDialogue" ID="0x6DFFFB18"/>
                     <Element Name="kBA_BossGhor" ID="0xB6B63209"/>
                     <Element Name="kBA_BossGhorHard" ID="0x8A190E03"/>
                     <Element Name="kBA_BossSteamlord" ID="0xDB7B08CA"/>
@@ -74,7 +74,7 @@
                     <Element Name="kBA_BossHarvesterHard" ID="0x85694AAD"/>
                     <Element Name="kBA_BossCommander" ID="0x80BC1276"/>
                     <Element Name="kBA_BossCommanderHard" ID="0xB45D853A"/>
-                    <Element Name="20 Commando Kills" ID="0x5B78C277"/>
+                    <Element Name="kBA_PirateCommandos20" ID="0x5B78C277"/>
                     <Element Name="All Troopers Survived" ID="0xF887030"/>
                     <Element Name="kBA_BossDarkSamus" ID="0x70E804F"/>
                     <Element Name="kBA_BossDarkSamusHard" ID="0x62C68436"/>

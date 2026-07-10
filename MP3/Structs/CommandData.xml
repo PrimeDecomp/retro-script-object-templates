@@ -7,7 +7,7 @@
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x7527B3A" Archetype="ControlCommands"/>
-            <Element Type="Int" ID="0x4063422A">
+            <Element Type="Choice" ID="0x4063422A">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

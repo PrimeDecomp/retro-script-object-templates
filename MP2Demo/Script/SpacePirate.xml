@@ -60,7 +60,7 @@
                     <Element Type="Float" ID="0xF0790C1B">
                         <DefaultValue>0.2</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>
@@ -152,8 +152,8 @@
             <Element Type="Float" ID="0x7903312E">
                 <DefaultValue>0.050000001</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x386431AC">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x386431AC">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB2AC2D96">
                 <DefaultValue>1.0</DefaultValue>

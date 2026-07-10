@@ -61,7 +61,7 @@
             <Element Type="Bool" ID="0xBE931927">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x2FA4E5D7">
+            <Element Type="Choice" ID="0x2FA4E5D7">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xB028DB0E" Archetype="LightParameters"/>

@@ -57,7 +57,7 @@
                     <Element Type="Float" ID="0xF0790C1B">
                         <DefaultValue>0.2</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>
@@ -94,11 +94,11 @@
             <Element Type="Sound" ID="0xE160B593">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9E7CB44">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x9E7CB44">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x477B323C">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x477B323C">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xFCA76593">
                 <DefaultValue>-1</DefaultValue>
@@ -149,8 +149,8 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xD7BBB5C0">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xD7BBB5C0">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x388E16C9" Archetype="UnknownStruct12"/>
         </SubProperties>

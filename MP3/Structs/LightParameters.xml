@@ -50,7 +50,7 @@
             <Element Type="Bool" ID="0x61A940D6">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x1F715FD3">
+            <Element Type="Choice" ID="0x1F715FD3">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

@@ -45,7 +45,7 @@
                     <Element>RULE</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x4BC4C4D9">
+            <Element Type="Choice" ID="0x4BC4C4D9">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x6392404E">
@@ -121,7 +121,11 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Asset" ID="0xF35F5164"/>
+            <Element Type="Asset" ID="0xF35F5164">
+                <TypeFilter>
+                    <Element>ELSC</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Float" ID="0x66CDC6E8">
                 <DefaultValue>1000.0</DefaultValue>
             </Element>

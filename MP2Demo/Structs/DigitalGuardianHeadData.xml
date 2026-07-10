@@ -56,8 +56,8 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0xF76D8F">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xF76D8F">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xD669F12C">
                 <TypeFilter>
@@ -77,8 +77,8 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0xDD411A0A">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xDD411A0A">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xD187F05C">
                 <TypeFilter>
