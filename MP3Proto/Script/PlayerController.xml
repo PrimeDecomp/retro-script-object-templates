@@ -24,7 +24,7 @@
             <Element Type="Asset" ID="0xC27FFA8F"/>
             <Element Type="AnimationSet" ID="0xA244C9D8"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Int" ID="0xCA56A18A">
+            <Element Type="Choice" ID="0xCA56A18A">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x1D8B933F">

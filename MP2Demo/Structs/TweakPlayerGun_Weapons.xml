@@ -5,7 +5,7 @@
         <SubProperties>
             <Element Type="Struct" ID="0x6173AD96" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>4</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x37B6DF3D">
@@ -24,7 +24,7 @@
             </Element>
             <Element Type="Struct" ID="0xDCC0C6FB" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>5</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -40,7 +40,7 @@
             </Element>
             <Element Type="Struct" ID="0x326E7756" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>14</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -56,7 +56,7 @@
             </Element>
             <Element Type="Struct" ID="0xA2F39FBA" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>14</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -81,7 +81,7 @@
             </Element>
             <Element Type="Struct" ID="0x63D107E6" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>15</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -112,7 +112,7 @@
             </Element>
             <Element Type="Struct" ID="0x5B82698" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>16</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -131,7 +131,7 @@
             </Element>
             <Element Type="Struct" ID="0x2A604A3D" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>4</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -147,7 +147,7 @@
             </Element>
             <Element Type="Struct" ID="0x58F00B0A" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>6</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">
@@ -180,7 +180,7 @@
             </Element>
             <Element Type="Struct" ID="0x59DCE11" Archetype="TDamageInfo">
                 <SubProperties>
-                    <Element Type="Int" ID="0x4D577910">
+                    <Element Type="Choice" ID="0x4D577910">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF3EC8748">

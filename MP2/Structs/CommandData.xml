@@ -10,7 +10,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0x4063422A">
+            <Element Type="Choice" ID="0x4063422A">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

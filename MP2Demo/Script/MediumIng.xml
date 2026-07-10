@@ -20,12 +20,12 @@
                             </Element>
                         </SubProperties>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0xC96AE3DF">
+            <Element Type="Choice" ID="0xC96AE3DF">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>

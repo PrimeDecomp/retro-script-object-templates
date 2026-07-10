@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>SpacePirateData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x8E1E1586">
+            <Element Type="Choice" ID="0x8E1E1586">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xA40CB847">
@@ -228,7 +228,7 @@
             <Element Type="AnimationSet" ID="0xC699AD35"/>
             <Element Type="Struct" ID="0xBE1AFBC0" Archetype="GrappleData">
                 <SubProperties>
-                    <Element Type="Int" ID="0x5DCF91E1">
+                    <Element Type="Choice" ID="0x5DCF91E1">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0xE2ACF76E">

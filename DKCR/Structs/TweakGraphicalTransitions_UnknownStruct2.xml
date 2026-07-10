@@ -16,7 +16,7 @@
                     <B>0.0</B>
                 </DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0xB918579" Archetype="TweakGraphicalTransitions_UnknownEnum1">
+            <Element Type="Enum" ID="0xB918579" Archetype="RenderingType">
                 <DefaultValue>0x10C04105</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xBEFC4DA4">

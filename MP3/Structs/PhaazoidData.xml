@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>PhaazoidData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xB25774E2">
+            <Element Type="Choice" ID="0xB25774E2">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x2A3E092">

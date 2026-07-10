@@ -56,7 +56,7 @@
             <Element Type="Float" ID="0x9FDF211A">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x1F715FD3">
+            <Element Type="Choice" ID="0x1F715FD3">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

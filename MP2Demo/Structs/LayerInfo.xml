@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>LayerInfo</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xE94F7E87">
+            <Element Type="Choice" ID="0xE94F7E87">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x3C5B0C98">

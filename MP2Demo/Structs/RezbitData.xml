@@ -41,8 +41,8 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0xBB8DADB4">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xBB8DADB4">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x75491CA">
                 <DefaultValue>20.0</DefaultValue>

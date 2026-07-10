@@ -16,7 +16,7 @@
                     <Element Name="kFRM_Normal" ID="0xD863C36B"/>
                 </Values>
             </Element>
-            <Element Type="Int" ID="0x9AD63DE">
+            <Element Type="Choice" ID="0x9AD63DE">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Color" ID="0x37C7D09D">

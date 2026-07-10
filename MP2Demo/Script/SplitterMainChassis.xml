@@ -25,7 +25,7 @@
                             </Element>
                         </SubProperties>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>2</DefaultValue>
                     </Element>
                 </SubProperties>

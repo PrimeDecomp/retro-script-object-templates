@@ -13,10 +13,10 @@
             <Element Type="Enum" ID="0x2ABD251">
                 <DefaultValue>0xAF3945DE</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xAF3945DE"/>
-                    <Element Name="Unknown 2" ID="0x3D7A9FCD"/>
-                    <Element Name="Unknown 3" ID="0x4D529ECE"/>
-                    <Element Name="Unknown 4" ID="0xA835852B"/>
+                    <Element Name="kTrackingAxis_RightMost" ID="0xAF3945DE"/>
+                    <Element Name="kTrackingAxis_LeftMost" ID="0x3D7A9FCD"/>
+                    <Element Name="kTrackingAxis_UpMost" ID="0x4D529ECE"/>
+                    <Element Name="kTrackingAxis_DownMost" ID="0xA835852B"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0xBBB489D0">

@@ -4,7 +4,7 @@
         <Name>CameraFilterKeyframe</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0x7975DB5B">
+            <Element Type="Choice" ID="0x7975DB5B">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x6A3E9A3D">
@@ -13,7 +13,7 @@
             <Element Type="Int" ID="0x58BDBD7B">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x3FDC4B2E">
+            <Element Type="Choice" ID="0x3FDC4B2E">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Color" ID="0x37C7D09D">

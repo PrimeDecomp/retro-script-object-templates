@@ -11,7 +11,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x91CEFA1E" Archetype="GuiWidgetProperties"/>
-            <Element Type="Int" ID="0xA714D574">
+            <Element Type="Choice" ID="0xA714D574">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x84F708C8">

@@ -7,7 +7,7 @@
             <Element Type="Flags" ID="0x1FFC65D8">
                 <DefaultValue>2</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x1405B5E4">
+            <Element Type="Choice" ID="0x1405B5E4">
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Spline" ID="0x922D151F"/>

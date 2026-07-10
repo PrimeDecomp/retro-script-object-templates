@@ -25,7 +25,7 @@
                             </Element>
                         </SubProperties>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>2</DefaultValue>
                     </Element>
                 </SubProperties>
@@ -177,8 +177,8 @@
             <Element Type="Float" ID="0x80434AC9">
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xF7A89209">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xF7A89209">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x951107D5" Archetype="DamageInfo">
                 <SubProperties>
@@ -211,8 +211,8 @@
             <Element Type="Float" ID="0xBF294427">
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x89DFB9D9">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x89DFB9D9">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x94DA6435" Archetype="PlasmaBeamInfo">
                 <SubProperties>
@@ -317,8 +317,8 @@
                     <Element>CSKR</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xDCC2BF11">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xDCC2BF11">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xB7ECDCF9" Archetype="DamageVulnerability"/>
             <Element Type="Struct" ID="0x844ED79C" Archetype="DamageVulnerability"/>

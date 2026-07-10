@@ -51,7 +51,7 @@
                     <Element Type="Float" ID="0x39A6DEC3">
                         <DefaultValue>3.0</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>2</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3FAE47EB">
@@ -106,7 +106,7 @@
                     <Element Type="Float" ID="0x39A6DEC3">
                         <DefaultValue>3.0</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>2</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3FAE47EB">
@@ -161,7 +161,7 @@
                     <Element Type="Float" ID="0x39A6DEC3">
                         <DefaultValue>3.0</DefaultValue>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>2</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0x3FAE47EB">

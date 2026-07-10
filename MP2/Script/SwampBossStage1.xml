@@ -27,7 +27,7 @@
                     <Element Type="Float" ID="0x7D5A0487">
                         <CookPreference>OnlyIfModified</CookPreference>
                     </Element>
-                    <Element Type="Int" ID="0x4BC4C4D9">
+                    <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>2</DefaultValue>
                     </Element>
                 </SubProperties>

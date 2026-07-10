@@ -19,7 +19,7 @@
                     <B>1.0</B>
                 </DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x94F0365C">
+            <Element Type="Choice" ID="0x94F0365C">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1AFA5C48">

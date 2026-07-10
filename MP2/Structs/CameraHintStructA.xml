@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>CameraHintStructA</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xF53DCDD6">
+            <Element Type="Choice" ID="0xF53DCDD6">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>
