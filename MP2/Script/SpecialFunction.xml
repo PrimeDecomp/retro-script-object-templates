@@ -16,7 +16,7 @@
                     <Element Name="PlayerFollowLocator" ID="0x1"/>
                     <Element Name="SpinnerController" ID="0x2"/>
                     <Element Name="ObjectFollowLocator" ID="0x3"/>
-                    <Element Name="Function 4" ID="0x4"/>
+                    <Element Name="ChaffTarget" ID="0x4"/>
                     <Element Name="InventoryActivator" ID="0x5"/>
                     <Element Name="MapStation" ID="0x6"/>
                     <Element Name="SaveStation" ID="0x7"/>
