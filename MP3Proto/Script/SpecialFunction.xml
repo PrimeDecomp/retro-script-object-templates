@@ -70,7 +70,7 @@
                     <Element Name="kSF_ExtraRenderClipPlane" ID="0x2CB1471C"/>
                     <Element Name="kSF_VisorBlowout" ID="0xF73614C9"/>
                     <Element Name="kSF_AreaAutoLoadController" ID="0xE578ADF"/>
-                    <Element Name="Unknown 64 (GameStateSysVar?)" ID="0xDFE51E86"/>
+                    <Element Name="kSF_SystemStateEnvVarController" ID="0xDFE51E86"/>
                     <Element Name="kSF_GameStateEnvVarController" ID="0x661EC9E0"/>
                     <Element Name="kSF_MusicSelectionRelay" ID="0xD3F99123"/>
                     <Element Name="Unknown 67 (Translator Door Location?)" ID="0xBFA25CC"/>

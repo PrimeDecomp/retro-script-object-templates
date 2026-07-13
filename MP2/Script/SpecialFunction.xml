@@ -75,7 +75,7 @@
                     <Element Name="ExtraRenderClipPlane" ID="0x3C"/>
                     <Element Name="VisorBlowout" ID="0x3D"/>
                     <Element Name="AreaAutoLoadController" ID="0x3E"/>
-                    <Element Name="GameStateSysVar" ID="0x3F"/>
+                    <Element Name="SystemStateEnvVarController" ID="0x3F"/>
                     <Element Name="GameStateEnvVarController" ID="0x40"/>
                     <Element Name="MusicSelectionRelay" ID="0x41"/>
                     <Element Name="Translator Door Location" ID="0x42"/>
