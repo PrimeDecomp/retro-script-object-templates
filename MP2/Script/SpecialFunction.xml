@@ -12,76 +12,76 @@
             </Element>
             <Element Type="Choice" ID="0x95F8D644">
                 <Values>
-                    <Element Name="What" ID="0x0"/>
+                    <Element Name="None" ID="0x0"/>
                     <Element Name="PlayerFollowLocator" ID="0x1"/>
-                    <Element Name="SpinnerController (Unused)" ID="0x2"/>
+                    <Element Name="SpinnerController" ID="0x2"/>
                     <Element Name="ObjectFollowLocator" ID="0x3"/>
-                    <Element Name="Function 4 (Unused)" ID="0x4"/>
+                    <Element Name="Function 4" ID="0x4"/>
                     <Element Name="InventoryActivator" ID="0x5"/>
                     <Element Name="MapStation" ID="0x6"/>
-                    <Element Name="SaveStation / Checkpoint" ID="0x7"/>
-                    <Element Name="IntroBossRingController (Unused)" ID="0x8"/>
+                    <Element Name="SaveStation" ID="0x7"/>
+                    <Element Name="IntroBossRingController" ID="0x8"/>
                     <Element Name="ViewFrustumTester" ID="0x9"/>
-                    <Element Name="ShotSpinnerController (Unused)" ID="0xA"/>
+                    <Element Name="ShotSpinnerController" ID="0xA"/>
                     <Element Name="EscapeSequence" ID="0xB"/>
                     <Element Name="BossEnergyBar" ID="0xC"/>
                     <Element Name="EndGame" ID="0xD"/>
-                    <Element Name="HUDFadeIn (Unused)" ID="0xE"/>
+                    <Element Name="DisableHud" ID="0xE"/>
                     <Element Name="CinematicSkip" ID="0xF"/>
-                    <Element Name="ScriptLayerController (Unused)" ID="0x10"/>
-                    <Element Name="RainSimulator (Unused)" ID="0x11"/>
-                    <Element Name="AreaDamage (Unused)" ID="0x12"/>
+                    <Element Name="ScriptLayerController" ID="0x10"/>
+                    <Element Name="RainSimulator" ID="0x11"/>
+                    <Element Name="AreaDamagePlayer" ID="0x12"/>
                     <Element Name="ObjectFollowObject" ID="0x13"/>
-                    <Element Name="RedundantHintSystem" ID="0x14"/>
-                    <Element Name="DropBomb (Unused)" ID="0x15"/>
-                    <Element Name="Function 22 (Unused)" ID="0x16"/>
-                    <Element Name="MissileStation (Unused)" ID="0x17"/>
-                    <Element Name="Billboard (Unused)" ID="0x18"/>
+                    <Element Name="HintController" ID="0x14"/>
+                    <Element Name="DropBomb" ID="0x15"/>
+                    <Element Name="ScaleObject" ID="0x16"/>
+                    <Element Name="MissileStation" ID="0x17"/>
+                    <Element Name="Billboard" ID="0x18"/>
                     <Element Name="PlayerInAreaRelay" ID="0x19"/>
-                    <Element Name="HUDTarget (Unused)" ID="0x1A"/>
-                    <Element Name="FogFader" ID="0x1B"/>
-                    <Element Name="Enter Logbook Screen (Unused)" ID="0x1C"/>
-                    <Element Name="PowerBombStation (Unused)" ID="0x1D"/>
-                    <Element Name="Ending" ID="0x1E"/>
-                    <Element Name="FusionRelay (Unused)" ID="0x1F"/>
-                    <Element Name="WeaponSwitch (Unused)" ID="0x20"/>
+                    <Element Name="HUDTarget" ID="0x1A"/>
+                    <Element Name="UnderwaterFog" ID="0x1B"/>
+                    <Element Name="EnterLogBookScreen" ID="0x1C"/>
+                    <Element Name="PowerBombStation" ID="0x1D"/>
+                    <Element Name="EndingActivator" ID="0x1E"/>
+                    <Element Name="FusionRelay" ID="0x1F"/>
+                    <Element Name="WeaponSwitch" ID="0x20"/>
                     <Element Name="LaunchPlayer" ID="0x21"/>
-                    <Element Name="Function 34 (Unused)" ID="0x22"/>
+                    <Element Name="RechargeStation" ID="0x22"/>
                     <Element Name="Darkworld" ID="0x23"/>
-                    <Element Name="Function 36 (Unused)" ID="0x24"/>
-                    <Element Name="Function 37 (Unused)" ID="0x25"/>
-                    <Element Name="Function 38 (Unused)" ID="0x26"/>
-                    <Element Name="Function 39 (Unused)" ID="0x27"/>
-                    <Element Name="Set NumPlayers___/Remove Hacked Effect" ID="0x28"/>
-                    <Element Name="Enable Cannon Ball Damage" ID="0x29"/>
+                    <Element Name="PlayerOffscreen" ID="0x24"/>
+                    <Element Name="Function 37" ID="0x25"/>
+                    <Element Name="Function 38" ID="0x26"/>
+                    <Element Name="Function 39" ID="0x27"/>
+                    <Element Name="SetInventoryCapacity" ID="0x28"/>
+                    <Element Name="SetInventoryAmount" ID="0x29"/>
                     <Element Name="ModifyInventoryAmount" ID="0x2A"/>
-                    <Element Name="Increment/Decrement Players Joined Count" ID="0x2B"/>
-                    <Element Name="SetInventoryAmount" ID="0x2C"/>
+                    <Element Name="ModifyInventoryCapacity" ID="0x2B"/>
+                    <Element Name="ModifyInventoryAmountAndCapacity" ID="0x2C"/>
                     <Element Name="SetInventoryAmountAndCapacity" ID="0x2D"/>
-                    <Element Name="Function 46 (Unused)" ID="0x2E"/>
-                    <Element Name="AutomaticSunPlacement" ID="0x2F"/>
-                    <Element Name="Function 48 (Unused)" ID="0x30"/>
-                    <Element Name="Wipe On/Off ___" ID="0x31"/>
-                    <Element Name="Function 50 (Unused)" ID="0x32"/>
-                    <Element Name="InventoryLost" ID="0x33"/>
-                    <Element Name="Function 52 (Unused)" ID="0x34"/>
-                    <Element Name="SunGenerator" ID="0x35"/>
-                    <Element Name="SkyFader" ID="0x36"/>
+                    <Element Name="Function 46" ID="0x2E"/>
+                    <Element Name="SunPlacement" ID="0x2F"/>
+                    <Element Name="Function 48" ID="0x30"/>
+                    <Element Name="TransparencyWipe" ID="0x31"/>
+                    <Element Name="Function 50" ID="0x32"/>
+                    <Element Name="InventoryItemLost" ID="0x33"/>
+                    <Element Name="Function 52" ID="0x34"/>
+                    <Element Name="SunGeneratorTeleporter" ID="0x35"/>
+                    <Element Name="SkyLighting" ID="0x36"/>
                     <Element Name="OcclusionRelay" ID="0x37"/>
                     <Element Name="MultiplayerCountdown" ID="0x38"/>
                     <Element Name="ScaleSZ" ID="0x39"/>
-                    <Element Name="Attach ___" ID="0x3A"/>
-                    <Element Name="Function 59 (Unused)" ID="0x3B"/>
+                    <Element Name="ObjectFollowJoint" ID="0x3A"/>
+                    <Element Name="Function 59" ID="0x3B"/>
                     <Element Name="ExtraRenderClipPlane" ID="0x3C"/>
                     <Element Name="VisorBlowout" ID="0x3D"/>
                     <Element Name="AreaAutoLoadController" ID="0x3E"/>
                     <Element Name="GameStateSysVar" ID="0x3F"/>
-                    <Element Name="GameStateEnvVar" ID="0x40"/>
-                    <Element Name="Play Selected Music [Multiplayer]" ID="0x41"/>
+                    <Element Name="GameStateEnvVarController" ID="0x40"/>
+                    <Element Name="MusicSelectionRelay" ID="0x41"/>
                     <Element Name="Translator Door Location" ID="0x42"/>
                     <Element Name="CinematicSkipSignal" ID="0x43"/>
-                    <Element Name="Remove Rezbit Virus" ID="0x44"/>
-                    <Element Name="Credits" ID="0x45"/>
+                    <Element Name="RemoveRezbitVirus" ID="0x44"/>
+                    <Element Name="CompletionScreen" ID="0x45"/>
                 </Values>
             </Element>
             <Element Type="String" ID="0x9D7A576D"/>
