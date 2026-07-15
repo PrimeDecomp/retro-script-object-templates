@@ -11,11 +11,11 @@
                     <Element Name="kSF_PlayerFollowLocator" ID="0xFF6D9BE6"/>
                     <Element Name="kSF_SpinnerController" ID="0xFC4247D3"/>
                     <Element Name="kSF_ObjectFollowLocator" ID="0x982A42A3"/>
-                    <Element Name="Unknown 5" ID="0x746A8F4F"/>
+                    <Element Name="kSF_ChaffTarget" ID="0x746A8F4F"/>
                     <Element Name="kSF_InventoryActivator" ID="0xE13871E3"/>
                     <Element Name="kSF_MapStation" ID="0x2C1DC485"/>
                     <Element Name="kSF_SaveStation" ID="0xB528A4F0"/>
-                    <Element Name="Unknown 9 (IntroBossRingController?)" ID="0x1D97AD5B"/>
+                    <Element Name="kSF_IntroBossRingController" ID="0x1D97AD5B"/>
                     <Element Name="kSF_ViewFrustumTester" ID="0x129C99C0"/>
                     <Element Name="kSF_ShotSpinnerController" ID="0x792634B9"/>
                     <Element Name="kSF_EscapeSequenceTrigger" ID="0xBBFADF2F"/>
@@ -23,7 +23,7 @@
                     <Element Name="kSF_EndGame" ID="0x7E025D14"/>
                     <Element Name="kSF_DisableHud" ID="0x766ED410"/>
                     <Element Name="kSF_CinematicSkip" ID="0x29837C6C"/>
-                    <Element Name="Unknown 17 (ScriptLayerController?)" ID="0x71967142"/>
+                    <Element Name="kSF_ScriptLayerController" ID="0x71967142"/>
                     <Element Name="kSF_RainSimulator" ID="0x53DD05AD"/>
                     <Element Name="kSF_AreaDamagePlayer" ID="0x3D1A78AC"/>
                     <Element Name="kSF_ObjectFollowObject" ID="0x73810303"/>
@@ -31,18 +31,18 @@
                     <Element Name="kSF_DropBomb" ID="0xD5D0EA93"/>
                     <Element Name="kSF_ScaleObject" ID="0x6C963236"/>
                     <Element Name="kSF_MissileStation" ID="0xB5FC495C"/>
-                    <Element Name="Unknown 25 (Billboard?)" ID="0x78AD9BEF"/>
+                    <Element Name="kSF_Billboard" ID="0x78AD9BEF"/>
                     <Element Name="kSF_PlayerInAreaRelay" ID="0xFE41E1E9"/>
                     <Element Name="kSF_HUDTarget" ID="0x1C7FDCAB"/>
                     <Element Name="kSF_UnderWaterFog" ID="0x63F10B1F"/>
                     <Element Name="kSF_EnterLogBookScreen" ID="0x14A3B65C"/>
                     <Element Name="kSF_PowerBombStation" ID="0xFE065C29"/>
                     <Element Name="kSF_EndingActivator" ID="0x8838D84A"/>
-                    <Element Name="Unknown 32 (FusionRelay?)" ID="0x9B86DE10"/>
+                    <Element Name="kSF_FusionRelay" ID="0x9B86DE10"/>
                     <Element Name="kSF_WeaponSwitch" ID="0xD4988D98"/>
                     <Element Name="kSF_LaunchPlayer" ID="0x90031E91"/>
                     <Element Name="kSF_RechargeStation" ID="0x9BE4E305"/>
-                    <Element Name="Unknown 36 (Darkworld?)" ID="0xD6394D61"/>
+                    <Element Name="kSF_Darkworld" ID="0xD6394D61"/>
                     <Element Name="kSF_PlayerOffscreen" ID="0x26AA4AC9"/>
                     <Element Name="Unknown 38" ID="0xD8AD2D4A"/>
                     <Element Name="Unknown 39" ID="0xEF4684FC"/>
@@ -64,7 +64,7 @@
                     <Element Name="kSF_SkyLighting" ID="0x7F0CE328"/>
                     <Element Name="kSF_OcclusionRelay" ID="0x9EAEB97A"/>
                     <Element Name="kSF_MultiplayerCountdown" ID="0xB0D2FCA9"/>
-                    <Element Name="Unknown 58 (ScaleSZ?)" ID="0x9A22561C"/>
+                    <Element Name="kSF_ScaleSZ" ID="0x9A22561C"/>
                     <Element Name="kSF_ObjectFollowJoint" ID="0x5FE350B"/>
                     <Element Name="Unknown 60" ID="0xE6472D82"/>
                     <Element Name="kSF_ExtraRenderClipPlane" ID="0x2CB1471C"/>
