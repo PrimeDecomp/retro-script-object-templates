@@ -68,7 +68,7 @@
                     <Element Name="kSF_VisorBlowout" ID="0xF73614C9"/>
                     <Element Name="kSF_XRayHUDControl" ID="0xD0E2CA63"/>
                     <Element Name="kSF_KillPlayer" ID="0x1E46D48C"/>
-                    <Element Name="kSF_Unknown" ID="0x171CB7CB"/>
+                    <Element Name="kSF_NonEnglishSwitch" ID="0x171CB7CB"/>
                 </Values>
             </Element>
             <Element Type="String" ID="0x9D7A576D"/>
