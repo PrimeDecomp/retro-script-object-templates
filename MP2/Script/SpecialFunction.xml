@@ -78,7 +78,7 @@
                     <Element Name="SystemStateEnvVarController" ID="0x3F"/>
                     <Element Name="GameStateEnvVarController" ID="0x40"/>
                     <Element Name="MusicSelectionRelay" ID="0x41"/>
-                    <Element Name="Translator Door Location" ID="0x42"/>
+                    <Element Name="UnmappableObject" ID="0x42"/>
                     <Element Name="CinematicSkipSignal" ID="0x43"/>
                     <Element Name="RemoveRezbitVirus" ID="0x44"/>
                     <Element Name="CompletionScreen" ID="0x45"/>

@@ -73,7 +73,7 @@
                     <Element Name="kSF_SystemStateEnvVarController" ID="0xDFE51E86"/>
                     <Element Name="kSF_GameStateEnvVarController" ID="0x661EC9E0"/>
                     <Element Name="kSF_MusicSelectionRelay" ID="0xD3F99123"/>
-                    <Element Name="Unknown 67 (Translator Door Location?)" ID="0xBFA25CC"/>
+                    <Element Name="kSF_UnmappableObject" ID="0xBFA25CC"/>
                     <Element Name="kSF_CinematicSkipSignal" ID="0x49069735"/>
                     <Element Name="kSF_RemoveRezbitVirus" ID="0xB08E8E0"/>
                     <Element Name="kSF_CompletionScreen" ID="0x2E5341"/>
