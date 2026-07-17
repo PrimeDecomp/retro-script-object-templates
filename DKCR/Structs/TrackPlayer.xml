@@ -53,10 +53,10 @@
             <Element Type="Bool" ID="0x30C30368">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x3C3862F3" Archetype="UnknownEnum2">
+            <Element Type="Enum" ID="0x3C3862F3" Archetype="BasisVector">
                 <DefaultValue>0x291D74B</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x2F711429" Archetype="UnknownEnum2">
+            <Element Type="Enum" ID="0x2F711429" Archetype="BasisVector">
                 <DefaultValue>0x3BB45C07</DefaultValue>
             </Element>
         </SubProperties>

@@ -43,11 +43,11 @@
                 <Values>
                     <Element Name="kBloom_NoWrite" ID="0x48DC9CE2"/>
                     <Element Name="kBloom_WriteAlpha" ID="0x2D3F4428"/>
-                    <Element Name="Unknown 3" ID="0x189E77F5"/>
-                    <Element Name="Unknown 4" ID="0xCF31A6CF"/>
-                    <Element Name="Unknown 5" ID="0x4ACF8AED"/>
-                    <Element Name="Unknown 6" ID="0x7D129BF"/>
-                    <Element Name="Unknown 7" ID="0xA808E20"/>
+                    <Element Name="kBloom_Unknown 3" ID="0x189E77F5"/>
+                    <Element Name="kBloom_Unknown 4" ID="0xCF31A6CF"/>
+                    <Element Name="kBloom_Unknown 5" ID="0x4ACF8AED"/>
+                    <Element Name="kBloom_Unknown 6" ID="0x7D129BF"/>
+                    <Element Name="kBloom_Unknown 7" ID="0xA808E20"/>
                 </Values>
             </Element>
             <Element Type="Color" ID="0x41398D5">

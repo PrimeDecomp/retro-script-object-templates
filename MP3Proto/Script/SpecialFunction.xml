@@ -44,7 +44,7 @@
                     <Element Name="kSF_RechargeStation" ID="0x9BE4E305"/>
                     <Element Name="kSF_Darkworld" ID="0xD6394D61"/>
                     <Element Name="kSF_PlayerOffscreen" ID="0x26AA4AC9"/>
-                    <Element Name="Unknown 38" ID="0xD8AD2D4A"/>
+                    <Element Name="kSF_RespawnPlayer" ID="0xD8AD2D4A"/>
                     <Element Name="Unknown 39" ID="0xEF4684FC"/>
                     <Element Name="Unknown 40" ID="0xDF1BE1A6"/>
                     <Element Name="kSF_SetInventoryCapacity" ID="0x441AEE66"/>
@@ -66,7 +66,7 @@
                     <Element Name="kSF_MultiplayerCountdown" ID="0xB0D2FCA9"/>
                     <Element Name="kSF_ScaleSZ" ID="0x9A22561C"/>
                     <Element Name="kSF_ObjectFollowJoint" ID="0x5FE350B"/>
-                    <Element Name="Unknown 60" ID="0xE6472D82"/>
+                    <Element Name="Display Item Loss HUD Text" ID="0xE6472D82"/>
                     <Element Name="kSF_ExtraRenderClipPlane" ID="0x2CB1471C"/>
                     <Element Name="kSF_VisorBlowout" ID="0xF73614C9"/>
                     <Element Name="kSF_AreaAutoLoadController" ID="0xE578ADF"/>

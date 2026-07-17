@@ -10,7 +10,7 @@
                 <DefaultValue>0x757C86AB</DefaultValue>
                 <Values>
                     <Element Name="kRopeBlendMode_None" ID="0x757C86AB"/>
-                    <Element Name="Unknown 2" ID="0x57212EA7"/>
+                    <Element Name="kRopeBlendMode_1BitAlpha" ID="0x57212EA7"/>
                     <Element Name="kRopeBlendMode_Blend" ID="0x334AD762"/>
                 </Values>
             </Element>

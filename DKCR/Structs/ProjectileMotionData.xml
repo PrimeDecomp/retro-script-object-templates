@@ -7,7 +7,7 @@
                 <DefaultValue>0xBBC76ABE</DefaultValue>
                 <Values>
                     <Element Name="kProjectileMotion_Physics" ID="0x185E7B28"/>
-                    <Element Name="Unknown 2" ID="0x3532ED29"/>
+                    <Element Name="kProjectileMotion_Unknown 2" ID="0x3532ED29"/>
                     <Element Name="kProjectileMotion_TargetedPhysics" ID="0xA0E62718"/>
                     <Element Name="kProjectileMotion_HomingMissile" ID="0xABC7D19C"/>
                     <Element Name="kProjectileMotion_None" ID="0xBBC76ABE"/>

@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>SpacePirateWeaponData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x647670AC">
+            <Element Type="Choice" ID="0x647670AC">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xA79BB82E">

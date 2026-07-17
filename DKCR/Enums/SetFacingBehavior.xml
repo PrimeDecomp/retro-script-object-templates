@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Enum">
+        <Name>SetFacingBehavior</Name>
+        <Values>
+            <Element Name="kSetFacingBehavior_None" ID="0x1923DFB0"/>
+            <Element Name="kSetFacingBehavior_Right" ID="0xA61445EB"/>
+            <Element Name="kSetFacingBehavior_Left" ID="0x1CD43817"/>
+            <Element Name="kSetFacingBehavior_Auto" ID="0x9FA85"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

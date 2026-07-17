@@ -6,8 +6,8 @@
             <Element Type="Enum" ID="0x7C71CBAD">
                 <DefaultValue>0x6500CF77</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x48858134"/>
-                    <Element Name="Unknown 2" ID="0x6500CF77"/>
+                    <Element Name="kHomingMissileTarget_LinkedObject" ID="0x48858134"/>
+                    <Element Name="kHomingMissileTarget_NearestPlayer" ID="0x6500CF77"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xE34DC703">

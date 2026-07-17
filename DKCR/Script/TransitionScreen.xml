@@ -7,9 +7,9 @@
             <Element Type="Enum" ID="0xF5E86958">
                 <DefaultValue>0x4B079432</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x4B079432"/>
-                    <Element Name="Unknown 2" ID="0x74191EA7"/>
-                    <Element Name="Unknown 3" ID="0xD73A4226"/>
+                    <Element Name="kTransitionType_DKLogo" ID="0x4B079432"/>
+                    <Element Name="kTransitionType_LevelClear" ID="0x74191EA7"/>
+                    <Element Name="kTransitionType_DeathTiki" ID="0xD73A4226"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x5106FEB9">

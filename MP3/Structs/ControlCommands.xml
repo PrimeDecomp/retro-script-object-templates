@@ -87,7 +87,7 @@
                     <Element Name="kCommand_MapNavigateUp" ID="0xD1E7B9E1"/>
                     <Element Name="kCommand_MapNavigateDown" ID="0xC0736FBB"/>
                     <Element Name="kCommand_MapNavigateLeft" ID="0xA6EB18E8"/>
-                    <Element Name="kCommand_MapNavigateRight?" ID="0xB0E0B5A1"/>
+                    <Element Name="kCommand_MapPointerPanEnable" ID="0xB0E0B5A1"/>
                     <Element Name="kCommand_MapRotateEnable" ID="0x3B67BF6A"/>
                     <Element Name="kCommand_InventoryScreen" ID="0x646A3CC4"/>
                     <Element Name="kCommand_MenuUp" ID="0x5AA665D3"/>

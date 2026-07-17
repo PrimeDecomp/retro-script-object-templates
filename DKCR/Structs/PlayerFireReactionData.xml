@@ -12,8 +12,8 @@
             <Element Type="Enum" ID="0xDA44986F">
                 <DefaultValue>0x80468E1F</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x624D7DCC"/>
-                    <Element Name="Unknown 2" ID="0x80468E1F"/>
+                    <Element Name="kHurlDirection_Continuous" ID="0x624D7DCC"/>
+                    <Element Name="kHurlDirection_Extremes" ID="0x80468E1F"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x3707468E">

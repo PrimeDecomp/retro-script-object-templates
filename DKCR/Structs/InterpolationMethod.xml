@@ -13,7 +13,7 @@
                     <Element Name="kICT_EaseInOut" ID="0xED3D458D"/>
                     <Element Name="kICT_ControlSpline" ID="0x7355CEFE"/>
                     <Element Name="kICT_MatchVelocity" ID="0x348ED10D"/>
-                    <Element Name="Unknown 8" ID="0x9AF51C89"/>
+                    <Element Name="kICT_TargetHorizontalMovement?" ID="0x9AF51C89"/>
                 </Values>
             </Element>
             <Element Type="Spline" ID="0x15567FE7"/>

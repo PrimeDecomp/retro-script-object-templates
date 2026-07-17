@@ -692,6 +692,10 @@
             <Value Path="Structs/AreaDamageData.xml"/>
         </Element>
         <Element>
+            <Key>AttackSelector</Key>
+            <Value Path="Enums/AttackSelector.xml"/>
+        </Element>
+        <Element>
             <Key>BalloonBarrelData</Key>
             <Value Path="Structs/BalloonBarrelData.xml"/>
         </Element>
@@ -704,8 +708,8 @@
             <Value Path="Structs/BarrelCannonData.xml"/>
         </Element>
         <Element>
-            <Key>BarrelCannonEnum</Key>
-            <Value Path="Enums/BarrelCannonEnum.xml"/>
+            <Key>BasisVector</Key>
+            <Value Path="Enums/BasisVector.xml"/>
         </Element>
         <Element>
             <Key>BeatUpHandlerStruct</Key>
@@ -820,6 +824,10 @@
             <Value Path="Structs/CheckpointData.xml"/>
         </Element>
         <Element>
+            <Key>ChorusProperties</Key>
+            <Value Path="Structs/ChorusProperties.xml"/>
+        </Element>
+        <Element>
             <Key>ClingPathControlData</Key>
             <Value Path="Structs/ClingPathControlData.xml"/>
         </Element>
@@ -900,6 +908,10 @@
             <Value Path="Structs/DebugControls.xml"/>
         </Element>
         <Element>
+            <Key>DelayProperties</Key>
+            <Value Path="Structs/DelayProperties.xml"/>
+        </Element>
+        <Element>
             <Key>DespawnRules</Key>
             <Value Path="Structs/DespawnRules.xml"/>
         </Element>
@@ -936,6 +948,10 @@
             <Value Path="Structs/FOVInterpolationMethod.xml"/>
         </Element>
         <Element>
+            <Key>FallBehaviorData</Key>
+            <Value Path="Structs/FallBehaviorData.xml"/>
+        </Element>
+        <Element>
             <Key>FixedDelayRules</Key>
             <Value Path="Structs/FixedDelayRules.xml"/>
         </Element>
@@ -944,8 +960,16 @@
             <Value Path="Structs/FleeBehaviorData.xml"/>
         </Element>
         <Element>
+            <Key>FloatingBubbleBehaviorData</Key>
+            <Value Path="Structs/FloatingBubbleBehaviorData.xml"/>
+        </Element>
+        <Element>
             <Key>FollowPathControlBehaviorData</Key>
             <Value Path="Structs/FollowPathControlBehaviorData.xml"/>
+        </Element>
+        <Element>
+            <Key>FollowSplineBehaviorData</Key>
+            <Value Path="Structs/FollowSplineBehaviorData.xml"/>
         </Element>
         <Element>
             <Key>FollowSurfaceBehaviorData</Key>
@@ -1022,6 +1046,10 @@
         <Element>
             <Key>IdleBehaviorData</Key>
             <Value Path="Structs/IdleBehaviorData.xml"/>
+        </Element>
+        <Element>
+            <Key>IdleTrackBehaviorData</Key>
+            <Value Path="Structs/IdleTrackBehaviorData.xml"/>
         </Element>
         <Element>
             <Key>InterpolationMethod</Key>
@@ -1476,6 +1504,10 @@
             <Value Path="Structs/RetronomeMessage.xml"/>
         </Element>
         <Element>
+            <Key>ReverbProperties</Key>
+            <Value Path="Structs/ReverbProperties.xml"/>
+        </Element>
+        <Element>
             <Key>RevolutionControl</Key>
             <Value Path="Structs/RevolutionControl.xml"/>
         </Element>
@@ -1516,10 +1548,6 @@
             <Value Path="Enums/RevolutionVirtualControl.xml"/>
         </Element>
         <Element>
-            <Key>RobotChickenEnum</Key>
-            <Value Path="Enums/RobotChickenEnum.xml"/>
-        </Element>
-        <Element>
             <Key>RobotChickenFlyerStructA</Key>
             <Value Path="Structs/RobotChickenFlyerStructA.xml"/>
         </Element>
@@ -1558,6 +1586,10 @@
         <Element>
             <Key>SeparateAndReformParts</Key>
             <Value Path="Structs/SeparateAndReformParts.xml"/>
+        </Element>
+        <Element>
+            <Key>SetFacingBehavior</Key>
+            <Value Path="Enums/SetFacingBehavior.xml"/>
         </Element>
         <Element>
             <Key>Sets</Key>
@@ -1620,6 +1652,10 @@
             <Value Path="Structs/StackableBlockBehaviorData.xml"/>
         </Element>
         <Element>
+            <Key>StealObjectBehaviorData</Key>
+            <Value Path="Structs/StealObjectBehaviorData.xml"/>
+        </Element>
+        <Element>
             <Key>StunnedByBopBehaviorData</Key>
             <Value Path="Structs/StunnedByBopBehaviorData.xml"/>
         </Element>
@@ -1630,6 +1666,10 @@
         <Element>
             <Key>StunnedByGroundPoundBehaviorData</Key>
             <Value Path="Structs/StunnedByGroundPoundBehaviorData.xml"/>
+        </Element>
+        <Element>
+            <Key>SummonBehaviorData</Key>
+            <Value Path="Structs/SummonBehaviorData.xml"/>
         </Element>
         <Element>
             <Key>SurfaceOrientation</Key>
@@ -1662,6 +1702,10 @@
         <Element>
             <Key>SwoopBehaviorData</Key>
             <Value Path="Structs/SwoopBehaviorData.xml"/>
+        </Element>
+        <Element>
+            <Key>SwoopType</Key>
+            <Value Path="Enums/SwoopType.xml"/>
         </Element>
         <Element>
             <Key>TandemBeam</Key>
@@ -1740,16 +1784,8 @@
             <Value Path="Enums/UnknownEnum1.xml"/>
         </Element>
         <Element>
-            <Key>UnknownEnum2</Key>
-            <Value Path="Enums/UnknownEnum2.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownEnum3</Key>
             <Value Path="Enums/UnknownEnum3.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownEnum4</Key>
-            <Value Path="Enums/UnknownEnum4.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct</Key>
@@ -1760,36 +1796,8 @@
             <Value Path="Structs/UnknownStruct10.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct109</Key>
-            <Value Path="Structs/UnknownStruct109.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct11</Key>
-            <Value Path="Structs/UnknownStruct11.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct115</Key>
             <Value Path="Structs/UnknownStruct115.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct116</Key>
-            <Value Path="Structs/UnknownStruct116.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct118</Key>
-            <Value Path="Structs/UnknownStruct118.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct119</Key>
-            <Value Path="Structs/UnknownStruct119.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct12</Key>
-            <Value Path="Structs/UnknownStruct12.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct122</Key>
-            <Value Path="Structs/UnknownStruct122.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct128</Key>
@@ -1898,10 +1906,6 @@
         <Element>
             <Key>UnknownStruct159</Key>
             <Value Path="Structs/UnknownStruct159.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct16</Key>
-            <Value Path="Structs/UnknownStruct16.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct160</Key>

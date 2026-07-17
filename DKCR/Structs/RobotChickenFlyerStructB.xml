@@ -10,7 +10,7 @@
                     <Element Name="kAttackType_Bomb" ID="0x4A5C32BC"/>
                     <Element Name="kAttackType_Swoop" ID="0xEC9FB9C8"/>
                     <Element Name="kAttackType_Sink" ID="0xF4859593"/>
-                    <Element Name="Unknown 5" ID="0xCC1C74A4"/>
+                    <Element Name="kAttackType_Stomp" ID="0xCC1C74A4"/>
                     <Element Name="kAttackType_Taunt" ID="0x240ABE65"/>
                 </Values>
             </Element>

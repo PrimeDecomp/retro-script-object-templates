@@ -8,7 +8,7 @@
                 <Values>
                     <Element Name="kBehaviorType_None" ID="0x26D0F77A"/>
                     <Element Name="kBehaviorType_Damaged" ID="0xCD3D7CB1"/>
-                    <Element Name="Unknown 3" ID="0xC58D26AF"/>
+                    <Element Name="kBehaviorType_StunnedByGroundPound" ID="0xC58D26AF"/>
                     <Element Name="kBehaviorType_TouchAttack" ID="0xA177EB37"/>
                     <Element Name="kBehaviorType_FollowWaypoints" ID="0xC53C3ED5"/>
                     <Element Name="kBehaviorType_ProjectileAttack" ID="0xDD08D80B"/>
@@ -24,27 +24,27 @@
                     <Element Name="kBehaviorType_StackableBlock" ID="0xC12DFB21"/>
                     <Element Name="kBehaviorType_Spawn" ID="0xF95E279E"/>
                     <Element Name="kBehaviorType_Swoop" ID="0x16039717"/>
-                    <Element Name="Unknown 19" ID="0x21DC6F2D"/>
+                    <Element Name="kBehaviorType_Unknown 19" ID="0x21DC6F2D"/>
                     <Element Name="kBehaviorType_FloatingBubble" ID="0xC53F0B30"/>
                     <Element Name="kBehaviorType_Slide" ID="0x1BBF061B"/>
                     <Element Name="kBehaviorType_FollowSpline" ID="0xCD30F2D2"/>
                     <Element Name="kBehaviorType_StealObject" ID="0xA2C56363"/>
-                    <Element Name="Unknown 24" ID="0xF87D2399"/>
+                    <Element Name="kBehaviorType_StunnedByBop" ID="0xF87D2399"/>
                     <Element Name="kBehaviorType_SwingLine" ID="0xC0454E18"/>
                     <Element Name="kBehaviorType_GrabPlayer" ID="0xD9535D1F"/>
                     <Element Name="kBehaviorType_AdditiveTouchAttack" ID="0x594FF8C0"/>
                     <Element Name="kBehaviorType_Summon" ID="0x37D88B14"/>
-                    <Element Name="Unknown 29" ID="0xE4A9F055"/>
-                    <Element Name="Unknown 30" ID="0xE0880C40"/>
+                    <Element Name="kBehaviorType_StunnedByContactRule" ID="0xE4A9F055"/>
+                    <Element Name="kBehaviorType_DrivenIntoGround" ID="0xE0880C40"/>
                     <Element Name="kBehaviorType_OneShot" ID="0xB83A5EA6"/>
                     <Element Name="kBehaviorType_TargetPlayer" ID="0xC990ACE8"/>
                     <Element Name="kBehaviorType_Fall" ID="0xA21028B9"/>
                     <Element Name="kBehaviorType_AreaAttack" ID="0xBE366E61"/>
-                    <Element Name="Unknown 35" ID="0x1B9CD6"/>
-                    <Element Name="Unknown 36" ID="0xBC00B733"/>
+                    <Element Name="kBehaviorType_Unknown 35" ID="0x1B9CD6"/>
+                    <Element Name="kBehaviorType_SeparateAndReform" ID="0xBC00B733"/>
                     <Element Name="kBehaviorType_AdditiveProjectileAttack" ID="0x93AD73AA"/>
                     <Element Name="kBehaviorType_Seeker" ID="0x78EFFC0E"/>
-                    <Element Name="Unknown 39" ID="0x33E3B15E"/>
+                    <Element Name="kBehaviorType_FollowPathControl" ID="0x33E3B15E"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xD5110050" Archetype="DamagedBehaviorData"/>
@@ -59,26 +59,26 @@
             <Element Type="Struct" ID="0x9344ED81" Archetype="FollowSurfaceBehaviorData"/>
             <Element Type="Struct" ID="0xF764A9D2" Archetype="BopJumpBehaviorData"/>
             <Element Type="Struct" ID="0x1B97C54D" Archetype="IdleBehaviorData"/>
-            <Element Type="Struct" ID="0x4A54CB95" Archetype="UnknownStruct109"/>
+            <Element Type="Struct" ID="0x4A54CB95" Archetype="IdleTrackBehaviorData"/>
             <Element Type="Struct" ID="0x9BD0D08A" Archetype="ProjectileBehaviorData"/>
             <Element Type="Struct" ID="0xEC689E56" Archetype="VerticalFlightBehaviorData"/>
             <Element Type="Struct" ID="0xABF0E7C3" Archetype="StackableBlockBehaviorData"/>
             <Element Type="Struct" ID="0xB3E150A1" Archetype="SpawnBehaviorData"/>
             <Element Type="Struct" ID="0xE5139DB0" Archetype="SwoopBehaviorData"/>
             <Element Type="Struct" ID="0x3A5925D6" Archetype="UnknownStruct115"/>
-            <Element Type="Struct" ID="0xDE440D53" Archetype="UnknownStruct116"/>
+            <Element Type="Struct" ID="0xDE440D53" Archetype="FloatingBubbleBehaviorData"/>
             <Element Type="Struct" ID="0x6C80D03A" Archetype="SlideBehaviorData"/>
-            <Element Type="Struct" ID="0xE233135A" Archetype="UnknownStruct118"/>
-            <Element Type="Struct" ID="0x4699B820" Archetype="UnknownStruct119"/>
+            <Element Type="Struct" ID="0xE233135A" Archetype="FollowSplineBehaviorData"/>
+            <Element Type="Struct" ID="0x4699B820" Archetype="StealObjectBehaviorData"/>
             <Element Type="Struct" ID="0xEA2C12F9" Archetype="SwingLineBehaviorData"/>
             <Element Type="Struct" ID="0x32DA6AA8" Archetype="GrabPlayerBehaviorData"/>
             <Element Type="Struct" ID="0xC962CB9C" Archetype="AdditiveTouchAttackBehaviorData"/>
-            <Element Type="Struct" ID="0xF6E5327" Archetype="UnknownStruct122"/>
+            <Element Type="Struct" ID="0xF6E5327" Archetype="SummonBehaviorData"/>
             <Element Type="Struct" ID="0xE2C2F5EF" Archetype="StunnedByContactRuleData"/>
             <Element Type="Struct" ID="0x5192CCEC" Archetype="DrivenIntoGroundBehaviorData"/>
             <Element Type="Struct" ID="0xAFCADE60" Archetype="OneShotBehaviorData"/>
             <Element Type="Struct" ID="0x749A68A1" Archetype="TargetPlayerBehaviorData"/>
-            <Element Type="Struct" ID="0x2CC6F52" Archetype="DrivenIntoGroundBehaviorData"/>
+            <Element Type="Struct" ID="0x2CC6F52" Archetype="FallBehaviorData"/>
             <Element Type="Struct" ID="0xE37F3561" Archetype="AreaAttackBehaviorData"/>
             <Element Type="Struct" ID="0xA1F091B2" Archetype="UnknownStruct128"/>
             <Element Type="Struct" ID="0x638FC2B" Archetype="SeparateAndReformBehaviorData"/>

@@ -68,10 +68,10 @@
             <Element Type="Bool" ID="0x2255A13D">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x98501823" Archetype="BarrelCannonEnum">
+            <Element Type="Enum" ID="0x98501823" Archetype="SetFacingBehavior">
                 <DefaultValue>0xA61445EB</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0x98ECAB6" Archetype="BarrelCannonEnum">
+            <Element Type="Enum" ID="0x98ECAB6" Archetype="SetFacingBehavior">
                 <DefaultValue>0x9FA85</DefaultValue>
             </Element>
         </SubProperties>

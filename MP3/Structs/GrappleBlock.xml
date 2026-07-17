@@ -27,8 +27,8 @@
             <Element Type="Enum" ID="0xF8A14C37">
                 <DefaultValue>0xC8853DC0</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xD19E0C81"/>
-                    <Element Name="Unknown 2" ID="0xC8853DC0"/>
+                    <Element Name="kYankAdjustment_2D" ID="0xD19E0C81"/>
+                    <Element Name="kYankAdjustment_3D" ID="0xC8853DC0"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x64FB595C">

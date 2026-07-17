@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>UnknownStruct258</Name>
         <SubProperties>
-            <Element Type="Enum" ID="0x97D30F8B" Archetype="RobotChickenEnum">
+            <Element Type="Enum" ID="0x97D30F8B" Archetype="AttackSelector">
                 <DefaultValue>0x8C665F9A</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF0668919">
