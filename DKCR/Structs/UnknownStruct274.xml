@@ -6,8 +6,8 @@
             <Element Type="Enum" ID="0xC8FD4813">
                 <DefaultValue>0xC0C853B9</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xABB2EF64"/>
-                    <Element Name="Unknown 2" ID="0xC0C853B9"/>
+                    <Element Name="kRandomScheme_ExplicitlyWeighted" ID="0xABB2EF64"/>
+                    <Element Name="kRandomScheme_EvenlyWeighted" ID="0xC0C853B9"/>
                 </Values>
             </Element>
             <Element Type="Int" ID="0x65ECEB7A">

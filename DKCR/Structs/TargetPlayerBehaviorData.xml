@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0xB8F60F9A">
                 <DefaultValue>0x61AA6174</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xC5DD84D6"/>
-                    <Element Name="Unknown 2" ID="0x61AA6174"/>
-                    <Element Name="Unknown 3" ID="0x8EE0EC5C"/>
+                    <Element Name="kTargetPlayerMode_AlwaysTarget" ID="0xC5DD84D6"/>
+                    <Element Name="kTargetPlayerMode_OneShot" ID="0x61AA6174"/>
+                    <Element Name="kTargetPlayerMode_SlowSeeker" ID="0x8EE0EC5C"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x1165A51E">

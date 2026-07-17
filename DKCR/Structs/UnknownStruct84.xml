@@ -6,12 +6,12 @@
             <Element Type="Enum" ID="0x3CC85F81">
                 <DefaultValue>0xE56D8C03</DefaultValue>
                 <Values>
-                    <Element Name="Above" ID="0xE56D8C03"/>
-                    <Element Name="Below" ID="0x55E5A863"/>
-                    <Element Name="Left" ID="0x70DB1A95"/>
-                    <Element Name="Right" ID="0xA5CEA8C5"/>
-                    <Element Name="AboveScreen" ID="0xFDC5D70D"/>
-                    <Element Name="BelowScreen" ID="0x2CC33157"/>
+                    <Element Name="kCameraLimits_KeepAbove" ID="0xE56D8C03"/>
+                    <Element Name="kCameraLimits_KeepBelow" ID="0x55E5A863"/>
+                    <Element Name="kCameraLimits_KeepLeft" ID="0x70DB1A95"/>
+                    <Element Name="kCameraLimits_KeepRight" ID="0xA5CEA8C5"/>
+                    <Element Name="kCameraLimits_KeepAboveScreen" ID="0xFDC5D70D"/>
+                    <Element Name="kCameraLimits_KeepBelowScreen" ID="0x2CC33157"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0xC6D0D3A4">

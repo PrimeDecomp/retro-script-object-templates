@@ -6,9 +6,9 @@
             <Element Type="Enum" ID="0x4131A2A">
                 <DefaultValue>0xAAF6CAA5</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xAAF6CAA5"/>
-                    <Element Name="Unknown 2" ID="0x348DFB55"/>
-                    <Element Name="Unknown 3" ID="0x574C9EE0"/>
+                    <Element Name="kHudControlGroup_Local" ID="0xAAF6CAA5"/>
+                    <Element Name="kHudControlGroup_CarryObjectOverride" ID="0x348DFB55"/>
+                    <Element Name="kHudControlGroup_EvasiveActionOverride" ID="0x574C9EE0"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x868CFE92">

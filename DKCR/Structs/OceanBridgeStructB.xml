@@ -8,8 +8,8 @@
                 <Values>
                     <Element Name="kSoundSelect_None" ID="0x2C537229"/>
                     <Element Name="kSoundSelect_Default" ID="0xAE14FDF2"/>
-                    <Element Name="Unknown 3" ID="0xD5CA1C57"/>
-                    <Element Name="Unknown 4" ID="0xE9FDBE0"/>
+                    <Element Name="kSoundSelect_Alt12" ID="0xD5CA1C57"/>
+                    <Element Name="kSoundSelect_Alt34" ID="0xE9FDBE0"/>
                 </Values>
             </Element>
         </SubProperties>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Enum">
-        <Name>UnknownEnum4</Name>
+        <Name>SwoopType</Name>
         <Values>
-            <Element Name="Unknown 1" ID="0x25234BDB"/>
-            <Element Name="Unknown 2" ID="0xBC2A1A61"/>
+            <Element Name="kSwoopType_Stage1" ID="0x25234BDB"/>
+            <Element Name="kSwoopType_Stage2" ID="0xBC2A1A61"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

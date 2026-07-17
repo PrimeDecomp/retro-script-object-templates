@@ -24,7 +24,7 @@
                 <Values>
                     <Element Name="kBM_Blended" ID="0xE51B07EB"/>
                     <Element Name="kBM_AdditiveAlpha" ID="0xFA128E4E"/>
-                    <Element Name="Unknown 3" ID="0xA4FAAAB8"/>
+                    <Element Name="kBM_Unknown 3" ID="0xA4FAAAB8"/>
                     <Element Name="kBM_Modulate" ID="0xB63E5A45"/>
                     <Element Name="kBM_ColorAdd" ID="0xD0F901B2"/>
                     <Element Name="kBM_Static" ID="0x94BD815D"/>

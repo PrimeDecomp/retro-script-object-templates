@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Enum">
-        <Name>RobotChickenEnum</Name>
+        <Name>AttackSelector</Name>
         <Values>
-            <Element Name="Loop" ID="0x8C665F9A"/>
-            <Element Name="Once" ID="0x5E7931A4"/>
+            <Element Name="kAttackSelector_SequentialLoop" ID="0x8C665F9A"/>
+            <Element Name="kAttackSelector_SequentialOnce" ID="0x5E7931A4"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

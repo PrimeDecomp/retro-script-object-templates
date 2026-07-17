@@ -55,9 +55,9 @@
             <Element Type="Enum" ID="0xD0E83E61">
                 <DefaultValue>0xAF8B265E</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x9E9C77E4"/>
-                    <Element Name="Unknown 2" ID="0xAF8B265E"/>
-                    <Element Name="Unknown 3" ID="0x6B3D1C5C"/>
+                    <Element Name="kCartType_TimeHazard" ID="0x9E9C77E4"/>
+                    <Element Name="kCartType_Normal" ID="0xAF8B265E"/>
+                    <Element Name="kCartType_Conductor" ID="0x6B3D1C5C"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xB9FCDE3B" Archetype="UnknownStruct228"/>

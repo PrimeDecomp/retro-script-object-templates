@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct116</Name>
+        <Name>IdleTrackBehaviorData</Name>
         <SubProperties>
-            <Element Type="Float" ID="0x169301C8">
+            <Element Type="Float" ID="0xB5D2E300">
                 <DefaultValue>0.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xAD5B3894">
+                <DefaultValue>5.0</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

@@ -6,8 +6,8 @@
             <Element Type="Enum" ID="0x92985FFF">
                 <DefaultValue>0x3CD4A348</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x3CD4A348"/>
-                    <Element Name="Unknown 2" ID="0x2CBB4218"/>
+                    <Element Name="kBossType_Mugly" ID="0x3CD4A348"/>
+                    <Element Name="kBossType_Thugly" ID="0x2CBB4218"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x39CE09A" Archetype="UnknownStruct202"/>

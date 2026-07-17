@@ -6,11 +6,11 @@
             <Element Type="Enum" ID="0x70C78C3E">
                 <DefaultValue>0x95BBB57E</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x95BBB57E"/>
-                    <Element Name="Unknown 2" ID="0x876D71F"/>
-                    <Element Name="Unknown 3" ID="0xEB977267"/>
-                    <Element Name="Unknown 4" ID="0xDE0E1DF6"/>
-                    <Element Name="Unknown 5" ID="0x53FC988F"/>
+                    <Element Name="kOT_WorldRelative" ID="0x95BBB57E"/>
+                    <Element Name="kOT_TargetRelative2D" ID="0x876D71F"/>
+                    <Element Name="kOT_TargetRelative" ID="0xEB977267"/>
+                    <Element Name="kOT_TargetMotionRelative2D" ID="0xDE0E1DF6"/>
+                    <Element Name="kOT_TargetMotionRelative" ID="0x53FC988F"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x3769A209" Archetype="OffsetInterpolant"/>

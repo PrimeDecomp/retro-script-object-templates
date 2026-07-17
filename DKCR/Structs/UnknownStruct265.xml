@@ -17,8 +17,8 @@
             <Element Type="Enum" ID="0xE3A1BE31">
                 <DefaultValue>0xB3D7539F</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xB3D7539F"/>
-                    <Element Name="Unknown 2" ID="0x45D84D92"/>
+                    <Element Name="kAccelerationFrame_Left" ID="0xB3D7539F"/>
+                    <Element Name="kAccelerationFrame_Right" ID="0x45D84D92"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xFB5CF531">

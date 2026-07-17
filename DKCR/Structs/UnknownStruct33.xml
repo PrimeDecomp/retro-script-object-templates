@@ -6,27 +6,27 @@
             <Element Type="Enum" ID="0x2F827982">
                 <DefaultValue>0x5EEE75C7</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x335710ED"/>
-                    <Element Name="Unknown 2" ID="0x5EEE75C7"/>
-                    <Element Name="Unknown 3" ID="0xA2EE5B07"/>
+                    <Element Name="kTippyRotatesAbout_Right" ID="0x335710ED"/>
+                    <Element Name="kTippyRotatesAbout_Forward" ID="0x5EEE75C7"/>
+                    <Element Name="kTippyRotatesAbout_Up" ID="0xA2EE5B07"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0x74CECBEB">
                 <DefaultValue>0x4FE7BA46</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x4FE7BA46"/>
-                    <Element Name="Unknown 2" ID="0x49C9C27C"/>
-                    <Element Name="Unknown 3" ID="0x7C21E0C1"/>
+                    <Element Name="kTippyStartOrientation_Balanced" ID="0x4FE7BA46"/>
+                    <Element Name="kTippyStartOrientation_TiltedLeft" ID="0x49C9C27C"/>
+                    <Element Name="kTippyStartOrientation_TiltedRight" ID="0x7C21E0C1"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0x23A9ADD2">
                 <DefaultValue>0xA3617170</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xA3617170"/>
-                    <Element Name="Unknown 2" ID="0xFEFA48BE"/>
-                    <Element Name="Unknown 3" ID="0xCC63A4B7"/>
-                    <Element Name="Unknown 4" ID="0x7012519F"/>
-                    <Element Name="Unknown 5" ID="0x560F24EA"/>
+                    <Element Name="kTippyIdleOrientation_Balanced" ID="0xA3617170"/>
+                    <Element Name="kTippyIdleOrientation_Tilted" ID="0xFEFA48BE"/>
+                    <Element Name="kTippyIdleOrientation_TiltedLeft" ID="0xCC63A4B7"/>
+                    <Element Name="kTippyIdleOrientation_TiltedRight" ID="0x7012519F"/>
+                    <Element Name="kTippyIdleOrientation_Closest" ID="0x560F24EA"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x48E58214">

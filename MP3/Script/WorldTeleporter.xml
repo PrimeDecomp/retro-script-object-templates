@@ -20,11 +20,11 @@
             <Element Type="Enum" ID="0x474BCCE3">
                 <DefaultValue>0xF9C885FF</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xF9C885FF"/>
-                    <Element Name="Unknown 2" ID="0xD9803B9E"/>
-                    <Element Name="Unknown 3" ID="0x8BDE13AF"/>
-                    <Element Name="Unknown 4" ID="0xC30E5A46"/>
-                    <Element Name="Unknown 5" ID="0xF89B23E1"/>
+                    <Element Name="kType_IntraPlanet" ID="0xF9C885FF"/>
+                    <Element Name="kType_InterPlanet" ID="0xD9803B9E"/>
+                    <Element Name="kType_TextTeleport" ID="0x8BDE13AF"/>
+                    <Element Name="kType_FromOrbit" ID="0xC30E5A46"/>
+                    <Element Name="kType_BryyoWarp" ID="0xF89B23E1"/>
                 </Values>
             </Element>
             <Element Type="AnimationSet" ID="0xA9496551"/>

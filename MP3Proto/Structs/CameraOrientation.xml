@@ -23,7 +23,7 @@
                     <Element Name="kLAT_LookAtPosition" ID="0x33D21F2E"/>
                     <Element Name="kLAT_OrbitPosition" ID="0xBF3B8FDD"/>
                     <Element Name="kLAT_AimPosition" ID="0xE9DA98B8"/>
-                    <Element Name="Unknown 4" ID="0x4901B714"/>
+                    <Element Name="kLAT_RenderBoundsCentre" ID="0x4901B714"/>
                     <Element Name="kLAT_Origin" ID="0xC68C39EC"/>
                     <Element Name="kLAT_Locator" ID="0xFBEF7FBD"/>
                 </Values>

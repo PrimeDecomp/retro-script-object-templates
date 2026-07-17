@@ -9,7 +9,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="String" ID="0xFBC6C110"/>
-            <Element Type="Int" ID="0xF54740C">
+            <Element Type="Choice" ID="0xF54740C">
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

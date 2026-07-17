@@ -38,9 +38,9 @@
             <Element Type="Enum" ID="0x2DEF705D">
                 <DefaultValue>0xEC834AD1</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xA7274141"/>
-                    <Element Name="Unknown 2" ID="0xE3E99324"/>
-                    <Element Name="Unknown 3" ID="0xEC834AD1"/>
+                    <Element Name="ForceUnsorted" ID="0xA7274141"/>
+                    <Element Name="ForceSorted" ID="0xE3E99324"/>
+                    <Element Name="Default" ID="0xEC834AD1"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xB028DB0E" Archetype="LightParameters"/>

@@ -36,10 +36,10 @@
             <Element Type="Enum" ID="0x611F9F41">
                 <DefaultValue>0xD751E807</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xD751E807"/>
-                    <Element Name="Unknown 2" ID="0x4833201D"/>
-                    <Element Name="Unknown 3" ID="0x72A3F8CD"/>
-                    <Element Name="Unknown 4" ID="0xC18C49C9"/>
+                    <Element Name="kLogicType_Reactive" ID="0xD751E807"/>
+                    <Element Name="kLogicType_TrackPlayer" ID="0x4833201D"/>
+                    <Element Name="kLogicType_ExplodeTimer" ID="0x72A3F8CD"/>
+                    <Element Name="kLogicType_Velocity" ID="0xC18C49C9"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0x42A7922C" Archetype="UnknownStruct9"/>

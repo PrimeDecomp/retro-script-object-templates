@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Enum">
+        <Name>BasisVector</Name>
+        <Values>
+            <Element Name="kBasisVector_Right" ID="0xF7A83E59"/>
+            <Element Name="kBasisVector_Forward" ID="0x291D74B"/>
+            <Element Name="kBasisVector_Up" ID="0x3BB45C07"/>
+            <Element Name="kBasisVector_Left" ID="0x7EAFB026"/>
+            <Element Name="kBasisVector_Back" ID="0x69069679"/>
+            <Element Name="kBasisVector_Down" ID="0x1837C775"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

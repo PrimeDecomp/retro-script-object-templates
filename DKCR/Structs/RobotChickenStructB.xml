@@ -7,9 +7,9 @@
                 <DefaultValue>0xB5C34B64</DefaultValue>
                 <Values>
                     <Element Name="kAttackType_None" ID="0xB5C34B64"/>
-                    <Element Name="Unknown2" ID="0xCC1C74A4"/>
-                    <Element Name="Unknown3" ID="0xE5A636A9"/>
-                    <Element Name="Unknown4" ID="0xCD1F6C81"/>
+                    <Element Name="kAttackType_Stomp" ID="0xCC1C74A4"/>
+                    <Element Name="kAttackType_JumpFeetTogether" ID="0xE5A636A9"/>
+                    <Element Name="kAttackType_JumpFeetApart" ID="0xCD1F6C81"/>
                     <Element Name="kAttackType_Barf" ID="0x8AF5D531"/>
                     <Element Name="kAttackType_Sumo" ID="0xCDF9585D"/>
                     <Element Name="kAttackType_Run" ID="0xB695F517"/>

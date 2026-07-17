@@ -13,7 +13,7 @@
                     <Element Name="kProjectileCollision_None" ID="0x3AF0EDA3"/>
                     <Element Name="kProjectileCollision_ModelBounds" ID="0xC4263063"/>
                     <Element Name="kProjectileCollision_Sphere" ID="0x3D38B76"/>
-                    <Element Name="Unknown 4" ID="0x183EE363"/>
+                    <Element Name="kProjectileCollision_AABox" ID="0x183EE363"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xF3D6E959">

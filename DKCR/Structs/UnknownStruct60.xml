@@ -12,7 +12,7 @@
                     <Element Name="kDirection_Best" ID="0xD640823"/>
                 </Values>
             </Element>
-            <Element Type="Enum" ID="0x474BCCE3" Archetype="UnknownEnum4">
+            <Element Type="Enum" ID="0x474BCCE3" Archetype="SwoopType">
                 <DefaultValue>0x25234BDB</DefaultValue>
             </Element>
         </SubProperties>

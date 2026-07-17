@@ -25,7 +25,7 @@
                     <Element Name="kSF_EscapeSequenceTrigger" ID="0xBBFADF2F"/>
                     <Element Name="kSF_ExtraRenderClipPlane" ID="0x2CB1471C"/>
                     <Element Name="kSF_FlashHudElements" ID="0xCFC89663"/>
-                    <Element Name="kSF_Function 18 (Unused)" ID="0xD871451E"/>
+                    <Element Name="kSF_Function 18" ID="0xD871451E"/>
                     <Element Name="kSF_GameStateEnvVarController" ID="0x661EC9E0"/>
                     <Element Name="kSF_HUDTarget" ID="0x1C7FDCAB"/>
                     <Element Name="kSF_HintController" ID="0xA8B03E1A"/>
@@ -55,7 +55,7 @@
                     <Element Name="kSF_SetInventoryAmountAndCapacity" ID="0x9349C56D"/>
                     <Element Name="kSF_SetInventoryCapacity" ID="0x441AEE66"/>
                     <Element Name="kSF_Function 47 (Unused)" ID="0xE5518864"/>
-                    <Element Name="kSF_Tin Can Score" ID="0x502B7B92"/>
+                    <Element Name="kSF_SaveTinCansSomewhereAmount?" ID="0x502B7B92"/>
                     <Element Name="kSF_Function 49 (Unused)" ID="0x83B00647"/>
                     <Element Name="kSF_SkyLighting" ID="0x7F0CE328"/>
                     <Element Name="kSF_SkyboxRotate" ID="0x6FC986EA"/>
@@ -100,7 +100,7 @@
                 <DefaultValue>0xCC1DFCF5</DefaultValue>
                 <Values>
                     <Element Name="kExtraInfo_None" ID="0xCC1DFCF5"/>
-                    <Element Name="Unknown 2" ID="0xC5920CA3"/>
+                    <Element Name="kExtraInfo_Unknown 2" ID="0xC5920CA3"/>
                 </Values>
             </Element>
         </SubProperties>

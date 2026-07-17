@@ -21,8 +21,8 @@
             <Element Type="Enum" ID="0xB8F60F9A">
                 <DefaultValue>0x648AAF79</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x648AAF79"/>
-                    <Element Name="Unknown 2" ID="0xF34E554A"/>
+                    <Element Name="kAreaAttackMode_Forward" ID="0x648AAF79"/>
+                    <Element Name="kAreaAttackMode_Up" ID="0xF34E554A"/>
                 </Values>
             </Element>
         </SubProperties>
