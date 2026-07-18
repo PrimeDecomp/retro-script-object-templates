@@ -38647,7 +38647,7 @@
         </Element>
         <Element>
             <Key ID="0xD3356FE7" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoftwareIsMusic"/>
         </Element>
         <Element>
             <Key ID="0xD33EB347" Type="spline"/>
