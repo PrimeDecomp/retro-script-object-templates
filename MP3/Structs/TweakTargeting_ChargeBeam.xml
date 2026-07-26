@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>TweakTargeting_UnknownStruct2</Name>
+        <Name>TweakTargeting_ChargeBeam</Name>
         <SubProperties>
             <Element Type="Float" ID="0x4B435047">
                 <DefaultValue>500.0</DefaultValue>

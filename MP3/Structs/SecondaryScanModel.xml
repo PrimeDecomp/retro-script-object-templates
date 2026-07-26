@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>ScanInfoSecondaryModel</Name>
+        <Name>SecondaryScanModel</Name>
         <SubProperties>
             <Element Type="Asset" ID="0xB7ADC418">
                 <TypeFilter>

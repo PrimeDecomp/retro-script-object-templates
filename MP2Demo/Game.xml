@@ -644,6 +644,10 @@
             <Value Path="Structs/CameraZOffset.xml"/>
         </Element>
         <Element>
+            <Key>CommandoShield</Key>
+            <Value Path="Structs/CommandoShield.xml"/>
+        </Element>
+        <Element>
             <Key>ConditionalTest</Key>
             <Value Path="Structs/ConditionalTest.xml"/>
         </Element>
@@ -1086,10 +1090,6 @@
         <Element>
             <Key>UnknownStruct11</Key>
             <Value Path="Structs/UnknownStruct11.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct12</Key>
-            <Value Path="Structs/UnknownStruct12.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct17</Key>

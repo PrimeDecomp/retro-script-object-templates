@@ -80,8 +80,8 @@
             <Element Type="Int" ID="0x63AF5262">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD8B11129">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xD8B11129">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xE99E5316">
                 <DefaultValue>-1</DefaultValue>

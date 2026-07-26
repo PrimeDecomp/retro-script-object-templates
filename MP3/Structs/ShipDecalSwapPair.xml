@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>ShipDecalControllerStruct</Name>
+        <Name>ShipDecalSwapPair</Name>
         <SubProperties>
             <Element Type="Enum" ID="0x77EDD0F1">
                 <DefaultValue>0x2ADA4FEE</DefaultValue>
@@ -11,7 +11,7 @@
                     <Element Name="kSG_MarioParty8" ID="0xC2867014"/>
                     <Element Name="kSG_ExciteTruck" ID="0x367943F"/>
                     <Element Name="kSG_LegendOfZeldaTwilightPrincess" ID="0xBFDD84AE"/>
-                    <Element Name="kSG_SuperSmashBrosBrawl?" ID="0x25D8B3E5"/>
+                    <Element Name="kSG_SuperSmashBrothersBrawl" ID="0x25D8B3E5"/>
                     <Element Name="kSG_WiiSports" ID="0xE7264645"/>
                     <Element Name="kSG_WiiPlay" ID="0x10FDF8F"/>
                     <Element Name="kSG_WarioWareSmoothMoves" ID="0x5EB68811"/>

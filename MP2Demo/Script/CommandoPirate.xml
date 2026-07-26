@@ -152,7 +152,7 @@
             <Element Type="Sound" ID="0xD7BBB5C0">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x388E16C9" Archetype="UnknownStruct12"/>
+            <Element Type="Struct" ID="0x388E16C9" Archetype="CommandoShield"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

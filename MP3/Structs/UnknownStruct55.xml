@@ -193,7 +193,11 @@
                     <Element>CAUD</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Asset" ID="0xF69BED49"/>
+            <Element Type="Asset" ID="0xF69BED49">
+                <TypeFilter>
+                    <Element>SCAN</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Asset" ID="0x3D6768D8">
                 <TypeFilter>
                     <Element>SCAN</Element>

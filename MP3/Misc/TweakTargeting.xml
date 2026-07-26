@@ -4,9 +4,9 @@
         <Name>TweakTargeting</Name>
         <SubProperties>
             <Element Type="String" ID="0x7FDA1466"/>
-            <Element Type="Struct" ID="0xD15B6A54" Archetype="TweakTargeting_UnknownStruct1"/>
-            <Element Type="Struct" ID="0xE87E2134" Archetype="TweakTargeting_UnknownStruct2"/>
-            <Element Type="Struct" ID="0xC6915D69" Archetype="TweakTargeting_UnknownStruct3"/>
+            <Element Type="Struct" ID="0xD15B6A54" Archetype="TweakTargeting_CombatReticules"/>
+            <Element Type="Struct" ID="0xE87E2134" Archetype="TweakTargeting_ChargeBeam"/>
+            <Element Type="Struct" ID="0xC6915D69" Archetype="TweakTargeting_OrbitLock"/>
             <Element Type="Struct" ID="0x5173932F" Archetype="TweakTargeting_OuterBeamIcon"/>
             <Element Type="Struct" ID="0x23FF4BE4" Archetype="TIcon_Configurations"/>
             <Element Type="Struct" ID="0x92E98613" Archetype="TIcon_Configurations">
