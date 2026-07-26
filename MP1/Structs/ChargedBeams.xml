@@ -15,8 +15,8 @@
             <Element Type="Choice" ID="0x3" Archetype="VulnerabilityType">
                 <Name>Plasma</Name>
             </Element>
-            <Element Type="Choice" ID="0x4" Archetype="VulnerabilityType">
-                <Name>Phazon</Name>
+            <Element Type="Choice" ID="0x4" Archetype="DeflectType">
+                <Name>Deflected</Name>
             </Element>
         </SubProperties>
     </PropertyArchetype>
