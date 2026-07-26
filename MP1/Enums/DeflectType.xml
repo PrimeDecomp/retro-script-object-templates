@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Prime">
+    <PropertyArchetype Type="Choice">
+        <Name>DeflectType</Name>
+        <Values>
+            <Element Name="None" ID="0x0"/>
+            <Element Name="Richochet" ID="0x1"/>
+            <Element Name="Retarget Player" ID="0x2"/>
+            <Element Name="Retarget Player Combo" ID="0x3"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>

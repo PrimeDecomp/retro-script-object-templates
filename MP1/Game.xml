@@ -556,6 +556,10 @@
             <Value Path="Structs/DamageVulnerability.xml"/>
         </Element>
         <Element>
+            <Key>DeflectType</Key>
+            <Value Path="Enums/DeflectType.xml"/>
+        </Element>
+        <Element>
             <Key>EnergyBarColors</Key>
             <Value Path="Structs/EnergyBarColors.xml"/>
         </Element>
