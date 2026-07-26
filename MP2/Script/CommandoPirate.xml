@@ -129,7 +129,7 @@
                 <DefaultValue>20.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xFB435257" Archetype="UnknownStruct10"/>
-            <Element Type="Struct" ID="0x388E16C9" Archetype="UnknownStruct11"/>
+            <Element Type="Struct" ID="0x388E16C9" Archetype="CommandoShield"/>
             <Element Type="Float" ID="0x71587B45">
                 <DefaultValue>0.1</DefaultValue>
             </Element>

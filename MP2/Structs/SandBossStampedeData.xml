@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct40</Name>
+        <Name>SandBossStampedeData</Name>
         <SubProperties>
             <Element Type="Float" ID="0xBED8A4BA">
                 <DefaultValue>1.5</DefaultValue>

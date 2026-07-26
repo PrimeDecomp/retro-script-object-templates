@@ -1540,16 +1540,16 @@
             <Value Path="Structs/ScanBeamInfo.xml"/>
         </Element>
         <Element>
-            <Key>ScanInfoSecondaryModel</Key>
-            <Value Path="Structs/ScanInfoSecondaryModel.xml"/>
-        </Element>
-        <Element>
             <Key>ScanSpeed</Key>
             <Value Path="Enums/ScanSpeed.xml"/>
         </Element>
         <Element>
             <Key>ScannableParameters</Key>
             <Value Path="Structs/ScannableParameters.xml"/>
+        </Element>
+        <Element>
+            <Key>SecondaryScanModel</Key>
+            <Value Path="Structs/SecondaryScanModel.xml"/>
         </Element>
         <Element>
             <Key>SeedBoss1Action</Key>
@@ -1600,8 +1600,8 @@
             <Value Path="Structs/ShipData.xml"/>
         </Element>
         <Element>
-            <Key>ShipDecalControllerStruct</Key>
-            <Value Path="Structs/ShipDecalControllerStruct.xml"/>
+            <Key>ShipDecalSwapPair</Key>
+            <Value Path="Structs/ShipDecalSwapPair.xml"/>
         </Element>
         <Element>
             <Key>ShockWaveInfo</Key>
@@ -1944,8 +1944,16 @@
             <Value Path="Enums/TweakPlayer_UnknownEnum1.xml"/>
         </Element>
         <Element>
+            <Key>TweakTargeting_ChargeBeam</Key>
+            <Value Path="Structs/TweakTargeting_ChargeBeam.xml"/>
+        </Element>
+        <Element>
             <Key>TweakTargeting_Charge_Gauge</Key>
             <Value Path="Structs/TweakTargeting_Charge_Gauge.xml"/>
+        </Element>
+        <Element>
+            <Key>TweakTargeting_CombatReticules</Key>
+            <Value Path="Structs/TweakTargeting_CombatReticules.xml"/>
         </Element>
         <Element>
             <Key>TweakTargeting_LockDagger</Key>
@@ -1956,24 +1964,16 @@
             <Value Path="Structs/TweakTargeting_LockFire.xml"/>
         </Element>
         <Element>
+            <Key>TweakTargeting_OrbitLock</Key>
+            <Value Path="Structs/TweakTargeting_OrbitLock.xml"/>
+        </Element>
+        <Element>
             <Key>TweakTargeting_OuterBeamIcon</Key>
             <Value Path="Structs/TweakTargeting_OuterBeamIcon.xml"/>
         </Element>
         <Element>
             <Key>TweakTargeting_Scan</Key>
             <Value Path="Structs/TweakTargeting_Scan.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakTargeting_UnknownStruct1</Key>
-            <Value Path="Structs/TweakTargeting_UnknownStruct1.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakTargeting_UnknownStruct2</Key>
-            <Value Path="Structs/TweakTargeting_UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakTargeting_UnknownStruct3</Key>
-            <Value Path="Structs/TweakTargeting_UnknownStruct3.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct1</Key>

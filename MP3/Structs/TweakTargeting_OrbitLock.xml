@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>TweakTargeting_UnknownStruct3</Name>
+        <Name>TweakTargeting_OrbitLock</Name>
         <SubProperties>
             <Element Type="Float" ID="0x77FEEEF0">
                 <DefaultValue>0.15000001</DefaultValue>

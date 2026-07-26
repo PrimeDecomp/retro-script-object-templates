@@ -4,19 +4,19 @@
         <Name>ShipDecalController</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x15FBDF30" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0x59B4B241" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xB663308D" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0x7640AD4C" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0x9B6EDE52" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xEA024AF3" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xA3B7EE26" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xC7B1DD81" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xD7C6638E" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0x124974E5" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xF8CFA987" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xA77487D5" Archetype="ShipDecalControllerStruct"/>
-            <Element Type="Struct" ID="0xE590A13E" Archetype="ShipDecalControllerStruct"/>
+            <Element Type="Struct" ID="0x15FBDF30" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0x59B4B241" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xB663308D" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0x7640AD4C" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0x9B6EDE52" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xEA024AF3" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xA3B7EE26" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xC7B1DD81" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xD7C6638E" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0x124974E5" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xF8CFA987" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xA77487D5" Archetype="ShipDecalSwapPair"/>
+            <Element Type="Struct" ID="0xE590A13E" Archetype="ShipDecalSwapPair"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

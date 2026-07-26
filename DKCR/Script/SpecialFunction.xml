@@ -40,9 +40,9 @@
                     <Element Name="kSF_SetInventoryAmount" ID="0x8F226F1D"/>
                     <Element Name="kSF_SetInventoryAmountAndCapacity" ID="0x9349C56D"/>
                     <Element Name="kSF_SetInventoryCapacity" ID="0x441AEE66"/>
-                    <Element Name="Function 34" ID="0xE5518864"/>
-                    <Element Name="kSF_SaveTinCansSomewhereAmount?" ID="0x502B7B92"/>
-                    <Element Name="Function 36" ID="0x83B00647"/>
+                    <Element Name="kSF_SetInventoryAmountUsingSource" ID="0xE5518864"/>
+                    <Element Name="kSF_SetInventoryAmountAndCapacityUsingSource" ID="0x502B7B92"/>
+                    <Element Name="kSF_SetInventoryCapacityUsingSource" ID="0x83B00647"/>
                     <Element Name="kSF_SkyLighting" ID="0x7F0CE328"/>
                     <Element Name="kSF_SkyboxRotate" ID="0x6FC986EA"/>
                     <Element Name="kSF_StaticWorldRenderController" ID="0x7E8C0D33"/>

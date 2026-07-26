@@ -44,15 +44,15 @@
                 </TypeFilter>
             </Element>
             <Element Type="AnimationSet" ID="0xC4AD00A7"/>
-            <Element Type="Struct" ID="0x1065769D" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0xC787F6C5" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0x64D1706C" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0xB333F034" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0xF90D7B7F" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0x2EEFFB27" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0x8DB97D8E" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0x5A5BFDD6" Archetype="ScanInfoSecondaryModel"/>
-            <Element Type="Struct" ID="0x19C46B18" Archetype="ScanInfoSecondaryModel"/>
+            <Element Type="Struct" ID="0x1065769D" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0xC787F6C5" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0x64D1706C" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0xB333F034" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0xF90D7B7F" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0x2EEFFB27" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0x8DB97D8E" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0x5A5BFDD6" Archetype="SecondaryScanModel"/>
+            <Element Type="Struct" ID="0x19C46B18" Archetype="SecondaryScanModel"/>
         </SubProperties>
     </Properties>
 </ScriptObject>

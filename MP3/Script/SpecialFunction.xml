@@ -54,9 +54,9 @@
                     <Element Name="kSF_SetInventoryAmount" ID="0x8F226F1D"/>
                     <Element Name="kSF_SetInventoryAmountAndCapacity" ID="0x9349C56D"/>
                     <Element Name="kSF_SetInventoryCapacity" ID="0x441AEE66"/>
-                    <Element Name="kSF_Function 47 (Unused)" ID="0xE5518864"/>
-                    <Element Name="kSF_SaveTinCansSomewhereAmount?" ID="0x502B7B92"/>
-                    <Element Name="kSF_Function 49 (Unused)" ID="0x83B00647"/>
+                    <Element Name="kSF_SetInventoryAmountUsingSource" ID="0xE5518864"/>
+                    <Element Name="kSF_SetInventoryAmountAndCapacityUsingSource" ID="0x502B7B92"/>
+                    <Element Name="kSF_SetInventoryCapacityUsingSource" ID="0x83B00647"/>
                     <Element Name="kSF_SkyLighting" ID="0x7F0CE328"/>
                     <Element Name="kSF_SkyboxRotate" ID="0x6FC986EA"/>
                     <Element Name="kSF_WaypointOverrider" ID="0x529380DC"/>
@@ -69,6 +69,7 @@
                     <Element Name="kSF_XRayHUDControl" ID="0xD0E2CA63"/>
                     <Element Name="kSF_KillPlayer" ID="0x1E46D48C"/>
                     <Element Name="kSF_NonEnglishSwitch" ID="0x171CB7CB"/>
+                    <Element Name="kSF_CreditsScreen" ID="0xD5B13ADC"/>
                 </Values>
             </Element>
             <Element Type="String" ID="0x9D7A576D"/>

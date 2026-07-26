@@ -892,6 +892,10 @@
             <Value Path="Structs/CommandData.xml"/>
         </Element>
         <Element>
+            <Key>CommandoShield</Key>
+            <Value Path="Structs/CommandoShield.xml"/>
+        </Element>
+        <Element>
             <Key>ConditionalTest</Key>
             <Value Path="Structs/ConditionalTest.xml"/>
         </Element>
@@ -918,6 +922,10 @@
         <Element>
             <Key>DarkCommandoData</Key>
             <Value Path="Structs/DarkCommandoData.xml"/>
+        </Element>
+        <Element>
+            <Key>DarkCommandoShadowDashData</Key>
+            <Value Path="Structs/DarkCommandoShadowDashData.xml"/>
         </Element>
         <Element>
             <Key>DigitalGuardianData</Key>
@@ -1110,6 +1118,10 @@
         <Element>
             <Key>SandBossData</Key>
             <Value Path="Structs/SandBossData.xml"/>
+        </Element>
+        <Element>
+            <Key>SandBossStampedeData</Key>
+            <Value Path="Structs/SandBossStampedeData.xml"/>
         </Element>
         <Element>
             <Key>SandBossStructA</Key>
@@ -1456,20 +1468,12 @@
             <Value Path="Structs/UnknownStruct10.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct11</Key>
-            <Value Path="Structs/UnknownStruct11.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct12</Key>
             <Value Path="Structs/UnknownStruct12.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct13</Key>
             <Value Path="Structs/UnknownStruct13.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct14</Key>
-            <Value Path="Structs/UnknownStruct14.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct16</Key>
@@ -1522,10 +1526,6 @@
         <Element>
             <Key>UnknownStruct39</Key>
             <Value Path="Structs/UnknownStruct39.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct40</Key>
-            <Value Path="Structs/UnknownStruct40.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct41</Key>
