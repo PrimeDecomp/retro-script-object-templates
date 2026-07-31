@@ -836,20 +836,12 @@
     </ScriptObjects>
     <PropertyArchetypes>
         <Element>
-            <Key>Abilities</Key>
-            <Value Path="Structs/Abilities.xml"/>
-        </Element>
-        <Element>
             <Key>ActivationTime</Key>
             <Value Path="Structs/ActivationTime.xml"/>
         </Element>
         <Element>
             <Key>ActorParameters</Key>
             <Value Path="Structs/ActorParameters.xml"/>
-        </Element>
-        <Element>
-            <Key>AiDifficultySettings</Key>
-            <Value Path="Structs/AiDifficultySettings.xml"/>
         </Element>
         <Element>
             <Key>AuroraUnit1Data</Key>
@@ -860,16 +852,16 @@
             <Value Path="Structs/AuroraUnit2Data.xml"/>
         </Element>
         <Element>
-            <Key>Ball</Key>
-            <Value Path="Structs/Ball.xml"/>
-        </Element>
-        <Element>
             <Key>BallMiscControls</Key>
             <Value Path="Structs/BallMiscControls.xml"/>
         </Element>
         <Element>
             <Key>BallMovementControls</Key>
             <Value Path="Structs/BallMovementControls.xml"/>
+        </Element>
+        <Element>
+            <Key>BeamProperties</Key>
+            <Value Path="Structs/BeamProperties.xml"/>
         </Element>
         <Element>
             <Key>BeastRiderData</Key>
@@ -948,12 +940,12 @@
             <Value Path="Structs/CinematicBlend.xml"/>
         </Element>
         <Element>
-            <Key>CircleLineMode</Key>
-            <Value Path="Structs/CircleLineMode.xml"/>
-        </Element>
-        <Element>
             <Key>ColliderPosition</Key>
             <Value Path="Structs/ColliderPosition.xml"/>
+        </Element>
+        <Element>
+            <Key>CombatTrooperData</Key>
+            <Value Path="Structs/CombatTrooperData.xml"/>
         </Element>
         <Element>
             <Key>CommandData</Key>
@@ -972,6 +964,10 @@
             <Value Path="Structs/ContextActionCombinationLockStruct.xml"/>
         </Element>
         <Element>
+            <Key>ContextActionWeldingData</Key>
+            <Value Path="Structs/ContextActionWeldingData.xml"/>
+        </Element>
+        <Element>
             <Key>ControlCommands</Key>
             <Value Path="Structs/ControlCommands.xml"/>
         </Element>
@@ -984,6 +980,18 @@
             <Value Path="Structs/CounterConditions.xml"/>
         </Element>
         <Element>
+            <Key>DPDArc</Key>
+            <Value Path="Structs/DPDArc.xml"/>
+        </Element>
+        <Element>
+            <Key>DPDCircle</Key>
+            <Value Path="Structs/DPDCircle.xml"/>
+        </Element>
+        <Element>
+            <Key>DPDRectangle</Key>
+            <Value Path="Structs/DPDRectangle.xml"/>
+        </Element>
+        <Element>
             <Key>DamageInfo</Key>
             <Value Path="Structs/DamageInfo.xml"/>
         </Element>
@@ -994,6 +1002,10 @@
         <Element>
             <Key>DamageableTriggerEnum</Key>
             <Value Path="Enums/DamageableTriggerEnum.xml"/>
+        </Element>
+        <Element>
+            <Key>DarkSamusAssets</Key>
+            <Value Path="Structs/DarkSamusAssets.xml"/>
         </Element>
         <Element>
             <Key>DarkSamusData</Key>
@@ -1014,6 +1026,10 @@
         <Element>
             <Key>DebugControls</Key>
             <Value Path="Structs/DebugControls.xml"/>
+        </Element>
+        <Element>
+            <Key>DefenseMechanoidAssets</Key>
+            <Value Path="Structs/DefenseMechanoidAssets.xml"/>
         </Element>
         <Element>
             <Key>DefenseMechanoidData</Key>
@@ -1056,8 +1072,8 @@
             <Value Path="Structs/EyePodData.xml"/>
         </Element>
         <Element>
-            <Key>EyePodStruct</Key>
-            <Value Path="Structs/EyePodStruct.xml"/>
+            <Key>EyePodHypermodeData</Key>
+            <Value Path="Structs/EyePodHypermodeData.xml"/>
         </Element>
         <Element>
             <Key>FOVInterpolationMethod</Key>
@@ -1108,6 +1124,10 @@
             <Value Path="Structs/FlyingPirateData.xml"/>
         </Element>
         <Element>
+            <Key>FlyingPirateFlipSwitchData</Key>
+            <Value Path="Structs/FlyingPirateFlipSwitchData.xml"/>
+        </Element>
+        <Element>
             <Key>FlyingPirateHelixMissileData</Key>
             <Value Path="Structs/FlyingPirateHelixMissileData.xml"/>
         </Element>
@@ -1124,24 +1144,84 @@
             <Value Path="Structs/FriendlyData.xml"/>
         </Element>
         <Element>
+            <Key>GandraydaChakram</Key>
+            <Value Path="Structs/GandraydaChakram.xml"/>
+        </Element>
+        <Element>
             <Key>GandraydaData</Key>
             <Value Path="Structs/GandraydaData.xml"/>
+        </Element>
+        <Element>
+            <Key>GandraydaStage1Data</Key>
+            <Value Path="Structs/GandraydaStage1Data.xml"/>
+        </Element>
+        <Element>
+            <Key>GandraydaStage2Data</Key>
+            <Value Path="Structs/GandraydaStage2Data.xml"/>
+        </Element>
+        <Element>
+            <Key>GandraydaStage3Data</Key>
+            <Value Path="Structs/GandraydaStage3Data.xml"/>
+        </Element>
+        <Element>
+            <Key>GandraydaStage4Data</Key>
+            <Value Path="Structs/GandraydaStage4Data.xml"/>
+        </Element>
+        <Element>
+            <Key>GellsacData</Key>
+            <Value Path="Structs/GellsacData.xml"/>
         </Element>
         <Element>
             <Key>GeneratedObjectDeleterProperties</Key>
             <Value Path="Structs/GeneratedObjectDeleterProperties.xml"/>
         </Element>
         <Element>
-            <Key>GhorStructA</Key>
-            <Value Path="Structs/GhorStructA.xml"/>
+            <Key>GhorArmorPiece</Key>
+            <Value Path="Structs/GhorArmorPiece.xml"/>
         </Element>
         <Element>
-            <Key>GhorStructB</Key>
-            <Value Path="Structs/GhorStructB.xml"/>
+            <Key>GhorAttackData</Key>
+            <Value Path="Structs/GhorAttackData.xml"/>
         </Element>
         <Element>
-            <Key>GhorStructC</Key>
-            <Value Path="Structs/GhorStructC.xml"/>
+            <Key>GhorData</Key>
+            <Value Path="Structs/GhorData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorDifficultySetting</Key>
+            <Value Path="Structs/GhorDifficultySetting.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorLowerArmorData</Key>
+            <Value Path="Structs/GhorLowerArmorData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorMaskData</Key>
+            <Value Path="Structs/GhorMaskData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorShieldData</Key>
+            <Value Path="Structs/GhorShieldData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorShieldGeneratorData</Key>
+            <Value Path="Structs/GhorShieldGeneratorData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorUpperArmorData</Key>
+            <Value Path="Structs/GhorUpperArmorData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorUpperBodyData</Key>
+            <Value Path="Structs/GhorUpperBodyData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorWeakSpotData</Key>
+            <Value Path="Structs/GhorWeakSpotData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorWeaponData</Key>
+            <Value Path="Structs/GhorWeaponData.xml"/>
         </Element>
         <Element>
             <Key>GragnolFlyerData</Key>
@@ -1180,10 +1260,6 @@
             <Value Path="Structs/HoverThenHomeProjectile.xml"/>
         </Element>
         <Element>
-            <Key>HyperMode</Key>
-            <Value Path="Structs/HyperMode.xml"/>
-        </Element>
-        <Element>
             <Key>HyperModeData</Key>
             <Value Path="Structs/HyperModeData.xml"/>
         </Element>
@@ -1202,6 +1278,10 @@
         <Element>
             <Key>InventoryControls</Key>
             <Value Path="Structs/InventoryControls.xml"/>
+        </Element>
+        <Element>
+            <Key>KorakkAssets</Key>
+            <Value Path="Structs/KorakkAssets.xml"/>
         </Element>
         <Element>
             <Key>KorakkData</Key>
@@ -1240,6 +1320,10 @@
             <Value Path="Structs/MapControls.xml"/>
         </Element>
         <Element>
+            <Key>MetareeData</Key>
+            <Value Path="Structs/MetareeData.xml"/>
+        </Element>
+        <Element>
             <Key>MetroidHatcherData</Key>
             <Value Path="Structs/MetroidHatcherData.xml"/>
         </Element>
@@ -1248,8 +1332,8 @@
             <Value Path="Structs/MetroidHopperData.xml"/>
         </Element>
         <Element>
-            <Key>MetroidHopperStruct</Key>
-            <Value Path="Structs/MetroidHopperStruct.xml"/>
+            <Key>MetroidHopperHypermodeData</Key>
+            <Value Path="Structs/MetroidHopperHypermodeData.xml"/>
         </Element>
         <Element>
             <Key>MetroidPhazeoidData</Key>
@@ -1260,8 +1344,8 @@
             <Value Path="Structs/MetroidPhazeoidStruct.xml"/>
         </Element>
         <Element>
-            <Key>Misc</Key>
-            <Value Path="Structs/Misc.xml"/>
+            <Key>MinorIngData</Key>
+            <Value Path="Structs/MinorIngData.xml"/>
         </Element>
         <Element>
             <Key>MiscControls</Key>
@@ -1364,6 +1448,10 @@
             <Value Path="Structs/PhazonPuddleData.xml"/>
         </Element>
         <Element>
+            <Key>PhazonPufferData</Key>
+            <Value Path="Structs/PhazonPufferData.xml"/>
+        </Element>
+        <Element>
             <Key>PhysicalControl</Key>
             <Value Path="Enums/PhysicalControl.xml"/>
         </Element>
@@ -1378,6 +1466,10 @@
         <Element>
             <Key>PhysicsDebrisPropertiesOrientationEnum</Key>
             <Value Path="Structs/PhysicsDebrisPropertiesOrientationEnum.xml"/>
+        </Element>
+        <Element>
+            <Key>PillBugData</Key>
+            <Value Path="Structs/PillBugData.xml"/>
         </Element>
         <Element>
             <Key>PirateDroneData</Key>
@@ -1400,8 +1492,36 @@
             <Value Path="Structs/PlayerControls.xml"/>
         </Element>
         <Element>
+            <Key>PlayerInventoryAbilities</Key>
+            <Value Path="Structs/PlayerInventoryAbilities.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryBall</Key>
+            <Value Path="Structs/PlayerInventoryBall.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryHyperMode</Key>
+            <Value Path="Structs/PlayerInventoryHyperMode.xml"/>
+        </Element>
+        <Element>
             <Key>PlayerInventoryItem</Key>
             <Value Path="Structs/PlayerInventoryItem.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryMisc</Key>
+            <Value Path="Structs/PlayerInventoryMisc.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryShip</Key>
+            <Value Path="Structs/PlayerInventoryShip.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryVisors</Key>
+            <Value Path="Structs/PlayerInventoryVisors.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryWeapons</Key>
+            <Value Path="Structs/PlayerInventoryWeapons.xml"/>
         </Element>
         <Element>
             <Key>PlayerItem</Key>
@@ -1480,20 +1600,8 @@
             <Value Path="Enums/RevolutionControlType.xml"/>
         </Element>
         <Element>
-            <Key>RevolutionControl_UnknownStruct1</Key>
-            <Value Path="Structs/RevolutionControl_UnknownStruct1.xml"/>
-        </Element>
-        <Element>
-            <Key>RevolutionControl_UnknownStruct2</Key>
-            <Value Path="Structs/RevolutionControl_UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>RevolutionControl_UnknownStruct3</Key>
-            <Value Path="Structs/RevolutionControl_UnknownStruct3.xml"/>
-        </Element>
-        <Element>
-            <Key>RevolutionControl_UnknownStruct4</Key>
-            <Value Path="Structs/RevolutionControl_UnknownStruct4.xml"/>
+            <Key>RevolutionDPDControl</Key>
+            <Value Path="Structs/RevolutionDPDControl.xml"/>
         </Element>
         <Element>
             <Key>RevolutionGesture</Key>
@@ -1516,6 +1624,10 @@
             <Value Path="Enums/RevolutionVirtualControl.xml"/>
         </Element>
         <Element>
+            <Key>Ridley1Assets</Key>
+            <Value Path="Structs/Ridley1Assets.xml"/>
+        </Element>
+        <Element>
             <Key>Ridley1Data</Key>
             <Value Path="Structs/Ridley1Data.xml"/>
         </Element>
@@ -1524,8 +1636,20 @@
             <Value Path="Structs/RotationSplines.xml"/>
         </Element>
         <Element>
+            <Key>RundasAssets</Key>
+            <Value Path="Structs/RundasAssets.xml"/>
+        </Element>
+        <Element>
             <Key>RundasData</Key>
             <Value Path="Structs/RundasData.xml"/>
+        </Element>
+        <Element>
+            <Key>SamusFormBoostBallData</Key>
+            <Value Path="Structs/SamusFormBoostBallData.xml"/>
+        </Element>
+        <Element>
+            <Key>SamusFormData</Key>
+            <Value Path="Structs/SamusFormData.xml"/>
         </Element>
         <Element>
             <Key>SavedStateID</Key>
@@ -1576,6 +1700,14 @@
             <Value Path="Structs/SeedBoss1Stage.xml"/>
         </Element>
         <Element>
+            <Key>SeedBoss2Assets</Key>
+            <Value Path="Structs/SeedBoss2Assets.xml"/>
+        </Element>
+        <Element>
+            <Key>SeedBoss2BotSwarmData</Key>
+            <Value Path="Structs/SeedBoss2BotSwarmData.xml"/>
+        </Element>
+        <Element>
             <Key>SeedBoss2PrimeBotData</Key>
             <Value Path="Structs/SeedBoss2PrimeBotData.xml"/>
         </Element>
@@ -1592,16 +1724,16 @@
             <Value Path="Structs/ShellBugData.xml"/>
         </Element>
         <Element>
-            <Key>Ship</Key>
-            <Value Path="Structs/Ship.xml"/>
-        </Element>
-        <Element>
             <Key>ShipData</Key>
             <Value Path="Structs/ShipData.xml"/>
         </Element>
         <Element>
             <Key>ShipDecalSwapPair</Key>
             <Value Path="Structs/ShipDecalSwapPair.xml"/>
+        </Element>
+        <Element>
+            <Key>ShipHudControlData</Key>
+            <Value Path="Structs/ShipHudControlData.xml"/>
         </Element>
         <Element>
             <Key>ShockWaveInfo</Key>
@@ -1640,6 +1772,10 @@
             <Value Path="Structs/SpringConvergence.xml"/>
         </Element>
         <Element>
+            <Key>SpriteData</Key>
+            <Value Path="Structs/SpriteData.xml"/>
+        </Element>
+        <Element>
             <Key>SpriteStruct</Key>
             <Value Path="Structs/SpriteStruct.xml"/>
         </Element>
@@ -1650,6 +1786,10 @@
         <Element>
             <Key>SteamBotData</Key>
             <Value Path="Structs/SteamBotData.xml"/>
+        </Element>
+        <Element>
+            <Key>SteamDroneData</Key>
+            <Value Path="Structs/SteamDroneData.xml"/>
         </Element>
         <Element>
             <Key>SteamLordData</Key>
@@ -2000,10 +2140,6 @@
             <Value Path="Structs/UnknownStruct14.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct15</Key>
-            <Value Path="Structs/UnknownStruct15.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct16</Key>
             <Value Path="Structs/UnknownStruct16.xml"/>
         </Element>
@@ -2040,26 +2176,6 @@
             <Value Path="Structs/UnknownStruct23.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct24</Key>
-            <Value Path="Structs/UnknownStruct24.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct25</Key>
-            <Value Path="Structs/UnknownStruct25.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct26</Key>
-            <Value Path="Structs/UnknownStruct26.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct27</Key>
-            <Value Path="Structs/UnknownStruct27.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct28</Key>
-            <Value Path="Structs/UnknownStruct28.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct29</Key>
             <Value Path="Structs/UnknownStruct29.xml"/>
         </Element>
@@ -2068,76 +2184,12 @@
             <Value Path="Structs/UnknownStruct3.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct30</Key>
-            <Value Path="Structs/UnknownStruct30.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct31</Key>
-            <Value Path="Structs/UnknownStruct31.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct32</Key>
-            <Value Path="Structs/UnknownStruct32.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct33</Key>
-            <Value Path="Structs/UnknownStruct33.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct34</Key>
-            <Value Path="Structs/UnknownStruct34.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct35</Key>
-            <Value Path="Structs/UnknownStruct35.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct36</Key>
-            <Value Path="Structs/UnknownStruct36.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct37</Key>
             <Value Path="Structs/UnknownStruct37.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct38</Key>
-            <Value Path="Structs/UnknownStruct38.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct39</Key>
-            <Value Path="Structs/UnknownStruct39.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct4</Key>
             <Value Path="Structs/UnknownStruct4.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct40</Key>
-            <Value Path="Structs/UnknownStruct40.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct41</Key>
-            <Value Path="Structs/UnknownStruct41.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct42</Key>
-            <Value Path="Structs/UnknownStruct42.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct43</Key>
-            <Value Path="Structs/UnknownStruct43.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct44</Key>
-            <Value Path="Structs/UnknownStruct44.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct45</Key>
-            <Value Path="Structs/UnknownStruct45.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct47</Key>
-            <Value Path="Structs/UnknownStruct47.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct48</Key>
@@ -2148,40 +2200,8 @@
             <Value Path="Structs/UnknownStruct50.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct51</Key>
-            <Value Path="Structs/UnknownStruct51.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct52</Key>
-            <Value Path="Structs/UnknownStruct52.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct53</Key>
-            <Value Path="Structs/UnknownStruct53.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct54</Key>
             <Value Path="Structs/UnknownStruct54.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct55</Key>
-            <Value Path="Structs/UnknownStruct55.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct56</Key>
-            <Value Path="Structs/UnknownStruct56.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct57</Key>
-            <Value Path="Structs/UnknownStruct57.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct58</Key>
-            <Value Path="Structs/UnknownStruct58.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct59</Key>
-            <Value Path="Structs/UnknownStruct59.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct6</Key>
@@ -2190,22 +2210,6 @@
         <Element>
             <Key>UnknownStruct60</Key>
             <Value Path="Structs/UnknownStruct60.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct61</Key>
-            <Value Path="Structs/UnknownStruct61.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct63</Key>
-            <Value Path="Structs/UnknownStruct63.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct64</Key>
-            <Value Path="Structs/UnknownStruct64.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct65</Key>
-            <Value Path="Structs/UnknownStruct65.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct66</Key>
@@ -2236,10 +2240,6 @@
             <Value Path="Structs/VisorParameters.xml"/>
         </Element>
         <Element>
-            <Key>Visors</Key>
-            <Value Path="Structs/Visors.xml"/>
-        </Element>
-        <Element>
             <Key>WallCrawlerData</Key>
             <Value Path="Structs/WallCrawlerData.xml"/>
         </Element>
@@ -2252,8 +2252,8 @@
             <Value Path="Structs/WeaponVulnerability.xml"/>
         </Element>
         <Element>
-            <Key>Weapons</Key>
-            <Value Path="Structs/Weapons.xml"/>
+            <Key>WorldTeleporterAttribute</Key>
+            <Value Path="Structs/WorldTeleporterAttribute.xml"/>
         </Element>
     </PropertyArchetypes>
     <MiscTemplates>

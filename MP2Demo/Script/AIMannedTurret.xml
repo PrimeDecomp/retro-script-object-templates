@@ -13,7 +13,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xB15DEC6F" Archetype="UnknownStruct5"/>
+            <Element Type="Struct" ID="0xB15DEC6F" Archetype="AIMannedTurretData"/>
             <Element Type="Spline" ID="0x260792CF"/>
             <Element Type="Spline" ID="0x84284B1C"/>
         </SubProperties>

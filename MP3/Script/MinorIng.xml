@@ -24,7 +24,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0xA3A2AC3F" Archetype="UnknownStruct45"/>
+            <Element Type="Struct" ID="0xA3A2AC3F" Archetype="MinorIngData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

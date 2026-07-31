@@ -26,7 +26,7 @@
                     <Element>FSMC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0xEACC7ED2" Archetype="UnknownStruct240"/>
+            <Element Type="Struct" ID="0xEACC7ED2" Archetype="MoleTrainManagerData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

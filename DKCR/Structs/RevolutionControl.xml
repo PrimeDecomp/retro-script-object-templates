@@ -35,7 +35,7 @@
             <Element Type="Enum" ID="0xBF80D594" Archetype="RevolutionGesture">
                 <DefaultValue>0x9AD4E0BC</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x91B8C18A" Archetype="RevolutionControl_UnknownStruct1"/>
+            <Element Type="Struct" ID="0x91B8C18A" Archetype="RevolutionDPDControl"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

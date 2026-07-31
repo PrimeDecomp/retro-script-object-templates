@@ -4,7 +4,7 @@
         <Name>Beam</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0xED3C4F85" Archetype="UnknownStruct15"/>
+            <Element Type="Struct" ID="0xED3C4F85" Archetype="BeamProperties"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

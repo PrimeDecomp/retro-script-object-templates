@@ -162,11 +162,11 @@
             <Element Type="Float" ID="0x41D8C39C">
                 <DefaultValue>1.5</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xAF8984B2" Archetype="UnknownStruct30"/>
-            <Element Type="Struct" ID="0xDCB5B112" Archetype="UnknownStruct31"/>
-            <Element Type="Struct" ID="0xC30B62EA" Archetype="UnknownStruct32"/>
-            <Element Type="Struct" ID="0x7F4E2E7D" Archetype="UnknownStruct33"/>
-            <Element Type="Struct" ID="0xFC76C51A" Archetype="UnknownStruct34"/>
+            <Element Type="Struct" ID="0xAF8984B2" Archetype="GandraydaChakram"/>
+            <Element Type="Struct" ID="0xDCB5B112" Archetype="GandraydaStage1Data"/>
+            <Element Type="Struct" ID="0xC30B62EA" Archetype="GandraydaStage2Data"/>
+            <Element Type="Struct" ID="0x7F4E2E7D" Archetype="GandraydaStage3Data"/>
+            <Element Type="Struct" ID="0xFC76C51A" Archetype="GandraydaStage4Data"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

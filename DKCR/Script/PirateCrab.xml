@@ -61,7 +61,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x27F8BA64" Archetype="UnknownStruct89"/>
+            <Element Type="Struct" ID="0x27F8BA64" Archetype="PirateCrabData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

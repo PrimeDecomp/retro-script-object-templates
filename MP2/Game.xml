@@ -828,6 +828,10 @@
     </ScriptObjects>
     <PropertyArchetypes>
         <Element>
+            <Key>AIMannedTurretData</Key>
+            <Value Path="Structs/AIMannedTurretData.xml"/>
+        </Element>
+        <Element>
             <Key>ActorParameters</Key>
             <Value Path="Structs/ActorParameters.xml"/>
         </Element>
@@ -840,12 +844,12 @@
             <Value Path="Structs/BasicSwarmProperties.xml"/>
         </Element>
         <Element>
-            <Key>BehaveChance</Key>
-            <Value Path="Structs/BehaveChance.xml"/>
-        </Element>
-        <Element>
             <Key>BloggStruct</Key>
             <Value Path="Structs/BloggStruct.xml"/>
+        </Element>
+        <Element>
+            <Key>BoostBallGuardianData</Key>
+            <Value Path="Structs/BoostBallGuardianData.xml"/>
         </Element>
         <Element>
             <Key>CameraBehaviour</Key>
@@ -1016,12 +1020,16 @@
             <Value Path="Structs/EmperorIngStage3PortalAttackData.xml"/>
         </Element>
         <Element>
-            <Key>EmperorIngStage3StructB</Key>
-            <Value Path="Structs/EmperorIngStage3StructB.xml"/>
+            <Key>EmperorIngStage3Stage</Key>
+            <Value Path="Structs/EmperorIngStage3Stage.xml"/>
         </Element>
         <Element>
             <Key>FlareDef</Key>
             <Value Path="Structs/FlareDef.xml"/>
+        </Element>
+        <Element>
+            <Key>GhostBehave</Key>
+            <Value Path="Structs/GhostBehave.xml"/>
         </Element>
         <Element>
             <Key>GrappleParameters</Key>
@@ -1034,6 +1042,10 @@
         <Element>
             <Key>HealthInfo</Key>
             <Value Path="Structs/HealthInfo.xml"/>
+        </Element>
+        <Element>
+            <Key>IngBoostBallGuardianData</Key>
+            <Value Path="Structs/IngBoostBallGuardianData.xml"/>
         </Element>
         <Element>
             <Key>IngBoostBallGuardianStruct</Key>
@@ -1050,6 +1062,10 @@
         <Element>
             <Key>IngSpaceJumpGuardianStruct</Key>
             <Value Path="Structs/IngSpaceJumpGuardianStruct.xml"/>
+        </Element>
+        <Element>
+            <Key>IngSpiderballGuardianData</Key>
+            <Value Path="Structs/IngSpiderballGuardianData.xml"/>
         </Element>
         <Element>
             <Key>IngSpiderballGuardianStruct</Key>
@@ -1108,6 +1124,10 @@
             <Value Path="Structs/RotationSplines.xml"/>
         </Element>
         <Element>
+            <Key>RubiksPuzzleData</Key>
+            <Value Path="Structs/RubiksPuzzleData.xml"/>
+        </Element>
+        <Element>
             <Key>SafeZoneStructA</Key>
             <Value Path="Structs/SafeZoneStructA.xml"/>
         </Element>
@@ -1156,6 +1176,10 @@
             <Value Path="Structs/ShockWaveInfo.xml"/>
         </Element>
         <Element>
+            <Key>ShredderData</Key>
+            <Value Path="Structs/ShredderData.xml"/>
+        </Element>
+        <Element>
             <Key>SpacePirateWeaponData</Key>
             <Value Path="Structs/SpacePirateWeaponData.xml"/>
         </Element>
@@ -1182,6 +1206,10 @@
         <Element>
             <Key>SurroundPan</Key>
             <Value Path="Structs/SurroundPan.xml"/>
+        </Element>
+        <Element>
+            <Key>SwampBossStage1Data</Key>
+            <Value Path="Structs/SwampBossStage1Data.xml"/>
         </Element>
         <Element>
             <Key>SwampBossStage1Struct</Key>
@@ -1484,48 +1512,20 @@
             <Value Path="Structs/UnknownStruct17.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct28</Key>
-            <Value Path="Structs/UnknownStruct28.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct29</Key>
-            <Value Path="Structs/UnknownStruct29.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct3</Key>
-            <Value Path="Structs/UnknownStruct3.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct30</Key>
             <Value Path="Structs/UnknownStruct30.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct31</Key>
-            <Value Path="Structs/UnknownStruct31.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct34</Key>
             <Value Path="Structs/UnknownStruct34.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct35</Key>
-            <Value Path="Structs/UnknownStruct35.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct36</Key>
             <Value Path="Structs/UnknownStruct36.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct37</Key>
-            <Value Path="Structs/UnknownStruct37.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct38</Key>
             <Value Path="Structs/UnknownStruct38.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct39</Key>
-            <Value Path="Structs/UnknownStruct39.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct41</Key>

@@ -10,7 +10,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0x7CF4790F" Archetype="UnknownStruct298"/>
+            <Element Type="Struct" ID="0x7CF4790F" Archetype="OceanWaveData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

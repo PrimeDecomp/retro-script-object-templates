@@ -30,8 +30,8 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0x22E574AA" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x78656D1E" Archetype="UnknownStruct29"/>
+            <Element Type="Struct" ID="0x22E574AA" Archetype="IngBoostBallGuardianData"/>
+            <Element Type="Struct" ID="0x78656D1E" Archetype="BoostBallGuardianData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

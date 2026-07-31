@@ -620,20 +620,12 @@
     </ScriptObjects>
     <PropertyArchetypes>
         <Element>
-            <Key>Abilities</Key>
-            <Value Path="Structs/Abilities.xml"/>
-        </Element>
-        <Element>
             <Key>ActivationTime</Key>
             <Value Path="Structs/ActivationTime.xml"/>
         </Element>
         <Element>
             <Key>ActorParameters</Key>
             <Value Path="Structs/ActorParameters.xml"/>
-        </Element>
-        <Element>
-            <Key>Ball</Key>
-            <Value Path="Structs/Ball.xml"/>
         </Element>
         <Element>
             <Key>BallMiscControls</Key>
@@ -892,10 +884,6 @@
             <Value Path="Structs/HealthInfo.xml"/>
         </Element>
         <Element>
-            <Key>HyperMode</Key>
-            <Value Path="Structs/HyperMode.xml"/>
-        </Element>
-        <Element>
             <Key>HyperModeType</Key>
             <Value Path="Enums/HyperModeType.xml"/>
         </Element>
@@ -958,10 +946,6 @@
         <Element>
             <Key>MetroidHopperData</Key>
             <Value Path="Structs/MetroidHopperData.xml"/>
-        </Element>
-        <Element>
-            <Key>Misc</Key>
-            <Value Path="Structs/Misc.xml"/>
         </Element>
         <Element>
             <Key>MiscControls</Key>
@@ -1076,8 +1060,36 @@
             <Value Path="Structs/PlayerControls.xml"/>
         </Element>
         <Element>
+            <Key>PlayerInventoryAbilities</Key>
+            <Value Path="Structs/PlayerInventoryAbilities.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryBall</Key>
+            <Value Path="Structs/PlayerInventoryBall.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryHyperMode</Key>
+            <Value Path="Structs/PlayerInventoryHyperMode.xml"/>
+        </Element>
+        <Element>
             <Key>PlayerInventoryItem</Key>
             <Value Path="Structs/PlayerInventoryItem.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryMisc</Key>
+            <Value Path="Structs/PlayerInventoryMisc.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryShip</Key>
+            <Value Path="Structs/PlayerInventoryShip.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryVisors</Key>
+            <Value Path="Structs/PlayerInventoryVisors.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventoryWeapons</Key>
+            <Value Path="Structs/PlayerInventoryWeapons.xml"/>
         </Element>
         <Element>
             <Key>PlayerItem</Key>
@@ -1202,10 +1214,6 @@
         <Element>
             <Key>SeedBoss1Stage</Key>
             <Value Path="Structs/SeedBoss1Stage.xml"/>
-        </Element>
-        <Element>
-            <Key>Ship</Key>
-            <Value Path="Structs/Ship.xml"/>
         </Element>
         <Element>
             <Key>ShipData</Key>
@@ -1560,10 +1568,6 @@
             <Value Path="Structs/VisorParameters.xml"/>
         </Element>
         <Element>
-            <Key>Visors</Key>
-            <Value Path="Structs/Visors.xml"/>
-        </Element>
-        <Element>
             <Key>WallCrawlerData</Key>
             <Value Path="Structs/WallCrawlerData.xml"/>
         </Element>
@@ -1574,10 +1578,6 @@
         <Element>
             <Key>WeaponVulnerability</Key>
             <Value Path="Structs/WeaponVulnerability.xml"/>
-        </Element>
-        <Element>
-            <Key>Weapons</Key>
-            <Value Path="Structs/Weapons.xml"/>
         </Element>
     </PropertyArchetypes>
     <MiscTemplates>

@@ -4,7 +4,7 @@
         <Name>PoiObject</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x98574EB1" Archetype="UnknownStruct247"/>
+            <Element Type="Struct" ID="0x98574EB1" Archetype="PoiObjectData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

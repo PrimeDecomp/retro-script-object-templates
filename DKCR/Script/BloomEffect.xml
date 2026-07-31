@@ -4,7 +4,7 @@
         <Name>BloomEffect</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x882E9F47" Archetype="UnknownStruct65"/>
+            <Element Type="Struct" ID="0x882E9F47" Archetype="BloomEffectData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

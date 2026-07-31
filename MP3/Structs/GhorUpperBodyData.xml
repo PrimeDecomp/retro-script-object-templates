@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
+    <PropertyArchetype Type="Struct">
+        <Name>GhorUpperBodyData</Name>
+        <SubProperties>
+            <Element Type="Bool" ID="0x531A8C85">
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0x832C442E" Archetype="GhorShieldData"/>
+            <Element Type="Struct" ID="0xA0D0963B" Archetype="GhorShieldGeneratorData"/>
+            <Element Type="Struct" ID="0x81CC0D22" Archetype="GhorUpperArmorData"/>
+            <Element Type="Struct" ID="0xD345F07F" Archetype="GhorWeakSpotData"/>
+            <Element Type="String" ID="0xC59D1A2D"/>
+            <Element Type="Struct" ID="0x391A32AE" Archetype="GhorWeakSpotData"/>
+            <Element Type="Struct" ID="0xAFB9313A" Archetype="GhorWeakSpotData"/>
+            <Element Type="Struct" ID="0xBA4AD147" Archetype="DamageVulnerability"/>
+            <Element Type="Struct" ID="0x305CDAD2" Archetype="GhorMaskData"/>
+            <Element Type="Struct" ID="0x810EC49A" Archetype="GhorWeakSpotData"/>
+            <Element Type="Struct" ID="0x5B772F6D" Archetype="GhorAttackData"/>
+            <Element Type="Struct" ID="0xE07B299" Archetype="GhorWeaponData"/>
+            <Element Type="Struct" ID="0x73E98B8F" Archetype="GhorWeaponData"/>
+            <Element Type="Asset" ID="0x15E3F283">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="String" ID="0x79BFD886"/>
+            <Element Type="String" ID="0x337C4056"/>
+            <Element Type="Struct" ID="0x3D43820C" Archetype="HealthInfo"/>
+            <Element Type="Struct" ID="0x6ED9D988" Archetype="HealthInfo"/>
+            <Element Type="Struct" ID="0xE97F12CB" Archetype="HealthInfo"/>
+            <Element Type="Float" ID="0xD16B54F9">
+                <DefaultValue>10.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xB40C6FBF">
+                <DefaultValue>20.0</DefaultValue>
+            </Element>
+            <Element Type="Color" ID="0x2443E8EC">
+                <DefaultValue>
+                    <R>0.0</R>
+                    <G>0.0</G>
+                    <B>0.0</B>
+                    <A>0.0</A>
+                </DefaultValue>
+            </Element>
+            <Element Type="Color" ID="0x888049BD">
+                <DefaultValue>
+                    <R>0.0</R>
+                    <G>0.0</G>
+                    <B>0.0</B>
+                    <A>0.0</A>
+                </DefaultValue>
+            </Element>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

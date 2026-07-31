@@ -28,7 +28,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0xA1389799" Archetype="UnknownStruct31"/>
+            <Element Type="Struct" ID="0xA1389799" Archetype="IngSpiderballGuardianData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

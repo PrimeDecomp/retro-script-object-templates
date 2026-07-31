@@ -15,7 +15,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x7EFC051A" Archetype="UnknownStruct57"/>
+            <Element Type="Struct" ID="0x7EFC051A" Archetype="SamusFormData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

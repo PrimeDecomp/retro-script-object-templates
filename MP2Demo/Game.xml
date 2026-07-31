@@ -600,12 +600,12 @@
     </ScriptObjects>
     <PropertyArchetypes>
         <Element>
-            <Key>ActorParameters</Key>
-            <Value Path="Structs/ActorParameters.xml"/>
+            <Key>AIMannedTurretData</Key>
+            <Value Path="Structs/AIMannedTurretData.xml"/>
         </Element>
         <Element>
-            <Key>BehaveChance</Key>
-            <Value Path="Structs/BehaveChance.xml"/>
+            <Key>ActorParameters</Key>
+            <Value Path="Structs/ActorParameters.xml"/>
         </Element>
         <Element>
             <Key>CameraBehaviour</Key>
@@ -724,6 +724,10 @@
             <Value Path="Structs/FlareDef.xml"/>
         </Element>
         <Element>
+            <Key>GhostBehave</Key>
+            <Value Path="Structs/GhostBehave.xml"/>
+        </Element>
+        <Element>
             <Key>GrappleParameters</Key>
             <Value Path="Structs/GrappleParameters.xml"/>
         </Element>
@@ -806,6 +810,10 @@
         <Element>
             <Key>ShockWaveInfo</Key>
             <Value Path="Structs/ShockWaveInfo.xml"/>
+        </Element>
+        <Element>
+            <Key>ShredderData</Key>
+            <Value Path="Structs/ShredderData.xml"/>
         </Element>
         <Element>
             <Key>SpacePirateWeaponData</Key>
@@ -1108,20 +1116,12 @@
             <Value Path="Structs/UnknownStruct21.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct22</Key>
-            <Value Path="Structs/UnknownStruct22.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct3</Key>
             <Value Path="Structs/UnknownStruct3.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct4</Key>
             <Value Path="Structs/UnknownStruct4.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct5</Key>
-            <Value Path="Structs/UnknownStruct5.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>

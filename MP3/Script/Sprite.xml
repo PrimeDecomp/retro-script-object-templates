@@ -7,7 +7,7 @@
         <Name>Sprite</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0xD42B76FF" Archetype="UnknownStruct64"/>
+            <Element Type="Struct" ID="0xD42B76FF" Archetype="SpriteData"/>
             <Element Type="Struct" ID="0xB3774750" Archetype="PatternedAITypedef">
                 <SubProperties>
                     <Element Type="Float" ID="0x8DB77EE4">
