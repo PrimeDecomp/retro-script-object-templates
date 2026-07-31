@@ -4,7 +4,7 @@
         <Name>GenericCreatureGroup</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0xED1AD712" Archetype="UnknownStruct96"/>
+            <Element Type="Struct" ID="0xED1AD712" Archetype="GenericCreatureGroupData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

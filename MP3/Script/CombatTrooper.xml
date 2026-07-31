@@ -40,7 +40,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0xBF9BA6CC" Archetype="FriendlyData"/>
-            <Element Type="Struct" ID="0x7F4EAA5E" Archetype="UnknownStruct25"/>
+            <Element Type="Struct" ID="0x7F4EAA5E" Archetype="CombatTrooperData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

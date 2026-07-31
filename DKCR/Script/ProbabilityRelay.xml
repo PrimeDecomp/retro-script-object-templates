@@ -4,10 +4,10 @@
         <Name>ProbabilityRelay</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x18E3B4E9" Archetype="PickupRelayStruct"/>
-            <Element Type="Struct" ID="0x219B19A9" Archetype="PickupRelayStruct"/>
-            <Element Type="Struct" ID="0x121CB465" Archetype="PickupRelayStruct"/>
-            <Element Type="Struct" ID="0xFFB7A5BE" Archetype="PickupRelayStruct"/>
+            <Element Type="Struct" ID="0x18E3B4E9" Archetype="ProbabilityRelayData"/>
+            <Element Type="Struct" ID="0x219B19A9" Archetype="ProbabilityRelayData"/>
+            <Element Type="Struct" ID="0x121CB465" Archetype="ProbabilityRelayData"/>
+            <Element Type="Struct" ID="0xFFB7A5BE" Archetype="ProbabilityRelayData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

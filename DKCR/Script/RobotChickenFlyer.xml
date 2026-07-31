@@ -53,7 +53,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x3BFFC0D1" Archetype="UnknownStruct262"/>
+            <Element Type="Struct" ID="0x3BFFC0D1" Archetype="RobotChickenFlyerData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

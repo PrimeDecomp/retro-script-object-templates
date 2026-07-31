@@ -45,9 +45,9 @@
             <Element Type="Float" ID="0x2A7D0101">
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xD5A8E2DA" Archetype="MetroidHopperStruct"/>
-            <Element Type="Struct" ID="0x184991DA" Archetype="MetroidHopperStruct"/>
-            <Element Type="Struct" ID="0x7B07ACA3" Archetype="MetroidHopperStruct"/>
+            <Element Type="Struct" ID="0xD5A8E2DA" Archetype="MetroidHopperHypermodeData"/>
+            <Element Type="Struct" ID="0x184991DA" Archetype="MetroidHopperHypermodeData"/>
+            <Element Type="Struct" ID="0x7B07ACA3" Archetype="MetroidHopperHypermodeData"/>
             <Element Type="Asset" ID="0x5DDE5B25">
                 <TypeFilter>
                     <Element>ELSC</Element>

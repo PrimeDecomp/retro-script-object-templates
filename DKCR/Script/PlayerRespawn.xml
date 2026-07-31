@@ -13,7 +13,7 @@
             <Element Type="Bool" ID="0x1D3DC638">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x3D97FEF6" Archetype="UnknownStruct248"/>
+            <Element Type="Struct" ID="0x3D97FEF6" Archetype="PlayerRespawnData"/>
             <Element Type="Struct" ID="0xCC528ED6" Archetype="UnknownStruct249"/>
             <Element Type="Struct" ID="0x416BD9EB" Archetype="UnknownStruct24"/>
             <Element Type="AnimationSet" ID="0xF8B3ABE0"/>

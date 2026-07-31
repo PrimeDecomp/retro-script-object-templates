@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
+    <PropertyArchetype Type="Struct">
+        <Name>RevolutionDPDControl</Name>
+        <SubProperties>
+            <Element Type="Enum" ID="0xE1C76BFB" Archetype="RevolutionPointerShape">
+                <DefaultValue>0x44D3E4FB</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0x3D8010C2" Archetype="DPDCircle"/>
+            <Element Type="Struct" ID="0x9E8E5BF9" Archetype="DPDRectangle"/>
+            <Element Type="Struct" ID="0x6D33AE8F" Archetype="DPDArc"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

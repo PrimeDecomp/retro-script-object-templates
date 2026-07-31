@@ -6,9 +6,9 @@
             <Element Type="Float" ID="0x2539DE46">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x4AB7D5B8" Archetype="Sets"/>
-            <Element Type="Struct" ID="0xFE257CE1" Archetype="Groups"/>
-            <Element Type="Struct" ID="0xD78A4B1F" Archetype="Animations"/>
+            <Element Type="Struct" ID="0x4AB7D5B8" Archetype="RetronomeMessageSetList"/>
+            <Element Type="Struct" ID="0xFE257CE1" Archetype="RetronomeMessageGroupList"/>
+            <Element Type="Struct" ID="0xD78A4B1F" Archetype="RetronomeMessageAnimationList"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

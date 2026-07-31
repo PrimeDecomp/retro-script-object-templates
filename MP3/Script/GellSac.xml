@@ -34,7 +34,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x2766CD96" Archetype="UnknownStruct43"/>
+            <Element Type="Struct" ID="0x2766CD96" Archetype="GellsacData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

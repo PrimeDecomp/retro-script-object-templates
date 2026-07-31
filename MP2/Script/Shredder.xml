@@ -15,7 +15,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0xAB24A926" Archetype="UnknownStruct39"/>
+            <Element Type="Struct" ID="0xAB24A926" Archetype="ShredderData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

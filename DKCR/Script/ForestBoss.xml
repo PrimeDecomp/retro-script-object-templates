@@ -53,7 +53,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x4ACC5921" Archetype="UnknownStruct95"/>
+            <Element Type="Struct" ID="0x4ACC5921" Archetype="ForestBossData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

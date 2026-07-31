@@ -54,7 +54,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xEBE6DCB" Archetype="UnknownStruct52"/>
+            <Element Type="Struct" ID="0xEBE6DCB" Archetype="PillBugData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

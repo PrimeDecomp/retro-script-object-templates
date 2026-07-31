@@ -9,7 +9,7 @@
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Struct" ID="0xB3774750" Archetype="PatternedAITypedef"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0xA23F161C" Archetype="UnknownStruct61"/>
+            <Element Type="Struct" ID="0xA23F161C" Archetype="SteamDroneData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

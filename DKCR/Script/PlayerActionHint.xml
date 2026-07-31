@@ -4,7 +4,7 @@
         <Name>PlayerActionHint</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0xBBFADE55" Archetype="UnknownStruct143"/>
+            <Element Type="Struct" ID="0xBBFADE55" Archetype="PlayerActionHintData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

@@ -16,7 +16,6 @@
                     <Element Name="kSF_CinematicSkipSignal" ID="0x49069735"/>
                     <Element Name="kSF_CompletionScreen" ID="0x2E5341"/>
                     <Element Name="kSF_CoreFallDistance" ID="0x9EB76DEE"/>
-                    <Element Name="kSF_CreditsScreen" ID="0xD5B13ADC"/>
                     <Element Name="kSF_Function 9 (Unused)" ID="0x14B45D36"/>
                     <Element Name="kSF_DisableHud" ID="0x766ED410"/>
                     <Element Name="kSF_DropBomb" ID="0xD5D0EA93"/>

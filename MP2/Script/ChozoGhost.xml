@@ -92,7 +92,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xE832241F" Archetype="BehaveChance">
+            <Element Type="Struct" ID="0xE832241F" Archetype="GhostBehave">
                 <SubProperties>
                     <Element Type="Float" ID="0xD3A313A5">
                         <DefaultValue>20.0</DefaultValue>
@@ -111,7 +111,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x1E2C8483" Archetype="BehaveChance">
+            <Element Type="Struct" ID="0x1E2C8483" Archetype="GhostBehave">
                 <SubProperties>
                     <Element Type="Float" ID="0xD3A313A5">
                         <DefaultValue>20.0</DefaultValue>
@@ -136,7 +136,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x78D76034" Archetype="BehaveChance">
+            <Element Type="Struct" ID="0x78D76034" Archetype="GhostBehave">
                 <SubProperties>
                     <Element Type="Float" ID="0x1AF89F4B">
                         <DefaultValue>100.0</DefaultValue>

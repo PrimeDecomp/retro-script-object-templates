@@ -10,7 +10,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="AnimationSet" ID="0xA3D63F44"/>
-            <Element Type="Struct" ID="0xE7F92ABC" Archetype="UnknownStruct63"/>
+            <Element Type="Struct" ID="0xE7F92ABC" Archetype="ShipHudControlData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

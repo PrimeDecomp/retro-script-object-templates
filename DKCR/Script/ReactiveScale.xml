@@ -4,7 +4,7 @@
         <Name>ReactiveScale</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x366A5224" Archetype="UnknownStruct265"/>
+            <Element Type="Struct" ID="0x366A5224" Archetype="ReactiveScaleData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

@@ -51,7 +51,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x16212198" Archetype="UnknownStruct208"/>
+            <Element Type="Struct" ID="0x16212198" Archetype="JungleBoss1Data"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

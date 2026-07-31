@@ -51,7 +51,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x84506963" Archetype="UnknownStruct296"/>
+            <Element Type="Struct" ID="0x84506963" Archetype="VolcanoBossBodyPartData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

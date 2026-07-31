@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>RetronomeMessageAnimationList</Name>
+        <SubProperties>
+            <Element Type="Int" ID="0x682AA3C9">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0x124A32A3" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x56EB17BB" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x6A8BF4B3" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0xDFA95D8B" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0xE3C9BE83" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0xA7689B9B" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x9B087893" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x165CCFAA" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x2A3C2CA2" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x20CD397A" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x1CADDA72" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x580CFF6A" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0x646C1C62" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0xD14EB55A" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0xED2E5652" Archetype="RetronomeMessageAnimationData"/>
+            <Element Type="Struct" ID="0xA98F734A" Archetype="RetronomeMessageAnimationData"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

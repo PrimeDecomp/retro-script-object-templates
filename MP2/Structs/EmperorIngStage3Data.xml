@@ -36,10 +36,10 @@
             <Element Type="Sound" ID="0x985F72FD">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xE843417F" Archetype="EmperorIngStage3StructB"/>
-            <Element Type="Struct" ID="0xD13BEC3F" Archetype="EmperorIngStage3StructB"/>
-            <Element Type="Struct" ID="0xC61388FF" Archetype="EmperorIngStage3StructB"/>
-            <Element Type="Struct" ID="0xA3CAB6BF" Archetype="EmperorIngStage3StructB"/>
+            <Element Type="Struct" ID="0xE843417F" Archetype="EmperorIngStage3Stage"/>
+            <Element Type="Struct" ID="0xD13BEC3F" Archetype="EmperorIngStage3Stage"/>
+            <Element Type="Struct" ID="0xC61388FF" Archetype="EmperorIngStage3Stage"/>
+            <Element Type="Struct" ID="0xA3CAB6BF" Archetype="EmperorIngStage3Stage"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

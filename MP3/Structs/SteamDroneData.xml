@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
+    <PropertyArchetype Type="Struct">
+        <Name>SteamDroneData</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0xCCDD3ACA" Archetype="FlyerMovementMode"/>
+            <Element Type="Struct" ID="0xFA2A173F" Archetype="FlyerMovementMode"/>
+            <Element Type="Asset" ID="0x635B60AA">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Float" ID="0x88FA2ACF">
+                <DefaultValue>20.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x1D159832">
+                <DefaultValue>120.0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x8AC503DE">
+                <DefaultValue>3</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x1874F2CB">
+                <DefaultValue>0.69999999</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x24937085">
+                <DefaultValue>15.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xCA5238BF">
+                <DefaultValue>10.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x290F8665">
+                <DefaultValue>25.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x7626EC89">
+                <DefaultValue>5.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xF4B60951">
+                <DefaultValue>3.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x271E49B4">
+                <DefaultValue>1.0</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0x72989547" Archetype="LaunchProjectileData"/>
+            <Element Type="Struct" ID="0x53EAC4BA" Archetype="LaunchProjectileData"/>
+            <Element Type="Float" ID="0xF9DF1262">
+                <DefaultValue>2.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x3D69D750">
+                <DefaultValue>2.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x4D03B18">
+                <DefaultValue>2.0</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0xF609C637" Archetype="GrappleData">
+                <SubProperties>
+                    <Element Type="Choice" ID="0x5DCF91E1">
+                        <DefaultValue>1</DefaultValue>
+                    </Element>
+                    <Element Type="Struct" ID="0x5F669BA0">
+                        <SubProperties>
+                            <Element Type="Choice" ID="0x8BD240">
+                                <DefaultValue>1</DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Int" ID="0x9AB0A987">
+                <DefaultValue>25</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0xC14253D">
+                <DefaultValue>25</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0xD88ECC2F">
+                <DefaultValue>25</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x50B47D78">
+                <DefaultValue>25</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x549B098B">
+                <DefaultValue>25</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xD7C5C618">
+                <DefaultValue>5.0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xC7A95FF">
+                <DefaultValue>25.0</DefaultValue>
+            </Element>
+            <Element Type="AnimationSet" ID="0xD83B8302"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

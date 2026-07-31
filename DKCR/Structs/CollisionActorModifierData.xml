@@ -6,11 +6,11 @@
             <Element Type="Int" ID="0x6950B5DA">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xD54D6FAD" Archetype="GenericCreatureStructC"/>
-            <Element Type="Struct" ID="0xAE53ED4E" Archetype="GenericCreatureStructC"/>
-            <Element Type="Struct" ID="0x31896ED0" Archetype="GenericCreatureStructC"/>
-            <Element Type="Struct" ID="0x586EE888" Archetype="GenericCreatureStructC"/>
-            <Element Type="Struct" ID="0xC7B46B16" Archetype="GenericCreatureStructC"/>
+            <Element Type="Struct" ID="0xD54D6FAD" Archetype="CollisionContactData"/>
+            <Element Type="Struct" ID="0xAE53ED4E" Archetype="CollisionContactData"/>
+            <Element Type="Struct" ID="0x31896ED0" Archetype="CollisionContactData"/>
+            <Element Type="Struct" ID="0x586EE888" Archetype="CollisionContactData"/>
+            <Element Type="Struct" ID="0xC7B46B16" Archetype="CollisionContactData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

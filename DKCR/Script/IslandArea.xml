@@ -51,7 +51,7 @@
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xDF692967" Archetype="UnknownStruct184"/>
-            <Element Type="Struct" ID="0xF722357" Archetype="UnknownStruct185"/>
+            <Element Type="Struct" ID="0xF722357" Archetype="IslandAreaSounds"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

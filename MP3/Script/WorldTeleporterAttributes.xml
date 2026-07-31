@@ -7,36 +7,36 @@
         <Name>WorldTeleporterAttributes</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0xCF05A0D1" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0xFAE81682" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x5F63868C" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x91337A24" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x34B8EA2A" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x1555C79" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0xA4DECC77" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x4685A368" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0xE30E3366" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0xEE37CD3C" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x4BBC5D32" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x7E51EB61" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0xDBDA7B6F" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0x158A87C7" Archetype="UnknownStruct65"/>
-            <Element Type="Struct" ID="0xB00117C9" Archetype="UnknownStruct65">
+            <Element Type="Struct" ID="0xCF05A0D1" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0xFAE81682" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x5F63868C" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x91337A24" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x34B8EA2A" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x1555C79" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0xA4DECC77" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x4685A368" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0xE30E3366" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0xEE37CD3C" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x4BBC5D32" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x7E51EB61" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0xDBDA7B6F" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0x158A87C7" Archetype="WorldTeleporterAttribute"/>
+            <Element Type="Struct" ID="0xB00117C9" Archetype="WorldTeleporterAttribute">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Struct" ID="0x85ECA19A" Archetype="UnknownStruct65">
+            <Element Type="Struct" ID="0x85ECA19A" Archetype="WorldTeleporterAttribute">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Struct" ID="0x20673194" Archetype="UnknownStruct65">
+            <Element Type="Struct" ID="0x20673194" Archetype="WorldTeleporterAttribute">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Struct" ID="0xC23C5E8B" Archetype="UnknownStruct65">
+            <Element Type="Struct" ID="0xC23C5E8B" Archetype="WorldTeleporterAttribute">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Struct" ID="0x67B7CE85" Archetype="UnknownStruct65">
+            <Element Type="Struct" ID="0x67B7CE85" Archetype="WorldTeleporterAttribute">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Struct" ID="0x1C6020C4" Archetype="UnknownStruct65">
+            <Element Type="Struct" ID="0x1C6020C4" Archetype="WorldTeleporterAttribute">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
         </SubProperties>

@@ -4,7 +4,7 @@
         <Name>MusicTrack</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x3C18666C" Archetype="UnknownStruct242"/>
+            <Element Type="Struct" ID="0x3C18666C" Archetype="MusicTrackData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

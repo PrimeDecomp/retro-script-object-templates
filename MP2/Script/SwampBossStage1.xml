@@ -33,7 +33,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0xB01A28D5" Archetype="UnknownStruct37"/>
+            <Element Type="Struct" ID="0xB01A28D5" Archetype="SwampBossStage1Data"/>
         </SubProperties>
     </Properties>
     <EditorProperties>
