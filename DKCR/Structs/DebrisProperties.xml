@@ -214,7 +214,7 @@
                     <Z>1.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xCE59EBFF" Archetype="UnknownStruct17"/>
+            <Element Type="Struct" ID="0xCE59EBFF" Archetype="DebrisBounceEffectTransformEnum"/>
             <Element Type="Bool" ID="0x2C7B18DD">
                 <DefaultValue>true</DefaultValue>
             </Element>

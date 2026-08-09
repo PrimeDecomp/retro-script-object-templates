@@ -66,7 +66,7 @@
             </Element>
             <Element Type="Struct" ID="0x91F2936" Archetype="OffsetSplines"/>
             <Element Type="Spline" ID="0xC4DFBFA7"/>
-            <Element Type="Struct" ID="0xE1F2094" Archetype="UnknownStruct13"/>
+            <Element Type="Struct" ID="0xE1F2094" Archetype="PathOffset"/>
             <Element Type="Struct" ID="0x86BC03D3" Archetype="SpindleOrientation"/>
             <Element Type="Struct" ID="0xE1DEEE27" Archetype="SurfaceOrientation"/>
             <Element Type="Struct" ID="0xF6BB44EA" Archetype="UnknownStruct74"/>

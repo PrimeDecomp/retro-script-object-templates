@@ -83,8 +83,8 @@
             <Element Type="Sound" ID="0xD8B11129">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xE99E5316">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xE99E5316">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x1440D152" Archetype="DamageInfo">
                 <SubProperties>

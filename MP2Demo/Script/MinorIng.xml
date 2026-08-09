@@ -63,7 +63,7 @@
             </Element>
             <Element Type="Struct" ID="0x7E9D446" Archetype="MinorIngIngSpot"/>
             <Element Type="Struct" ID="0x3DA35851" Archetype="UnknownStruct20"/>
-            <Element Type="Struct" ID="0x9C49DD81" Archetype="UnknownStruct21"/>
+            <Element Type="Struct" ID="0x9C49DD81" Archetype="MinorIngBoostBallGuardian"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

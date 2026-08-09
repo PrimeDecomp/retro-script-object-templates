@@ -42,9 +42,9 @@
                     <Element Name="kLogicType_Velocity" ID="0xC18C49C9"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0x42A7922C" Archetype="UnknownStruct9"/>
-            <Element Type="Struct" ID="0xE67EF99E" Archetype="TrackPlayer"/>
-            <Element Type="Struct" ID="0x7873EFD9" Archetype="UnknownStruct10"/>
+            <Element Type="Struct" ID="0x42A7922C" Archetype="ReactiveAnimGridModifierLogicData"/>
+            <Element Type="Struct" ID="0xE67EF99E" Archetype="TrackPlayerAnimGridModifierLogicData"/>
+            <Element Type="Struct" ID="0x7873EFD9" Archetype="VelocityAnimGridModifierLogicData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

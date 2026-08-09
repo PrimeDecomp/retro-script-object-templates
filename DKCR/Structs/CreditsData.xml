@@ -36,14 +36,14 @@
             <Element Type="Float" ID="0x3BC54219">
                 <DefaultValue>0.25</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xBA717F32" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0xC344A09A" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0xD834E949" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0x917857A0" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0x7DFAFF15" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0xE60799C8" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0x45511F61" Archetype="UnknownStruct26"/>
-            <Element Type="Struct" ID="0x92B39F39" Archetype="UnknownStruct26"/>
+            <Element Type="Struct" ID="0xBA717F32" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0xC344A09A" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0xD834E949" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0x917857A0" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0x7DFAFF15" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0xE60799C8" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0x45511F61" Archetype="TextGradientColors"/>
+            <Element Type="Struct" ID="0x92B39F39" Archetype="TextGradientColors"/>
             <Element Type="Float" ID="0xB54B9D25">
                 <DefaultValue>4.0</DefaultValue>
             </Element>
@@ -53,7 +53,7 @@
             <Element Type="Float" ID="0x82EDF36A">
                 <DefaultValue>0.25</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xA45E5B13" Archetype="UnknownStruct26"/>
+            <Element Type="Struct" ID="0xA45E5B13" Archetype="TextGradientColors"/>
             <Element Type="Asset" ID="0x79589BF4">
                 <TypeFilter>
                     <Element>STRG</Element>

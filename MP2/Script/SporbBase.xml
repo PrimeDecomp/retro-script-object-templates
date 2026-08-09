@@ -120,8 +120,8 @@
             <Element Type="Float" ID="0x738D1F51">
                 <DefaultValue>5.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9480C6D7">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x9480C6D7">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x48DF4182">
                 <DefaultValue>20.0</DefaultValue>

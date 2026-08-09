@@ -11,7 +11,7 @@
                     <Element Name="kPT_Spindle" ID="0x10AB9150"/>
                     <Element Name="kPT_Surface" ID="0x13B150BB"/>
                     <Element Name="kPT_Offset" ID="0xACB5235F"/>
-                    <Element Name="kPT_Unknown 6" ID="0x4309158B"/>
+                    <Element Name="kPT_Sidescroll" ID="0x4309158B"/>
                 </Values>
             </Element>
             <Element Type="Flags" ID="0xB1B6CF33">
@@ -22,7 +22,7 @@
             <Element Type="Struct" ID="0x9EC1DF0C" Archetype="SpindlePosition"/>
             <Element Type="Struct" ID="0xBBB2D1E6" Archetype="SurfacePosition"/>
             <Element Type="Struct" ID="0x7D194AF" Archetype="OffsetPosition"/>
-            <Element Type="Struct" ID="0xEBBF81D7" Archetype="UnknownStruct73"/>
+            <Element Type="Struct" ID="0xEBBF81D7" Archetype="SidescrollPosition"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

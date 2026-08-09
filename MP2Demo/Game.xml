@@ -760,6 +760,10 @@
             <Value Path="Structs/LightParameters.xml"/>
         </Element>
         <Element>
+            <Key>MinorIngBoostBallGuardian</Key>
+            <Value Path="Structs/MinorIngBoostBallGuardian.xml"/>
+        </Element>
+        <Element>
             <Key>MinorIngIngSpot</Key>
             <Value Path="Structs/MinorIngIngSpot.xml"/>
         </Element>
@@ -784,8 +788,8 @@
             <Value Path="Structs/RotationSplines.xml"/>
         </Element>
         <Element>
-            <Key>SafeZoneStruct</Key>
-            <Value Path="Structs/SafeZoneStruct.xml"/>
+            <Key>SafeZoneAttributes</Key>
+            <Value Path="Structs/SafeZoneAttributes.xml"/>
         </Element>
         <Element>
             <Key>SandwormStruct</Key>
@@ -968,12 +972,12 @@
             <Value Path="Structs/TweakGui_VisorColorSchemeTypedef.xml"/>
         </Element>
         <Element>
-            <Key>TweakPlayerControls_UnknownStruct1</Key>
-            <Value Path="Structs/TweakPlayerControls_UnknownStruct1.xml"/>
+            <Key>TweakPlayerControls_Booleans</Key>
+            <Value Path="Structs/TweakPlayerControls_Booleans.xml"/>
         </Element>
         <Element>
-            <Key>TweakPlayerControls_UnknownStruct2</Key>
-            <Value Path="Structs/TweakPlayerControls_UnknownStruct2.xml"/>
+            <Key>TweakPlayerControls_Controls</Key>
+            <Value Path="Structs/TweakPlayerControls_Controls.xml"/>
         </Element>
         <Element>
             <Key>TweakPlayerGun_Arm_Position</Key>
@@ -1110,10 +1114,6 @@
         <Element>
             <Key>UnknownStruct20</Key>
             <Value Path="Structs/UnknownStruct20.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct21</Key>
-            <Value Path="Structs/UnknownStruct21.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct3</Key>

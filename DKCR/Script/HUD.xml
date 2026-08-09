@@ -4,14 +4,14 @@
         <Name>HUD</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x5D9C85DA" Archetype="UnknownStruct147"/>
+            <Element Type="Struct" ID="0x5D9C85DA" Archetype="BaseHUD"/>
             <Element Type="Struct" ID="0x10659639" Archetype="PauseHUD"/>
             <Element Type="Struct" ID="0xAE41EED1" Archetype="BossHUD"/>
-            <Element Type="Struct" ID="0xB914BD82" Archetype="UnknownStruct156"/>
-            <Element Type="Struct" ID="0xB594741" Archetype="UnknownStruct157"/>
-            <Element Type="Struct" ID="0x51841C6D" Archetype="UnknownStruct159"/>
-            <Element Type="Struct" ID="0x106B3089" Archetype="UnknownStruct162"/>
-            <Element Type="Struct" ID="0x3C280E64" Archetype="UnknownStruct164"/>
+            <Element Type="Struct" ID="0xB914BD82" Archetype="EOLHUD"/>
+            <Element Type="Struct" ID="0xB594741" Archetype="BonusHUD"/>
+            <Element Type="Struct" ID="0x51841C6D" Archetype="TimeAttackHUD"/>
+            <Element Type="Struct" ID="0x106B3089" Archetype="TimeAttackEOLHUD"/>
+            <Element Type="Struct" ID="0x3C280E64" Archetype="GameOverHUD"/>
             <Element Type="Struct" ID="0xC68BC9EC" Archetype="UnknownStruct28"/>
             <Element Type="Struct" ID="0x6BDD8B7A" Archetype="UnknownStruct28"/>
             <Element Type="Struct" ID="0x3F88E900" Archetype="UnknownStruct36"/>
