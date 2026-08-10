@@ -10,8 +10,8 @@
                     <Element Name="kMotionType_Sidescroll" ID="0x6ADB8FE6"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0xB40A41B8" Archetype="UnknownStruct76"/>
-            <Element Type="Struct" ID="0xC38A009" Archetype="UnknownStruct77"/>
+            <Element Type="Struct" ID="0xB40A41B8" Archetype="SimpleMotion"/>
+            <Element Type="Struct" ID="0xC38A009" Archetype="SidescrollMotion"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

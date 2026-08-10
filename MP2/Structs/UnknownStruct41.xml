@@ -3,8 +3,8 @@
     <PropertyArchetype Type="Struct">
         <Name>UnknownStruct41</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0xB9784F0E" Archetype="SandBossStructB"/>
-            <Element Type="Struct" ID="0xB8AE1BDC" Archetype="SandBossStructB"/>
+            <Element Type="Struct" ID="0xB9784F0E" Archetype="SandBossChargeBeamData"/>
+            <Element Type="Struct" ID="0xB8AE1BDC" Archetype="SandBossChargeBeamData"/>
             <Element Type="Struct" ID="0x94DA6435" Archetype="PlasmaBeamInfo">
                 <SubProperties>
                     <Element Type="Float" ID="0xC26C291C">

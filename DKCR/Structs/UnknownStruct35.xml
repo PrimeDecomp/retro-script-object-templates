@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>UnknownStruct35</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0xBDD1A035" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0xBDD1A035" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -28,7 +28,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x8AA2BFE5" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0x8AA2BFE5" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -53,7 +53,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xCA0D2611" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0xCA0D2611" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -78,7 +78,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x731756F6" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0x731756F6" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -103,7 +103,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x83FA2328" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0x83FA2328" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -128,7 +128,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x2F82F98C" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0x2F82F98C" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -153,7 +153,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xBCB5DAC7" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0xBCB5DAC7" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>
@@ -178,7 +178,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x6126E3A3" Archetype="UnknownStruct26">
+            <Element Type="Struct" ID="0x6126E3A3" Archetype="TextGradientColors">
                 <SubProperties>
                     <Element Type="Color" ID="0xF9E0D0FB">
                         <DefaultValue>

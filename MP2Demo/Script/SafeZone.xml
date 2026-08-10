@@ -40,8 +40,8 @@
             <Element Type="Bool" ID="0x62BAC460">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xB4A293C7" Archetype="SafeZoneStruct"/>
-            <Element Type="Struct" ID="0xDAE8C14E" Archetype="SafeZoneStruct">
+            <Element Type="Struct" ID="0xB4A293C7" Archetype="SafeZoneAttributes"/>
+            <Element Type="Struct" ID="0xDAE8C14E" Archetype="SafeZoneAttributes">
                 <SubProperties>
                     <Element Type="Color" ID="0x47B4E863">
                         <DefaultValue>

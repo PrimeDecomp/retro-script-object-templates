@@ -1128,12 +1128,16 @@
             <Value Path="Structs/RubiksPuzzleData.xml"/>
         </Element>
         <Element>
+            <Key>SafeZoneAttributes</Key>
+            <Value Path="Structs/SafeZoneAttributes.xml"/>
+        </Element>
+        <Element>
             <Key>SafeZoneStructA</Key>
             <Value Path="Structs/SafeZoneStructA.xml"/>
         </Element>
         <Element>
-            <Key>SafeZoneStructB</Key>
-            <Value Path="Structs/SafeZoneStructB.xml"/>
+            <Key>SandBossChargeBeamData</Key>
+            <Value Path="Structs/SandBossChargeBeamData.xml"/>
         </Element>
         <Element>
             <Key>SandBossData</Key>
@@ -1146,10 +1150,6 @@
         <Element>
             <Key>SandBossStructA</Key>
             <Value Path="Structs/SandBossStructA.xml"/>
-        </Element>
-        <Element>
-            <Key>SandBossStructB</Key>
-            <Value Path="Structs/SandBossStructB.xml"/>
         </Element>
         <Element>
             <Key>SandwormStruct</Key>
@@ -1210,6 +1210,10 @@
         <Element>
             <Key>SwampBossStage1Data</Key>
             <Value Path="Structs/SwampBossStage1Data.xml"/>
+        </Element>
+        <Element>
+            <Key>SwampBossStage1Sounds</Key>
+            <Value Path="Structs/SwampBossStage1Sounds.xml"/>
         </Element>
         <Element>
             <Key>SwampBossStage1Struct</Key>
@@ -1368,12 +1372,12 @@
             <Value Path="Structs/TweakGui_VisorColorSchemeTypedef.xml"/>
         </Element>
         <Element>
-            <Key>TweakPlayerControls_UnknownStruct1</Key>
-            <Value Path="Structs/TweakPlayerControls_UnknownStruct1.xml"/>
+            <Key>TweakPlayerControls_Booleans</Key>
+            <Value Path="Structs/TweakPlayerControls_Booleans.xml"/>
         </Element>
         <Element>
-            <Key>TweakPlayerControls_UnknownStruct2</Key>
-            <Value Path="Structs/TweakPlayerControls_UnknownStruct2.xml"/>
+            <Key>TweakPlayerControls_Controls</Key>
+            <Value Path="Structs/TweakPlayerControls_Controls.xml"/>
         </Element>
         <Element>
             <Key>TweakPlayerGun_Arm_Position</Key>
@@ -1518,10 +1522,6 @@
         <Element>
             <Key>UnknownStruct34</Key>
             <Value Path="Structs/UnknownStruct34.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct36</Key>
-            <Value Path="Structs/UnknownStruct36.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct38</Key>

@@ -127,8 +127,10 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0x973D7CC3">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x973D7CC3">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xBB3F8A7B">
                 <DefaultValue>0</DefaultValue>

@@ -81,7 +81,7 @@
                     <Z>1.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xCE59EBFF" Archetype="UnknownStruct17"/>
+            <Element Type="Struct" ID="0xCE59EBFF" Archetype="DebrisBounceEffectTransformEnum"/>
             <Element Type="Asset" ID="0xE93B1A2F">
                 <TypeFilter>
                     <Element>PART</Element>

@@ -12,7 +12,7 @@
             <Element Type="Float" ID="0x4D3728E3">
                 <DefaultValue>3.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x681498DD" Archetype="VisControl"/>
+            <Element Type="Struct" ID="0x681498DD" Archetype="StringContainer"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

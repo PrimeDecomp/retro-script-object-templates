@@ -27,7 +27,7 @@
             <Element Type="Struct" ID="0x959108A5" Archetype="Convergence"/>
             <Element Type="Spline" ID="0x27E5F874"/>
             <Element Type="Spline" ID="0x12861F7D"/>
-            <Element Type="Struct" ID="0xE1F2094" Archetype="UnknownStruct13"/>
+            <Element Type="Struct" ID="0xE1F2094" Archetype="PathOffset"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

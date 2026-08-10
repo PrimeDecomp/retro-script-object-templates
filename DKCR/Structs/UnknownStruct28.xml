@@ -73,7 +73,7 @@
                     <Element>STRG</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x6A598A9B" Archetype="UnknownStruct26"/>
+            <Element Type="Struct" ID="0x6A598A9B" Archetype="TextGradientColors"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>
