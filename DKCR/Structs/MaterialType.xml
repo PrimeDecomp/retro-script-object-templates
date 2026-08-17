@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>MaterialType</Name>
         <SubProperties>
-            <Element Type="Enum" ID="0x95A68D4C" Archetype="UnknownEnum1">
+            <Element Type="Enum" ID="0x95A68D4C" Archetype="MaterialEnumType">
                 <DefaultValue>0xD086634A</DefaultValue>
             </Element>
         </SubProperties>

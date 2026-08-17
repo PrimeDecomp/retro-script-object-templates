@@ -69,7 +69,7 @@
             <Element Type="Struct" ID="0xE1F2094" Archetype="PathOffset"/>
             <Element Type="Struct" ID="0x86BC03D3" Archetype="SpindleOrientation"/>
             <Element Type="Struct" ID="0xE1DEEE27" Archetype="SurfaceOrientation"/>
-            <Element Type="Struct" ID="0xF6BB44EA" Archetype="UnknownStruct74"/>
+            <Element Type="Struct" ID="0xF6BB44EA" Archetype="FrameObjectsOrientation"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

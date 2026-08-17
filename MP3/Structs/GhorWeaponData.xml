@@ -25,7 +25,7 @@
             <Element Type="Float" ID="0x1BA35AF4">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xDAE21374" Archetype="UnknownStruct37"/>
+            <Element Type="Struct" ID="0xDAE21374" Archetype="GhorClawData"/>
             <Element Type="Struct" ID="0xC9416034" Archetype="DamageInfo"/>
         </SubProperties>
     </PropertyArchetype>

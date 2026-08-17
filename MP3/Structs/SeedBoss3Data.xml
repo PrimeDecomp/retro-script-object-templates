@@ -135,7 +135,7 @@
             <Element Type="Float" ID="0x7C3033B4">
                 <DefaultValue>6.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x40A2FE3E" Archetype="UnknownStruct16"/>
+            <Element Type="Struct" ID="0x40A2FE3E" Archetype="FlameBreathData"/>
             <Element Type="Asset" ID="0x859C432C">
                 <TypeFilter>
                     <Element>CAUD</Element>
@@ -268,9 +268,9 @@
             <Element Type="Float" ID="0x9AF26C4E">
                 <DefaultValue>40.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x4802ADD9" Archetype="UnknownStruct17"/>
-            <Element Type="Struct" ID="0xA00B9AC3" Archetype="UnknownStruct19"/>
-            <Element Type="Struct" ID="0xF80C8835" Archetype="UnknownStruct20"/>
+            <Element Type="Struct" ID="0x4802ADD9" Archetype="SeedBoss3Stage1Data"/>
+            <Element Type="Struct" ID="0xA00B9AC3" Archetype="SeedBoss3Stage2Data"/>
+            <Element Type="Struct" ID="0xF80C8835" Archetype="SeedBoss3Stage3Data"/>
             <Element Type="Asset" ID="0x6C3A6799">
                 <TypeFilter>
                     <Element>SCAN</Element>

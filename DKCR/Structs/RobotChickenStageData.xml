@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>RobotChickenStageData</Name>
+        <SubProperties>
+            <Element Type="Enum" ID="0x97D30F8B" Archetype="AttackSelector">
+                <DefaultValue>0x8C665F9A</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xF0668919">
+                <DefaultValue>3.0</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0xFD1BC54F" Archetype="RobotChickenAttackData"/>
+            <Element Type="Struct" ID="0x8BFEFC72" Archetype="RobotChickenAttackData"/>
+            <Element Type="Struct" ID="0x108D16A6" Archetype="RobotChickenAttackData"/>
+            <Element Type="Struct" ID="0x66348E08" Archetype="RobotChickenAttackData"/>
+            <Element Type="Struct" ID="0xFD4764DC" Archetype="RobotChickenAttackData"/>
+            <Element Type="Struct" ID="0x8BA25DE1" Archetype="RobotChickenAttackData"/>
+            <Element Type="Struct" ID="0x10D1B735" Archetype="RobotChickenAttackData"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

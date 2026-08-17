@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>PoiObjectData</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x93A412DD" Archetype="UnknownStruct246"/>
+            <Element Type="Struct" ID="0x93A412DD" Archetype="PoiObjectPriorityEnum"/>
             <Element Type="Float" ID="0x78C507EB">
                 <DefaultValue>1.0</DefaultValue>
             </Element>

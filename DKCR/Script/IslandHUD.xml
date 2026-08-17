@@ -20,7 +20,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0x1743B770" Archetype="IslandHUDScreens"/>
-            <Element Type="Struct" ID="0x3F88E900" Archetype="UnknownStruct36"/>
+            <Element Type="Struct" ID="0x3F88E900" Archetype="IslandHUDSounds"/>
             <Element Type="Struct" ID="0xEB7C1BF2" Archetype="UnknownStruct183"/>
             <Element Type="Struct" ID="0xC68BC9EC" Archetype="UnknownStruct28"/>
             <Element Type="Struct" ID="0x6BDD8B7A" Archetype="UnknownStruct28"/>

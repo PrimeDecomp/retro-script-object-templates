@@ -30,8 +30,8 @@
             </Element>
             <Element Type="Struct" ID="0xA269EA39" Archetype="AudioPlaybackParms"/>
             <Element Type="Struct" ID="0x4EB673BE" Archetype="AudioPlaybackParms"/>
-            <Element Type="Struct" ID="0x5EC7F2BA" Archetype="UnknownStruct12"/>
-            <Element Type="Struct" ID="0xE6C64015" Archetype="UnknownStruct13"/>
+            <Element Type="Struct" ID="0x5EC7F2BA" Archetype="DarkCommandoEMPData"/>
+            <Element Type="Struct" ID="0xE6C64015" Archetype="DarkCommandoChargeBeamData"/>
             <Element Type="Struct" ID="0x18247AEC" Archetype="DarkCommandoShadowDashData"/>
         </SubProperties>
     </PropertyArchetype>

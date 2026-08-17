@@ -812,6 +812,10 @@
             <Value Path="Structs/ScannableParameters.xml"/>
         </Element>
         <Element>
+            <Key>ShieldingData</Key>
+            <Value Path="Structs/ShieldingData.xml"/>
+        </Element>
+        <Element>
             <Key>ShockWaveInfo</Key>
             <Value Path="Structs/ShockWaveInfo.xml"/>
         </Element>
@@ -882,6 +886,10 @@
         <Element>
             <Key>TriggerInfo</Key>
             <Value Path="Structs/TriggerInfo.xml"/>
+        </Element>
+        <Element>
+            <Key>TurretDamageInfo</Key>
+            <Value Path="Structs/TurretDamageInfo.xml"/>
         </Element>
         <Element>
             <Key>TweakAutoMapper_Base</Key>
@@ -1104,20 +1112,12 @@
             <Value Path="Structs/UnknownStruct11.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct17</Key>
-            <Value Path="Structs/UnknownStruct17.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct2</Key>
             <Value Path="Structs/UnknownStruct2.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct20</Key>
             <Value Path="Structs/UnknownStruct20.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct3</Key>
-            <Value Path="Structs/UnknownStruct3.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct4</Key>

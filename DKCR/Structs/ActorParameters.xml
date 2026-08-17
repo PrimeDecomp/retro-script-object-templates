@@ -19,7 +19,7 @@
             <Element Type="Bool" ID="0xED3A6E87">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0xE315EE72" Archetype="UnknownEnum1">
+            <Element Type="Enum" ID="0xE315EE72" Archetype="MaterialEnumType">
                 <DefaultValue>0xD086634A</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x6DA86200">

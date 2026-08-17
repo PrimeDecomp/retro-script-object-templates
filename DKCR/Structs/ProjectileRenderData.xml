@@ -11,8 +11,8 @@
                     <Element Name="kProjectileRendering_Model" ID="0xB4C231F7"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0x28E076FD" Archetype="UnknownStruct194"/>
-            <Element Type="Struct" ID="0x8CDE5BD9" Archetype="UnknownStruct195"/>
+            <Element Type="Struct" ID="0x28E076FD" Archetype="ProjectileRenderModel"/>
+            <Element Type="Struct" ID="0x8CDE5BD9" Archetype="ProjectileRenderCharacter"/>
             <Element Type="Struct" ID="0x5CB27470" Archetype="ProjectileRenderOptions"/>
         </SubProperties>
     </PropertyArchetype>

@@ -5,7 +5,7 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Struct" ID="0xB9A97FEE" Archetype="CheckpointData"/>
-            <Element Type="Struct" ID="0x416BD9EB" Archetype="UnknownStruct24"/>
+            <Element Type="Struct" ID="0x416BD9EB" Archetype="MasterLayerList"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

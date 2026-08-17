@@ -924,8 +924,16 @@
             <Value Path="Structs/DamageVulnerability.xml"/>
         </Element>
         <Element>
+            <Key>DarkCommandoChargeBeamData</Key>
+            <Value Path="Structs/DarkCommandoChargeBeamData.xml"/>
+        </Element>
+        <Element>
             <Key>DarkCommandoData</Key>
             <Value Path="Structs/DarkCommandoData.xml"/>
+        </Element>
+        <Element>
+            <Key>DarkCommandoEMPData</Key>
+            <Value Path="Structs/DarkCommandoEMPData.xml"/>
         </Element>
         <Element>
             <Key>DarkCommandoShadowDashData</Key>
@@ -1054,6 +1062,10 @@
         <Element>
             <Key>IngPossessionData</Key>
             <Value Path="Structs/IngPossessionData.xml"/>
+        </Element>
+        <Element>
+            <Key>IngPuddleData</Key>
+            <Value Path="Structs/IngPuddleData.xml"/>
         </Element>
         <Element>
             <Key>IngSpaceJumpGuardianData</Key>
@@ -1500,24 +1512,12 @@
             <Value Path="Structs/UnknownStruct10.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct12</Key>
-            <Value Path="Structs/UnknownStruct12.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct13</Key>
-            <Value Path="Structs/UnknownStruct13.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct16</Key>
             <Value Path="Structs/UnknownStruct16.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct17</Key>
             <Value Path="Structs/UnknownStruct17.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct30</Key>
-            <Value Path="Structs/UnknownStruct30.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct34</Key>

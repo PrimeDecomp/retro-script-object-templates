@@ -88,7 +88,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x6C75E2EA" Archetype="UnknownStruct8"/>
+            <Element Type="Struct" ID="0x6C75E2EA" Archetype="ActorAttachments"/>
             <Element Type="Struct" ID="0x2E9827AD" Archetype="PlayerAlternateSkin"/>
         </SubProperties>
     </Properties>

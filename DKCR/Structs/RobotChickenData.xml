@@ -83,10 +83,10 @@
             <Element Type="Int" ID="0x483A338">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xE0DCFBBE" Archetype="UnknownStruct254"/>
-            <Element Type="Struct" ID="0x2540A671" Archetype="UnknownStruct255"/>
-            <Element Type="Struct" ID="0xAAC2F8DA" Archetype="UnknownStruct257"/>
-            <Element Type="Struct" ID="0x17C3E3EC" Archetype="UnknownStruct258"/>
+            <Element Type="Struct" ID="0xE0DCFBBE" Archetype="RobotChickenBeltData"/>
+            <Element Type="Struct" ID="0x2540A671" Archetype="RobotChickenJumpData"/>
+            <Element Type="Struct" ID="0xAAC2F8DA" Archetype="RobotChickenDebugData"/>
+            <Element Type="Struct" ID="0x17C3E3EC" Archetype="RobotChickenStageData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

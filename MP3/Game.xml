@@ -836,12 +836,20 @@
     </ScriptObjects>
     <PropertyArchetypes>
         <Element>
+            <Key>AIFuseData</Key>
+            <Value Path="Structs/AIFuseData.xml"/>
+        </Element>
+        <Element>
             <Key>ActivationTime</Key>
             <Value Path="Structs/ActivationTime.xml"/>
         </Element>
         <Element>
             <Key>ActorParameters</Key>
             <Value Path="Structs/ActorParameters.xml"/>
+        </Element>
+        <Element>
+            <Key>AiDifficultySetting</Key>
+            <Value Path="Structs/AiDifficultySetting.xml"/>
         </Element>
         <Element>
             <Key>AuroraUnit1Data</Key>
@@ -870,6 +878,10 @@
         <Element>
             <Key>BerserkerData</Key>
             <Value Path="Structs/BerserkerData.xml"/>
+        </Element>
+        <Element>
+            <Key>BlinkData</Key>
+            <Value Path="Structs/BlinkData.xml"/>
         </Element>
         <Element>
             <Key>BlinkWolfData</Key>
@@ -958,6 +970,10 @@
         <Element>
             <Key>Connection</Key>
             <Value Path="Structs/Connection.xml"/>
+        </Element>
+        <Element>
+            <Key>ContextActionButtonPressingData</Key>
+            <Value Path="Structs/ContextActionButtonPressingData.xml"/>
         </Element>
         <Element>
             <Key>ContextActionCombinationLockStruct</Key>
@@ -1096,6 +1112,10 @@
             <Value Path="Structs/FishCloudAggressionData.xml"/>
         </Element>
         <Element>
+            <Key>FlameBreathData</Key>
+            <Value Path="Structs/FlameBreathData.xml"/>
+        </Element>
+        <Element>
             <Key>FlareDef</Key>
             <Value Path="Structs/FlareDef.xml"/>
         </Element>
@@ -1140,6 +1160,10 @@
             <Value Path="Structs/FlyingPirateJetPackData.xml"/>
         </Element>
         <Element>
+            <Key>FrameObjectsOrientation</Key>
+            <Value Path="Structs/FrameObjectsOrientation.xml"/>
+        </Element>
+        <Element>
             <Key>FriendlyData</Key>
             <Value Path="Structs/FriendlyData.xml"/>
         </Element>
@@ -1182,6 +1206,10 @@
         <Element>
             <Key>GhorAttackData</Key>
             <Value Path="Structs/GhorAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>GhorClawData</Key>
+            <Value Path="Structs/GhorClawData.xml"/>
         </Element>
         <Element>
             <Key>GhorData</Key>
@@ -1716,6 +1744,18 @@
             <Value Path="Structs/SeedBoss3Data.xml"/>
         </Element>
         <Element>
+            <Key>SeedBoss3Stage1Data</Key>
+            <Value Path="Structs/SeedBoss3Stage1Data.xml"/>
+        </Element>
+        <Element>
+            <Key>SeedBoss3Stage2Data</Key>
+            <Value Path="Structs/SeedBoss3Stage2Data.xml"/>
+        </Element>
+        <Element>
+            <Key>SeedBoss3Stage3Data</Key>
+            <Value Path="Structs/SeedBoss3Stage3Data.xml"/>
+        </Element>
+        <Element>
             <Key>ShadowProjection</Key>
             <Value Path="Structs/ShadowProjection.xml"/>
         </Element>
@@ -2116,10 +2156,6 @@
             <Value Path="Structs/TweakTargeting_Scan.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct1</Key>
-            <Value Path="Structs/UnknownStruct1.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct10</Key>
             <Value Path="Structs/UnknownStruct10.xml"/>
         </Element>
@@ -2140,52 +2176,16 @@
             <Value Path="Structs/UnknownStruct14.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct16</Key>
-            <Value Path="Structs/UnknownStruct16.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct17</Key>
-            <Value Path="Structs/UnknownStruct17.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct18</Key>
             <Value Path="Structs/UnknownStruct18.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct19</Key>
-            <Value Path="Structs/UnknownStruct19.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct2</Key>
             <Value Path="Structs/UnknownStruct2.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct20</Key>
-            <Value Path="Structs/UnknownStruct20.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct21</Key>
-            <Value Path="Structs/UnknownStruct21.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct22</Key>
-            <Value Path="Structs/UnknownStruct22.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct23</Key>
-            <Value Path="Structs/UnknownStruct23.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct29</Key>
-            <Value Path="Structs/UnknownStruct29.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct3</Key>
             <Value Path="Structs/UnknownStruct3.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct37</Key>
-            <Value Path="Structs/UnknownStruct37.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct4</Key>

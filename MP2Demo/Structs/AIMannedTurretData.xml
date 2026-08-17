@@ -42,7 +42,7 @@
             <Element Type="Float" ID="0xF8D1EA77">
                 <DefaultValue>2.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xBB9D3D6D" Archetype="UnknownStruct3"/>
+            <Element Type="Struct" ID="0xBB9D3D6D" Archetype="TurretDamageInfo"/>
             <Element Type="Asset" ID="0xC43360A7">
                 <TypeFilter>
                     <Element>WPSC</Element>

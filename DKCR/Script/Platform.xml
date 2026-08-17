@@ -77,7 +77,7 @@
             <Element Type="Bool" ID="0x47E9CC80">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xA1172744" Archetype="UnknownStruct245"/>
+            <Element Type="Struct" ID="0xA1172744" Archetype="PlatformCrushData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

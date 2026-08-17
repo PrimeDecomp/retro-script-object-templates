@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>UnknownStruct56</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x45D39080" Archetype="UnknownStruct54"/>
+            <Element Type="Struct" ID="0x45D39080" Archetype="JungleBoss1AttackTypeEnum"/>
             <Element Type="Struct" ID="0x445EF669" Archetype="UnknownStruct186"/>
             <Element Type="Struct" ID="0xEC8DB600" Archetype="UnknownStruct187"/>
             <Element Type="Struct" ID="0xCCB08A34" Archetype="UnknownStruct188"/>
