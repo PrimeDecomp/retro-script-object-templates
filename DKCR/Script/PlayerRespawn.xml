@@ -14,8 +14,8 @@
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x3D97FEF6" Archetype="PlayerRespawnData"/>
-            <Element Type="Struct" ID="0xCC528ED6" Archetype="UnknownStruct249"/>
-            <Element Type="Struct" ID="0x416BD9EB" Archetype="UnknownStruct24"/>
+            <Element Type="Struct" ID="0xCC528ED6" Archetype="PlayerDeathData"/>
+            <Element Type="Struct" ID="0x416BD9EB" Archetype="MasterLayerList"/>
             <Element Type="AnimationSet" ID="0xF8B3ABE0"/>
             <Element Type="Int" ID="0x563F35C8">
                 <DefaultValue>-1</DefaultValue>

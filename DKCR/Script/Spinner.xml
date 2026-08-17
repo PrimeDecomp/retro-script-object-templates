@@ -8,7 +8,7 @@
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xBA84F23E" Archetype="SpinnerData"/>
-            <Element Type="Struct" ID="0xC243DF95" Archetype="UnknownStruct268"/>
+            <Element Type="Struct" ID="0xC243DF95" Archetype="SpinnerSoundData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

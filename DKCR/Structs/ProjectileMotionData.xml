@@ -7,7 +7,7 @@
                 <DefaultValue>0xBBC76ABE</DefaultValue>
                 <Values>
                     <Element Name="kProjectileMotion_Physics" ID="0x185E7B28"/>
-                    <Element Name="kProjectileMotion_Unknown 2" ID="0x3532ED29"/>
+                    <Element Name="kProjectileMotion_WaypointFollower" ID="0x3532ED29"/>
                     <Element Name="kProjectileMotion_TargetedPhysics" ID="0xA0E62718"/>
                     <Element Name="kProjectileMotion_HomingMissile" ID="0xABC7D19C"/>
                     <Element Name="kProjectileMotion_None" ID="0xBBC76ABE"/>
@@ -15,12 +15,12 @@
                     <Element Name="kProjectileMotion_Spline" ID="0xEF6C43B0"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0xD15DF9A6" Archetype="UnknownStruct196"/>
-            <Element Type="Struct" ID="0xA3A58C06" Archetype="UnknownStruct197"/>
-            <Element Type="Struct" ID="0x59C61E48" Archetype="UnknownStruct198"/>
-            <Element Type="Struct" ID="0x8698751F" Archetype="UnknownStruct199"/>
-            <Element Type="Struct" ID="0xFE9257CE" Archetype="UnknownStruct200"/>
-            <Element Type="Struct" ID="0x608E1757" Archetype="UnknownStruct201"/>
+            <Element Type="Struct" ID="0xD15DF9A6" Archetype="ProjectileMotionPhysics"/>
+            <Element Type="Struct" ID="0xA3A58C06" Archetype="ProjectileMotionTargetedPhysics"/>
+            <Element Type="Struct" ID="0x59C61E48" Archetype="ProjectileMotionSpline"/>
+            <Element Type="Struct" ID="0x8698751F" Archetype="ProjectileMotionTargetedSpline"/>
+            <Element Type="Struct" ID="0xFE9257CE" Archetype="ProjectileMotionWaypointFollower"/>
+            <Element Type="Struct" ID="0x608E1757" Archetype="ProjectileMotionHomingMissile"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

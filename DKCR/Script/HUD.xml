@@ -14,7 +14,7 @@
             <Element Type="Struct" ID="0x3C280E64" Archetype="GameOverHUD"/>
             <Element Type="Struct" ID="0xC68BC9EC" Archetype="UnknownStruct28"/>
             <Element Type="Struct" ID="0x6BDD8B7A" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x3F88E900" Archetype="UnknownStruct36"/>
+            <Element Type="Struct" ID="0x3F88E900" Archetype="IslandHUDSounds"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

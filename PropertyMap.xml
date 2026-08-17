@@ -302,8 +302,8 @@
             <Value Name="ViewWanderSpeedMax"/>
         </Element>
         <Element>
-            <Key ID="0x19C9392" Type="UnknownStruct274"/>
-            <Value Name="UnknownStruct274"/>
+            <Key ID="0x19C9392" Type="TrainTrackManagerSequenceData"/>
+            <Value Name="Sequences"/>
         </Element>
         <Element>
             <Key ID="0x19FF362" Type="asset"/>
@@ -1074,8 +1074,8 @@
             <Value Name="DistanceFromSpline"/>
         </Element>
         <Element>
-            <Key ID="0x5D06985" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x5D06985" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain21"/>
         </Element>
         <Element>
             <Key ID="0x5E140B1" Type="float"/>
@@ -1198,8 +1198,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x6C74576" Type="VolcanoBossBodyPartStructD"/>
-            <Value Name="VolcanoBossBodyPartStructD"/>
+            <Key ID="0x6C74576" Type="VolcanoBossCollisionActorData"/>
+            <Value Name="CollisionActor2"/>
         </Element>
         <Element>
             <Key ID="0x6C93AFA" Type="Vector"/>
@@ -1235,7 +1235,7 @@
         </Element>
         <Element>
             <Key ID="0x703BF8F" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EnableLeftFootLarge"/>
         </Element>
         <Element>
             <Key ID="0x708D3BF" Type="float"/>
@@ -1495,7 +1495,7 @@
         </Element>
         <Element>
             <Key ID="0x896FDE0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinTimeBetweenSubBlinks"/>
         </Element>
         <Element>
             <Key ID="0x89A46CC" Type="float"/>
@@ -1666,8 +1666,8 @@
             <Value Name="OverrideCollisionRadius"/>
         </Element>
         <Element>
-            <Key ID="0x9AB9627" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x9AB9627" Type="Flags"/>
+            <Value Name="ConstraintFlagsCameraConstraint"/>
         </Element>
         <Element>
             <Key ID="0x9AD63DE" Type="choice"/>
@@ -1766,8 +1766,8 @@
             <Value Name="ParticleEffect"/>
         </Element>
         <Element>
-            <Key ID="0xA525B02" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xA525B02" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B7"/>
         </Element>
         <Element>
             <Key ID="0xA57B09B" Type="float"/>
@@ -1842,8 +1842,8 @@
             <Value Name="LegendHideSpline"/>
         </Element>
         <Element>
-            <Key ID="0xABE6371" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xABE6371" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B8"/>
         </Element>
         <Element>
             <Key ID="0xABEF809" Type="AnimationSet"/>
@@ -1907,7 +1907,7 @@
         </Element>
         <Element>
             <Key ID="0xB320467" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChestStayOpenTimeMax"/>
         </Element>
         <Element>
             <Key ID="0xB339FAC" Type="asset"/>
@@ -2730,8 +2730,8 @@
             <Value Name="RespectPlayerRespawnBreak"/>
         </Element>
         <Element>
-            <Key ID="0x1011FDD9" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x1011FDD9" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel7"/>
         </Element>
         <Element>
             <Key ID="0x101EA33E" Type="bool"/>
@@ -2778,8 +2778,8 @@
             <Value Name="String3"/>
         </Element>
         <Element>
-            <Key ID="0x104D5C4A" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x104D5C4A" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel3"/>
         </Element>
         <Element>
             <Key ID="0x10575A8F" Type="RevolutionControl"/>
@@ -2818,8 +2818,8 @@
             <Value Name="PoundAnimation"/>
         </Element>
         <Element>
-            <Key ID="0x108D16A6" Type="RobotChickenStructB"/>
-            <Value Name="RobotChickenStructB"/>
+            <Key ID="0x108D16A6" Type="RobotChickenAttackData"/>
+            <Value Name="Attack3"/>
         </Element>
         <Element>
             <Key ID="0x108D9071" Type="asset"/>
@@ -2878,8 +2878,8 @@
             <Value Name="BallWake"/>
         </Element>
         <Element>
-            <Key ID="0x10D1B735" Type="RobotChickenStructB"/>
-            <Value Name="RobotChickenStructB"/>
+            <Key ID="0x10D1B735" Type="RobotChickenAttackData"/>
+            <Value Name="Attack7"/>
         </Element>
         <Element>
             <Key ID="0x10D28308" Type="bool"/>
@@ -3246,8 +3246,8 @@
             <Value Name="Flare3"/>
         </Element>
         <Element>
-            <Key ID="0x12D98DC2" Type="VolcanoBossBodyPartStructA"/>
-            <Value Name="VolcanoBossBodyPartStructA"/>
+            <Key ID="0x12D98DC2" Type="VolcanoBossAttackTypeEnum"/>
+            <Value Name="Default"/>
         </Element>
         <Element>
             <Key ID="0x12DE0115" Type="float"/>
@@ -3354,8 +3354,8 @@
             <Value Name="CameraHintStructA"/>
         </Element>
         <Element>
-            <Key ID="0x138821C3" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x138821C3" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A3"/>
         </Element>
         <Element>
             <Key ID="0x138B3979" Type="spline"/>
@@ -4010,8 +4010,8 @@
             <Value Name="SweepBeamSwooshFx"/>
         </Element>
         <Element>
-            <Key ID="0x1719DE79" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x1719DE79" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel18"/>
         </Element>
         <Element>
             <Key ID="0x1720B91F" Type="asset"/>
@@ -4098,8 +4098,8 @@
             <Value Name="RollThroughEffect"/>
         </Element>
         <Element>
-            <Key ID="0x17A09D5F" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x17A09D5F" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel10"/>
         </Element>
         <Element>
             <Key ID="0x17A112B3" Type="UnknownStruct56"/>
@@ -4134,8 +4134,8 @@
             <Value Name="OffscreenTimerTickSound"/>
         </Element>
         <Element>
-            <Key ID="0x17C3E3EC" Type="UnknownStruct258"/>
-            <Value Name="UnknownStruct258"/>
+            <Key ID="0x17C3E3EC" Type="RobotChickenStageData"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0x17C5B61D" Type="float"/>
@@ -4178,8 +4178,8 @@
             <Value Name="MaxLifeTimeSafeGuard"/>
         </Element>
         <Element>
-            <Key ID="0x17FC3CCC" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x17FC3CCC" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel14"/>
         </Element>
         <Element>
             <Key ID="0x18093FA8" Type="float"/>
@@ -4254,8 +4254,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x1871BA9B" Type="UnknownStruct275"/>
-            <Value Name="UnknownStruct275"/>
+            <Key ID="0x1871BA9B" Type="TrainTrackManagerSequenceChainData"/>
+            <Value Name="SequenceChains"/>
         </Element>
         <Element>
             <Key ID="0x1874F2CB" Type="float"/>
@@ -4562,8 +4562,8 @@
             <Value Name="InFlightSound"/>
         </Element>
         <Element>
-            <Key ID="0x1A0C12CA" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x1A0C12CA" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="G"/>
         </Element>
         <Element>
             <Key ID="0x1A111725" Type="float"/>
@@ -4774,8 +4774,8 @@
             <Value Name="ThreatBarFilledColor"/>
         </Element>
         <Element>
-            <Key ID="0x1AE02AB9" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x1AE02AB9" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="H"/>
         </Element>
         <Element>
             <Key ID="0x1AE10F78" Type="float"/>
@@ -4866,8 +4866,8 @@
             <Value Name="DashDelayMaximum"/>
         </Element>
         <Element>
-            <Key ID="0x1B385A5F" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x1B385A5F" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="V"/>
         </Element>
         <Element>
             <Key ID="0x1B38739F" Type="float"/>
@@ -4994,8 +4994,8 @@
             <Value Name="WaitTime3"/>
         </Element>
         <Element>
-            <Key ID="0x1BD4622C" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x1BD4622C" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="Y"/>
         </Element>
         <Element>
             <Key ID="0x1BD4C955" Type="float"/>
@@ -5030,8 +5030,8 @@
             <Value Name="SecondaryModel4"/>
         </Element>
         <Element>
-            <Key ID="0x1C0B3E0E" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x1C0B3E0E" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain29"/>
         </Element>
         <Element>
             <Key ID="0x1C106DF3" Type="int"/>
@@ -5167,7 +5167,11 @@
         </Element>
         <Element>
             <Key ID="0x1CCD0586" Type="int"/>
-            <Value Name="Animation Index"/>
+            <Value Name="Animation"/>
+        </Element>
+        <Element>
+            <Key ID="0x1CCD0586" Type="animation"/>
+            <Value Name="Animation"/>
         </Element>
         <Element>
             <Key ID="0x1CCFA4BA" Type="asset"/>
@@ -5294,8 +5298,8 @@
             <Value Name="ExpertRotationalAccelOrganic"/>
         </Element>
         <Element>
-            <Key ID="0x1D88C7C5" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x1D88C7C5" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D1"/>
         </Element>
         <Element>
             <Key ID="0x1D88EE3E" Type="RevolutionControl"/>
@@ -5322,8 +5326,8 @@
             <Value Name="SuperHopperExplosionRadius"/>
         </Element>
         <Element>
-            <Key ID="0x1DA2ED13" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x1DA2ED13" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain16"/>
         </Element>
         <Element>
             <Key ID="0x1DA37B0D" Type="float"/>
@@ -5370,8 +5374,8 @@
             <Value Name="HatchCloseTime"/>
         </Element>
         <Element>
-            <Key ID="0x1DDA9552" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x1DDA9552" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain5"/>
         </Element>
         <Element>
             <Key ID="0x1DDFD45A" Type="asset"/>
@@ -5443,7 +5447,7 @@
         </Element>
         <Element>
             <Key ID="0x1E456737" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayerRidesUp"/>
         </Element>
         <Element>
             <Key ID="0x1E4A33DC" Type="float"/>
@@ -5479,7 +5483,11 @@
         </Element>
         <Element>
             <Key ID="0x1E67101C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Secondary"/>
+        </Element>
+        <Element>
+            <Key ID="0x1E67101C" Type="characteranimation"/>
+            <Value Name="Secondary"/>
         </Element>
         <Element>
             <Key ID="0x1E710222" Type="int"/>
@@ -5538,8 +5546,8 @@
             <Value Name="Model06"/>
         </Element>
         <Element>
-            <Key ID="0x1EC1AA7E" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x1EC1AA7E" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C1"/>
         </Element>
         <Element>
             <Key ID="0x1EC3D689" Type="float"/>
@@ -5979,6 +5987,10 @@
         </Element>
         <Element>
             <Key ID="0x217A54B9" Type="int"/>
+            <Value Name="Unknown"/>
+        </Element>
+        <Element>
+            <Key ID="0x217A54B9" Type="characteranimation"/>
             <Value Name="Unknown"/>
         </Element>
         <Element>
@@ -6646,8 +6658,8 @@
             <Value Name="Sound_HitHeavyDamage"/>
         </Element>
         <Element>
-            <Key ID="0x24F41DCB" Type="UnknownStruct132"/>
-            <Value Name="UnknownStruct132"/>
+            <Key ID="0x24F41DCB" Type="DeathHurlData"/>
+            <Value Name="DeathHurl"/>
         </Element>
         <Element>
             <Key ID="0x24F6BBFA" Type="float"/>
@@ -6706,8 +6718,8 @@
             <Value Name="PilotChicken"/>
         </Element>
         <Element>
-            <Key ID="0x2540A671" Type="UnknownStruct255"/>
-            <Value Name="UnknownStruct255"/>
+            <Key ID="0x2540A671" Type="RobotChickenJumpData"/>
+            <Value Name="JumpData"/>
         </Element>
         <Element>
             <Key ID="0x25474550" Type="float"/>
@@ -6818,8 +6830,8 @@
             <Value Name="MinAudibleDistance"/>
         </Element>
         <Element>
-            <Key ID="0x25E1E3B6" Type="UnknownStruct1"/>
-            <Value Name="UnknownStruct1"/>
+            <Key ID="0x25E1E3B6" Type="AIFuseData"/>
+            <Value Name="FuseProperties"/>
         </Element>
         <Element>
             <Key ID="0x25E6B485" Type="float"/>
@@ -7350,8 +7362,8 @@
             <Value Name="PlasmaPulse"/>
         </Element>
         <Element>
-            <Key ID="0x28E076FD" Type="UnknownStruct194"/>
-            <Value Name="UnknownStruct194"/>
+            <Key ID="0x28E076FD" Type="ProjectileRenderModel"/>
+            <Value Name="RenderModel"/>
         </Element>
         <Element>
             <Key ID="0x28E1A39C" Type="float"/>
@@ -7362,7 +7374,7 @@
             <Value Name="AreaType"/>
         </Element>
         <Element>
-            <Key ID="0x28F49A53" Type="VolcanoBossBodyPartStructA"/>
+            <Key ID="0x28F49A53" Type="VolcanoBossAttackTypeEnum"/>
             <Value Name="VolcanoBossBodyPartStructA"/>
         </Element>
         <Element>
@@ -7594,8 +7606,8 @@
             <Value Name="Sound_BreakPulseRing"/>
         </Element>
         <Element>
-            <Key ID="0x2A447166" Type="UnknownStruct288"/>
-            <Value Name="UnknownStruct288"/>
+            <Key ID="0x2A447166" Type="VolcanoBossMiscProperties"/>
+            <Value Name="MiscProperties"/>
         </Element>
         <Element>
             <Key ID="0x2A53245A" Type="float"/>
@@ -7826,8 +7838,8 @@
             <Value Name="MessageType"/>
         </Element>
         <Element>
-            <Key ID="0x2B531C2F" Type="UnknownStruct292"/>
-            <Value Name="UnknownStruct292"/>
+            <Key ID="0x2B531C2F" Type="VolcanoBossHandData"/>
+            <Value Name="HandData"/>
         </Element>
         <Element>
             <Key ID="0x2B53DC0D" Type="float"/>
@@ -8134,8 +8146,8 @@
             <Value Name="AttachKnot4"/>
         </Element>
         <Element>
-            <Key ID="0x2D15C27C" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0x2D15C27C" Type="MasterLayer"/>
+            <Value Name="MasterLayer3"/>
         </Element>
         <Element>
             <Key ID="0x2D163FF7" Type="IngSpiderballGuardianStruct"/>
@@ -8179,7 +8191,7 @@
         </Element>
         <Element>
             <Key ID="0x2D4706E8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="EMPDuration"/>
         </Element>
         <Element>
             <Key ID="0x2D5BFAE8" Type="float"/>
@@ -8343,15 +8355,15 @@
         </Element>
         <Element>
             <Key ID="0x2E0E6790" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EnableRightFootLarge"/>
         </Element>
         <Element>
             <Key ID="0x2E11003D" Type="int"/>
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x2E13F903" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0x2E13F903" Type="MasterLayer"/>
+            <Value Name="MasterLayer7"/>
         </Element>
         <Element>
             <Key ID="0x2E1446F0" Type="bool"/>
@@ -8378,8 +8390,8 @@
             <Value Name="EraseButtonSound"/>
         </Element>
         <Element>
-            <Key ID="0x2E3C3247" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x2E3C3247" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B9"/>
         </Element>
         <Element>
             <Key ID="0x2E41A61D" Type="float"/>
@@ -8494,8 +8506,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x2ED00A34" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x2ED00A34" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B6"/>
         </Element>
         <Element>
             <Key ID="0x2ED25F50" Type="float"/>
@@ -8546,8 +8558,8 @@
             <Value Name="TextureAsset"/>
         </Element>
         <Element>
-            <Key ID="0x2F14A14C" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x2F14A14C" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain2"/>
         </Element>
         <Element>
             <Key ID="0x2F1BEBAD" Type="float"/>
@@ -8602,8 +8614,8 @@
             <Value Name="AllowTopFlinch"/>
         </Element>
         <Element>
-            <Key ID="0x2F6CD90D" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x2F6CD90D" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain11"/>
         </Element>
         <Element>
             <Key ID="0x2F711429" Type="enum"/>
@@ -9882,8 +9894,8 @@
             <Value Name="RollingSound"/>
         </Element>
         <Element>
-            <Key ID="0x36B78E86" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x36B78E86" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain19"/>
         </Element>
         <Element>
             <Key ID="0x36C067C2" Type="asset"/>
@@ -9934,8 +9946,8 @@
             <Value Name="HurlDegreeRange"/>
         </Element>
         <Element>
-            <Key ID="0x370A70F5" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x370A70F5" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A2"/>
         </Element>
         <Element>
             <Key ID="0x3712FAAC" Type="float"/>
@@ -9950,8 +9962,8 @@
             <Value Name="TouchedSoundEffect"/>
         </Element>
         <Element>
-            <Key ID="0x371E5D9B" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x371E5D9B" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain26"/>
         </Element>
         <Element>
             <Key ID="0x37212693" Type="SpacePirateHyperModeData"/>
@@ -9978,8 +9990,8 @@
             <Value Name="ColumnDamage"/>
         </Element>
         <Element>
-            <Key ID="0x37342F00" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x37342F00" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound6"/>
         </Element>
         <Element>
             <Key ID="0x3734675B" Type="float"/>
@@ -10014,8 +10026,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x37688E93" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x37688E93" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound2"/>
         </Element>
         <Element>
             <Key ID="0x3769A209" Type="OffsetInterpolant"/>
@@ -10310,16 +10322,16 @@
             <Value Name="HelmetRModel"/>
         </Element>
         <Element>
-            <Key ID="0x3907300E" Type="UnknownStruct22"/>
-            <Value Name="UnknownStruct22"/>
+            <Key ID="0x3907300E" Type="ContextActionButtonPressingData"/>
+            <Value Name="ButtonPressingProperties"/>
         </Element>
         <Element>
             <Key ID="0x39098C47" Type="float"/>
             <Value Name="BacteriaPlayerPursuitSpeed"/>
         </Element>
         <Element>
-            <Key ID="0x390A96F3" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x390A96F3" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D0"/>
         </Element>
         <Element>
             <Key ID="0x390F3677" Type="asset"/>
@@ -10546,8 +10558,8 @@
             <Value Name="CollisionSize"/>
         </Element>
         <Element>
-            <Key ID="0x3A43FB48" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x3A43FB48" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C0"/>
         </Element>
         <Element>
             <Key ID="0x3A512115" Type="asset"/>
@@ -10606,8 +10618,8 @@
             <Value Name="DropAtLineEnd"/>
         </Element>
         <Element>
-            <Key ID="0x3AA7A67E" Type="VolcanoBossBodyPartStructD"/>
-            <Value Name="VolcanoBossBodyPartStructD"/>
+            <Key ID="0x3AA7A67E" Type="VolcanoBossCollisionActorData"/>
+            <Value Name="CollisionActor3"/>
         </Element>
         <Element>
             <Key ID="0x3AAE4E77" Type="float"/>
@@ -10946,8 +10958,8 @@
             <Value Name="EndCapTexture"/>
         </Element>
         <Element>
-            <Key ID="0x3C5F4E6E" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x3C5F4E6E" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound18"/>
         </Element>
         <Element>
             <Key ID="0x3C67B14E" Type="asset"/>
@@ -10982,8 +10994,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x3CADCC64" Type="UnknownStruct54"/>
-            <Value Name="UnknownStruct54"/>
+            <Key ID="0x3CADCC64" Type="JungleBoss1AttackTypeEnum"/>
+            <Value Name="Inserted"/>
         </Element>
         <Element>
             <Key ID="0x3CB2115B" Type="float"/>
@@ -10994,8 +11006,8 @@
             <Value Name="ApproachRadius"/>
         </Element>
         <Element>
-            <Key ID="0x3CBAACDB" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x3CBAACDB" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound14"/>
         </Element>
         <Element>
             <Key ID="0x3CC85F81" Type="enum"/>
@@ -11006,8 +11018,8 @@
             <Value Name="TargetSplineOffset"/>
         </Element>
         <Element>
-            <Key ID="0x3CE60D48" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x3CE60D48" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound10"/>
         </Element>
         <Element>
             <Key ID="0x3CE63601" Type="float"/>
@@ -11330,8 +11342,8 @@
             <Value Name="MeleeMinTimeBetweenAttacks"/>
         </Element>
         <Element>
-            <Key ID="0x3E627B8F" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x3E627B8F" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="I"/>
         </Element>
         <Element>
             <Key ID="0x3E65410C" Type="float"/>
@@ -11366,8 +11378,8 @@
             <Value Name="BitcrusherEnabled"/>
         </Element>
         <Element>
-            <Key ID="0x3E8E43FC" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x3E8E43FC" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="F"/>
         </Element>
         <Element>
             <Key ID="0x3E8E6AFD" Type="float"/>
@@ -11422,8 +11434,8 @@
             <Value Name="ColorAndBloom"/>
         </Element>
         <Element>
-            <Key ID="0x3EDF57B4" Type="UnknownStruct273"/>
-            <Value Name="UnknownStruct273"/>
+            <Key ID="0x3EDF57B4" Type="TrainTrackManagerData"/>
+            <Value Name="Data"/>
         </Element>
         <Element>
             <Key ID="0x3EDF746B" Type="float"/>
@@ -11478,8 +11490,8 @@
             <Value Name="VerticalReleaseFactor"/>
         </Element>
         <Element>
-            <Key ID="0x3F56331A" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x3F56331A" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="X"/>
         </Element>
         <Element>
             <Key ID="0x3F5AF46F" Type="float"/>
@@ -11502,8 +11514,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x3F88E900" Type="UnknownStruct36"/>
-            <Value Name="UnknownStruct36"/>
+            <Key ID="0x3F88E900" Type="IslandHUDSounds"/>
+            <Value Name="Sounds"/>
         </Element>
         <Element>
             <Key ID="0x3FA03829" Type="int"/>
@@ -11546,8 +11558,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x3FBA0B69" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x3FBA0B69" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="W"/>
         </Element>
         <Element>
             <Key ID="0x3FC40D20" Type="UnknownStruct53"/>
@@ -11710,8 +11722,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x40A2FE3E" Type="UnknownStruct16"/>
-            <Value Name="UnknownStruct16"/>
+            <Key ID="0x40A2FE3E" Type="FlameBreathData"/>
+            <Value Name="FlameBreath"/>
         </Element>
         <Element>
             <Key ID="0x40A372B6" Type="bool"/>
@@ -11830,8 +11842,8 @@
             <Value Name="DelayBetweenRolls"/>
         </Element>
         <Element>
-            <Key ID="0x4134F488" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x4134F488" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound9"/>
         </Element>
         <Element>
             <Key ID="0x413A3189" Type="float"/>
@@ -11874,8 +11886,8 @@
             <Value Name="PauseScreenBGModulateColorXRay"/>
         </Element>
         <Element>
-            <Key ID="0x416BD9EB" Type="UnknownStruct24"/>
-            <Value Name="LayerList"/>
+            <Key ID="0x416BD9EB" Type="MasterLayerList"/>
+            <Value Name="MasterLayerList"/>
         </Element>
         <Element>
             <Key ID="0x416D0E9F" Type="Vector"/>
@@ -11914,8 +11926,8 @@
             <Value Name="ApplyDamageToAnyVulnerableActor"/>
         </Element>
         <Element>
-            <Key ID="0x418DB7AE" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x418DB7AE" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound1"/>
         </Element>
         <Element>
             <Key ID="0x418F204D" Type="float"/>
@@ -11958,8 +11970,8 @@
             <Value Name="Splash_Medium"/>
         </Element>
         <Element>
-            <Key ID="0x41D1163D" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x41D1163D" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound5"/>
         </Element>
         <Element>
             <Key ID="0x41D8C39C" Type="float"/>
@@ -12066,8 +12078,8 @@
             <Value Name="DashAtPlayerDistMax"/>
         </Element>
         <Element>
-            <Key ID="0x4266606E" Type="VolcanoBossBodyPartStructD"/>
-            <Value Name="VolcanoBossBodyPartStructD"/>
+            <Key ID="0x4266606E" Type="VolcanoBossCollisionActorData"/>
+            <Value Name="CollisionActor1"/>
         </Element>
         <Element>
             <Key ID="0x42691490" Type="GhorDifficultySetting"/>
@@ -12234,8 +12246,8 @@
             <Value Name="CriticalColor"/>
         </Element>
         <Element>
-            <Key ID="0x4356F96E" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x4356F96E" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B5"/>
         </Element>
         <Element>
             <Key ID="0x4358B0F1" Type="float"/>
@@ -12666,8 +12678,8 @@
             <Value Name="FireBall"/>
         </Element>
         <Element>
-            <Key ID="0x45B5B754" Type="UnknownStruct297"/>
-            <Value Name="UnknownStruct297"/>
+            <Key ID="0x45B5B754" Type="VerticalRocketBarrelThrustData"/>
+            <Value Name="ThrustData"/>
         </Element>
         <Element>
             <Key ID="0x45B71390" Type="sound"/>
@@ -12698,8 +12710,8 @@
             <Value Name="KneeArmorExplosion"/>
         </Element>
         <Element>
-            <Key ID="0x45D39080" Type="UnknownStruct54"/>
-            <Value Name="UnknownStruct54"/>
+            <Key ID="0x45D39080" Type="JungleBoss1AttackTypeEnum"/>
+            <Value Name="Attack"/>
         </Element>
         <Element>
             <Key ID="0x45D7A40F" Type="TweakGui_HudColorTypedef"/>
@@ -13142,8 +13154,8 @@
             <Value Name="SlamDamage"/>
         </Element>
         <Element>
-            <Key ID="0x4802ADD9" Type="UnknownStruct17"/>
-            <Value Name="UnknownStruct17"/>
+            <Key ID="0x4802ADD9" Type="SeedBoss3Stage1Data"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0x48157453" Type="asset"/>
@@ -13534,8 +13546,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x4A033475" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x4A033475" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound13"/>
         </Element>
         <Element>
             <Key ID="0x4A1E493B" Type="EmperorIngStage1Data"/>
@@ -13594,8 +13606,8 @@
             <Value Name="RetryConfirmText"/>
         </Element>
         <Element>
-            <Key ID="0x4A5F95E6" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0x4A5F95E6" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound17"/>
         </Element>
         <Element>
             <Key ID="0x4A6033FC" Type="spline"/>
@@ -13846,8 +13858,8 @@
             <Value Name="RotateStopBalancedSound"/>
         </Element>
         <Element>
-            <Key ID="0x4B59622C" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x4B59622C" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain20"/>
         </Element>
         <Element>
             <Key ID="0x4B59E590" Type="float"/>
@@ -14374,8 +14386,8 @@
             <Value Name="AlphaPercent"/>
         </Element>
         <Element>
-            <Key ID="0x4E4724E6" Type="UnknownStruct3"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x4E4724E6" Type="TurretDamageInfo"/>
+            <Value Name="WeaponDamage"/>
         </Element>
         <Element>
             <Key ID="0x4E4AE0E4" Type="float"/>
@@ -15098,8 +15110,8 @@
             <Value Name="AttackerCount"/>
         </Element>
         <Element>
-            <Key ID="0x523CF833" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x523CF833" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="T"/>
         </Element>
         <Element>
             <Key ID="0x524A8073" Type="sound"/>
@@ -15150,8 +15162,8 @@
             <Value Name="BButtonIn"/>
         </Element>
         <Element>
-            <Key ID="0x528235A7" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x528235A7" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain28"/>
         </Element>
         <Element>
             <Key ID="0x5282C47E" Type="bool"/>
@@ -15234,8 +15246,8 @@
             <Value Name="StaticGeometryCollisionEffect"/>
         </Element>
         <Element>
-            <Key ID="0x5308B0A6" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x5308B0A6" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="E"/>
         </Element>
         <Element>
             <Key ID="0x530ECF07" Type="float"/>
@@ -15266,8 +15278,8 @@
             <Value Name="LaunchBallSpeed"/>
         </Element>
         <Element>
-            <Key ID="0x532BE6BA" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x532BE6BA" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain17"/>
         </Element>
         <Element>
             <Key ID="0x533090A0" Type="spline"/>
@@ -15318,8 +15330,8 @@
             <Value Name="FragCount"/>
         </Element>
         <Element>
-            <Key ID="0x53539EFB" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x53539EFB" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain4"/>
         </Element>
         <Element>
             <Key ID="0x535F6FEC" Type="AudioPlaybackParms"/>
@@ -15398,8 +15410,8 @@
             <Value Name="OrbDestroyedSound"/>
         </Element>
         <Element>
-            <Key ID="0x53E488D5" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x53E488D5" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="J"/>
         </Element>
         <Element>
             <Key ID="0x53E56DA8" Type="choice"/>
@@ -15506,8 +15518,8 @@
             <Value Name="TXTR"/>
         </Element>
         <Element>
-            <Key ID="0x548C65A9" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x548C65A9" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D3"/>
         </Element>
         <Element>
             <Key ID="0x5490E214" Type="asset"/>
@@ -15702,8 +15714,8 @@
             <Value Name="PathLinkType"/>
         </Element>
         <Element>
-            <Key ID="0x55990ED8" Type="UnknownStruct237"/>
-            <Value Name="UnknownStruct237"/>
+            <Key ID="0x55990ED8" Type="MoleTrainChaseData"/>
+            <Value Name="Chase"/>
         </Element>
         <Element>
             <Key ID="0x559AE8C4" Type="float"/>
@@ -16051,7 +16063,7 @@
         </Element>
         <Element>
             <Key ID="0x5783E404" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayerRidesRight"/>
         </Element>
         <Element>
             <Key ID="0x5796A143" Type="asset"/>
@@ -16078,8 +16090,8 @@
             <Value Name="End"/>
         </Element>
         <Element>
-            <Key ID="0x57C50812" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x57C50812" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C3"/>
         </Element>
         <Element>
             <Key ID="0x57CB6052" Type="IslandAreaStruct"/>
@@ -16410,8 +16422,8 @@
             <Value Name="HomingMissileDamage"/>
         </Element>
         <Element>
-            <Key ID="0x598D2BF3" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0x598D2BF3" Type="MasterLayer"/>
+            <Value Name="MasterLayer4"/>
         </Element>
         <Element>
             <Key ID="0x5997EBE1" Type="DamageInfo"/>
@@ -16438,8 +16450,8 @@
             <Value Name="UnknownStruct48"/>
         </Element>
         <Element>
-            <Key ID="0x59C61E48" Type="UnknownStruct198"/>
-            <Value Name="UnknownStruct198"/>
+            <Key ID="0x59C61E48" Type="ProjectileMotionSpline"/>
+            <Value Name="MotionSpline"/>
         </Element>
         <Element>
             <Key ID="0x59CCAC1B" Type="float"/>
@@ -16523,7 +16535,7 @@
         </Element>
         <Element>
             <Key ID="0x5A60111F" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayerRidesDown"/>
         </Element>
         <Element>
             <Key ID="0x5A6587DF" Type="Color"/>
@@ -16562,12 +16574,12 @@
             <Value Name="CanActivateWhileStunned"/>
         </Element>
         <Element>
-            <Key ID="0x5A8B108C" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0x5A8B108C" Type="MasterLayer"/>
+            <Value Name="MasterLayer0"/>
         </Element>
         <Element>
-            <Key ID="0x5A8C83AF" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x5A8C83AF" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A1"/>
         </Element>
         <Element>
             <Key ID="0x5A96218C" Type="Color"/>
@@ -16878,8 +16890,8 @@
             <Value Name="CanBlink"/>
         </Element>
         <Element>
-            <Key ID="0x5C876672" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0x5C876672" Type="MasterLayer"/>
+            <Value Name="MasterLayer8"/>
         </Element>
         <Element>
             <Key ID="0x5C927FB2" Type="float"/>
@@ -16986,8 +16998,8 @@
             <Value Name="AngleThreshold"/>
         </Element>
         <Element>
-            <Key ID="0x5D09F1DD" Type="UnknownStruct7"/>
-            <Value Name="Attachment3"/>
+            <Key ID="0x5D09F1DD" Type="ActorAttachment"/>
+            <Value Name="ActorAttachment3"/>
         </Element>
         <Element>
             <Key ID="0x5D0D2C40" Type="float"/>
@@ -17314,8 +17326,8 @@
             <Value Name="ConnectionRadius"/>
         </Element>
         <Element>
-            <Key ID="0x5EC7F2BA" Type="UnknownStruct12"/>
-            <Value Name="UnknownStruct12"/>
+            <Key ID="0x5EC7F2BA" Type="DarkCommandoEMPData"/>
+            <Value Name="EMPGrenadeAttackInfo"/>
         </Element>
         <Element>
             <Key ID="0x5ECB9A6B" Type="UnknownStruct83"/>
@@ -17355,7 +17367,7 @@
         </Element>
         <Element>
             <Key ID="0x5EEB7F9D" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="FreelookReturnPromptTextCore"/>
         </Element>
         <Element>
             <Key ID="0x5EF8B288" Type="asset"/>
@@ -17439,7 +17451,7 @@
         </Element>
         <Element>
             <Key ID="0x5F98ADA3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxTimeBetweenSubBlinks"/>
         </Element>
         <Element>
             <Key ID="0x5FA020FF" Type="bool"/>
@@ -17618,8 +17630,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x608E1757" Type="UnknownStruct201"/>
-            <Value Name="UnknownStruct201"/>
+            <Key ID="0x608E1757" Type="ProjectileMotionHomingMissile"/>
+            <Value Name="MotionHomingMissile"/>
         </Element>
         <Element>
             <Key ID="0x608ECAC5" Type="bool"/>
@@ -17734,8 +17746,8 @@
             <Value Name="UseTerrainAlignment"/>
         </Element>
         <Element>
-            <Key ID="0x611905F1" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x611905F1" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel17"/>
         </Element>
         <Element>
             <Key ID="0x6119D07F" Type="float"/>
@@ -17766,8 +17778,8 @@
             <Value Name="Sound"/>
         </Element>
         <Element>
-            <Key ID="0x6145A462" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x6145A462" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel13"/>
         </Element>
         <Element>
             <Key ID="0x6150D687" Type="float"/>
@@ -17806,8 +17818,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x619DAAE5" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x619DAAE5" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain3"/>
         </Element>
         <Element>
             <Key ID="0x61A6A38E" Type="float"/>
@@ -17846,8 +17858,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x61E5D2A4" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x61E5D2A4" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain10"/>
         </Element>
         <Element>
             <Key ID="0x61E664CC" Type="float"/>
@@ -18259,7 +18271,11 @@
         </Element>
         <Element>
             <Key ID="0x64543B0C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Primary"/>
+        </Element>
+        <Element>
+            <Key ID="0x64543B0C" Type="characteranimation"/>
+            <Value Name="Primary"/>
         </Element>
         <Element>
             <Key ID="0x64588114" Type="float"/>
@@ -18566,8 +18582,8 @@
             <Value Name="ApexPauseTime"/>
         </Element>
         <Element>
-            <Key ID="0x66112651" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x66112651" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel8"/>
         </Element>
         <Element>
             <Key ID="0x6617065C" Type="float"/>
@@ -18598,8 +18614,8 @@
             <Value Name="RandomTurn"/>
         </Element>
         <Element>
-            <Key ID="0x66348E08" Type="RobotChickenStructB"/>
-            <Value Name="RobotChickenStructB"/>
+            <Key ID="0x66348E08" Type="RobotChickenAttackData"/>
+            <Value Name="Attack4"/>
         </Element>
         <Element>
             <Key ID="0x66351D36" Type="Color"/>
@@ -18666,8 +18682,8 @@
             <Value Name="SteamFadeIn"/>
         </Element>
         <Element>
-            <Key ID="0x66A86577" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x66A86577" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel0"/>
         </Element>
         <Element>
             <Key ID="0x66AB57A4" Type="asset"/>
@@ -18687,7 +18703,7 @@
         </Element>
         <Element>
             <Key ID="0x66B1160B" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="RotateCameraPromptText"/>
         </Element>
         <Element>
             <Key ID="0x66B1D066" Type="Vector"/>
@@ -18742,8 +18758,8 @@
             <Value Name="SwitchState"/>
         </Element>
         <Element>
-            <Key ID="0x66F4C4E4" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x66F4C4E4" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel4"/>
         </Element>
         <Element>
             <Key ID="0x670B9A1F" Type="asset"/>
@@ -18898,8 +18914,8 @@
             <Value Name="GrapplePull"/>
         </Element>
         <Element>
-            <Key ID="0x67D4A858" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x67D4A858" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B4"/>
         </Element>
         <Element>
             <Key ID="0x67DD641E" Type="asset"/>
@@ -19559,7 +19575,7 @@
         </Element>
         <Element>
             <Key ID="0x6B016DB2" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="CancelPromptTextCore"/>
         </Element>
         <Element>
             <Key ID="0x6B08E2E5" Type="IngSpaceJumpGuardianStruct"/>
@@ -19822,8 +19838,8 @@
             <Value Name="X_Wave_Amplitude"/>
         </Element>
         <Element>
-            <Key ID="0x6C75E2EA" Type="UnknownStruct8"/>
-            <Value Name="UnknownStruct8"/>
+            <Key ID="0x6C75E2EA" Type="ActorAttachments"/>
+            <Value Name="ActorAttachments"/>
         </Element>
         <Element>
             <Key ID="0x6C79054F" Type="DamageVulnerability"/>
@@ -20206,8 +20222,8 @@
             <Value Name="FlashIntensity"/>
         </Element>
         <Element>
-            <Key ID="0x6E58D714" Type="UnknownStruct29"/>
-            <Value Name="UnknownStruct29"/>
+            <Key ID="0x6E58D714" Type="BlinkData"/>
+            <Value Name="BlinkData"/>
         </Element>
         <Element>
             <Key ID="0x6E603DF2" Type="float"/>
@@ -20402,8 +20418,8 @@
             <Value Name="MinFireDist"/>
         </Element>
         <Element>
-            <Key ID="0x700E349F" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x700E349F" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D2"/>
         </Element>
         <Element>
             <Key ID="0x70130FE6" Type="float"/>
@@ -20694,8 +20710,8 @@
             <Value Name="IFTLightLocation"/>
         </Element>
         <Element>
-            <Key ID="0x719066EB" Type="UnknownStruct270"/>
-            <Value Name="UnknownStruct270"/>
+            <Key ID="0x719066EB" Type="TarPitDataActionFlags"/>
+            <Value Name="ActionFlags"/>
         </Element>
         <Element>
             <Key ID="0x719345CF" Type="int"/>
@@ -20982,8 +20998,8 @@
             <Value Name="Sound_IceXDamage"/>
         </Element>
         <Element>
-            <Key ID="0x73475924" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x73475924" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C2"/>
         </Element>
         <Element>
             <Key ID="0x734D923B" Type="int"/>
@@ -21246,8 +21262,8 @@
             <Value Name="MapCircleUp"/>
         </Element>
         <Element>
-            <Key ID="0x74E96428" Type="UnknownStruct92"/>
-            <Value Name="UnknownStruct92"/>
+            <Key ID="0x74E96428" Type="DynamicLightOptions"/>
+            <Value Name="LightOptions"/>
         </Element>
         <Element>
             <Key ID="0x74F8A729" Type="asset"/>
@@ -21470,8 +21486,8 @@
             <Value Name="VortexAttackDuration"/>
         </Element>
         <Element>
-            <Key ID="0x76529176" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x76529176" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="Z"/>
         </Element>
         <Element>
             <Key ID="0x76597839" Type="float"/>
@@ -21562,8 +21578,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x76BEA905" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x76BEA905" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="U"/>
         </Element>
         <Element>
             <Key ID="0x76C64459" Type="asset"/>
@@ -21690,8 +21706,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x7766D9E3" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x7766D9E3" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="K"/>
         </Element>
         <Element>
             <Key ID="0x776DB913" Type="float"/>
@@ -21699,7 +21715,7 @@
         </Element>
         <Element>
             <Key ID="0x777CF37F" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="ChooseWorldPromptTextCore"/>
         </Element>
         <Element>
             <Key ID="0x77856668" Type="float"/>
@@ -21714,8 +21730,8 @@
             <Value Name="LookAround"/>
         </Element>
         <Element>
-            <Key ID="0x778AE190" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x778AE190" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D"/>
         </Element>
         <Element>
             <Key ID="0x77941011" Type="DamageInfo"/>
@@ -21838,8 +21854,8 @@
             <Value Name="ReverseBaseChance"/>
         </Element>
         <Element>
-            <Key ID="0x783E852F" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x783E852F" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain18"/>
         </Element>
         <Element>
             <Key ID="0x784625BD" Type="WeaponVulnerability"/>
@@ -21990,8 +22006,8 @@
             <Value Name="CStickDR"/>
         </Element>
         <Element>
-            <Key ID="0x790FE739" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x790FE739" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain32"/>
         </Element>
         <Element>
             <Key ID="0x790FF19F" Type="float"/>
@@ -22114,8 +22130,8 @@
             <Value Name="ContactRulesAlternate1"/>
         </Element>
         <Element>
-            <Key ID="0x79975632" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x79975632" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain27"/>
         </Element>
         <Element>
             <Key ID="0x799F6F58" Type="int"/>
@@ -22522,8 +22538,8 @@
             <Value Name="TextPositionY"/>
         </Element>
         <Element>
-            <Key ID="0x7B8C48C7" Type="UnknownStruct21"/>
-            <Value Name="UnknownStruct21"/>
+            <Key ID="0x7B8C48C7" Type="AiDifficultySetting"/>
+            <Value Name="Difficulty"/>
         </Element>
         <Element>
             <Key ID="0x7B8E2CD2" Type="asset"/>
@@ -22922,8 +22938,8 @@
             <Value Name="FinalCopyrightColors"/>
         </Element>
         <Element>
-            <Key ID="0x7E0ED299" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x7E0ED299" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A0"/>
         </Element>
         <Element>
             <Key ID="0x7E1338F8" Type="float"/>
@@ -23115,7 +23131,7 @@
         </Element>
         <Element>
             <Key ID="0x7F1E6DEC" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="RotateCameraPromptTextCore"/>
         </Element>
         <Element>
             <Key ID="0x7F2A409C" Type="asset"/>
@@ -23474,8 +23490,8 @@
             <Value Name="LightShieldVulnerability"/>
         </Element>
         <Element>
-            <Key ID="0x80B0FA41" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x80B0FA41" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain14"/>
         </Element>
         <Element>
             <Key ID="0x80B13E60" Type="TweakGui_ScannableObjectDownloadTimes"/>
@@ -23518,8 +23534,8 @@
             <Value Name="BackgroundAnimation"/>
         </Element>
         <Element>
-            <Key ID="0x80C88200" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x80C88200" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain7"/>
         </Element>
         <Element>
             <Key ID="0x80C9B957" Type="float"/>
@@ -23634,16 +23650,16 @@
             <Value Name="InitialStunDelayMin"/>
         </Element>
         <Element>
-            <Key ID="0x816D5D68" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x816D5D68" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A8"/>
         </Element>
         <Element>
             <Key ID="0x8178A60F" Type="bool"/>
             <Value Name="UseVerticalCameraPathDifference"/>
         </Element>
         <Element>
-            <Key ID="0x8181651B" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x8181651B" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A7"/>
         </Element>
         <Element>
             <Key ID="0x8186E8FE" Type="float"/>
@@ -24542,8 +24558,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x8698751F" Type="UnknownStruct199"/>
-            <Value Name="UnknownStruct199"/>
+            <Key ID="0x8698751F" Type="ProjectileMotionTargetedSpline"/>
+            <Value Name="MotionTargetedSpline"/>
         </Element>
         <Element>
             <Key ID="0x8699AC03" Type="float"/>
@@ -24658,8 +24674,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x8772CB7E" Type="UnknownStruct54"/>
-            <Value Name="UnknownStruct54"/>
+            <Key ID="0x8772CB7E" Type="JungleBoss1AttackTypeEnum"/>
+            <Value Name="Initial"/>
         </Element>
         <Element>
             <Key ID="0x8774017D" Type="ScanInfoSecondaryModel"/>
@@ -24770,8 +24786,8 @@
             <Value Name="MaximumTrackDistanceZ"/>
         </Element>
         <Element>
-            <Key ID="0x88055612" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x88055612" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C"/>
         </Element>
         <Element>
             <Key ID="0x880754F6" Type="string"/>
@@ -24930,8 +24946,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x88E96E61" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x88E96E61" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="L"/>
         </Element>
         <Element>
             <Key ID="0x88EA81DB" Type="float"/>
@@ -24982,8 +24998,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x89311E87" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x89311E87" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="R"/>
         </Element>
         <Element>
             <Key ID="0x8935377C" Type="float"/>
@@ -25350,6 +25366,10 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
+            <Key ID="0x8B30D933" Type="characteranimation"/>
+            <Value Name="Unknown"/>
+        </Element>
+        <Element>
             <Key ID="0x8B339262" Type="float"/>
             <Value Name="FleeTime"/>
         </Element>
@@ -25358,8 +25378,8 @@
             <Value Name="MinEnergyWaveAttackDist"/>
         </Element>
         <Element>
-            <Key ID="0x8B3EB69E" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x8B3EB69E" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel2"/>
         </Element>
         <Element>
             <Key ID="0x8B3F7902" Type="Color"/>
@@ -25406,8 +25426,8 @@
             <Value Name="Cup"/>
         </Element>
         <Element>
-            <Key ID="0x8B62170D" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x8B62170D" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel6"/>
         </Element>
         <Element>
             <Key ID="0x8B64DC44" Type="bool"/>
@@ -25474,8 +25494,8 @@
             <Value Name="NormalJumpHeights"/>
         </Element>
         <Element>
-            <Key ID="0x8BA25DE1" Type="RobotChickenStructB"/>
-            <Value Name="RobotChickenStructB"/>
+            <Key ID="0x8BA25DE1" Type="RobotChickenAttackData"/>
+            <Value Name="Attack6"/>
         </Element>
         <Element>
             <Key ID="0x8BB1C3A2" Type="FlyerMovementMode"/>
@@ -25506,8 +25526,8 @@
             <Value Name="AimingCursorClampColor"/>
         </Element>
         <Element>
-            <Key ID="0x8BFEFC72" Type="RobotChickenStructB"/>
-            <Value Name="RobotChickenStructB"/>
+            <Key ID="0x8BFEFC72" Type="RobotChickenAttackData"/>
+            <Value Name="Attack2"/>
         </Element>
         <Element>
             <Key ID="0x8BFFCA83" Type="int"/>
@@ -25558,8 +25578,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x8C6A34AD" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x8C6A34AD" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel19"/>
         </Element>
         <Element>
             <Key ID="0x8C723B8F" Type="float"/>
@@ -25574,8 +25594,8 @@
             <Value Name="SilhouetteColor"/>
         </Element>
         <Element>
-            <Key ID="0x8C8FD618" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x8C8FD618" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel15"/>
         </Element>
         <Element>
             <Key ID="0x8C938C3F" Type="float"/>
@@ -25618,8 +25638,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x8CC8EEA6" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x8CC8EEA6" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C5"/>
         </Element>
         <Element>
             <Key ID="0x8CCF36C0" Type="float"/>
@@ -25630,16 +25650,16 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x8CD3778B" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0x8CD3778B" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel11"/>
         </Element>
         <Element>
             <Key ID="0x8CD7444D" Type="bool"/>
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x8CDE5BD9" Type="UnknownStruct195"/>
-            <Value Name="UnknownStruct195"/>
+            <Key ID="0x8CDE5BD9" Type="ProjectileRenderCharacter"/>
+            <Value Name="RenderCharacter"/>
         </Element>
         <Element>
             <Key ID="0x8CE1176E" Type="float"/>
@@ -26154,16 +26174,16 @@
             <Value Name="OrbitDashUsesTap"/>
         </Element>
         <Element>
-            <Key ID="0x8F81831D" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x8F81831D" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D5"/>
         </Element>
         <Element>
             <Key ID="0x8F83BE73" Type="sound"/>
             <Value Name="Sound_IngSpotMove"/>
         </Element>
         <Element>
-            <Key ID="0x8F850F46" Type="VolcanoBossBodyPartStructD"/>
-            <Value Name="VolcanoBossBodyPartStructD"/>
+            <Key ID="0x8F850F46" Type="VolcanoBossCollisionActorData"/>
+            <Value Name="CollisionActor4"/>
         </Element>
         <Element>
             <Key ID="0x8F8C64A0" Type="asset"/>
@@ -26426,8 +26446,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x9127FBC8" Type="UnknownStruct295"/>
-            <Value Name="UnknownStruct295"/>
+            <Key ID="0x9127FBC8" Type="VolcanoBossGlobalData"/>
+            <Value Name="GlobalData"/>
         </Element>
         <Element>
             <Key ID="0x912954E6" Type="float"/>
@@ -26846,8 +26866,8 @@
             <Value Name="PhazonHyperModeVulnerableMeterColor"/>
         </Element>
         <Element>
-            <Key ID="0x93A412DD" Type="UnknownStruct246"/>
-            <Value Name="UnknownStruct246"/>
+            <Key ID="0x93A412DD" Type="PoiObjectPriorityEnum"/>
+            <Value Name="Priority"/>
         </Element>
         <Element>
             <Key ID="0x93A74A46" Type="float"/>
@@ -27071,7 +27091,7 @@
         </Element>
         <Element>
             <Key ID="0x94F48974" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovingScatterShot"/>
         </Element>
         <Element>
             <Key ID="0x94F9C48D" Type="BarrelBalloonData"/>
@@ -27535,7 +27555,7 @@
         </Element>
         <Element>
             <Key ID="0x97395EEA" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="SequenceChainCount"/>
         </Element>
         <Element>
             <Key ID="0x973BF0CA" Type="asset"/>
@@ -27778,8 +27798,8 @@
             <Value Name="PoiObjectData"/>
         </Element>
         <Element>
-            <Key ID="0x985B1FDA" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0x985B1FDA" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B3"/>
         </Element>
         <Element>
             <Key ID="0x985BFCD9" Type="UnknownStruct148"/>
@@ -27818,8 +27838,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x98C27ED7" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0x98C27ED7" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain23"/>
         </Element>
         <Element>
             <Key ID="0x98C660E0" Type="Color"/>
@@ -28158,8 +28178,8 @@
             <Value Name="MapVisitedOutlineAlphaMiniMap"/>
         </Element>
         <Element>
-            <Key ID="0x9AC8106A" Type="UnknownStruct91"/>
-            <Value Name="UnknownStruct91"/>
+            <Key ID="0x9AC8106A" Type="DynamicAffectedLightSets"/>
+            <Value Name="AffectedLightSets"/>
         </Element>
         <Element>
             <Key ID="0x9ACA45BC" Type="int"/>
@@ -28231,7 +28251,7 @@
         </Element>
         <Element>
             <Key ID="0x9B131110" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinTimeBetweenBlinks"/>
         </Element>
         <Element>
             <Key ID="0x9B193AE8" Type="AnimationSet"/>
@@ -28642,8 +28662,8 @@
             <Value Name="GlassTint"/>
         </Element>
         <Element>
-            <Key ID="0x9DA7ABFA" Type="UnknownStruct244"/>
-            <Value Name="UnknownStruct244"/>
+            <Key ID="0x9DA7ABFA" Type="PickupDamageData"/>
+            <Value Name="PickupDamageData"/>
         </Element>
         <Element>
             <Key ID="0x9DB1DDB6" Type="Color"/>
@@ -28963,7 +28983,7 @@
         </Element>
         <Element>
             <Key ID="0x9FB991FE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PartiallyPressed"/>
         </Element>
         <Element>
             <Key ID="0x9FC53F22" Type="asset"/>
@@ -29010,8 +29030,8 @@
             <Value Name="JumpTargetOccludedOpacity"/>
         </Element>
         <Element>
-            <Key ID="0xA00B9AC3" Type="UnknownStruct19"/>
-            <Value Name="UnknownStruct19"/>
+            <Key ID="0xA00B9AC3" Type="SeedBoss3Stage2Data"/>
+            <Value Name="Stage2"/>
         </Element>
         <Element>
             <Key ID="0xA01E0887" Type="asset"/>
@@ -29214,8 +29234,8 @@
             <Value Name="DetectionHeightUp"/>
         </Element>
         <Element>
-            <Key ID="0xA1172744" Type="UnknownStruct245"/>
-            <Value Name="UnknownStruct245"/>
+            <Key ID="0xA1172744" Type="PlatformCrushData"/>
+            <Value Name="CrushProperties"/>
         </Element>
         <Element>
             <Key ID="0xA1178BCF" Type="DarkSamusEchoData"/>
@@ -29679,7 +29699,7 @@
         </Element>
         <Element>
             <Key ID="0xA35A8599" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EnableBeltAnim"/>
         </Element>
         <Element>
             <Key ID="0xA35B9C6E" Type="PeanutMaterialEffects"/>
@@ -29738,8 +29758,8 @@
             <Value Name="MinorIngData"/>
         </Element>
         <Element>
-            <Key ID="0xA3A58C06" Type="UnknownStruct197"/>
-            <Value Name="UnknownStruct197"/>
+            <Key ID="0xA3A58C06" Type="ProjectileMotionTargetedPhysics"/>
+            <Value Name="MotionTargetedPhysics"/>
         </Element>
         <Element>
             <Key ID="0xA3AD3CAF" Type="int"/>
@@ -29998,8 +30018,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xA503342D" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xA503342D" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A6"/>
         </Element>
         <Element>
             <Key ID="0xA51F243E" Type="bool"/>
@@ -30079,7 +30099,7 @@
         </Element>
         <Element>
             <Key ID="0xA5A6D998" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxTimeBetweenBlinks"/>
         </Element>
         <Element>
             <Key ID="0xA5ACE799" Type="bool"/>
@@ -30114,8 +30134,8 @@
             <Value Name="Sound_EchoTargetRetract"/>
         </Element>
         <Element>
-            <Key ID="0xA5EF0C5E" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xA5EF0C5E" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A9"/>
         </Element>
         <Element>
             <Key ID="0xA5F210BA" Type="bool"/>
@@ -30374,8 +30394,8 @@
             <Value Name="GrappleDistance"/>
         </Element>
         <Element>
-            <Key ID="0xA72CA4BA" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xA72CA4BA" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound19"/>
         </Element>
         <Element>
             <Key ID="0xA72DFC5E" Type="float"/>
@@ -30454,8 +30474,8 @@
             <Value Name="CombatMissileDigitsOutlineColor"/>
         </Element>
         <Element>
-            <Key ID="0xA78AC0C0" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xA78AC0C0" Type="choice"/>
+            <Value Name="WhenToDraw"/>
         </Element>
         <Element>
             <Key ID="0xA790C6A9" Type="int"/>
@@ -30470,8 +30490,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xA795E79C" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xA795E79C" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound11"/>
         </Element>
         <Element>
             <Key ID="0xA7963E03" Type="Vector"/>
@@ -30518,8 +30538,8 @@
             <Value Name="GrenadeMaxLaunchSpeed"/>
         </Element>
         <Element>
-            <Key ID="0xA7C9460F" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xA7C9460F" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound15"/>
         </Element>
         <Element>
             <Key ID="0xA7CC080D" Type="string"/>
@@ -30590,8 +30610,8 @@
             <Value Name="RotationMaxSpeedIce"/>
         </Element>
         <Element>
-            <Key ID="0xA84ABF90" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xA84ABF90" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C4"/>
         </Element>
         <Element>
             <Key ID="0xA858F4E7" Type="GunTurretTopData"/>
@@ -30902,8 +30922,12 @@
             <Value Name="LocomotionContext"/>
         </Element>
         <Element>
-            <Key ID="0xA9F8A74F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xA9F8A74F" Type="Flags"/>
+            <Value Name="IgnoreMaterials"/>
+        </Element>
+        <Element>
+            <Key ID="0xA9F8A74F" Type="IgnoreMaterials"/>
+            <Value Name="IgnoreMaterials"/>
         </Element>
         <Element>
             <Key ID="0xA9FE872A" Type="asset"/>
@@ -30918,8 +30942,8 @@
             <Value Name="TempleKey7"/>
         </Element>
         <Element>
-            <Key ID="0xAA0C4AC9" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xAA0C4AC9" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain24"/>
         </Element>
         <Element>
             <Key ID="0xAA125F90" Type="asset"/>
@@ -30998,8 +31022,8 @@
             <Value Name="CancelPressCount"/>
         </Element>
         <Element>
-            <Key ID="0xAA94FBC2" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xAA94FBC2" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain31"/>
         </Element>
         <Element>
             <Key ID="0xAA96399C" Type="asset"/>
@@ -31010,8 +31034,8 @@
             <Value Name="SfxVolume"/>
         </Element>
         <Element>
-            <Key ID="0xAAC2F8DA" Type="UnknownStruct257"/>
-            <Value Name="UnknownStruct257"/>
+            <Key ID="0xAAC2F8DA" Type="RobotChickenDebugData"/>
+            <Value Name="DebugData"/>
         </Element>
         <Element>
             <Key ID="0xAACCD7CD" Type="int"/>
@@ -31058,8 +31082,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xAB03D22B" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xAB03D22B" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D4"/>
         </Element>
         <Element>
             <Key ID="0xAB03DCB9" Type="float"/>
@@ -31218,8 +31242,8 @@
             <Value Name="ScanImagesColor"/>
         </Element>
         <Element>
-            <Key ID="0xABDDE195" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xABDDE195" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain8"/>
         </Element>
         <Element>
             <Key ID="0xABE4167E" Type="float"/>
@@ -31270,8 +31294,8 @@
             <Value Name="ThrownProjectileDamage"/>
         </Element>
         <Element>
-            <Key ID="0xAC1B6447" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xAC1B6447" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound3"/>
         </Element>
         <Element>
             <Key ID="0xAC202A5D" Type="float"/>
@@ -31298,8 +31322,8 @@
             <Value Name="BoostBallGlow"/>
         </Element>
         <Element>
-            <Key ID="0xAC47C5D4" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xAC47C5D4" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound7"/>
         </Element>
         <Element>
             <Key ID="0xAC47C628" Type="float"/>
@@ -31322,8 +31346,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xAC6B3F57" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xAC6B3F57" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="M"/>
         </Element>
         <Element>
             <Key ID="0xAC6CBF9D" Type="float"/>
@@ -31338,8 +31362,8 @@
             <Value Name="NodeColor"/>
         </Element>
         <Element>
-            <Key ID="0xAC870724" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xAC870724" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B"/>
         </Element>
         <Element>
             <Key ID="0xAC8BB2A7" Type="WeaponVulnerability"/>
@@ -31578,8 +31602,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xADB34FB1" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xADB34FB1" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="S"/>
         </Element>
         <Element>
             <Key ID="0xADB462E2" Type="KorakkData"/>
@@ -32478,8 +32502,8 @@
             <Value Name="ScanDotPauseMaxTime"/>
         </Element>
         <Element>
-            <Key ID="0xB27ECE5F" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xB27ECE5F" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain13"/>
         </Element>
         <Element>
             <Key ID="0xB2807D6D" Type="int"/>
@@ -32770,8 +32794,8 @@
             <Value Name="Item"/>
         </Element>
         <Element>
-            <Key ID="0xB3E5EC4E" Type="VolcanoBossBodyPartStructD"/>
-            <Value Name="VolcanoBossBodyPartStructD"/>
+            <Key ID="0xB3E5EC4E" Type="VolcanoBossCollisionActorData"/>
+            <Value Name="CollisionActor5"/>
         </Element>
         <Element>
             <Key ID="0xB3E6C4E3" Type="asset"/>
@@ -33066,8 +33090,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xB5B6B56C" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0xB5B6B56C" Type="MasterLayer"/>
+            <Value Name="MasterLayer6"/>
         </Element>
         <Element>
             <Key ID="0xB5BA1FE7" Type="DamageInfo"/>
@@ -33215,7 +33239,11 @@
         </Element>
         <Element>
             <Key ID="0xB6641BF0" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Quick"/>
+        </Element>
+        <Element>
+            <Key ID="0xB6641BF0" Type="characteranimation"/>
+            <Value Name="Quick"/>
         </Element>
         <Element>
             <Key ID="0xB668244C" Type="BehaviorData"/>
@@ -33286,8 +33314,8 @@
             <Value Name="DespawnRules"/>
         </Element>
         <Element>
-            <Key ID="0xB6B08E13" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0xB6B08E13" Type="MasterLayer"/>
+            <Value Name="MasterLayer2"/>
         </Element>
         <Element>
             <Key ID="0xB6B4CE74" Type="float"/>
@@ -34031,7 +34059,11 @@
         </Element>
         <Element>
             <Key ID="0xBB0EE668" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="ReactionAnimation"/>
+        </Element>
+        <Element>
+            <Key ID="0xBB0EE668" Type="characteranimation"/>
+            <Value Name="ReactionAnimation"/>
         </Element>
         <Element>
             <Key ID="0xBB0FFDD6" Type="int"/>
@@ -34095,7 +34127,7 @@
         </Element>
         <Element>
             <Key ID="0xBB5658B3" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="ChestArmorAttachment"/>
         </Element>
         <Element>
             <Key ID="0xBB58C088" Type="DamageInfo"/>
@@ -34138,7 +34170,7 @@
             <Value Name="Sound_CuttingLaser"/>
         </Element>
         <Element>
-            <Key ID="0xBB9D3D6D" Type="UnknownStruct3"/>
+            <Key ID="0xBB9D3D6D" Type="TurretDamageInfo"/>
             <Value Name="UnknownStruct3"/>
         </Element>
         <Element>
@@ -34358,8 +34390,8 @@
             <Value Name="PickupDelay"/>
         </Element>
         <Element>
-            <Key ID="0xBC98748C" Type="UnknownStruct256"/>
-            <Value Name="UnknownStruct256"/>
+            <Key ID="0xBC98748C" Type="RobotChickenDebugActorData"/>
+            <Value Name="CollisionActors"/>
         </Element>
         <Element>
             <Key ID="0xBC9BBAF9" Type="float"/>
@@ -34410,8 +34442,8 @@
             <Value Name="AngularSpeed"/>
         </Element>
         <Element>
-            <Key ID="0xBCD94EEC" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xBCD94EEC" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B2"/>
         </Element>
         <Element>
             <Key ID="0xBCE16644" Type="bool"/>
@@ -35038,8 +35070,8 @@
             <Value Name="SwingLineMaxAngle"/>
         </Element>
         <Element>
-            <Key ID="0xC035BCEB" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC035BCEB" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="P"/>
         </Element>
         <Element>
             <Key ID="0xC03EC271" Type="bool"/>
@@ -35118,16 +35150,16 @@
             <Value Name="FirstSpawn"/>
         </Element>
         <Element>
-            <Key ID="0xC0F12817" Type="VolcanoBossBodyPartStructA"/>
-            <Value Name="VolcanoBossBodyPartStructA"/>
+            <Key ID="0xC0F12817" Type="VolcanoBossAttackTypeEnum"/>
+            <Value Name="Alternate"/>
         </Element>
         <Element>
             <Key ID="0xC0FE10C6" Type="Vector"/>
             <Value Name="DKRidingOffset"/>
         </Element>
         <Element>
-            <Key ID="0xC101F47E" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC101F47E" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A"/>
         </Element>
         <Element>
             <Key ID="0xC10219BF" Type="bool"/>
@@ -35166,8 +35198,8 @@
             <Value Name="ScanDotColor"/>
         </Element>
         <Element>
-            <Key ID="0xC12E5CE3" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0xC12E5CE3" Type="MasterLayer"/>
+            <Value Name="MasterLayer1"/>
         </Element>
         <Element>
             <Key ID="0xC12F397A" Type="float"/>
@@ -35270,8 +35302,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xC1EDCC0D" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC1EDCC0D" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="N"/>
         </Element>
         <Element>
             <Key ID="0xC1F06D19" Type="LaunchProjectileData"/>
@@ -35318,8 +35350,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xC228679C" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0xC228679C" Type="MasterLayer"/>
+            <Value Name="MasterLayer5"/>
         </Element>
         <Element>
             <Key ID="0xC22D3652" Type="float"/>
@@ -35362,8 +35394,8 @@
             <Value Name="LookAheadSpacing"/>
         </Element>
         <Element>
-            <Key ID="0xC243DF95" Type="UnknownStruct268"/>
-            <Value Name="UnknownStruct268"/>
+            <Key ID="0xC243DF95" Type="SpinnerSoundData"/>
+            <Value Name="SoundData"/>
         </Element>
         <Element>
             <Key ID="0xC245A874" Type="asset"/>
@@ -35906,8 +35938,8 @@
             <Value Name="FastExitSound"/>
         </Element>
         <Element>
-            <Key ID="0xC52074B9" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC52074B9" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C8"/>
         </Element>
         <Element>
             <Key ID="0xC525C427" Type="float"/>
@@ -36034,8 +36066,8 @@
             <Value Name="Location"/>
         </Element>
         <Element>
-            <Key ID="0xC5CC4CCA" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC5CC4CCA" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C7"/>
         </Element>
         <Element>
             <Key ID="0xC5CE83AF" Type="asset"/>
@@ -36134,8 +36166,8 @@
             <Value Name="Context"/>
         </Element>
         <Element>
-            <Key ID="0xC6691902" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC6691902" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D8"/>
         </Element>
         <Element>
             <Key ID="0xC6705A00" Type="int"/>
@@ -36150,8 +36182,8 @@
             <Value Name="MaterialEffects3"/>
         </Element>
         <Element>
-            <Key ID="0xC6852171" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC6852171" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D7"/>
         </Element>
         <Element>
             <Key ID="0xC6869327" Type="Color"/>
@@ -36334,8 +36366,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xC7222A1D" Type="LayerToggle"/>
-            <Value Name="LayerSwitch"/>
+            <Key ID="0xC7222A1D" Type="MasterLayer"/>
+            <Value Name="MasterLayer9"/>
         </Element>
         <Element>
             <Key ID="0xC72A46D1" Type="asset"/>
@@ -36391,7 +36423,11 @@
         </Element>
         <Element>
             <Key ID="0xC762476C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Fake"/>
+        </Element>
+        <Element>
+            <Key ID="0xC762476C" Type="characteranimation"/>
+            <Value Name="Fake"/>
         </Element>
         <Element>
             <Key ID="0xC768C1E9" Type="float"/>
@@ -36586,8 +36622,8 @@
             <Value Name="MinimumFireBallInterval"/>
         </Element>
         <Element>
-            <Key ID="0xC885C777" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xC885C777" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A5"/>
         </Element>
         <Element>
             <Key ID="0xC88AD680" Type="asset"/>
@@ -37087,7 +37123,11 @@
         </Element>
         <Element>
             <Key ID="0xCB515E2A" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="SecondaryTelegraph"/>
+        </Element>
+        <Element>
+            <Key ID="0xCB515E2A" Type="characteranimation"/>
+            <Value Name="SecondaryTelegraph"/>
         </Element>
         <Element>
             <Key ID="0xCB560763" Type="BopJumpData"/>
@@ -37191,7 +37231,7 @@
         </Element>
         <Element>
             <Key ID="0xCBC01154" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="ChooseWorldPromptText"/>
         </Element>
         <Element>
             <Key ID="0xCBE595D8" Type="bool"/>
@@ -37258,8 +37298,8 @@
             <Value Name="CopyrightTextString"/>
         </Element>
         <Element>
-            <Key ID="0xCC528ED6" Type="UnknownStruct249"/>
-            <Value Name="UnknownStruct249"/>
+            <Key ID="0xCC528ED6" Type="PlayerDeathData"/>
+            <Value Name="DeathData"/>
         </Element>
         <Element>
             <Key ID="0xCC53C738" Type="UnknownStruct28"/>
@@ -37626,12 +37666,12 @@
             <Value Name="CalculateVisibility"/>
         </Element>
         <Element>
-            <Key ID="0xCE39F1E8" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xCE39F1E8" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain15"/>
         </Element>
         <Element>
-            <Key ID="0xCE4189A9" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xCE4189A9" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain6"/>
         </Element>
         <Element>
             <Key ID="0xCE471A01" Type="float"/>
@@ -37839,7 +37879,7 @@
         </Element>
         <Element>
             <Key ID="0xCF2F0BF9" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayerRidesLeft"/>
         </Element>
         <Element>
             <Key ID="0xCF363B64" Type="asset"/>
@@ -38174,8 +38214,8 @@
             <Value Name="AllowPeanutGun"/>
         </Element>
         <Element>
-            <Key ID="0xD12C7F32" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xD12C7F32" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound16"/>
         </Element>
         <Element>
             <Key ID="0xD13BEC3F" Type="EmperorIngStage3Stage"/>
@@ -38210,12 +38250,12 @@
             <Value Name="CombatReticules"/>
         </Element>
         <Element>
-            <Key ID="0xD15DF9A6" Type="UnknownStruct196"/>
-            <Value Name="UnknownStruct196"/>
+            <Key ID="0xD15DF9A6" Type="ProjectileMotionPhysics"/>
+            <Value Name="MotionPhysics"/>
         </Element>
         <Element>
-            <Key ID="0xD15FBDB6" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xD15FBDB6" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B1"/>
         </Element>
         <Element>
             <Key ID="0xD16539A7" Type="float"/>
@@ -38230,8 +38270,8 @@
             <Value Name="DarkSamusStruct"/>
         </Element>
         <Element>
-            <Key ID="0xD170DEA1" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xD170DEA1" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound12"/>
         </Element>
         <Element>
             <Key ID="0xD171838C" Type="GhorArmorPiece"/>
@@ -38626,8 +38666,8 @@
             <Value Name="FlashIncandescence"/>
         </Element>
         <Element>
-            <Key ID="0xD3326E65" Type="UnknownStruct17"/>
-            <Value Name="UnknownStruct17"/>
+            <Key ID="0xD3326E65" Type="ShieldingData"/>
+            <Value Name="Shielding"/>
         </Element>
         <Element>
             <Key ID="0xD3356FE7" Type="bool"/>
@@ -39010,8 +39050,8 @@
             <Value Name="CannonBallDamage"/>
         </Element>
         <Element>
-            <Key ID="0xD520975D" Type="UnknownStruct30"/>
-            <Value Name="UnknownStruct30"/>
+            <Key ID="0xD520975D" Type="IngPuddleData"/>
+            <Value Name="IngPuddleProperties"/>
         </Element>
         <Element>
             <Key ID="0xD52CD4FB" Type="SidescrollHorizontalBehavior"/>
@@ -39190,8 +39230,8 @@
             <Value Name="RepeatedAttackChance"/>
         </Element>
         <Element>
-            <Key ID="0xD64B757E" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xD64B757E" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain22"/>
         </Element>
         <Element>
             <Key ID="0xD64EFF80" Type="float"/>
@@ -39799,7 +39839,7 @@
         </Element>
         <Element>
             <Key ID="0xD9F6253B" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxSubBlinks"/>
         </Element>
         <Element>
             <Key ID="0xD9FC0E1E" Type="float"/>
@@ -39862,8 +39902,8 @@
             <Value Name="HurlDirection"/>
         </Element>
         <Element>
-            <Key ID="0xDA471E5C" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xDA471E5C" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound8"/>
         </Element>
         <Element>
             <Key ID="0xDA54B3E9" Type="Convergence"/>
@@ -39910,12 +39950,12 @@
             <Value Name="BirdBossStruct"/>
         </Element>
         <Element>
-            <Key ID="0xDAA2FCE9" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xDAA2FCE9" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound4"/>
         </Element>
         <Element>
-            <Key ID="0xDAA9D4BE" Type="UnknownStruct7"/>
-            <Value Name="Attachment1"/>
+            <Key ID="0xDAA9D4BE" Type="ActorAttachment"/>
+            <Value Name="ActorAttachment1"/>
         </Element>
         <Element>
             <Key ID="0xDAADF917" Type="int"/>
@@ -39954,8 +39994,8 @@
             <Value Name="HitDetectionAngle"/>
         </Element>
         <Element>
-            <Key ID="0xDAE21374" Type="UnknownStruct37"/>
-            <Value Name="UnknownStruct37"/>
+            <Key ID="0xDAE21374" Type="GhorClawData"/>
+            <Value Name="Claw"/>
         </Element>
         <Element>
             <Key ID="0xDAE8C14E" Type="SafeZoneAttributes"/>
@@ -39966,8 +40006,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xDAFE5D7A" Type="OceanBridgeStructB"/>
-            <Value Name="OceanBridgeStructB"/>
+            <Key ID="0xDAFE5D7A" Type="OceanBridgeSoundSelect"/>
+            <Value Name="PlankSound0"/>
         </Element>
         <Element>
             <Key ID="0xDB0A9583" Type="float"/>
@@ -40358,8 +40398,8 @@
             <Value Name="Rider3"/>
         </Element>
         <Element>
-            <Key ID="0xDD5C7083" Type="UnknownStruct290"/>
-            <Value Name="UnknownStruct290"/>
+            <Key ID="0xDD5C7083" Type="VolcanoBossAttackStageData"/>
+            <Value Name="AttackStageData"/>
         </Element>
         <Element>
             <Key ID="0xDD5F2E3D" Type="TBeamInfo"/>
@@ -40958,8 +40998,8 @@
             <Value Name="PhazonCannonBeamInfo"/>
         </Element>
         <Element>
-            <Key ID="0xE0DCFBBE" Type="UnknownStruct254"/>
-            <Value Name="UnknownStruct254"/>
+            <Key ID="0xE0DCFBBE" Type="RobotChickenBeltData"/>
+            <Value Name="BeltData"/>
         </Element>
         <Element>
             <Key ID="0xE0E4573D" Type="int"/>
@@ -41018,8 +41058,8 @@
             <Value Name="UseForCreatureTouchBounds"/>
         </Element>
         <Element>
-            <Key ID="0xE14E1DFC" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xE14E1DFC" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C6"/>
         </Element>
         <Element>
             <Key ID="0xE1558837" Type="float"/>
@@ -41074,8 +41114,8 @@
             <Value Name="Nunchaku_StickDown"/>
         </Element>
         <Element>
-            <Key ID="0xE1A2258F" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xE1A2258F" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="C9"/>
         </Element>
         <Element>
             <Key ID="0xE1AE51D8" Type="float"/>
@@ -41170,8 +41210,8 @@
             <Value Name="MaxSplashKineticEnergy"/>
         </Element>
         <Element>
-            <Key ID="0xE2077047" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xE2077047" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D6"/>
         </Element>
         <Element>
             <Key ID="0xE20E51C3" Type="FlyerMovementMode"/>
@@ -41190,8 +41230,8 @@
             <Value Name="DeadEffectName"/>
         </Element>
         <Element>
-            <Key ID="0xE22FBDC4" Type="UnknownStruct135"/>
-            <Value Name="UnknownStruct135"/>
+            <Key ID="0xE22FBDC4" Type="SoundSupportData"/>
+            <Value Name="SoundSupport"/>
         </Element>
         <Element>
             <Key ID="0xE233135A" Type="FollowSplineBehaviorData"/>
@@ -41342,8 +41382,8 @@
             <Value Name="DarkSamusStruct"/>
         </Element>
         <Element>
-            <Key ID="0xE2EB4834" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xE2EB4834" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="D9"/>
         </Element>
         <Element>
             <Key ID="0xE2EBE3B3" Type="asset"/>
@@ -41558,8 +41598,8 @@
             <Value Name="BoostBallTrailEffect"/>
         </Element>
         <Element>
-            <Key ID="0xE41DF06B" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xE41DF06B" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain30"/>
         </Element>
         <Element>
             <Key ID="0xE428F231" Type="float"/>
@@ -41654,8 +41694,8 @@
             <Value Name="BallShellStart"/>
         </Element>
         <Element>
-            <Key ID="0xE4854160" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xE4854160" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain25"/>
         </Element>
         <Element>
             <Key ID="0xE488B89E" Type="float"/>
@@ -41682,8 +41722,8 @@
             <Value Name="TripleChargeOuterRadius"/>
         </Element>
         <Element>
-            <Key ID="0xE4B7EDDD" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xE4B7EDDD" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="Q"/>
         </Element>
         <Element>
             <Key ID="0xE4C1BBEB" Type="Color"/>
@@ -41770,8 +41810,8 @@
             <Value Name="DarkMapVisitedSurfaceColor"/>
         </Element>
         <Element>
-            <Key ID="0xE554EA3C" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xE554EA3C" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain9"/>
         </Element>
         <Element>
             <Key ID="0xE5567935" Type="sound"/>
@@ -41798,8 +41838,8 @@
             <Value Name="PlayerScale"/>
         </Element>
         <Element>
-            <Key ID="0xE56F9D3B" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xE56F9D3B" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="O"/>
         </Element>
         <Element>
             <Key ID="0xE570E6FE" Type="float"/>
@@ -42002,8 +42042,8 @@
             <Value Name="TrackPlayer"/>
         </Element>
         <Element>
-            <Key ID="0xE6857328" Type="UnknownStruct291"/>
-            <Value Name="UnknownStruct291"/>
+            <Key ID="0xE6857328" Type="VolcanoBossHeadData"/>
+            <Value Name="HeadData"/>
         </Element>
         <Element>
             <Key ID="0xE6861167" Type="WallCrawlerData"/>
@@ -42054,8 +42094,8 @@
             <Value Name="CanElectricEelAttack"/>
         </Element>
         <Element>
-            <Key ID="0xE6C64015" Type="UnknownStruct13"/>
-            <Value Name="UnknownStruct13"/>
+            <Key ID="0xE6C64015" Type="DarkCommandoChargeBeamData"/>
+            <Value Name="ChargeBeamAttackInfo"/>
         </Element>
         <Element>
             <Key ID="0xE6DDB662" Type="float"/>
@@ -42427,7 +42467,7 @@
         </Element>
         <Element>
             <Key ID="0xE8AC748D" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="FreelookPromptTextCore"/>
         </Element>
         <Element>
             <Key ID="0xE8B15278" Type="float"/>
@@ -43066,8 +43106,8 @@
             <Value Name="HudDamageDistortionMagnitudeConstant"/>
         </Element>
         <Element>
-            <Key ID="0xEC079641" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xEC079641" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="A4"/>
         </Element>
         <Element>
             <Key ID="0xEC07A9BE" Type="float"/>
@@ -43219,7 +43259,7 @@
         </Element>
         <Element>
             <Key ID="0xECD9D92D" Type="float"/>
-            <Value Name="SplitDestroyedPriority"/>
+            <Value Name="ShieldHP"/>
         </Element>
         <Element>
             <Key ID="0xECDA4163" Type="int"/>
@@ -43331,7 +43371,7 @@
         </Element>
         <Element>
             <Key ID="0xED52AB86" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChestStayOpenTimeMin"/>
         </Element>
         <Element>
             <Key ID="0xED5EC8A1" Type="bool"/>
@@ -44083,7 +44123,7 @@
         </Element>
         <Element>
             <Key ID="0xF12D036B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PartiallyPressedMax"/>
         </Element>
         <Element>
             <Key ID="0xF139AF99" Type="asset"/>
@@ -44446,8 +44486,8 @@
             <Value Name="GibElectricParticles"/>
         </Element>
         <Element>
-            <Key ID="0xF361604C" Type="UnknownStruct7"/>
-            <Value Name="Attachment2"/>
+            <Key ID="0xF361604C" Type="ActorAttachment"/>
+            <Value Name="ActorAttachment2"/>
         </Element>
         <Element>
             <Key ID="0xF36ADACB" Type="Color"/>
@@ -44990,8 +45030,8 @@
             <Value Name="ParticleSystem1Orientation"/>
         </Element>
         <Element>
-            <Key ID="0xF5DDEC80" Type="TrainTrackManagerStructA"/>
-            <Value Name="TrainTrackManagerStructA"/>
+            <Key ID="0xF5DDEC80" Type="TrainTrackManagerSequenceInstData"/>
+            <Value Name="B0"/>
         </Element>
         <Element>
             <Key ID="0xF5DF62AD" Type="bool"/>
@@ -45158,12 +45198,8 @@
             <Value Name="FullyPressed"/>
         </Element>
         <Element>
-            <Key ID="0xF6BB44EA" Type="UnknownStruct23"/>
-            <Value Name="UnknownStruct74"/>
-        </Element>
-        <Element>
-            <Key ID="0xF6BB44EA" Type="UnknownStruct74"/>
-            <Value Name="UnknownStruct74"/>
+            <Key ID="0xF6BB44EA" Type="FrameObjectsOrientation"/>
+            <Value Name="FrameObjectsOrientation"/>
         </Element>
         <Element>
             <Key ID="0xF6BDAFB8" Type="float"/>
@@ -45250,8 +45286,8 @@
             <Value Name="HyperModeAggroAlert3"/>
         </Element>
         <Element>
-            <Key ID="0xF744C956" Type="VolcanoBossBodyPartStructD"/>
-            <Value Name="VolcanoBossBodyPartStructD"/>
+            <Key ID="0xF744C956" Type="VolcanoBossCollisionActorData"/>
+            <Value Name="CollisionActor6"/>
         </Element>
         <Element>
             <Key ID="0xF74BBAD2" Type="Color"/>
@@ -45386,8 +45422,8 @@
             <Value Name="UnknownStruct260"/>
         </Element>
         <Element>
-            <Key ID="0xF8019F49" Type="VolcanoBossBodyPartStructA"/>
-            <Value Name="VolcanoBossBodyPartStructA"/>
+            <Key ID="0xF8019F49" Type="VolcanoBossAttackTypeEnum"/>
+            <Value Name="SingleHand"/>
         </Element>
         <Element>
             <Key ID="0xF804D41C" Type="bool"/>
@@ -45402,8 +45438,8 @@
             <Value Name="BallUpGravity"/>
         </Element>
         <Element>
-            <Key ID="0xF80C8835" Type="UnknownStruct20"/>
-            <Value Name="UnknownStruct20"/>
+            <Key ID="0xF80C8835" Type="SeedBoss3Stage3Data"/>
+            <Value Name="Stage3"/>
         </Element>
         <Element>
             <Key ID="0xF80FCAE2" Type="float"/>
@@ -45838,8 +45874,8 @@
             <Value Name="Attack"/>
         </Element>
         <Element>
-            <Key ID="0xFA364EB6" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0xFA364EB6" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel12"/>
         </Element>
         <Element>
             <Key ID="0xFA4A836C" Type="float"/>
@@ -45874,8 +45910,8 @@
             <Value Name="MinTargetDistance"/>
         </Element>
         <Element>
-            <Key ID="0xFA6AEF25" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0xFA6AEF25" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel16"/>
         </Element>
         <Element>
             <Key ID="0xFA6EDEB5" Type="float"/>
@@ -46314,8 +46350,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xFC8FBDB7" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xFC8FBDB7" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain1"/>
         </Element>
         <Element>
             <Key ID="0xFC913090" Type="int"/>
@@ -46390,8 +46426,8 @@
             <Value Name="Damping"/>
         </Element>
         <Element>
-            <Key ID="0xFCF7C5F6" Type="TrainTrackManagerStructB"/>
-            <Value Name="TrainTrackManagerStructB"/>
+            <Key ID="0xFCF7C5F6" Type="TrainTrackManagerSequenceChainInstData"/>
+            <Value Name="Chain12"/>
         </Element>
         <Element>
             <Key ID="0xFD0AEACC" Type="int"/>
@@ -46410,8 +46446,8 @@
             <Value Name="Initial_Count"/>
         </Element>
         <Element>
-            <Key ID="0xFD1BC54F" Type="RobotChickenStructB"/>
-            <Value Name="StaticHazard"/>
+            <Key ID="0xFD1BC54F" Type="RobotChickenAttackData"/>
+            <Value Name="Attack1"/>
         </Element>
         <Element>
             <Key ID="0xFD1E2F56" Type="float"/>
@@ -46438,8 +46474,8 @@
             <Value Name="LocomotionSpeed"/>
         </Element>
         <Element>
-            <Key ID="0xFD4764DC" Type="RobotChickenStructB"/>
-            <Value Name="RobotChickenStructB"/>
+            <Key ID="0xFD4764DC" Type="RobotChickenAttackData"/>
+            <Value Name="Attack5"/>
         </Element>
         <Element>
             <Key ID="0xFD4C4FEE" Type="float"/>
@@ -46466,8 +46502,8 @@
             <Value Name="PhazonCannonMinRange"/>
         </Element>
         <Element>
-            <Key ID="0xFD62CC85" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0xFD62CC85" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel9"/>
         </Element>
         <Element>
             <Key ID="0xFD6D2B52" Type="PuddleControlData"/>
@@ -46478,8 +46514,8 @@
             <Value Name="MeleeEnabled"/>
         </Element>
         <Element>
-            <Key ID="0xFD872E30" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0xFD872E30" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel5"/>
         </Element>
         <Element>
             <Key ID="0xFD8A9692" Type="bool"/>
@@ -46522,8 +46558,8 @@
             <Value Name="JunctionVulnerability"/>
         </Element>
         <Element>
-            <Key ID="0xFDDB8FA3" Type="OceanBridgeStructA"/>
-            <Value Name="OceanBridgeStructA"/>
+            <Key ID="0xFDDB8FA3" Type="OceanBridgeModelSelect"/>
+            <Value Name="PlankModel1"/>
         </Element>
         <Element>
             <Key ID="0xFDDD9ABB" Type="CharacterAnimationSet"/>
@@ -46654,8 +46690,8 @@
             <Value Name="CloakEnabled"/>
         </Element>
         <Element>
-            <Key ID="0xFE6F6D0F" Type="UnknownStruct251"/>
-            <Value Name="UnknownStruct251"/>
+            <Key ID="0xFE6F6D0F" Type="RocketBarrelWakeSoundData"/>
+            <Value Name="Sound"/>
         </Element>
         <Element>
             <Key ID="0xFE819DDB" Type="enum"/>
@@ -46678,8 +46714,8 @@
             <Value Name="MoveSpeedMultiplier"/>
         </Element>
         <Element>
-            <Key ID="0xFE9257CE" Type="UnknownStruct200"/>
-            <Value Name="UnknownStruct200"/>
+            <Key ID="0xFE9257CE" Type="ProjectileMotionWaypointFollower"/>
+            <Value Name="MotionWaypointFollower"/>
         </Element>
         <Element>
             <Key ID="0xFE95100F" Type="Color"/>
@@ -46727,7 +46763,7 @@
         </Element>
         <Element>
             <Key ID="0xFEBBC04E" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="FreelookReturnPromptText"/>
         </Element>
         <Element>
             <Key ID="0xFEC02688" Type="float"/>

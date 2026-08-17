@@ -37,7 +37,7 @@
             <Element Type="Float" ID="0x411D1FD5">
                 <DefaultValue>80.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xD3326E65" Archetype="UnknownStruct17"/>
+            <Element Type="Struct" ID="0xD3326E65" Archetype="ShieldingData"/>
             <Element Type="Float" ID="0x61C4C0EA">
                 <DefaultValue>8.0</DefaultValue>
             </Element>

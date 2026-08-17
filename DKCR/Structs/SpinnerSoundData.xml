@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>SpinnerSoundData</Name>
+        <SubProperties>
+            <Element Type="Asset" ID="0xD8738FC8">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Enum" ID="0x6A06FAEE">
+                <DefaultValue>0x2FD7B2AA</DefaultValue>
+                <Values>
+                    <Element Name="kSplineInput_ChargeAmount" ID="0x2FD7B2AA"/>
+                    <Element Name="kSplineInput_ChargeSpeedRatio" ID="0x5F24CC64"/>
+                    <Element Name="kSplineInput_Unknown 3" ID="0x63E170C0"/>
+                </Values>
+            </Element>
+            <Element Type="Float" ID="0xAC56FC9">
+                <DefaultValue>0.5</DefaultValue>
+            </Element>
+            <Element Type="Spline" ID="0xF27C01EE"/>
+            <Element Type="Spline" ID="0xCFE42324"/>
+            <Element Type="Spline" ID="0x533090A0"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

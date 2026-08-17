@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>TarPitData</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x719066EB" Archetype="UnknownStruct270"/>
+            <Element Type="Struct" ID="0x719066EB" Archetype="TarPitDataActionFlags"/>
             <Element Type="Float" ID="0xFBA6A1D6">
                 <DefaultValue>2.0</DefaultValue>
             </Element>

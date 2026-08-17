@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>OceanBridgeSoundSelect</Name>
+        <SubProperties>
+            <Element Type="Enum" ID="0x5CE1B917">
+                <DefaultValue>0xAE14FDF2</DefaultValue>
+                <Values>
+                    <Element Name="kSoundSelect_None" ID="0x2C537229"/>
+                    <Element Name="kSoundSelect_Default" ID="0xAE14FDF2"/>
+                    <Element Name="kSoundSelect_Alt12" ID="0xD5CA1C57"/>
+                    <Element Name="kSoundSelect_Alt34" ID="0xE9FDBE0"/>
+                </Values>
+            </Element>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

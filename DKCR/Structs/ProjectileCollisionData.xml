@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>ProjectileCollisionData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xA9F8A74F">
+            <Element Type="Flags" ID="0xA9F8A74F">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>64</DefaultValue>
             </Element>

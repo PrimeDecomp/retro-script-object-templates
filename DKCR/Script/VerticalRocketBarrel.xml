@@ -38,7 +38,7 @@
             <Element Type="Struct" ID="0x3C38498D" Archetype="PlayerCommonData"/>
             <Element Type="Struct" ID="0x978E5BD8" Archetype="PlayerMountData"/>
             <Element Type="Struct" ID="0x7F681411" Archetype="PlayerMountRiderList"/>
-            <Element Type="Struct" ID="0x45B5B754" Archetype="UnknownStruct297"/>
+            <Element Type="Struct" ID="0x45B5B754" Archetype="VerticalRocketBarrelThrustData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

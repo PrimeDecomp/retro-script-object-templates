@@ -7,8 +7,8 @@
             <Element Type="Choice" ID="0x7FC4E336">
                 <DefaultValue>2</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x9AC8106A" Archetype="UnknownStruct91"/>
-            <Element Type="Struct" ID="0x74E96428" Archetype="UnknownStruct92"/>
+            <Element Type="Struct" ID="0x9AC8106A" Archetype="DynamicAffectedLightSets"/>
+            <Element Type="Struct" ID="0x74E96428" Archetype="DynamicLightOptions"/>
             <Element Type="Color" ID="0x37C7D09D">
                 <DefaultValue>
                     <R>1.0</R>

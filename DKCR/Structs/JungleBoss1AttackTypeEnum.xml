@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>JungleBoss1AttackTypeEnum</Name>
+        <SubProperties>
+            <Element Type="Enum" ID="0x7D939A1">
+                <DefaultValue>0xB5C34B64</DefaultValue>
+                <Values>
+                    <Element Name="kAttackType_None" ID="0xB5C34B64"/>
+                    <Element Name="kAttackType_RandomJump" ID="0xF6C99000"/>
+                    <Element Name="kAttackType_TargetedJump" ID="0x68A96070"/>
+                    <Element Name="kAttackType_Charge" ID="0xB84F81A2"/>
+                    <Element Name="kAttackType_SuperCharge" ID="0x37617E57"/>
+                    <Element Name="kAttackType_FireBeam" ID="0x6792F3EA"/>
+                    <Element Name="kAttackType_MeteorRain" ID="0xC4DDB1D6"/>
+                </Values>
+            </Element>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

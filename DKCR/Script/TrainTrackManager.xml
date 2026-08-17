@@ -21,9 +21,9 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x3EDF57B4" Archetype="UnknownStruct273"/>
-            <Element Type="Struct" ID="0x19C9392" Archetype="UnknownStruct274"/>
-            <Element Type="Struct" ID="0x1871BA9B" Archetype="UnknownStruct275"/>
+            <Element Type="Struct" ID="0x3EDF57B4" Archetype="TrainTrackManagerData"/>
+            <Element Type="Struct" ID="0x19C9392" Archetype="TrainTrackManagerSequenceData"/>
+            <Element Type="Struct" ID="0x1871BA9B" Archetype="TrainTrackManagerSequenceChainData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

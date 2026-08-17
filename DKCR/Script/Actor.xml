@@ -105,7 +105,7 @@
             <Element Type="Bool" ID="0xA38A84C2">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x6C75E2EA" Archetype="UnknownStruct8"/>
+            <Element Type="Struct" ID="0x6C75E2EA" Archetype="ActorAttachments"/>
             <Element Type="Struct" ID="0x68FD49AE" Archetype="AnimGridModifierData"/>
         </SubProperties>
     </Properties>

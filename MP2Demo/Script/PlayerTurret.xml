@@ -34,7 +34,7 @@
             <Element Type="Float" ID="0xC6E48F18">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x4E4724E6" Archetype="UnknownStruct3"/>
+            <Element Type="Struct" ID="0x4E4724E6" Archetype="TurretDamageInfo"/>
             <Element Type="Asset" ID="0xC43360A7">
                 <TypeFilter>
                     <Element>WPSC</Element>

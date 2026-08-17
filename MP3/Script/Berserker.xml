@@ -62,7 +62,7 @@
             <Element Type="Struct" ID="0x54F9FFA5" Archetype="BerserkerData"/>
             <Element Type="Struct" ID="0x2D8DC0AF" Archetype="BerserkerData"/>
             <Element Type="Struct" ID="0xE10CE828" Archetype="BerserkerData"/>
-            <Element Type="Struct" ID="0x7B8C48C7" Archetype="UnknownStruct21"/>
+            <Element Type="Struct" ID="0x7B8C48C7" Archetype="AiDifficultySetting"/>
         </SubProperties>
     </Properties>
     <EditorProperties>
