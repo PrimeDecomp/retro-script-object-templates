@@ -47,7 +47,7 @@
                     <Element Name="WeaponSwitch" ID="0x20"/>
                     <Element Name="LaunchPlayer" ID="0x21"/>
                     <Element Name="RechargeStation" ID="0x22"/>
-                    <Element Name="Darkworld" ID="0x23"/>
+                    <Element Name="WorldSwapper" ID="0x23"/>
                     <Element Name="PlayerOffscreen" ID="0x24"/>
                     <Element Name="Function 37" ID="0x25"/>
                     <Element Name="Function 38" ID="0x26"/>
@@ -64,7 +64,7 @@
                     <Element Name="TransparencyWipe" ID="0x31"/>
                     <Element Name="Function 50" ID="0x32"/>
                     <Element Name="InventoryItemLost" ID="0x33"/>
-                    <Element Name="Function 52" ID="0x34"/>
+                    <Element Name="DemoTimeoutResetController" ID="0x34"/>
                     <Element Name="SunGeneratorTeleporter" ID="0x35"/>
                     <Element Name="SkyLighting" ID="0x36"/>
                     <Element Name="OcclusionRelay" ID="0x37"/>

@@ -7,22 +7,22 @@
             <Element Type="Flags" ID="0x3BF4EBA8">
                 <DefaultValue>6400</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xE56495FB" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x239DEBFC" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x27E8D703" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x2F914525" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x23AA31B7" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0xE9E388AF" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0xDE5A2C87" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x1B3B2394" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0xF5666B6E" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x66C618AA" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0xB36D0FB6" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0xCBB013CB" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x4ABFB789" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0xFB6A407A" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x3AE66F80" Archetype="SpindleCameraStruct"/>
-            <Element Type="Struct" ID="0x6654AE92" Archetype="SpindleCameraStruct"/>
+            <Element Type="Struct" ID="0xE56495FB" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x239DEBFC" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x27E8D703" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x2F914525" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x23AA31B7" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0xE9E388AF" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0xDE5A2C87" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x1B3B2394" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0xF5666B6E" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x66C618AA" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0xB36D0FB6" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0xCBB013CB" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x4ABFB789" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0xFB6A407A" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x3AE66F80" Archetype="SpindleCameraInterpolant"/>
+            <Element Type="Struct" ID="0x6654AE92" Archetype="SpindleCameraInterpolant"/>
             <Element Type="Struct" ID="0x5604D304" Archetype="SplineType"/>
             <Element Type="Bool" ID="0x33B4F106">
                 <DefaultValue>false</DefaultValue>

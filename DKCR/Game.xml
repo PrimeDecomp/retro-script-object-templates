@@ -700,6 +700,10 @@
             <Value Path="Structs/AreaDamageData.xml"/>
         </Element>
         <Element>
+            <Key>AreaDamageModifierData</Key>
+            <Value Path="Structs/AreaDamageModifierData.xml"/>
+        </Element>
+        <Element>
             <Key>AttackSelector</Key>
             <Value Path="Enums/AttackSelector.xml"/>
         </Element>
@@ -1032,6 +1036,10 @@
             <Value Path="Structs/FloatingBubbleBehaviorData.xml"/>
         </Element>
         <Element>
+            <Key>FloatingFollowerBehaviorData</Key>
+            <Value Path="Structs/FloatingFollowerBehaviorData.xml"/>
+        </Element>
+        <Element>
             <Key>FollowPathControlBehaviorData</Key>
             <Value Path="Structs/FollowPathControlBehaviorData.xml"/>
         </Element>
@@ -1272,6 +1280,10 @@
             <Value Path="Structs/MiscControls.xml"/>
         </Element>
         <Element>
+            <Key>ModalParameters</Key>
+            <Value Path="Structs/ModalParameters.xml"/>
+        </Element>
+        <Element>
             <Key>ModifyContactRuleData</Key>
             <Value Path="Structs/ModifyContactRuleData.xml"/>
         </Element>
@@ -1304,10 +1316,6 @@
             <Value Path="Structs/MotionPlatformData.xml"/>
         </Element>
         <Element>
-            <Key>MultiModelActorStruct</Key>
-            <Value Path="Structs/MultiModelActorStruct.xml"/>
-        </Element>
-        <Element>
             <Key>MultiModelInformation</Key>
             <Value Path="Structs/MultiModelInformation.xml"/>
         </Element>
@@ -1322,10 +1330,6 @@
         <Element>
             <Key>MusicTrackData</Key>
             <Value Path="Structs/MusicTrackData.xml"/>
-        </Element>
-        <Element>
-            <Key>NonSlowdown</Key>
-            <Value Path="Structs/NonSlowdown.xml"/>
         </Element>
         <Element>
             <Key>OceanBridgeData</Key>
@@ -1390,6 +1394,10 @@
         <Element>
             <Key>PathDeterminationMethodType</Key>
             <Value Path="Structs/PathDeterminationMethodType.xml"/>
+        </Element>
+        <Element>
+            <Key>PathInterpolation</Key>
+            <Value Path="Structs/PathInterpolation.xml"/>
         </Element>
         <Element>
             <Key>PathOffset</Key>
@@ -1864,10 +1872,6 @@
             <Value Path="Structs/RotationSplines.xml"/>
         </Element>
         <Element>
-            <Key>SavedStateID</Key>
-            <Value Path="Structs/SavedStateID.xml"/>
-        </Element>
-        <Element>
             <Key>ScaleSplines</Key>
             <Value Path="Structs/ScaleSplines.xml"/>
         </Element>
@@ -2176,16 +2180,8 @@
             <Value Path="Structs/UnknownStruct.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct115</Key>
-            <Value Path="Structs/UnknownStruct115.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct128</Key>
             <Value Path="Structs/UnknownStruct128.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct133</Key>
-            <Value Path="Structs/UnknownStruct133.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct134</Key>

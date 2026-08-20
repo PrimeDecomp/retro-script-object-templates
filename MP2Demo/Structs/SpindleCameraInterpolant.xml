@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="Echoes">
+<PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
     <PropertyArchetype Type="Struct">
-        <Name>SpindleCameraStruct</Name>
+        <Name>SpindleCameraInterpolant</Name>
         <SubProperties>
             <Element Type="Choice" ID="0x3E9CF140">
                 <DefaultValue>0</DefaultValue>

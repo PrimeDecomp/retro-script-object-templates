@@ -118,8 +118,8 @@
                     <Element>CSKR</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x1098D091" Archetype="PlayerActorStruct"/>
-            <Element Type="Struct" ID="0xC7385390" Archetype="PlayerActorStruct"/>
+            <Element Type="Struct" ID="0x1098D091" Archetype="PlayerActorOverlay"/>
+            <Element Type="Struct" ID="0xC7385390" Archetype="PlayerActorOverlay"/>
             <Element Type="Flags" ID="0x33507998">
                 <DefaultValue>16388</DefaultValue>
             </Element>

@@ -16,7 +16,7 @@
                     <Element Name="kSF_CinematicSkipSignal" ID="0x49069735"/>
                     <Element Name="kSF_CompletionScreen" ID="0x2E5341"/>
                     <Element Name="kSF_CoreFallDistance" ID="0x9EB76DEE"/>
-                    <Element Name="kSF_Function 9 (Unused)" ID="0x14B45D36"/>
+                    <Element Name="kSF_DemoTimeoutResetController" ID="0x14B45D36"/>
                     <Element Name="kSF_DisableHud" ID="0x766ED410"/>
                     <Element Name="kSF_DropBomb" ID="0xD5D0EA93"/>
                     <Element Name="kSF_EndGame" ID="0x7E025D14"/>
@@ -36,7 +36,7 @@
                     <Element Name="kSF_ModifyInventoryAmount" ID="0x96AB6130"/>
                     <Element Name="kSF_ModifyInventoryAmountAndCapacity" ID="0x698AAB1A"/>
                     <Element Name="kSF_ModifyInventoryCapacity" ID="0x83888007"/>
-                    <Element Name="kSF_Function 29 (Unused)" ID="0xC15AB262"/>
+                    <Element Name="kSF_ObjectFollowFluidSurface" ID="0xC15AB262"/>
                     <Element Name="kSF_ObjectFollowJoint" ID="0x5FE350B"/>
                     <Element Name="kSF_ObjectFollowLocator" ID="0x982A42A3"/>
                     <Element Name="kSF_ObjectFollowObject" ID="0x73810303"/>

@@ -920,10 +920,6 @@
             <Value Path="Structs/LayerInfo.xml"/>
         </Element>
         <Element>
-            <Key>LayerSwitch</Key>
-            <Value Path="Structs/LayerSwitch.xml"/>
-        </Element>
-        <Element>
             <Key>LightParameters</Key>
             <Value Path="Structs/LightParameters.xml"/>
         </Element>
@@ -938,6 +934,10 @@
         <Element>
             <Key>MapControls</Key>
             <Value Path="Structs/MapControls.xml"/>
+        </Element>
+        <Element>
+            <Key>MasterLayer</Key>
+            <Value Path="Structs/MasterLayer.xml"/>
         </Element>
         <Element>
             <Key>MetroidHatcherData</Key>
@@ -958,10 +958,6 @@
         <Element>
             <Key>MysteryFlyerData</Key>
             <Value Path="Structs/MysteryFlyerData.xml"/>
-        </Element>
-        <Element>
-            <Key>NonSlowdown</Key>
-            <Value Path="Structs/NonSlowdown.xml"/>
         </Element>
         <Element>
             <Key>OffsetInterpolant</Key>
@@ -1002,6 +998,10 @@
         <Element>
             <Key>PathDeterminationMethodType</Key>
             <Value Path="Structs/PathDeterminationMethodType.xml"/>
+        </Element>
+        <Element>
+            <Key>PathInterpolation</Key>
+            <Value Path="Structs/PathInterpolation.xml"/>
         </Element>
         <Element>
             <Key>PathPosition</Key>

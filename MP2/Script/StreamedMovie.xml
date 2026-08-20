@@ -14,7 +14,7 @@
             <Element Type="Bool" ID="0x36963BCC">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xA78AC0C0">
+            <Element Type="Choice" ID="0xA78AC0C0">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x80C66C37">

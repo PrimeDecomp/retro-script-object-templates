@@ -134,7 +134,11 @@
                     <Element>CAUD</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Asset" ID="0xAC0D6AFB"/>
+            <Element Type="Asset" ID="0xAC0D6AFB">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Vector" ID="0x130539A0">
                 <DefaultValue>
                     <X>0.0</X>

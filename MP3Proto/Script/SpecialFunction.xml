@@ -42,7 +42,7 @@
                     <Element Name="kSF_WeaponSwitch" ID="0xD4988D98"/>
                     <Element Name="kSF_LaunchPlayer" ID="0x90031E91"/>
                     <Element Name="kSF_RechargeStation" ID="0x9BE4E305"/>
-                    <Element Name="kSF_Darkworld" ID="0xD6394D61"/>
+                    <Element Name="kSF_WorldSwapper" ID="0xD6394D61"/>
                     <Element Name="kSF_PlayerOffscreen" ID="0x26AA4AC9"/>
                     <Element Name="kSF_RespawnPlayer" ID="0xD8AD2D4A"/>
                     <Element Name="Unknown 39" ID="0xEF4684FC"/>
@@ -57,9 +57,9 @@
                     <Element Name="kSF_SunPlacement" ID="0x5F266355"/>
                     <Element Name="Unknown 49" ID="0x1B2F7D23"/>
                     <Element Name="kSF_TransparencyWipe" ID="0x8CCC218"/>
-                    <Element Name="Unknown 51" ID="0xC05D96F3"/>
+                    <Element Name="Play movie?" ID="0xC05D96F3"/>
                     <Element Name="kSF_InventoryItemLost" ID="0x2A535FD6"/>
-                    <Element Name="Unknown 53" ID="0x14B45D36"/>
+                    <Element Name="kSF_DemoTimeoutResetController" ID="0x14B45D36"/>
                     <Element Name="kSF_SunGeneratorTeleporter" ID="0xD7E2F62F"/>
                     <Element Name="kSF_SkyLighting" ID="0x7F0CE328"/>
                     <Element Name="kSF_OcclusionRelay" ID="0x9EAEB97A"/>
