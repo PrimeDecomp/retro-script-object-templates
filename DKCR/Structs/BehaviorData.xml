@@ -24,7 +24,7 @@
                     <Element Name="kBehaviorType_StackableBlock" ID="0xC12DFB21"/>
                     <Element Name="kBehaviorType_Spawn" ID="0xF95E279E"/>
                     <Element Name="kBehaviorType_Swoop" ID="0x16039717"/>
-                    <Element Name="kBehaviorType_Unknown 19" ID="0x21DC6F2D"/>
+                    <Element Name="kBehaviorType_FloatingFollower" ID="0x21DC6F2D"/>
                     <Element Name="kBehaviorType_FloatingBubble" ID="0xC53F0B30"/>
                     <Element Name="kBehaviorType_Slide" ID="0x1BBF061B"/>
                     <Element Name="kBehaviorType_FollowSpline" ID="0xCD30F2D2"/>
@@ -65,7 +65,7 @@
             <Element Type="Struct" ID="0xABF0E7C3" Archetype="StackableBlockBehaviorData"/>
             <Element Type="Struct" ID="0xB3E150A1" Archetype="SpawnBehaviorData"/>
             <Element Type="Struct" ID="0xE5139DB0" Archetype="SwoopBehaviorData"/>
-            <Element Type="Struct" ID="0x3A5925D6" Archetype="UnknownStruct115"/>
+            <Element Type="Struct" ID="0x3A5925D6" Archetype="FloatingFollowerBehaviorData"/>
             <Element Type="Struct" ID="0xDE440D53" Archetype="FloatingBubbleBehaviorData"/>
             <Element Type="Struct" ID="0x6C80D03A" Archetype="SlideBehaviorData"/>
             <Element Type="Struct" ID="0xE233135A" Archetype="FollowSplineBehaviorData"/>

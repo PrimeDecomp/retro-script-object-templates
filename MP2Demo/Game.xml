@@ -664,8 +664,8 @@
             <Value Path="Structs/DamageVulnerability.xml"/>
         </Element>
         <Element>
-            <Key>DarkSamusStruct</Key>
-            <Value Path="Structs/DarkSamusStruct.xml"/>
+            <Key>DarkSamusStage</Key>
+            <Value Path="Structs/DarkSamusStage.xml"/>
         </Element>
         <Element>
             <Key>DigitalGuardianData</Key>
@@ -752,12 +752,12 @@
             <Value Path="Structs/LayerInfo.xml"/>
         </Element>
         <Element>
-            <Key>LayerSwitch</Key>
-            <Value Path="Structs/LayerSwitch.xml"/>
-        </Element>
-        <Element>
             <Key>LightParameters</Key>
             <Value Path="Structs/LightParameters.xml"/>
+        </Element>
+        <Element>
+            <Key>MasterLayer</Key>
+            <Value Path="Structs/MasterLayer.xml"/>
         </Element>
         <Element>
             <Key>MinorIngBoostBallGuardian</Key>
@@ -832,8 +832,8 @@
             <Value Path="Structs/SpawnPointStruct.xml"/>
         </Element>
         <Element>
-            <Key>SpindleCameraStruct</Key>
-            <Value Path="Structs/SpindleCameraStruct.xml"/>
+            <Key>SpindleCameraInterpolant</Key>
+            <Value Path="Structs/SpindleCameraInterpolant.xml"/>
         </Element>
         <Element>
             <Key>SplineType</Key>

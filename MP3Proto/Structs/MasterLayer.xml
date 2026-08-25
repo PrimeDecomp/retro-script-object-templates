@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
+<PropertyTemplate ArchiveVer="4" Game="CorruptionProto">
     <PropertyArchetype Type="Struct">
-        <Name>LayerSwitch</Name>
+        <Name>MasterLayer</Name>
         <Atomic>true</Atomic>
         <SubProperties>
             <Element Type="Asset" ID="0x0">

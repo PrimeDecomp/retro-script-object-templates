@@ -4,7 +4,7 @@
         <Name>CinematicCamera</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x16D9A75D" Archetype="SavedStateID"/>
+            <Element Type="Guid" ID="0x16D9A75D"/>
             <Element Type="Enum" ID="0xCC08EF1B">
                 <DefaultValue>0x85F15E1D</DefaultValue>
                 <Values>

@@ -8,11 +8,11 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Struct" ID="0x96782873" Archetype="SeedBoss2Assets"/>
-            <Element Type="Struct" ID="0xB1461BC0" Archetype="SeedBoss2PrimeBotData"/>
+            <Element Type="Struct" ID="0xB1461BC0" Archetype="SeedBoss2Data"/>
             <Element Type="Struct" ID="0xB3774750" Archetype="PatternedAITypedef"/>
-            <Element Type="Struct" ID="0xD578F188" Archetype="SeedBoss2PrimeBotData"/>
+            <Element Type="Struct" ID="0xD578F188" Archetype="SeedBoss2Data"/>
             <Element Type="Struct" ID="0x1464AE05" Archetype="PatternedAITypedef"/>
-            <Element Type="Struct" ID="0xE3585B48" Archetype="SeedBoss2PrimeBotData"/>
+            <Element Type="Struct" ID="0xE3585B48" Archetype="SeedBoss2Data"/>
             <Element Type="Struct" ID="0x24D00673" Archetype="PatternedAITypedef"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
         </SubProperties>

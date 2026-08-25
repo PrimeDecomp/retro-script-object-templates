@@ -32,7 +32,7 @@
             <Element Type="Int" ID="0xB581574B">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x8249F6C7" Archetype="LayerSwitch"/>
+            <Element Type="Struct" ID="0x8249F6C7" Archetype="MasterLayer"/>
             <Element Type="Int" ID="0x3FA164BC">
                 <DefaultValue>0</DefaultValue>
             </Element>

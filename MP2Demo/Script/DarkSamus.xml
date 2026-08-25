@@ -38,11 +38,11 @@
             <Element Type="Float" ID="0x2C6A3344">
                 <DefaultValue>100.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xE2E95270" Archetype="DarkSamusStruct"/>
-            <Element Type="Struct" ID="0xF3943809" Archetype="DarkSamusStruct"/>
-            <Element Type="Struct" ID="0x4A6FE3E1" Archetype="DarkSamusStruct"/>
-            <Element Type="Struct" ID="0xD16EECFB" Archetype="DarkSamusStruct"/>
-            <Element Type="Struct" ID="0x68953713" Archetype="DarkSamusStruct"/>
+            <Element Type="Struct" ID="0xE2E95270" Archetype="DarkSamusStage"/>
+            <Element Type="Struct" ID="0xF3943809" Archetype="DarkSamusStage"/>
+            <Element Type="Struct" ID="0x4A6FE3E1" Archetype="DarkSamusStage"/>
+            <Element Type="Struct" ID="0xD16EECFB" Archetype="DarkSamusStage"/>
+            <Element Type="Struct" ID="0x68953713" Archetype="DarkSamusStage"/>
             <Element Type="Struct" ID="0x4D790EE9" Archetype="DamageInfo"/>
             <Element Type="Asset" ID="0x6D40AA56">
                 <TypeFilter>

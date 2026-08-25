@@ -15,7 +15,7 @@
                     <Element Name="kMIT_PreDefinedPath" ID="0xCED3B632"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0x79DE4BA5" Archetype="NonSlowdown"/>
+            <Element Type="Struct" ID="0x79DE4BA5" Archetype="PathInterpolation"/>
             <Element Type="Struct" ID="0x287F9F45" Archetype="InterpolationMethod"/>
         </SubProperties>
     </PropertyArchetype>

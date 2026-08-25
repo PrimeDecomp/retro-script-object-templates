@@ -4,7 +4,7 @@
         <Name>Door</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Struct" ID="0x16D9A75D" Archetype="SavedStateID"/>
+            <Element Type="Guid" ID="0x16D9A75D"/>
             <Element Type="Vector" ID="0xF344C0B0">
                 <DefaultValue>
                     <X>0.0</X>

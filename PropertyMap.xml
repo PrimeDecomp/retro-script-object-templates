@@ -115,11 +115,11 @@
         </Element>
         <Element>
             <Key ID="0xB17E5F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="NumLODModels"/>
         </Element>
         <Element>
             <Key ID="0xB4FFDB" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="MirrorModeWarningText"/>
         </Element>
         <Element>
             <Key ID="0xB83F02" Type="float"/>
@@ -159,7 +159,7 @@
         </Element>
         <Element>
             <Key ID="0xE9C72C" Type="asset"/>
-            <Value Name="WPSC"/>
+            <Value Name="PirateProjectileWeaponSystem"/>
         </Element>
         <Element>
             <Key ID="0xEB3AF7" Type="DamageInfo"/>
@@ -243,7 +243,7 @@
         </Element>
         <Element>
             <Key ID="0x145D02D" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ColorAddToEnd"/>
         </Element>
         <Element>
             <Key ID="0x14A0C36" Type="asset"/>
@@ -903,7 +903,7 @@
         </Element>
         <Element>
             <Key ID="0x50924D3" Type="Vector"/>
-            <Value Name="Unknown"/>
+            <Value Name="HyperHomingProjectileSize"/>
         </Element>
         <Element>
             <Key ID="0x50AF31E" Type="float"/>
@@ -1451,7 +1451,7 @@
         </Element>
         <Element>
             <Key ID="0x847909F" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="SlaveObjectOrientationLocalSpace"/>
         </Element>
         <Element>
             <Key ID="0x85648BC" Type="ProportionalConvergence"/>
@@ -1783,7 +1783,7 @@
         </Element>
         <Element>
             <Key ID="0xA693A04" Type="AudioPlaybackParms"/>
-            <Value Name="AudioPlaybackParms"/>
+            <Value Name="Sound_HeadModuleHit"/>
         </Element>
         <Element>
             <Key ID="0xA6B376F" Type="int"/>
@@ -2467,7 +2467,7 @@
         </Element>
         <Element>
             <Key ID="0xE8A3F95" Type="Vector"/>
-            <Value Name="Unknown"/>
+            <Value Name="TouchBoundsScalar"/>
         </Element>
         <Element>
             <Key ID="0xE958D9E" Type="float"/>
@@ -2598,8 +2598,8 @@
             <Value Name="Location"/>
         </Element>
         <Element>
-            <Key ID="0xF5765C9" Type="UnknownStruct66"/>
-            <Value Name="UnknownStruct66"/>
+            <Key ID="0xF5765C9" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice1"/>
         </Element>
         <Element>
             <Key ID="0xF598739" Type="float"/>
@@ -2834,8 +2834,8 @@
             <Value Name="YesCore"/>
         </Element>
         <Element>
-            <Key ID="0x1098D091" Type="PlayerActorStruct"/>
-            <Value Name="PlayerActorStruct"/>
+            <Key ID="0x1098D091" Type="PlayerActorOverlay"/>
+            <Value Name="OverlayModelInfo"/>
         </Element>
         <Element>
             <Key ID="0x10A4E795" Type="asset"/>
@@ -2951,7 +2951,7 @@
         </Element>
         <Element>
             <Key ID="0x11234A3F" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="StartIconDeactivated"/>
         </Element>
         <Element>
             <Key ID="0x11286BD3" Type="float"/>
@@ -3003,7 +3003,7 @@
         </Element>
         <Element>
             <Key ID="0x1176C469" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_spine_2"/>
         </Element>
         <Element>
             <Key ID="0x118F1E46" Type="int"/>
@@ -3079,7 +3079,7 @@
         </Element>
         <Element>
             <Key ID="0x11EA2651" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_r_ankle"/>
         </Element>
         <Element>
             <Key ID="0x11F728A1" Type="bool"/>
@@ -3162,8 +3162,8 @@
             <Value Name="FOV"/>
         </Element>
         <Element>
-            <Key ID="0x12459941" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x12459941" Type="ModalParameters"/>
+            <Value Name="x07"/>
         </Element>
         <Element>
             <Key ID="0x124974E5" Type="ShipDecalSwapPair"/>
@@ -3267,7 +3267,7 @@
         </Element>
         <Element>
             <Key ID="0x13013139" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SurfaceDisplacementScale"/>
         </Element>
         <Element>
             <Key ID="0x130539A0" Type="Vector"/>
@@ -3575,7 +3575,7 @@
         </Element>
         <Element>
             <Key ID="0x14A4DDCA" Type="Color"/>
-            <Value Name="InnerSeekerOffset"/>
+            <Value Name="Unknown"/>
         </Element>
         <Element>
             <Key ID="0x14B3F716" Type="enum"/>
@@ -3927,7 +3927,7 @@
         </Element>
         <Element>
             <Key ID="0x169301C8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="InitialDirectionAngle"/>
         </Element>
         <Element>
             <Key ID="0x16962C9B" Type="float"/>
@@ -3990,7 +3990,7 @@
             <Value Name="AnnihilatorBeamCombo"/>
         </Element>
         <Element>
-            <Key ID="0x16D9A75D" Type="SavedStateID"/>
+            <Key ID="0x16D9A75D" Type="guid"/>
             <Value Name="ObjectId"/>
         </Element>
         <Element>
@@ -3999,7 +3999,7 @@
         </Element>
         <Element>
             <Key ID="0x16E7D74A" Type="asset"/>
-            <Value Name="CRSC"/>
+            <Value Name="FederationProjectileCollisionResponse"/>
         </Element>
         <Element>
             <Key ID="0x16E8D4E8" Type="PirateDroneData"/>
@@ -4055,7 +4055,7 @@
         </Element>
         <Element>
             <Key ID="0x1749405B" Type="asset"/>
-            <Value Name="FSMC"/>
+            <Value Name="AiFSM"/>
         </Element>
         <Element>
             <Key ID="0x174A5EC9" Type="float"/>
@@ -4083,7 +4083,7 @@
         </Element>
         <Element>
             <Key ID="0x17789D1C" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="MorningStarIceChunkModel"/>
         </Element>
         <Element>
             <Key ID="0x17895CD7" Type="float"/>
@@ -4275,7 +4275,7 @@
         </Element>
         <Element>
             <Key ID="0x1899C839" Type="asset"/>
-            <Value Name="ShockNotSolid"/>
+            <Value Name="WheelBurstElectricity"/>
         </Element>
         <Element>
             <Key ID="0x189D7017" Type="enum"/>
@@ -4415,7 +4415,7 @@
         </Element>
         <Element>
             <Key ID="0x1963BA71" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something7Angle"/>
         </Element>
         <Element>
             <Key ID="0x19686BF6" Type="float"/>
@@ -4606,8 +4606,8 @@
             <Value Name="DensityVolumeSpline"/>
         </Element>
         <Element>
-            <Key ID="0x1A5BA8DA" Type="UnknownStruct133"/>
-            <Value Name="UnknownStruct133"/>
+            <Key ID="0x1A5BA8DA" Type="AreaDamageModifierData"/>
+            <Value Name="AreaDamage"/>
         </Element>
         <Element>
             <Key ID="0x1A662787" Type="asset"/>
@@ -4835,7 +4835,7 @@
         </Element>
         <Element>
             <Key ID="0x1B21EEB2" Type="asset"/>
-            <Value Name="FSMC"/>
+            <Value Name="AnimationFSM"/>
         </Element>
         <Element>
             <Key ID="0x1B23374B" Type="UnknownStruct266"/>
@@ -4878,8 +4878,8 @@
             <Value Name="DisallowUpdateAfterTurnTime"/>
         </Element>
         <Element>
-            <Key ID="0x1B3B2394" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x1B3B2394" Type="SpindleCameraInterpolant"/>
+            <Value Name="LookAtAngularOffset"/>
         </Element>
         <Element>
             <Key ID="0x1B3C8683" Type="float"/>
@@ -6191,7 +6191,7 @@
         </Element>
         <Element>
             <Key ID="0x228A8DEF" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevOrbitTagObjects"/>
         </Element>
         <Element>
             <Key ID="0x228EE623" Type="float"/>
@@ -6242,8 +6242,8 @@
             <Value Name="ProjectileExplosionShaker"/>
         </Element>
         <Element>
-            <Key ID="0x22BD900D" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x22BD900D" Type="Flags"/>
+            <Value Name="NavigationFlagsCameraNavigation"/>
         </Element>
         <Element>
             <Key ID="0x22C57F64" Type="float"/>
@@ -6359,7 +6359,7 @@
         </Element>
         <Element>
             <Key ID="0x2369607A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MidToFarDistance"/>
         </Element>
         <Element>
             <Key ID="0x236BBE14" Type="float"/>
@@ -6382,8 +6382,8 @@
             <Value Name="Intensity"/>
         </Element>
         <Element>
-            <Key ID="0x239DEBFC" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x239DEBFC" Type="SpindleCameraInterpolant"/>
+            <Value Name="LinearSpeed"/>
         </Element>
         <Element>
             <Key ID="0x23A160F3" Type="float"/>
@@ -6394,8 +6394,8 @@
             <Value Name="IdleOrientation"/>
         </Element>
         <Element>
-            <Key ID="0x23AA31B7" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x23AA31B7" Type="SpindleCameraInterpolant"/>
+            <Value Name="DesiredAngularOffset"/>
         </Element>
         <Element>
             <Key ID="0x23BD3943" Type="float"/>
@@ -6479,7 +6479,7 @@
         </Element>
         <Element>
             <Key ID="0x23FF4BE4" Type="TIcon_Configurations"/>
-            <Value Name="Unknown"/>
+            <Value Name="Power_Beam_Icon_Configurations"/>
         </Element>
         <Element>
             <Key ID="0x2409B906" Type="bool"/>
@@ -6527,7 +6527,7 @@
         </Element>
         <Element>
             <Key ID="0x2443E8EC" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmorModIncaColorNormal"/>
         </Element>
         <Element>
             <Key ID="0x24447DC3" Type="float"/>
@@ -6579,7 +6579,7 @@
         </Element>
         <Element>
             <Key ID="0x248DE37C" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EnableGotoMap"/>
         </Element>
         <Element>
             <Key ID="0x24937085" Type="float"/>
@@ -7238,8 +7238,8 @@
             <Value Name="MotionControlSpline"/>
         </Element>
         <Element>
-            <Key ID="0x27E8D703" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x27E8D703" Type="SpindleCameraInterpolant"/>
+            <Value Name="MotionRadius"/>
         </Element>
         <Element>
             <Key ID="0x27F8BA64" Type="PirateCrabData"/>
@@ -7635,7 +7635,7 @@
         </Element>
         <Element>
             <Key ID="0x2A7A2DA7" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HyperHomingProjectileStopHomingDist"/>
         </Element>
         <Element>
             <Key ID="0x2A7D0101" Type="float"/>
@@ -8662,8 +8662,8 @@
             <Value Name="InPlaceSound"/>
         </Element>
         <Element>
-            <Key ID="0x2F914525" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x2F914525" Type="SpindleCameraInterpolant"/>
+            <Value Name="RadialOffset"/>
         </Element>
         <Element>
             <Key ID="0x2F9A2EE4" Type="string"/>
@@ -8763,7 +8763,7 @@
         </Element>
         <Element>
             <Key ID="0x3058AFF2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something0Angle"/>
         </Element>
         <Element>
             <Key ID="0x305B3232" Type="UnknownStruct29"/>
@@ -9103,7 +9103,7 @@
         </Element>
         <Element>
             <Key ID="0x321C97A9" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="BombSlotDestroyedFx"/>
         </Element>
         <Element>
             <Key ID="0x321FAE5B" Type="bool"/>
@@ -9190,8 +9190,8 @@
             <Value Name="DarkBeam"/>
         </Element>
         <Element>
-            <Key ID="0x32C76FEA" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x32C76FEA" Type="ModalParameters"/>
+            <Value Name="x09"/>
         </Element>
         <Element>
             <Key ID="0x32CE899F" Type="CharacterAnimationSet"/>
@@ -9511,11 +9511,11 @@
         </Element>
         <Element>
             <Key ID="0x348C9D90" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaximumSpeedForAudio"/>
         </Element>
         <Element>
             <Key ID="0x34915075" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrappleMaxVisibleDistance"/>
         </Element>
         <Element>
             <Key ID="0x349E242E" Type="WeaponVulnerability"/>
@@ -9811,7 +9811,7 @@
         </Element>
         <Element>
             <Key ID="0x364A7B36" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="LightAffectsPrimaryLightSet"/>
         </Element>
         <Element>
             <Key ID="0x364C5EFA" Type="asset"/>
@@ -9938,8 +9938,8 @@
             <Value Name="Part5"/>
         </Element>
         <Element>
-            <Key ID="0x37073D5E" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x37073D5E" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice5"/>
         </Element>
         <Element>
             <Key ID="0x3707468E" Type="float"/>
@@ -9983,7 +9983,7 @@
         </Element>
         <Element>
             <Key ID="0x372F6C92" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HungryPhaseOutChanceMin"/>
         </Element>
         <Element>
             <Key ID="0x37304F48" Type="DamageInfo"/>
@@ -10303,7 +10303,7 @@
         </Element>
         <Element>
             <Key ID="0x38EE6D6E" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevFreeLookGun"/>
         </Element>
         <Element>
             <Key ID="0x38F20661" Type="enum"/>
@@ -10578,8 +10578,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x3A5925D6" Type="UnknownStruct115"/>
-            <Value Name="UnknownStruct115"/>
+            <Key ID="0x3A5925D6" Type="FloatingFollowerBehaviorData"/>
+            <Value Name="FloatingFollower"/>
         </Element>
         <Element>
             <Key ID="0x3A5AB398" Type="float"/>
@@ -10674,8 +10674,8 @@
             <Value Name="PhazonShotAbsorbRadius"/>
         </Element>
         <Element>
-            <Key ID="0x3AE66F80" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x3AE66F80" Type="SpindleCameraInterpolant"/>
+            <Value Name="ConstraintFlipAngle"/>
         </Element>
         <Element>
             <Key ID="0x3AEE01E4" Type="int"/>
@@ -10770,8 +10770,8 @@
             <Value Name="FOVInterpolationOn"/>
         </Element>
         <Element>
-            <Key ID="0x3B8D2DB3" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x3B8D2DB3" Type="ModalParameters"/>
+            <Value Name="x04"/>
         </Element>
         <Element>
             <Key ID="0x3B8D9A8E" Type="float"/>
@@ -10951,7 +10951,7 @@
         </Element>
         <Element>
             <Key ID="0x3C5E109A" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="ModelPositionY"/>
         </Element>
         <Element>
             <Key ID="0x3C5E2D90" Type="asset"/>
@@ -10963,7 +10963,7 @@
         </Element>
         <Element>
             <Key ID="0x3C67B14E" Type="asset"/>
-            <Value Name="IsDashAutomatically"/>
+            <Value Name="Sound_ShellGameImpact"/>
         </Element>
         <Element>
             <Key ID="0x3C6AF2AC" Type="float"/>
@@ -11055,7 +11055,7 @@
         </Element>
         <Element>
             <Key ID="0x3CFA69F1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Heckle"/>
         </Element>
         <Element>
             <Key ID="0x3CFF8C12" Type="float"/>
@@ -11791,7 +11791,7 @@
         </Element>
         <Element>
             <Key ID="0x410F03B0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something5Angle"/>
         </Element>
         <Element>
             <Key ID="0x4113FFD8" Type="float"/>
@@ -12119,7 +12119,7 @@
         </Element>
         <Element>
             <Key ID="0x429C17BD" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="MegaBoostThruPlayerDamage"/>
         </Element>
         <Element>
             <Key ID="0x429C5C25" Type="PlayerMountRiderData"/>
@@ -12163,7 +12163,7 @@
         </Element>
         <Element>
             <Key ID="0x42BA06CD" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="ViewReplayText"/>
         </Element>
         <Element>
             <Key ID="0x42C64D90" Type="bool"/>
@@ -12887,7 +12887,7 @@
         </Element>
         <Element>
             <Key ID="0x46CC1B48" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScaleDamageOverTime"/>
         </Element>
         <Element>
             <Key ID="0x46CC2FD0" Type="float"/>
@@ -12923,7 +12923,7 @@
         </Element>
         <Element>
             <Key ID="0x46F96675" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="CanPulseRingAttack"/>
         </Element>
         <Element>
             <Key ID="0x470306BE" Type="asset"/>
@@ -13327,7 +13327,7 @@
         </Element>
         <Element>
             <Key ID="0x48EF8ADE" Type="enum"/>
-            <Value Name="Unknown"/>
+            <Value Name="PickupOrDropItem"/>
         </Element>
         <Element>
             <Key ID="0x4900393F" Type="int"/>
@@ -13559,7 +13559,7 @@
         </Element>
         <Element>
             <Key ID="0x4A2BEDE4" Type="asset"/>
-            <Value Name="RightReachingLocation"/>
+            <Value Name="MedalSuffixBronze"/>
         </Element>
         <Element>
             <Key ID="0x4A2E425F" Type="bool"/>
@@ -13630,8 +13630,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x4A6FE3E1" Type="DarkSamusStruct"/>
-            <Value Name="DarkSamusStruct"/>
+            <Key ID="0x4A6FE3E1" Type="DarkSamusStage"/>
+            <Value Name="Stage3"/>
         </Element>
         <Element>
             <Key ID="0x4A744859" Type="spline"/>
@@ -13691,7 +13691,7 @@
         </Element>
         <Element>
             <Key ID="0x4AB23FFE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MachineGunHalfSweepDist"/>
         </Element>
         <Element>
             <Key ID="0x4AB24275" Type="sound"/>
@@ -13711,7 +13711,7 @@
         </Element>
         <Element>
             <Key ID="0x4ABA6361" Type="float"/>
-            <Value Name="PhaseTempleDisableTimeMin"/>
+            <Value Name="TargetPhaseOpacityMax"/>
         </Element>
         <Element>
             <Key ID="0x4ABADE16" Type="Vector2f"/>
@@ -13722,8 +13722,8 @@
             <Value Name="VariaSuitGrappleSkinRule"/>
         </Element>
         <Element>
-            <Key ID="0x4ABFB789" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x4ABFB789" Type="SpindleCameraInterpolant"/>
+            <Value Name="DesiredAngularSpeed"/>
         </Element>
         <Element>
             <Key ID="0x4ACC5921" Type="ForestBossData"/>
@@ -13875,7 +13875,7 @@
         </Element>
         <Element>
             <Key ID="0x4B6B499A" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmBobZ"/>
         </Element>
         <Element>
             <Key ID="0x4B6EB6CA" Type="float"/>
@@ -14263,7 +14263,7 @@
         </Element>
         <Element>
             <Key ID="0x4D7984E6" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_l_shoulder"/>
         </Element>
         <Element>
             <Key ID="0x4D7DBEAB" Type="CharacterAnimationSet"/>
@@ -14435,7 +14435,7 @@
         </Element>
         <Element>
             <Key ID="0x4EA02861" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="LightAffectsSecondaryLightSet"/>
         </Element>
         <Element>
             <Key ID="0x4EA6C6A9" Type="LaunchProjectileData"/>
@@ -14567,7 +14567,7 @@
         </Element>
         <Element>
             <Key ID="0x4F547915" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AttachPositionDepthMax"/>
         </Element>
         <Element>
             <Key ID="0x4F58440D" Type="float"/>
@@ -14815,7 +14815,7 @@
         </Element>
         <Element>
             <Key ID="0x50B079ED" Type="float"/>
-            <Value Name="PhaseOutSaysActions"/>
+            <Value Name="MaxDistOffMesh"/>
         </Element>
         <Element>
             <Key ID="0x50B47D78" Type="int"/>
@@ -14987,7 +14987,7 @@
         </Element>
         <Element>
             <Key ID="0x51A7FF4C" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ForcePlayerIntoHyperMode"/>
         </Element>
         <Element>
             <Key ID="0x51ADB968" Type="ControllerScreen"/>
@@ -15315,7 +15315,7 @@
         </Element>
         <Element>
             <Key ID="0x534A7B3C" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevLockCursor"/>
         </Element>
         <Element>
             <Key ID="0x534AC106" Type="choice"/>
@@ -15418,8 +15418,8 @@
             <Value Name="Crosshairs"/>
         </Element>
         <Element>
-            <Key ID="0x53E746A0" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x53E746A0" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice6"/>
         </Element>
         <Element>
             <Key ID="0x53E84718" Type="float"/>
@@ -15587,7 +15587,7 @@
         </Element>
         <Element>
             <Key ID="0x54EEFD3B" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitScanZoneCentreY"/>
         </Element>
         <Element>
             <Key ID="0x54F2892E" Type="float"/>
@@ -15875,7 +15875,7 @@
         </Element>
         <Element>
             <Key ID="0x564E0C8B" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_r_elbow"/>
         </Element>
         <Element>
             <Key ID="0x5650366A" Type="sound"/>
@@ -16123,7 +16123,7 @@
         </Element>
         <Element>
             <Key ID="0x57FEE02A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AttachDamageHealMultiplier"/>
         </Element>
         <Element>
             <Key ID="0x5804032E" Type="asset"/>
@@ -16307,7 +16307,7 @@
         </Element>
         <Element>
             <Key ID="0x58EE9D03" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitZoneCentreX"/>
         </Element>
         <Element>
             <Key ID="0x58F00B0A" Type="TDamageInfo"/>
@@ -16427,7 +16427,7 @@
         </Element>
         <Element>
             <Key ID="0x5997EBE1" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="MorningStarDamage"/>
         </Element>
         <Element>
             <Key ID="0x599EACD6" Type="Vector"/>
@@ -16499,7 +16499,7 @@
         </Element>
         <Element>
             <Key ID="0x5A066E2C" Type="int"/>
-            <Value Name="ScrewAttack"/>
+            <Value Name="ScrewAttackHops"/>
         </Element>
         <Element>
             <Key ID="0x5A15D127" Type="int"/>
@@ -16810,8 +16810,8 @@
             <Value Name="SpinDeathDamage"/>
         </Element>
         <Element>
-            <Key ID="0x5BFE128F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x5BFE128F" Type="choice"/>
+            <Value Name="OptionalAreaAssetTypes"/>
         </Element>
         <Element>
             <Key ID="0x5BFED7DB" Type="enum"/>
@@ -17247,7 +17247,7 @@
         </Element>
         <Element>
             <Key ID="0x5E56E087" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="MedalSuffixGold"/>
         </Element>
         <Element>
             <Key ID="0x5E5B8C0A" Type="Color"/>
@@ -17791,7 +17791,7 @@
         </Element>
         <Element>
             <Key ID="0x61634792" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinHeckleRange"/>
         </Element>
         <Element>
             <Key ID="0x617227B6" Type="float"/>
@@ -17815,7 +17815,7 @@
         </Element>
         <Element>
             <Key ID="0x61959F0D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CohesionPriority"/>
         </Element>
         <Element>
             <Key ID="0x619DAAE5" Type="TrainTrackManagerSequenceChainInstData"/>
@@ -17855,7 +17855,7 @@
         </Element>
         <Element>
             <Key ID="0x61E511B3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NearToMidDistance"/>
         </Element>
         <Element>
             <Key ID="0x61E5D2A4" Type="TrainTrackManagerSequenceChainInstData"/>
@@ -18143,7 +18143,7 @@
         </Element>
         <Element>
             <Key ID="0x638D46CE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HugAttackDelayMin"/>
         </Element>
         <Element>
             <Key ID="0x6392404E" Type="float"/>
@@ -18331,7 +18331,7 @@
         </Element>
         <Element>
             <Key ID="0x64833842" Type="TIcon_Configurations"/>
-            <Value Name="Unknown"/>
+            <Value Name="Wave_Beam_Icon_Configurations"/>
         </Element>
         <Element>
             <Key ID="0x648A2486" Type="float"/>
@@ -18367,7 +18367,7 @@
         </Element>
         <Element>
             <Key ID="0x64C22667" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="CreatureDeathFadeOutSound"/>
         </Element>
         <Element>
             <Key ID="0x64C6C03C" Type="GraphicalTransitionTexture"/>
@@ -18383,7 +18383,7 @@
         </Element>
         <Element>
             <Key ID="0x64D482D5" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinShotsInABurst"/>
         </Element>
         <Element>
             <Key ID="0x64DDD543" Type="WeaponVulnerability"/>
@@ -18638,8 +18638,8 @@
             <Value Name="Invulnerable"/>
         </Element>
         <Element>
-            <Key ID="0x6654AE92" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x6654AE92" Type="SpindleCameraInterpolant"/>
+            <Value Name="FOV"/>
         </Element>
         <Element>
             <Key ID="0x665E7ACE" Type="float"/>
@@ -18730,8 +18730,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x66C618AA" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0x66C618AA" Type="SpindleCameraInterpolant"/>
+            <Value Name="ZOffset"/>
         </Element>
         <Element>
             <Key ID="0x66CDC6E8" Type="float"/>
@@ -18978,12 +18978,12 @@
             <Value Name="VisControl"/>
         </Element>
         <Element>
-            <Key ID="0x681AAA77" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x681AAA77" Type="ModalParameters"/>
+            <Value Name="x10"/>
         </Element>
         <Element>
-            <Key ID="0x681C4457" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x681C4457" Type="ModalParameters"/>
+            <Value Name="x02"/>
         </Element>
         <Element>
             <Key ID="0x681F4C76" Type="UnknownStruct269"/>
@@ -19019,7 +19019,7 @@
         </Element>
         <Element>
             <Key ID="0x68341633" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something2Angle"/>
         </Element>
         <Element>
             <Key ID="0x68454CB4" Type="float"/>
@@ -19090,8 +19090,8 @@
             <Value Name="SplineBobHeight"/>
         </Element>
         <Element>
-            <Key ID="0x68953713" Type="DarkSamusStruct"/>
-            <Value Name="DarkSamusStruct"/>
+            <Key ID="0x68953713" Type="DarkSamusStage"/>
+            <Value Name="Stage5"/>
         </Element>
         <Element>
             <Key ID="0x689A803F" Type="float"/>
@@ -19271,7 +19271,7 @@
         </Element>
         <Element>
             <Key ID="0x699DFF41" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="HyperModeSplineCorruptionRate"/>
         </Element>
         <Element>
             <Key ID="0x69A25F05" Type="asset"/>
@@ -19491,7 +19491,7 @@
         </Element>
         <Element>
             <Key ID="0x6A975CFF" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_r_wrist"/>
         </Element>
         <Element>
             <Key ID="0x6A98EEF6" Type="DamageVulnerability"/>
@@ -19662,8 +19662,8 @@
             <Value Name="RotationFrictionWater"/>
         </Element>
         <Element>
-            <Key ID="0x6BB71E37" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x6BB71E37" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice2"/>
         </Element>
         <Element>
             <Key ID="0x6BB8E35C" Type="DamageInfo"/>
@@ -20527,7 +20527,7 @@
         </Element>
         <Element>
             <Key ID="0x708B0155" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_r_knee"/>
         </Element>
         <Element>
             <Key ID="0x708C3DCE" Type="float"/>
@@ -20691,7 +20691,7 @@
         </Element>
         <Element>
             <Key ID="0x71819B3C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FogGravSuitDist"/>
         </Element>
         <Element>
             <Key ID="0x71829AD6" Type="choice"/>
@@ -20799,7 +20799,7 @@
         </Element>
         <Element>
             <Key ID="0x71F8B8F4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="BounceOffOtherGrenades"/>
         </Element>
         <Element>
             <Key ID="0x72124842" Type="asset"/>
@@ -21023,7 +21023,7 @@
         </Element>
         <Element>
             <Key ID="0x735A909E" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShouldTurnToConverse"/>
         </Element>
         <Element>
             <Key ID="0x737631AD" Type="asset"/>
@@ -21103,7 +21103,7 @@
         </Element>
         <Element>
             <Key ID="0x73EBDCE2" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitScanZoneIdealX"/>
         </Element>
         <Element>
             <Key ID="0x73EE7EC2" Type="float"/>
@@ -21575,7 +21575,7 @@
         </Element>
         <Element>
             <Key ID="0x76BDEFB8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxBeamSoundPercent"/>
         </Element>
         <Element>
             <Key ID="0x76BEA905" Type="TrainTrackManagerSequenceInstData"/>
@@ -21735,7 +21735,7 @@
         </Element>
         <Element>
             <Key ID="0x77941011" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="TonguePhazonArcDamage"/>
         </Element>
         <Element>
             <Key ID="0x779C7B9C" Type="Color"/>
@@ -21887,7 +21887,7 @@
         </Element>
         <Element>
             <Key ID="0x785C41F5" Type="StaticGeometryTest"/>
-            <Value Name="StaticGeometryTest"/>
+            <Value Name="ProjectileStaticGeometryTestDuringTask"/>
         </Element>
         <Element>
             <Key ID="0x7864AD0E" Type="float"/>
@@ -22194,8 +22194,8 @@
             <Value Name="BombReappearDelay"/>
         </Element>
         <Element>
-            <Key ID="0x79DE4BA5" Type="NonSlowdown"/>
-            <Value Name="NonSlowdown"/>
+            <Key ID="0x79DE4BA5" Type="PathInterpolation"/>
+            <Value Name="Path"/>
         </Element>
         <Element>
             <Key ID="0x79E2DE6A" Type="int"/>
@@ -22779,7 +22779,7 @@
         </Element>
         <Element>
             <Key ID="0x7CEED17B" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitZoneIdealY"/>
         </Element>
         <Element>
             <Key ID="0x7CF4790F" Type="OceanWaveData"/>
@@ -22882,8 +22882,8 @@
             <Value Name="DelayVariance"/>
         </Element>
         <Element>
-            <Key ID="0x7DB5008C" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7DB5008C" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice10"/>
         </Element>
         <Element>
             <Key ID="0x7DBACF7A" Type="bool"/>
@@ -22899,7 +22899,7 @@
         </Element>
         <Element>
             <Key ID="0x7DCE5DC2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FogNoGravSuitFactor"/>
         </Element>
         <Element>
             <Key ID="0x7DD63999" Type="float"/>
@@ -23322,8 +23322,8 @@
             <Value Name="OffScreenTurnAroundDistance"/>
         </Element>
         <Element>
-            <Key ID="0x7FF7D4E7" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7FF7D4E7" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice9"/>
         </Element>
         <Element>
             <Key ID="0x7FF86EE2" Type="bool"/>
@@ -23435,11 +23435,11 @@
         </Element>
         <Element>
             <Key ID="0x807EDCC5" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_r_hip"/>
         </Element>
         <Element>
             <Key ID="0x8081DC70" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something4Angle"/>
         </Element>
         <Element>
             <Key ID="0x808392EC" Type="sound"/>
@@ -23455,7 +23455,7 @@
         </Element>
         <Element>
             <Key ID="0x808AE371" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="HyperModePhaazeSplineCorruptionRate"/>
         </Element>
         <Element>
             <Key ID="0x808E9E32" Type="float"/>
@@ -23802,12 +23802,8 @@
             <Value Name="GandraydaHardProperties"/>
         </Element>
         <Element>
-            <Key ID="0x8249F6C7" Type="LayerSwitch"/>
-            <Value Name="Layer"/>
-        </Element>
-        <Element>
-            <Key ID="0x8249F6C7" Type="LayerID"/>
-            <Value Name="Layer"/>
+            <Key ID="0x8249F6C7" Type="MasterLayer"/>
+            <Value Name="MasterLayer"/>
         </Element>
         <Element>
             <Key ID="0x824B8661" Type="float"/>
@@ -24079,7 +24075,7 @@
         </Element>
         <Element>
             <Key ID="0x840BA904" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="EelFormDischargeDamage"/>
         </Element>
         <Element>
             <Key ID="0x8416A311" Type="asset"/>
@@ -24191,7 +24187,7 @@
         </Element>
         <Element>
             <Key ID="0x84927794" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="RollFullySubmergedSound"/>
         </Element>
         <Element>
             <Key ID="0x84951EC7" Type="spline"/>
@@ -24323,7 +24319,7 @@
         </Element>
         <Element>
             <Key ID="0x85437C89" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevFreeLookVelocityPerSecond"/>
         </Element>
         <Element>
             <Key ID="0x854E412D" Type="bool"/>
@@ -24431,7 +24427,7 @@
         </Element>
         <Element>
             <Key ID="0x85EDE92F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HugAttackDelayMax"/>
         </Element>
         <Element>
             <Key ID="0x85EE51ED" Type="float"/>
@@ -24459,7 +24455,7 @@
         </Element>
         <Element>
             <Key ID="0x861CD2A0" Type="asset"/>
-            <Value Name="WPSC"/>
+            <Value Name="TonguePhazonArc"/>
         </Element>
         <Element>
             <Key ID="0x8626BAB3" Type="Color"/>
@@ -24875,7 +24871,7 @@
         </Element>
         <Element>
             <Key ID="0x888049BD" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmorModIncaColorHypermode"/>
         </Element>
         <Element>
             <Key ID="0x888C8775" Type="TweakPlayerGun_Beam_Combo"/>
@@ -25071,7 +25067,7 @@
         </Element>
         <Element>
             <Key ID="0x8985B339" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="DeathBreakApartEffect"/>
         </Element>
         <Element>
             <Key ID="0x89916395" Type="RetronomeMessage"/>
@@ -25203,7 +25199,7 @@
         </Element>
         <Element>
             <Key ID="0x8A4E16E4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="MapScreenZoomInStages"/>
         </Element>
         <Element>
             <Key ID="0x8A53608D" Type="asset"/>
@@ -25271,7 +25267,7 @@
         </Element>
         <Element>
             <Key ID="0x8A9B4EB7" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something8Angle"/>
         </Element>
         <Element>
             <Key ID="0x8AA2BFE5" Type="TextGradientColors"/>
@@ -25543,7 +25539,7 @@
         </Element>
         <Element>
             <Key ID="0x8C0BEE98" Type="asset"/>
-            <Value Name="ImportantMoment"/>
+            <Value Name="Shield_l_knee"/>
         </Element>
         <Element>
             <Key ID="0x8C219932" Type="UnknownStruct52"/>
@@ -25863,7 +25859,7 @@
         </Element>
         <Element>
             <Key ID="0x8DFD6E3C" Type="TIcon_Configurations"/>
-            <Value Name="Unknown"/>
+            <Value Name="Plasma_Beam_Icon_Configurations"/>
         </Element>
         <Element>
             <Key ID="0x8DFF5674" Type="asset"/>
@@ -26219,7 +26215,7 @@
         </Element>
         <Element>
             <Key ID="0x8FBE621D" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_l_wrist"/>
         </Element>
         <Element>
             <Key ID="0x8FC4DBE8" Type="float"/>
@@ -26255,7 +26251,7 @@
         </Element>
         <Element>
             <Key ID="0x900A62F6" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HungryPhaseOutChanceRegen"/>
         </Element>
         <Element>
             <Key ID="0x900FB99C" Type="LocomotionContextEnum"/>
@@ -26287,7 +26283,7 @@
         </Element>
         <Element>
             <Key ID="0x9049A2FB" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="Sound_PhazonSpearImpact"/>
         </Element>
         <Element>
             <Key ID="0x904C4375" Type="float"/>
@@ -26731,7 +26727,7 @@
         </Element>
         <Element>
             <Key ID="0x92E98613" Type="TIcon_Configurations"/>
-            <Value Name="Unknown"/>
+            <Value Name="Ice_Beam_Icon_Configurations"/>
         </Element>
         <Element>
             <Key ID="0x92F0B2C7" Type="float"/>
@@ -26983,7 +26979,7 @@
         </Element>
         <Element>
             <Key ID="0x945C9764" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RewardChoosingBellowLetterDisplayDuration"/>
         </Element>
         <Element>
             <Key ID="0x945FB4EE" Type="string"/>
@@ -27115,7 +27111,7 @@
         </Element>
         <Element>
             <Key ID="0x950A91AE" Type="PlayerInventoryItem"/>
-            <Value Name="PlayerInventoryItem"/>
+            <Value Name="FaceCorruptionLevel"/>
         </Element>
         <Element>
             <Key ID="0x951107D5" Type="DamageInfo"/>
@@ -27306,8 +27302,8 @@
             <Value Name="KeyPoints"/>
         </Element>
         <Element>
-            <Key ID="0x95E5BC22" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x95E5BC22" Type="ModalParameters"/>
+            <Value Name="x05"/>
         </Element>
         <Element>
             <Key ID="0x95E7A2C2" Type="float"/>
@@ -27683,7 +27679,7 @@
         </Element>
         <Element>
             <Key ID="0x97E2B6C7" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_spine_1"/>
         </Element>
         <Element>
             <Key ID="0x97E757ED" Type="string"/>
@@ -27815,7 +27811,7 @@
         </Element>
         <Element>
             <Key ID="0x98647F20" Type="bool"/>
-            <Value Name="OrbitInterpolantFollowed?"/>
+            <Value Name="CloudInCombatOrScan"/>
         </Element>
         <Element>
             <Key ID="0x9873172A" Type="asset"/>
@@ -28083,7 +28079,7 @@
         </Element>
         <Element>
             <Key ID="0x9A4BE38B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RewardChoosingBellowDoneDuration"/>
         </Element>
         <Element>
             <Key ID="0x9A509C55" Type="float"/>
@@ -28327,7 +28323,7 @@
         </Element>
         <Element>
             <Key ID="0x9B96C630" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FogGravSuitFactor"/>
         </Element>
         <Element>
             <Key ID="0x9B970087" Type="int"/>
@@ -28514,8 +28510,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x9CAFFE7B" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0x9CAFFE7B" Type="ModalParameters"/>
+            <Value Name="x08"/>
         </Element>
         <Element>
             <Key ID="0x9CB2109A" Type="asset"/>
@@ -28655,7 +28651,7 @@
         </Element>
         <Element>
             <Key ID="0x9D9D3760" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextMorphballAttackTimeVariance"/>
         </Element>
         <Element>
             <Key ID="0x9DA5D1D7" Type="Color"/>
@@ -28743,7 +28739,7 @@
         </Element>
         <Element>
             <Key ID="0x9E3ACEB5" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevOrbitLockGun"/>
         </Element>
         <Element>
             <Key ID="0x9E3B570E" Type="RobotChickenData"/>
@@ -29367,7 +29363,7 @@
         </Element>
         <Element>
             <Key ID="0xA19817F0" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="LightAffectsFourthLightSet"/>
         </Element>
         <Element>
             <Key ID="0xA19C4B46" Type="float"/>
@@ -29538,8 +29534,8 @@
             <Value Name="DeflectionEffect"/>
         </Element>
         <Element>
-            <Key ID="0xA277E9CB" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xA277E9CB" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice4"/>
         </Element>
         <Element>
             <Key ID="0xA27BB5A7" Type="float"/>
@@ -29771,7 +29767,7 @@
         </Element>
         <Element>
             <Key ID="0xA3B45AB5" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="BlurPlayerVisor"/>
         </Element>
         <Element>
             <Key ID="0xA3B64D8C" Type="asset"/>
@@ -30015,7 +30011,7 @@
         </Element>
         <Element>
             <Key ID="0xA502605D" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="LightAffectsThirdLightSet"/>
         </Element>
         <Element>
             <Key ID="0xA503342D" Type="TrainTrackManagerSequenceInstData"/>
@@ -30047,7 +30043,7 @@
         </Element>
         <Element>
             <Key ID="0xA5692479" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SonicPulseDamageWaitTime"/>
         </Element>
         <Element>
             <Key ID="0xA57469D3" Type="float"/>
@@ -30319,7 +30315,7 @@
         </Element>
         <Element>
             <Key ID="0xA6E650A0" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="RollPartiallySubmergedSound"/>
         </Element>
         <Element>
             <Key ID="0xA6E942ED" Type="asset"/>
@@ -30767,7 +30763,7 @@
         </Element>
         <Element>
             <Key ID="0xA934D6F4" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AttachPositionDepthMin"/>
         </Element>
         <Element>
             <Key ID="0xA938BF39" Type="Color"/>
@@ -30843,7 +30839,7 @@
         </Element>
         <Element>
             <Key ID="0xA99D3DBE" Type="asset"/>
-            <Value Name="WPSC"/>
+            <Value Name="WeaponEffectMultiPlayer"/>
         </Element>
         <Element>
             <Key ID="0xA9A26569" Type="RevolutionControl"/>
@@ -30879,7 +30875,7 @@
         </Element>
         <Element>
             <Key ID="0xA9BAC9F3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something3Angle"/>
         </Element>
         <Element>
             <Key ID="0xA9BE1081" Type="Color"/>
@@ -31091,7 +31087,7 @@
         </Element>
         <Element>
             <Key ID="0xAB0A66DA" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="WheelMuzzleFlashEffect"/>
         </Element>
         <Element>
             <Key ID="0xAB0B9AC4" Type="bool"/>
@@ -31287,7 +31283,7 @@
         </Element>
         <Element>
             <Key ID="0xAC0D6AFB" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="Sound_IceXDamageVocal"/>
         </Element>
         <Element>
             <Key ID="0xAC187FA7" Type="DamageInfo"/>
@@ -31351,7 +31347,7 @@
         </Element>
         <Element>
             <Key ID="0xAC6CBF9D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="IgnoreInputInterval"/>
         </Element>
         <Element>
             <Key ID="0xAC794DA8" Type="asset"/>
@@ -31407,7 +31403,7 @@
         </Element>
         <Element>
             <Key ID="0xACDACC80" Type="float"/>
-            <Value Name="PhaseTempleDisableTimeMax"/>
+            <Value Name="TargetPhaseOpacityMin"/>
         </Element>
         <Element>
             <Key ID="0xACDAE408" Type="asset"/>
@@ -32346,8 +32342,8 @@
             <Value Name="AttractForce"/>
         </Element>
         <Element>
-            <Key ID="0xB1461BC0" Type="SeedBoss2PrimeBotData"/>
-            <Value Name="SeedBoss2PrimeBotData"/>
+            <Key ID="0xB1461BC0" Type="SeedBoss2Data"/>
+            <Value Name="Data"/>
         </Element>
         <Element>
             <Key ID="0xB148913B" Type="DamageVulnerability"/>
@@ -32367,7 +32363,7 @@
         </Element>
         <Element>
             <Key ID="0xB15B41FA" Type="float"/>
-            <Value Name="MaxSaysActions"/>
+            <Value Name="PhaseOutDistOffMesh"/>
         </Element>
         <Element>
             <Key ID="0xB15D8AF8" Type="float"/>
@@ -32691,15 +32687,15 @@
         </Element>
         <Element>
             <Key ID="0xB3673269" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_l_elbow"/>
         </Element>
         <Element>
             <Key ID="0xB36AA9B7" Type="Color"/>
             <Value Name="BlueDoorColor"/>
         </Element>
         <Element>
-            <Key ID="0xB36D0FB6" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xB36D0FB6" Type="SpindleCameraInterpolant"/>
+            <Value Name="AngularConstraint"/>
         </Element>
         <Element>
             <Key ID="0xB372ECAB" Type="TDamageInfo"/>
@@ -33051,7 +33047,7 @@
         </Element>
         <Element>
             <Key ID="0xB5702CA3" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShotsInBurst"/>
         </Element>
         <Element>
             <Key ID="0xB5752C08" Type="Color"/>
@@ -33255,7 +33251,7 @@
         </Element>
         <Element>
             <Key ID="0xB67E3BF9" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseLOD"/>
         </Element>
         <Element>
             <Key ID="0xB6832840" Type="choice"/>
@@ -33571,7 +33567,7 @@
         </Element>
         <Element>
             <Key ID="0xB844A839" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RewardChoosingBellowTrophyDuration"/>
         </Element>
         <Element>
             <Key ID="0xB84C1410" Type="float"/>
@@ -33711,7 +33707,7 @@
         </Element>
         <Element>
             <Key ID="0xB9196D9E" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_l_hip"/>
         </Element>
         <Element>
             <Key ID="0xB92B481D" Type="AnimationSet"/>
@@ -34318,8 +34314,8 @@
             <Value Name="MissileWarningMessage"/>
         </Element>
         <Element>
-            <Key ID="0xBC2D08D0" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0xBC2D08D0" Type="ModalParameters"/>
+            <Value Name="x06"/>
         </Element>
         <Element>
             <Key ID="0xBC2F0B41" Type="float"/>
@@ -34763,7 +34759,7 @@
         </Element>
         <Element>
             <Key ID="0xBEB2B793" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextMorphballAttackTime"/>
         </Element>
         <Element>
             <Key ID="0xBEBAF085" Type="bool"/>
@@ -35623,7 +35619,7 @@
         </Element>
         <Element>
             <Key ID="0xC3680C31" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseFlyerMovementMode"/>
         </Element>
         <Element>
             <Key ID="0xC36AE5CA" Type="float"/>
@@ -35707,7 +35703,7 @@
         </Element>
         <Element>
             <Key ID="0xC3E002AC" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxShotsInABurst"/>
         </Element>
         <Element>
             <Key ID="0xC3E3EF00" Type="VolcanoBossBodyPartStructB"/>
@@ -35775,7 +35771,7 @@
         </Element>
         <Element>
             <Key ID="0xC452B61E" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitZoneIdealX"/>
         </Element>
         <Element>
             <Key ID="0xC45848FE" Type="int"/>
@@ -35887,7 +35883,7 @@
         </Element>
         <Element>
             <Key ID="0xC4DB42E3" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UsesBallSlam"/>
         </Element>
         <Element>
             <Key ID="0xC4DBEA19" Type="asset"/>
@@ -36159,7 +36155,7 @@
         </Element>
         <Element>
             <Key ID="0xC657C7EB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxHeckleRange"/>
         </Element>
         <Element>
             <Key ID="0xC66160E6" Type="RevolutionControl"/>
@@ -36174,8 +36170,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xC674D5C6" Type="MultiModelActorStruct"/>
-            <Value Name="MultiModelActorStruct"/>
+            <Key ID="0xC674D5C6" Type="ModalParameters"/>
+            <Value Name="x03"/>
         </Element>
         <Element>
             <Key ID="0xC682A22E" Type="PeanutMaterialEffects"/>
@@ -36214,8 +36210,8 @@
             <Value Name="OrbitHorizAngle"/>
         </Element>
         <Element>
-            <Key ID="0xC6979235" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xC6979235" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice7"/>
         </Element>
         <Element>
             <Key ID="0xC699AD35" Type="CharacterAnimationSet"/>
@@ -36382,8 +36378,8 @@
             <Value Name="MenuValueMultiplier"/>
         </Element>
         <Element>
-            <Key ID="0xC7385390" Type="PlayerActorStruct"/>
-            <Value Name="PlayerActorStruct"/>
+            <Key ID="0xC7385390" Type="PlayerActorOverlay"/>
+            <Value Name="HyperModeOverlay"/>
         </Element>
         <Element>
             <Key ID="0xC739D41A" Type="int"/>
@@ -36611,7 +36607,7 @@
         </Element>
         <Element>
             <Key ID="0xC87D7EC7" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DisablePlayerGunTime"/>
         </Element>
         <Element>
             <Key ID="0xC87F5379" Type="float"/>
@@ -36895,7 +36891,7 @@
         </Element>
         <Element>
             <Key ID="0xCA04D756" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinSurfAttackBurst"/>
         </Element>
         <Element>
             <Key ID="0xCA0D2611" Type="TextGradientColors"/>
@@ -37135,7 +37131,7 @@
         </Element>
         <Element>
             <Key ID="0xCB57BB87" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitScanZoneIdealY"/>
         </Element>
         <Element>
             <Key ID="0xCB673DA3" Type="asset"/>
@@ -37206,8 +37202,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xCBB013CB" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xCBB013CB" Type="SpindleCameraInterpolant"/>
+            <Value Name="AngularDampening"/>
         </Element>
         <Element>
             <Key ID="0xCBB3FB76" Type="Color"/>
@@ -37247,7 +37243,7 @@
         </Element>
         <Element>
             <Key ID="0xCC04105E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RewardChoosingBellowDisplayDuration"/>
         </Element>
         <Element>
             <Key ID="0xCC08EF1B" Type="enum"/>
@@ -37339,7 +37335,7 @@
         </Element>
         <Element>
             <Key ID="0xCCA13E22" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevFreeLookVelocity"/>
         </Element>
         <Element>
             <Key ID="0xCCA298B4" Type="asset"/>
@@ -37907,7 +37903,7 @@
         </Element>
         <Element>
             <Key ID="0xCF6C1DE9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="InnerRadiusRatio"/>
         </Element>
         <Element>
             <Key ID="0xCF8D32F4" Type="RevolutionControl"/>
@@ -37923,7 +37919,7 @@
         </Element>
         <Element>
             <Key ID="0xCF98F423" Type="asset"/>
-            <Value Name="ExplodeEnergyStuff"/>
+            <Value Name="EchoTargetDestroyedFx"/>
         </Element>
         <Element>
             <Key ID="0xCF9D77E8" Type="SeedBoss3Data"/>
@@ -37995,7 +37991,7 @@
         </Element>
         <Element>
             <Key ID="0xCFF13915" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="CoreViewReplayText"/>
         </Element>
         <Element>
             <Key ID="0xCFF6090D" Type="float"/>
@@ -38071,7 +38067,7 @@
         </Element>
         <Element>
             <Key ID="0xD04A6E1C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxVerticalShotHeight"/>
         </Element>
         <Element>
             <Key ID="0xD051D852" Type="float"/>
@@ -38235,7 +38231,7 @@
         </Element>
         <Element>
             <Key ID="0xD14FC373" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HungryPhaseOutChanceMax"/>
         </Element>
         <Element>
             <Key ID="0xD1522831" Type="DamageVulnerability"/>
@@ -38266,8 +38262,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xD16EECFB" Type="DarkSamusStruct"/>
-            <Value Name="DarkSamusStruct"/>
+            <Key ID="0xD16EECFB" Type="DarkSamusStage"/>
+            <Value Name="Stage4"/>
         </Element>
         <Element>
             <Key ID="0xD170DEA1" Type="OceanBridgeSoundSelect"/>
@@ -38511,7 +38507,7 @@
         </Element>
         <Element>
             <Key ID="0xD27E8786" Type="asset"/>
-            <Value Name="SCAN"/>
+            <Value Name="Scan_ChainsawForm"/>
         </Element>
         <Element>
             <Key ID="0xD27FCA30" Type="asset"/>
@@ -38579,7 +38575,7 @@
         </Element>
         <Element>
             <Key ID="0xD2DFC16A" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="RevViewLockDisablesTurn"/>
         </Element>
         <Element>
             <Key ID="0xD2DFD524" Type="PhazonHarvesterData"/>
@@ -39130,8 +39126,8 @@
             <Value Name="TurretChance"/>
         </Element>
         <Element>
-            <Key ID="0xD578F188" Type="SeedBoss2PrimeBotData"/>
-            <Value Name="SeedBoss2PrimeBotData"/>
+            <Key ID="0xD578F188" Type="SeedBoss2Data"/>
+            <Value Name="DataEasyDifficulty"/>
         </Element>
         <Element>
             <Key ID="0xD5869B0B" Type="choice"/>
@@ -39219,7 +39215,7 @@
         </Element>
         <Element>
             <Key ID="0xD62F2D4E" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="SlaveObjectLocalSpace"/>
         </Element>
         <Element>
             <Key ID="0xD640CF23" Type="LaunchProjectileData"/>
@@ -39419,7 +39415,7 @@
         </Element>
         <Element>
             <Key ID="0xD79690B4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ColorAddFromStart"/>
         </Element>
         <Element>
             <Key ID="0xD7A1121D" Type="asset"/>
@@ -39599,7 +39595,7 @@
         </Element>
         <Element>
             <Key ID="0xD8521C1C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FogNoGravSuitDist"/>
         </Element>
         <Element>
             <Key ID="0xD85524DB" Type="UnknownStruct35"/>
@@ -39695,7 +39691,7 @@
         </Element>
         <Element>
             <Key ID="0xD8ED65B1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something6Angle"/>
         </Element>
         <Element>
             <Key ID="0xD8FFAE69" Type="float"/>
@@ -39735,7 +39731,7 @@
         </Element>
         <Element>
             <Key ID="0xD94131FD" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxSurfAttackBurst"/>
         </Element>
         <Element>
             <Key ID="0xD9488FBD" Type="MetroidHopperData"/>
@@ -40019,7 +40015,7 @@
         </Element>
         <Element>
             <Key ID="0xDB1120F2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HyperModeChargedRateScale"/>
         </Element>
         <Element>
             <Key ID="0xDB15DD84" Type="int"/>
@@ -40207,7 +40203,7 @@
         </Element>
         <Element>
             <Key ID="0xDC478968" Type="float"/>
-            <Value Name="TimingConstraintDuration"/>
+            <Value Name="StunnedSoundFrequency"/>
         </Element>
         <Element>
             <Key ID="0xDC4C2A5F" Type="Color"/>
@@ -40315,7 +40311,7 @@
         </Element>
         <Element>
             <Key ID="0xDCE1A940" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_head_1"/>
         </Element>
         <Element>
             <Key ID="0xDCE9B37B" Type="bool"/>
@@ -40323,7 +40319,7 @@
         </Element>
         <Element>
             <Key ID="0xDCF458B3" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmBobX"/>
         </Element>
         <Element>
             <Key ID="0xDCF467FA" Type="float"/>
@@ -40566,8 +40562,8 @@
             <Value Name="PersistentCounter4"/>
         </Element>
         <Element>
-            <Key ID="0xDE5A2C87" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xDE5A2C87" Type="SpindleCameraInterpolant"/>
+            <Value Name="MaxAngularOffset"/>
         </Element>
         <Element>
             <Key ID="0xDE5BFC61" Type="float"/>
@@ -40598,8 +40594,8 @@
             <Value Name="Light_Beam"/>
         </Element>
         <Element>
-            <Key ID="0xDE7E9F94" Type="int"/>
-            <Value Name="PlanarConstraint?"/>
+            <Key ID="0xDE7E9F94" Type="choice"/>
+            <Value Name="PlanarConstraint"/>
         </Element>
         <Element>
             <Key ID="0xDE8088C9" Type="float"/>
@@ -40903,7 +40899,7 @@
         </Element>
         <Element>
             <Key ID="0xE052FA66" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitZoneCentreY"/>
         </Element>
         <Element>
             <Key ID="0xE0543E66" Type="TextProperties"/>
@@ -41378,8 +41374,8 @@
             <Value Name="JumpAttack"/>
         </Element>
         <Element>
-            <Key ID="0xE2E95270" Type="DarkSamusStruct"/>
-            <Value Name="DarkSamusStruct"/>
+            <Key ID="0xE2E95270" Type="DarkSamusStage"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0xE2EB4834" Type="TrainTrackManagerSequenceInstData"/>
@@ -41415,7 +41411,7 @@
         </Element>
         <Element>
             <Key ID="0xE328A2C3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AwardMedalDuration"/>
         </Element>
         <Element>
             <Key ID="0xE32FCAE9" Type="float"/>
@@ -41462,8 +41458,8 @@
             <Value Name="MaxOrbitBobScale"/>
         </Element>
         <Element>
-            <Key ID="0xE3585B48" Type="SeedBoss2PrimeBotData"/>
-            <Value Name="SeedBoss2PrimeBotData"/>
+            <Key ID="0xE3585B48" Type="SeedBoss2Data"/>
+            <Value Name="DataEliteDifficulty"/>
         </Element>
         <Element>
             <Key ID="0xE35AE4BE" Type="sound"/>
@@ -41519,7 +41515,7 @@
         </Element>
         <Element>
             <Key ID="0xE38B44AF" Type="asset"/>
-            <Value Name="STRG"/>
+            <Value Name="MedalSuffixSilver"/>
         </Element>
         <Element>
             <Key ID="0xE39482AD" Type="float"/>
@@ -41555,7 +41551,7 @@
         </Element>
         <Element>
             <Key ID="0xE3C3DE5E" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="WheelProjectileClusterEffect"/>
         </Element>
         <Element>
             <Key ID="0xE3C9BE83" Type="RetronomeMessageAnimationData"/>
@@ -41607,7 +41603,7 @@
         </Element>
         <Element>
             <Key ID="0xE42BAB04" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="LightAffectsWorld"/>
         </Element>
         <Element>
             <Key ID="0xE42E3971" Type="int"/>
@@ -41655,7 +41651,7 @@
         </Element>
         <Element>
             <Key ID="0xE46803DC" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_r_shoulder"/>
         </Element>
         <Element>
             <Key ID="0xE46E8D01" Type="float"/>
@@ -41826,8 +41822,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xE56495FB" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xE56495FB" Type="SpindleCameraInterpolant"/>
+            <Value Name="AngularSpeed"/>
         </Element>
         <Element>
             <Key ID="0xE564F7B4" Type="float"/>
@@ -42547,7 +42543,7 @@
         </Element>
         <Element>
             <Key ID="0xE8F323F9" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="Sound_PhazonSpearFall"/>
         </Element>
         <Element>
             <Key ID="0xE8F5018B" Type="Color"/>
@@ -42734,8 +42730,8 @@
             <Value Name="MinimumSeekDirectionTime"/>
         </Element>
         <Element>
-            <Key ID="0xE9E388AF" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xE9E388AF" Type="SpindleCameraInterpolant"/>
+            <Value Name="MinAngularOffset"/>
         </Element>
         <Element>
             <Key ID="0xE9FD5A01" Type="float"/>
@@ -42862,8 +42858,8 @@
             <Value Name="ChargeComboUpgrade"/>
         </Element>
         <Element>
-            <Key ID="0xEA870072" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xEA870072" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice8"/>
         </Element>
         <Element>
             <Key ID="0xEA8B1D10" Type="float"/>
@@ -43159,7 +43155,7 @@
         </Element>
         <Element>
             <Key ID="0xEC529A5E" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitScanZoneCentreX"/>
         </Element>
         <Element>
             <Key ID="0xEC556609" Type="int"/>
@@ -44263,7 +44259,7 @@
         </Element>
         <Element>
             <Key ID="0xF1D67032" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Something1Angle"/>
         </Element>
         <Element>
             <Key ID="0xF1F038DE" Type="float"/>
@@ -44411,7 +44407,7 @@
         </Element>
         <Element>
             <Key ID="0xF2E23F30" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseActorLinks"/>
         </Element>
         <Element>
             <Key ID="0xF2EC945D" Type="float"/>
@@ -44530,8 +44526,8 @@
             <Value Name="FOVInterpolationOff"/>
         </Element>
         <Element>
-            <Key ID="0xF3943809" Type="DarkSamusStruct"/>
-            <Value Name="DarkSamusStruct"/>
+            <Key ID="0xF3943809" Type="DarkSamusStage"/>
+            <Value Name="Stage2"/>
         </Element>
         <Element>
             <Key ID="0xF3A2FBDD" Type="RevolutionControl"/>
@@ -44751,7 +44747,7 @@
         </Element>
         <Element>
             <Key ID="0xF4C318B3" Type="asset"/>
-            <Value Name="CMDL"/>
+            <Value Name="Shield_l_ankle"/>
         </Element>
         <Element>
             <Key ID="0xF4C85E26" Type="int"/>
@@ -44930,8 +44926,8 @@
             <Value Name="DisableParticleBlaster"/>
         </Element>
         <Element>
-            <Key ID="0xF5666B6E" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xF5666B6E" Type="SpindleCameraInterpolant"/>
+            <Value Name="LookAtZOffset"/>
         </Element>
         <Element>
             <Key ID="0xF572256B" Type="float"/>
@@ -44967,7 +44963,7 @@
         </Element>
         <Element>
             <Key ID="0xF593614F" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrappleIconColorInactiveOutOfRange"/>
         </Element>
         <Element>
             <Key ID="0xF5937B1F" Type="bool"/>
@@ -45155,7 +45151,7 @@
         </Element>
         <Element>
             <Key ID="0xF67D89B1" Type="float"/>
-            <Value Name="BallLiftSlopePadding"/>
+            <Value Name="HungryPhaseOutChanceReduction"/>
         </Element>
         <Element>
             <Key ID="0xF67DBAAB" Type="float"/>
@@ -46106,8 +46102,8 @@
             <Value Name="TargetLight"/>
         </Element>
         <Element>
-            <Key ID="0xFB6A407A" Type="SpindleCameraStruct"/>
-            <Value Name="SpindleCameraStruct"/>
+            <Key ID="0xFB6A407A" Type="SpindleCameraInterpolant"/>
+            <Value Name="DeactivateRadius"/>
         </Element>
         <Element>
             <Key ID="0xFB6A981B" Type="int"/>
@@ -46303,7 +46299,7 @@
         </Element>
         <Element>
             <Key ID="0xFC5A0A21" Type="StaticGeometryTest"/>
-            <Value Name="StaticGeometryTest"/>
+            <Value Name="ProjectileStaticGeometryTestDuringCombat"/>
         </Element>
         <Element>
             <Key ID="0xFC629F72" Type="float"/>
@@ -46647,7 +46643,7 @@
         </Element>
         <Element>
             <Key ID="0xFE4588A1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphballThrowForce"/>
         </Element>
         <Element>
             <Key ID="0xFE4CB2BC" Type="asset"/>
@@ -46770,8 +46766,8 @@
             <Value Name="AimingCursorCenterRingColorTransitionTime"/>
         </Element>
         <Element>
-            <Key ID="0xFEC7CAA2" Type="UnknownStruct66"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xFEC7CAA2" Type="WorldTransitionChoiceRelaySelection"/>
+            <Value Name="Choice3"/>
         </Element>
         <Element>
             <Key ID="0xFECDE575" Type="float"/>

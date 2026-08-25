@@ -130,7 +130,11 @@
             <Element Type="Float" ID="0x4F6E81A8">
                 <DefaultValue>100.0</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0xE8F323F9"/>
+            <Element Type="Asset" ID="0xE8F323F9">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Asset" ID="0x9049A2FB">
                 <TypeFilter>
                     <Element>CAUD</Element>
@@ -138,7 +142,11 @@
             </Element>
             <Element Type="Asset" ID="0x8B8B33D9"/>
             <Element Type="Asset" ID="0x9133ECD"/>
-            <Element Type="Asset" ID="0x3C67B14E"/>
+            <Element Type="Asset" ID="0x3C67B14E">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Asset" ID="0xAF6889B0"/>
             <Element Type="Asset" ID="0xA47E51D3"/>
         </SubProperties>

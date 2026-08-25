@@ -10,7 +10,7 @@
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Struct" ID="0xB3774750" Archetype="PatternedAITypedef"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Int" ID="0xDE7E9F94">
+            <Element Type="Choice" ID="0xDE7E9F94">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8E4F7B29">

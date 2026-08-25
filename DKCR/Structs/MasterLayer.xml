@@ -7,7 +7,7 @@
             <Element Type="Asset" ID="0x0">
                 <Name>Area ID</Name>
             </Element>
-            <Element Type="Struct" ID="0x1" Archetype="SavedStateID">
+            <Element Type="Guid" ID="0x1">
                 <Name>Layer ID</Name>
             </Element>
         </SubProperties>

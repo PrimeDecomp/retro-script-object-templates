@@ -13,7 +13,7 @@
                     <Element Name="kSF_BossEnergyBar" ID="0x370F508E"/>
                     <Element Name="kSF_CinematicSkip" ID="0x29837C6C"/>
                     <Element Name="kSF_CinematicSkipSignal" ID="0x49069735"/>
-                    <Element Name="Function 6" ID="0x14B45D36"/>
+                    <Element Name="kSF_DemoTimeoutResetController" ID="0x14B45D36"/>
                     <Element Name="kSF_DisableHud" ID="0x766ED410"/>
                     <Element Name="kSF_EndGame" ID="0x7E025D14"/>
                     <Element Name="kSF_EndingActivator" ID="0x8838D84A"/>
@@ -28,7 +28,7 @@
                     <Element Name="kSF_ModifyInventoryAmountAndCapacity" ID="0x698AAB1A"/>
                     <Element Name="kSF_ModifyInventoryCapacity" ID="0x83888007"/>
                     <Element Name="kSF_NonEnglishSwitch" ID="0x171CB7CB"/>
-                    <Element Name="Function 22" ID="0xC15AB262"/>
+                    <Element Name="kSF_ObjectFollowFluidSurface" ID="0xC15AB262"/>
                     <Element Name="kSF_ObjectFollowJoint" ID="0x5FE350B"/>
                     <Element Name="kSF_ObjectFollowLocator" ID="0x982A42A3"/>
                     <Element Name="kSF_ObjectFollowObject" ID="0x73810303"/>

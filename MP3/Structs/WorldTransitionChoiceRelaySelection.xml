@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct66</Name>
+        <Name>WorldTransitionChoiceRelaySelection</Name>
         <SubProperties>
             <Element Type="Asset" ID="0x31EC14BC">
                 <TypeFilter>

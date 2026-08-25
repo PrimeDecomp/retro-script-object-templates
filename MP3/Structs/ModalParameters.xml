@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>MultiModelActorStruct</Name>
+        <Name>ModalParameters</Name>
         <SubProperties>
             <Element Type="Asset" ID="0xC27FFA8F">
                 <TypeFilter>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>PlayerActorStruct</Name>
+        <Name>PlayerActorOverlay</Name>
         <SubProperties>
             <Element Type="Asset" ID="0xF7FFBD07">
                 <TypeFilter>

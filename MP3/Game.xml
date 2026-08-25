@@ -1328,10 +1328,6 @@
             <Value Path="Structs/LaunchProjectileData.xml"/>
         </Element>
         <Element>
-            <Key>LayerID</Key>
-            <Value Path="Structs/LayerID.xml"/>
-        </Element>
-        <Element>
             <Key>LayerInfo</Key>
             <Value Path="Structs/LayerInfo.xml"/>
         </Element>
@@ -1346,6 +1342,10 @@
         <Element>
             <Key>MapControls</Key>
             <Value Path="Structs/MapControls.xml"/>
+        </Element>
+        <Element>
+            <Key>MasterLayer</Key>
+            <Value Path="Structs/MasterLayer.xml"/>
         </Element>
         <Element>
             <Key>MetareeData</Key>
@@ -1384,12 +1384,12 @@
             <Value Path="Structs/ModIncaData.xml"/>
         </Element>
         <Element>
-            <Key>MotionInterpolationMethod</Key>
-            <Value Path="Structs/MotionInterpolationMethod.xml"/>
+            <Key>ModalParameters</Key>
+            <Value Path="Structs/ModalParameters.xml"/>
         </Element>
         <Element>
-            <Key>MultiModelActorStruct</Key>
-            <Value Path="Structs/MultiModelActorStruct.xml"/>
+            <Key>MotionInterpolationMethod</Key>
+            <Value Path="Structs/MotionInterpolationMethod.xml"/>
         </Element>
         <Element>
             <Key>MultiModelInformation</Key>
@@ -1398,10 +1398,6 @@
         <Element>
             <Key>MysteryFlyerData</Key>
             <Value Path="Structs/MysteryFlyerData.xml"/>
-        </Element>
-        <Element>
-            <Key>NonSlowdown</Key>
-            <Value Path="Structs/NonSlowdown.xml"/>
         </Element>
         <Element>
             <Key>OffsetInterpolant</Key>
@@ -1442,6 +1438,10 @@
         <Element>
             <Key>PathDeterminationMethodType</Key>
             <Value Path="Structs/PathDeterminationMethodType.xml"/>
+        </Element>
+        <Element>
+            <Key>PathInterpolation</Key>
+            <Value Path="Structs/PathInterpolation.xml"/>
         </Element>
         <Element>
             <Key>PathPosition</Key>
@@ -1512,8 +1512,8 @@
             <Value Path="Structs/PlatformMotionProperties.xml"/>
         </Element>
         <Element>
-            <Key>PlayerActorStruct</Key>
-            <Value Path="Structs/PlayerActorStruct.xml"/>
+            <Key>PlayerActorOverlay</Key>
+            <Value Path="Structs/PlayerActorOverlay.xml"/>
         </Element>
         <Element>
             <Key>PlayerControls</Key>
@@ -1680,10 +1680,6 @@
             <Value Path="Structs/SamusFormData.xml"/>
         </Element>
         <Element>
-            <Key>SavedStateID</Key>
-            <Value Path="Structs/SavedStateID.xml"/>
-        </Element>
-        <Element>
             <Key>ScaleSplines</Key>
             <Value Path="Structs/ScaleSplines.xml"/>
         </Element>
@@ -1736,8 +1732,8 @@
             <Value Path="Structs/SeedBoss2BotSwarmData.xml"/>
         </Element>
         <Element>
-            <Key>SeedBoss2PrimeBotData</Key>
-            <Value Path="Structs/SeedBoss2PrimeBotData.xml"/>
+            <Key>SeedBoss2Data</Key>
+            <Value Path="Structs/SeedBoss2Data.xml"/>
         </Element>
         <Element>
             <Key>SeedBoss3Data</Key>
@@ -2212,10 +2208,6 @@
             <Value Path="Structs/UnknownStruct60.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct66</Key>
-            <Value Path="Structs/UnknownStruct66.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct7</Key>
             <Value Path="Structs/UnknownStruct7.xml"/>
         </Element>
@@ -2254,6 +2246,10 @@
         <Element>
             <Key>WorldTeleporterAttribute</Key>
             <Value Path="Structs/WorldTeleporterAttribute.xml"/>
+        </Element>
+        <Element>
+            <Key>WorldTransitionChoiceRelaySelection</Key>
+            <Value Path="Structs/WorldTransitionChoiceRelaySelection.xml"/>
         </Element>
     </PropertyArchetypes>
     <MiscTemplates>

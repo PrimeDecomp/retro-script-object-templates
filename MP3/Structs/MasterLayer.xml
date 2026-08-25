@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="CorruptionProto">
+<PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>LayerSwitch</Name>
+        <Name>MasterLayer</Name>
         <Atomic>true</Atomic>
         <SubProperties>
             <Element Type="Asset" ID="0x0">
-                <Name>Area ID</Name>
+                <Name>AreaId</Name>
             </Element>
-            <Element Type="Int" ID="0x1">
-                <Name>Layer #</Name>
-                <DefaultValue>0</DefaultValue>
+            <Element Type="Guid" ID="0x1">
+                <Name>LayerId</Name>
             </Element>
         </SubProperties>
     </PropertyArchetype>

@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>PillBugData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xDE7E9F94">
+            <Element Type="Choice" ID="0xDE7E9F94">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x5D84ED71" Archetype="DamageVulnerability"/>
