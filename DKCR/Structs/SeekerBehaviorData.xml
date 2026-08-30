@@ -6,8 +6,8 @@
             <Element Type="Enum" ID="0xB8F60F9A">
                 <DefaultValue>0xE3CB0298</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xE3CB0298"/>
-                    <Element Name="Unknown 2" ID="0x393BA4B1"/>
+                    <Element Name="kSeekerType_AlwaysSeek" ID="0xE3CB0298"/>
+                    <Element Name="kSeekerType_LineSeeker" ID="0x393BA4B1"/>
                 </Values>
             </Element>
             <Element Type="Bool" ID="0x745A8F03">

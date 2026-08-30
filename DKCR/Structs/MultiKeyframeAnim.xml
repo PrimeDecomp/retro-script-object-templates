@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>ActorMultiKeyframeStruct</Name>
+        <Name>MultiKeyframeAnim</Name>
         <SubProperties>
             <Element Type="Int" ID="0xC215A24F">
                 <CookPreference>Always</CookPreference>

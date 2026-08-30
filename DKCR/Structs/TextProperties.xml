@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>TextProperties</Name>
         <SubProperties>
-            <Element Type="Enum" ID="0x9F1BD46D" Archetype="UnknownEnum3">
+            <Element Type="Enum" ID="0x9F1BD46D" Archetype="GlyphRenderMode">
                 <DefaultValue>0x82B6A62A</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xEE521DC6">

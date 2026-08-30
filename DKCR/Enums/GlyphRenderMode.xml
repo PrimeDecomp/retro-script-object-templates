@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Enum">
-        <Name>UnknownEnum3</Name>
+        <Name>GlyphRenderMode</Name>
         <Values>
-            <Element Name="Unknown 1" ID="0x82B6A62A"/>
-            <Element Name="Unknown 2" ID="0xCE9CA7B2"/>
+            <Element Name="kGlyphRenderMode_Modulated" ID="0x82B6A62A"/>
+            <Element Name="kGlyphRenderMode_Gradient" ID="0xCE9CA7B2"/>
         </Values>
     </PropertyArchetype>
 </PropertyTemplate>

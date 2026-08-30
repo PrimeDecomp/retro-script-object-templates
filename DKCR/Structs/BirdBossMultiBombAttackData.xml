@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct61</Name>
+        <Name>BirdBossMultiBombAttackData</Name>
         <SubProperties>
             <Element Type="Int" ID="0xF8D8D976">
                 <DefaultValue>6</DefaultValue>

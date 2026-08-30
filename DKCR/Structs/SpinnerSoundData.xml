@@ -13,7 +13,7 @@
                 <Values>
                     <Element Name="kSplineInput_ChargeAmount" ID="0x2FD7B2AA"/>
                     <Element Name="kSplineInput_ChargeSpeedRatio" ID="0x5F24CC64"/>
-                    <Element Name="kSplineInput_Unknown 3" ID="0x63E170C0"/>
+                    <Element Name="kSplineInput_ChargeSpeedOverImpulseSpeed" ID="0x63E170C0"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0xAC56FC9">

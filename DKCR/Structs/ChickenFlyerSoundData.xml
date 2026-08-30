@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct63</Name>
+        <Name>ChickenFlyerSoundData</Name>
         <SubProperties>
             <Element Type="Float" ID="0x348C9D90">
                 <DefaultValue>20.0</DefaultValue>
@@ -26,6 +26,11 @@
             <Element Type="Spline" ID="0x5291EF7"/>
             <Element Type="Spline" ID="0x4C20DEF3"/>
             <Element Type="Asset" ID="0x259C0939">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Asset" ID="0xC8B23273">
                 <TypeFilter>
                     <Element>CAUD</Element>
                 </TypeFilter>

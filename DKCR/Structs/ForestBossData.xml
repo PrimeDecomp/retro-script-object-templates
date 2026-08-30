@@ -24,14 +24,14 @@
             <Element Type="Float" ID="0x5B604872">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xCA62889E" Archetype="ForestBossStructA"/>
-            <Element Type="Struct" ID="0xDA392607" Archetype="ForestBossStructA"/>
-            <Element Type="Struct" ID="0x30059956" Archetype="ForestBossStructA"/>
-            <Element Type="Struct" ID="0x81C8CA71" Archetype="ForestBossStructA"/>
-            <Element Type="Struct" ID="0x645FFAD4" Archetype="UnknownStruct94"/>
-            <Element Type="Struct" ID="0xC99A740E" Archetype="ForestBossStructB"/>
-            <Element Type="Struct" ID="0x663339C4" Archetype="ForestBossStructB"/>
-            <Element Type="Struct" ID="0x3540282" Archetype="ForestBossStructB"/>
+            <Element Type="Struct" ID="0xCA62889E" Archetype="ForestBossFlightSound"/>
+            <Element Type="Struct" ID="0xDA392607" Archetype="ForestBossFlightSound"/>
+            <Element Type="Struct" ID="0x30059956" Archetype="ForestBossFlightSound"/>
+            <Element Type="Struct" ID="0x81C8CA71" Archetype="ForestBossFlightSound"/>
+            <Element Type="Struct" ID="0x645FFAD4" Archetype="ForestBossTailData"/>
+            <Element Type="Struct" ID="0xC99A740E" Archetype="ForestBossStageData"/>
+            <Element Type="Struct" ID="0x663339C4" Archetype="ForestBossStageData"/>
+            <Element Type="Struct" ID="0x3540282" Archetype="ForestBossStageData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

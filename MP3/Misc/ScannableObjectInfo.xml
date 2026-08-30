@@ -35,8 +35,8 @@
             <Element Type="Float" ID="0xD0C15066">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xC4C1E212">
-                <DefaultValue>0</DefaultValue>
+            <Element Type="Float" ID="0xC4C1E212">
+                <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xB7ADC418">
                 <TypeFilter>

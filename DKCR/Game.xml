@@ -664,14 +664,6 @@
             <Value Path="Structs/ActorAttachments.xml"/>
         </Element>
         <Element>
-            <Key>ActorMultiKeyframeData</Key>
-            <Value Path="Structs/ActorMultiKeyframeData.xml"/>
-        </Element>
-        <Element>
-            <Key>ActorMultiKeyframeStruct</Key>
-            <Value Path="Structs/ActorMultiKeyframeStruct.xml"/>
-        </Element>
-        <Element>
             <Key>ActorParameters</Key>
             <Value Path="Structs/ActorParameters.xml"/>
         </Element>
@@ -744,12 +736,44 @@
             <Value Path="Structs/BehaviorsData.xml"/>
         </Element>
         <Element>
+            <Key>BirdBossAttackData</Key>
+            <Value Path="Structs/BirdBossAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossBombAttackData</Key>
+            <Value Path="Structs/BirdBossBombAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>BirdBossData</Key>
             <Value Path="Structs/BirdBossData.xml"/>
         </Element>
         <Element>
-            <Key>BirdBossStruct</Key>
-            <Value Path="Structs/BirdBossStruct.xml"/>
+            <Key>BirdBossMegaBombAttackData</Key>
+            <Value Path="Structs/BirdBossMegaBombAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossMultiBombAttackData</Key>
+            <Value Path="Structs/BirdBossMultiBombAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossSinkAttackData</Key>
+            <Value Path="Structs/BirdBossSinkAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossSoundData</Key>
+            <Value Path="Structs/BirdBossSoundData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossSquawkData</Key>
+            <Value Path="Structs/BirdBossSquawkData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossStageData</Key>
+            <Value Path="Structs/BirdBossStageData.xml"/>
+        </Element>
+        <Element>
+            <Key>BirdBossSwoopAttackData</Key>
+            <Value Path="Structs/BirdBossSwoopAttackData.xml"/>
         </Element>
         <Element>
             <Key>BloomEffectData</Key>
@@ -850,6 +874,22 @@
         <Element>
             <Key>CheckpointData</Key>
             <Value Path="Structs/CheckpointData.xml"/>
+        </Element>
+        <Element>
+            <Key>ChickenFlyerAttackData</Key>
+            <Value Path="Structs/ChickenFlyerAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>ChickenFlyerSoundData</Key>
+            <Value Path="Structs/ChickenFlyerSoundData.xml"/>
+        </Element>
+        <Element>
+            <Key>ChickenFlyerStompAttackData</Key>
+            <Value Path="Structs/ChickenFlyerStompAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>ChickenFlyerSwoopAttackData</Key>
+            <Value Path="Structs/ChickenFlyerSwoopAttackData.xml"/>
         </Element>
         <Element>
             <Key>ChorusProperties</Key>
@@ -1060,16 +1100,24 @@
             <Value Path="Structs/ForestBossData.xml"/>
         </Element>
         <Element>
-            <Key>ForestBossStructA</Key>
-            <Value Path="Structs/ForestBossStructA.xml"/>
+            <Key>ForestBossDynamicsData</Key>
+            <Value Path="Structs/ForestBossDynamicsData.xml"/>
         </Element>
         <Element>
-            <Key>ForestBossStructB</Key>
-            <Value Path="Structs/ForestBossStructB.xml"/>
+            <Key>ForestBossFlightSound</Key>
+            <Value Path="Structs/ForestBossFlightSound.xml"/>
         </Element>
         <Element>
-            <Key>ForestBossStructC</Key>
-            <Value Path="Structs/ForestBossStructC.xml"/>
+            <Key>ForestBossStageData</Key>
+            <Value Path="Structs/ForestBossStageData.xml"/>
+        </Element>
+        <Element>
+            <Key>ForestBossTailData</Key>
+            <Value Path="Structs/ForestBossTailData.xml"/>
+        </Element>
+        <Element>
+            <Key>ForestBossTailPartData</Key>
+            <Value Path="Structs/ForestBossTailPartData.xml"/>
         </Element>
         <Element>
             <Key>FrameGroundVerticalData</Key>
@@ -1106,6 +1154,10 @@
         <Element>
             <Key>GenericCreatureGroupData</Key>
             <Value Path="Structs/GenericCreatureGroupData.xml"/>
+        </Element>
+        <Element>
+            <Key>GlyphRenderMode</Key>
+            <Value Path="Enums/GlyphRenderMode.xml"/>
         </Element>
         <Element>
             <Key>GrabPlayerBehaviorData</Key>
@@ -1200,6 +1252,10 @@
             <Value Path="Structs/JungleBossStructD.xml"/>
         </Element>
         <Element>
+            <Key>KeyGlueData</Key>
+            <Value Path="Structs/KeyGlueData.xml"/>
+        </Element>
+        <Element>
             <Key>KongData</Key>
             <Value Path="Structs/KongData.xml"/>
         </Element>
@@ -1242,6 +1298,10 @@
         <Element>
             <Key>LocomotionSpeed</Key>
             <Value Path="Structs/LocomotionSpeed.xml"/>
+        </Element>
+        <Element>
+            <Key>LoiterAtBehaviorData</Key>
+            <Value Path="Structs/LoiterAtBehaviorData.xml"/>
         </Element>
         <Element>
             <Key>MapControls</Key>
@@ -1314,6 +1374,14 @@
         <Element>
             <Key>MotionPlatformData</Key>
             <Value Path="Structs/MotionPlatformData.xml"/>
+        </Element>
+        <Element>
+            <Key>MultiKeyframeAnim</Key>
+            <Value Path="Structs/MultiKeyframeAnim.xml"/>
+        </Element>
+        <Element>
+            <Key>MultiKeyframeAnims</Key>
+            <Value Path="Structs/MultiKeyframeAnims.xml"/>
         </Element>
         <Element>
             <Key>MultiModelInformation</Key>
@@ -1816,6 +1884,10 @@
             <Value Path="Structs/RobotChickenAttackData.xml"/>
         </Element>
         <Element>
+            <Key>RobotChickenBarfAttackData</Key>
+            <Value Path="Structs/RobotChickenBarfAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>RobotChickenBeltData</Key>
             <Value Path="Structs/RobotChickenBeltData.xml"/>
         </Element>
@@ -1840,20 +1912,36 @@
             <Value Path="Structs/RobotChickenFlyerStructA.xml"/>
         </Element>
         <Element>
-            <Key>RobotChickenFlyerStructB</Key>
-            <Value Path="Structs/RobotChickenFlyerStructB.xml"/>
+            <Key>RobotChickenJump1AttackData</Key>
+            <Value Path="Structs/RobotChickenJump1AttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>RobotChickenJump2AttackData</Key>
+            <Value Path="Structs/RobotChickenJump2AttackData.xml"/>
         </Element>
         <Element>
             <Key>RobotChickenJumpData</Key>
             <Value Path="Structs/RobotChickenJumpData.xml"/>
         </Element>
         <Element>
+            <Key>RobotChickenRunAttackData</Key>
+            <Value Path="Structs/RobotChickenRunAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>RobotChickenStageData</Key>
             <Value Path="Structs/RobotChickenStageData.xml"/>
         </Element>
         <Element>
+            <Key>RobotChickenStompAttackData</Key>
+            <Value Path="Structs/RobotChickenStompAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>RobotChickenStructA</Key>
             <Value Path="Structs/RobotChickenStructA.xml"/>
+        </Element>
+        <Element>
+            <Key>RobotChickenSumoAttackData</Key>
+            <Value Path="Structs/RobotChickenSumoAttackData.xml"/>
         </Element>
         <Element>
             <Key>RocketBarrelThrustData</Key>
@@ -2172,24 +2260,12 @@
             <Value Path="Structs/TweakControls_UnknownStruct2.xml"/>
         </Element>
         <Element>
-            <Key>UnknownEnum3</Key>
-            <Value Path="Enums/UnknownEnum3.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct</Key>
             <Value Path="Structs/UnknownStruct.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct128</Key>
-            <Value Path="Structs/UnknownStruct128.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct134</Key>
             <Value Path="Structs/UnknownStruct134.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct138</Key>
-            <Value Path="Structs/UnknownStruct138.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct140</Key>
@@ -2364,10 +2440,6 @@
             <Value Path="Structs/UnknownStruct229.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct23</Key>
-            <Value Path="Structs/UnknownStruct23.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct230</Key>
             <Value Path="Structs/UnknownStruct230.xml"/>
         </Element>
@@ -2402,14 +2474,6 @@
         <Element>
             <Key>UnknownStruct239</Key>
             <Value Path="Structs/UnknownStruct239.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct253</Key>
-            <Value Path="Structs/UnknownStruct253.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct260</Key>
-            <Value Path="Structs/UnknownStruct260.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct261</Key>
@@ -2512,22 +2576,6 @@
             <Value Path="Structs/UnknownStruct47.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct48</Key>
-            <Value Path="Structs/UnknownStruct48.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct49</Key>
-            <Value Path="Structs/UnknownStruct49.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct50</Key>
-            <Value Path="Structs/UnknownStruct50.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct51</Key>
-            <Value Path="Structs/UnknownStruct51.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct52</Key>
             <Value Path="Structs/UnknownStruct52.xml"/>
         </Element>
@@ -2552,30 +2600,6 @@
             <Value Path="Structs/UnknownStruct58.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct59</Key>
-            <Value Path="Structs/UnknownStruct59.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct60</Key>
-            <Value Path="Structs/UnknownStruct60.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct61</Key>
-            <Value Path="Structs/UnknownStruct61.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct62</Key>
-            <Value Path="Structs/UnknownStruct62.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct63</Key>
-            <Value Path="Structs/UnknownStruct63.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct64</Key>
-            <Value Path="Structs/UnknownStruct64.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct66</Key>
             <Value Path="Structs/UnknownStruct66.xml"/>
         </Element>
@@ -2598,10 +2622,6 @@
         <Element>
             <Key>UnknownStruct88</Key>
             <Value Path="Structs/UnknownStruct88.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct94</Key>
-            <Value Path="Structs/UnknownStruct94.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>
@@ -2701,7 +2721,7 @@
         </Element>
         <Element>
             <Key>ACQU</Key>
-            <Value>ACQU</Value>
+            <Value>Acquired</Value>
         </Element>
         <Element>
             <Key>ACTV</Key>
@@ -2725,7 +2745,7 @@
         </Element>
         <Element>
             <Key>CINT</Key>
-            <Value>CINT</Value>
+            <Value>CustomInterpolation</Value>
         </Element>
         <Element>
             <Key>CLOS</Key>
@@ -2749,7 +2769,7 @@
         </Element>
         <Element>
             <Key>DBNH</Key>
-            <Value>DBNH</Value>
+            <Value>DyingButNotHurled</Value>
         </Element>
         <Element>
             <Key>DEAD</Key>
@@ -2757,7 +2777,7 @@
         </Element>
         <Element>
             <Key>DSPN</Key>
-            <Value>DSPN</Value>
+            <Value>Despawn</Value>
         </Element>
         <Element>
             <Key>ENTR</Key>
@@ -2769,19 +2789,19 @@
         </Element>
         <Element>
             <Key>FOVP</Key>
-            <Value>FOVP</Value>
+            <Value>FOVPath</Value>
         </Element>
         <Element>
             <Key>GIBB</Key>
-            <Value>GIBB</Value>
+            <Value>DeathGibs</Value>
         </Element>
         <Element>
             <Key>GRN0</Key>
-            <Value>GRN0</Value>
+            <Value>Generate0</Value>
         </Element>
         <Element>
             <Key>GRN1</Key>
-            <Value>GRN1</Value>
+            <Value>Generate1</Value>
         </Element>
         <Element>
             <Key>GRNT</Key>
@@ -3101,11 +3121,11 @@
         </Element>
         <Element>
             <Key>MOTP</Key>
-            <Value>MOTP</Value>
+            <Value>MotionPath</Value>
         </Element>
         <Element>
             <Key>MOTS</Key>
-            <Value>MOTS</Value>
+            <Value>MotionSurface</Value>
         </Element>
         <Element>
             <Key>NEXT</Key>
@@ -3113,7 +3133,7 @@
         </Element>
         <Element>
             <Key>OBJP</Key>
-            <Value>OBJP</Value>
+            <Value>ObjectPath</Value>
         </Element>
         <Element>
             <Key>OPEN</Key>
@@ -3125,7 +3145,7 @@
         </Element>
         <Element>
             <Key>PLRP</Key>
-            <Value>PLRP</Value>
+            <Value>PayerPath</Value>
         </Element>
         <Element>
             <Key>PREV</Key>
@@ -3153,39 +3173,39 @@
         </Element>
         <Element>
             <Key>SE01</Key>
-            <Value>SE01</Value>
+            <Value>ScriptEvent01</Value>
         </Element>
         <Element>
             <Key>SE02</Key>
-            <Value>SE02</Value>
+            <Value>ScriptEvent02</Value>
         </Element>
         <Element>
             <Key>SE03</Key>
-            <Value>SE03</Value>
+            <Value>ScriptEvent03</Value>
         </Element>
         <Element>
             <Key>SE05</Key>
-            <Value>SE05</Value>
+            <Value>ScriptEvent05</Value>
         </Element>
         <Element>
             <Key>SE06</Key>
-            <Value>SE06</Value>
+            <Value>ScriptEvent06</Value>
         </Element>
         <Element>
             <Key>SE07</Key>
-            <Value>SE07</Value>
+            <Value>ScriptEvent07</Value>
         </Element>
         <Element>
             <Key>SE08</Key>
-            <Value>SE08</Value>
+            <Value>ScriptEvent08</Value>
         </Element>
         <Element>
             <Key>SE09</Key>
-            <Value>SE09</Value>
+            <Value>ScriptEvent09</Value>
         </Element>
         <Element>
             <Key>SE10</Key>
-            <Value>SE10</Value>
+            <Value>ScriptEvent10</Value>
         </Element>
         <Element>
             <Key>SLAV</Key>
@@ -3197,11 +3217,11 @@
         </Element>
         <Element>
             <Key>TGTO</Key>
-            <Value>TGTO</Value>
+            <Value>TargetObject</Value>
         </Element>
         <Element>
             <Key>TGTP</Key>
-            <Value>TGTP</Value>
+            <Value>TargetPath</Value>
         </Element>
         <Element>
             <Key>ULCK</Key>
@@ -3215,7 +3235,7 @@
     <Messages>
         <Element>
             <Key>ACMT</Key>
-            <Value>ACMT</Value>
+            <Value>AddAsCameraTarget</Value>
         </Element>
         <Element>
             <Key>ACTN</Key>
@@ -3467,15 +3487,15 @@
         </Element>
         <Element>
             <Key>RCMT</Key>
-            <Value>RCMT</Value>
+            <Value>RemoveAsCameraTarget</Value>
         </Element>
         <Element>
             <Key>RMOV</Key>
-            <Value>RMOV</Value>
+            <Value>Remove</Value>
         </Element>
         <Element>
             <Key>RSAN</Key>
-            <Value>RSAN</Value>
+            <Value>ResetAnimation</Value>
         </Element>
         <Element>
             <Key>RSET</Key>
@@ -3483,7 +3503,7 @@
         </Element>
         <Element>
             <Key>RSTP</Key>
-            <Value>RSTP</Value>
+            <Value>ResetAndStop</Value>
         </Element>
         <Element>
             <Key>RSTS</Key>

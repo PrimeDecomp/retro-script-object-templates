@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>BirdBossStruct</Name>
+        <Name>BirdBossStageData</Name>
         <SubProperties>
             <Element Type="Enum" ID="0x97D30F8B" Archetype="AttackSelector">
                 <DefaultValue>0x8C665F9A</DefaultValue>
@@ -33,13 +33,13 @@
             <Element Type="Float" ID="0x8F5AB554">
                 <DefaultValue>0.69999999</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x67490FEE" Archetype="UnknownStruct48"/>
-            <Element Type="Struct" ID="0xC41F8947" Archetype="UnknownStruct48"/>
-            <Element Type="Struct" ID="0x13FD091F" Archetype="UnknownStruct48"/>
-            <Element Type="Struct" ID="0x59C38254" Archetype="UnknownStruct48"/>
-            <Element Type="Struct" ID="0x8E21020C" Archetype="UnknownStruct48"/>
-            <Element Type="Struct" ID="0x2D7784A5" Archetype="UnknownStruct48"/>
-            <Element Type="Struct" ID="0xFA9504FD" Archetype="UnknownStruct48"/>
+            <Element Type="Struct" ID="0x67490FEE" Archetype="BirdBossAttackData"/>
+            <Element Type="Struct" ID="0xC41F8947" Archetype="BirdBossAttackData"/>
+            <Element Type="Struct" ID="0x13FD091F" Archetype="BirdBossAttackData"/>
+            <Element Type="Struct" ID="0x59C38254" Archetype="BirdBossAttackData"/>
+            <Element Type="Struct" ID="0x8E21020C" Archetype="BirdBossAttackData"/>
+            <Element Type="Struct" ID="0x2D7784A5" Archetype="BirdBossAttackData"/>
+            <Element Type="Struct" ID="0xFA9504FD" Archetype="BirdBossAttackData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

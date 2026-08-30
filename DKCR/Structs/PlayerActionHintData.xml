@@ -6,8 +6,8 @@
             <Element Type="Enum" ID="0x63BE2052">
                 <DefaultValue>0x43DB8C1F</DefaultValue>
                 <Values>
-                    <Element Name="Override" ID="0x43DB8C1F"/>
-                    <Element Name="Combine" ID="0x1940BAB4"/>
+                    <Element Name="kMergeAction_Override" ID="0x43DB8C1F"/>
+                    <Element Name="kMergeAction_Combine" ID="0x1940BAB4"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x8747552E">
