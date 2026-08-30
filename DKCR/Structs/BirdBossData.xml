@@ -54,12 +54,12 @@
             </Element>
             <Element Type="AnimationSet" ID="0xA8935C73"/>
             <Element Type="AnimationSet" ID="0x91EBF133"/>
-            <Element Type="Struct" ID="0xF03EB95E" Archetype="UnknownStruct63"/>
-            <Element Type="Struct" ID="0x5B1C94D1" Archetype="UnknownStruct64"/>
-            <Element Type="Struct" ID="0x3E67CC4A" Archetype="BirdBossStruct"/>
-            <Element Type="Struct" ID="0xD4E11128" Archetype="BirdBossStruct"/>
-            <Element Type="Struct" ID="0x3BB3A7C9" Archetype="BirdBossStruct"/>
-            <Element Type="Struct" ID="0xDA9DADAD" Archetype="BirdBossStruct"/>
+            <Element Type="Struct" ID="0xF03EB95E" Archetype="BirdBossSoundData"/>
+            <Element Type="Struct" ID="0x5B1C94D1" Archetype="BirdBossSquawkData"/>
+            <Element Type="Struct" ID="0x3E67CC4A" Archetype="BirdBossStageData"/>
+            <Element Type="Struct" ID="0xD4E11128" Archetype="BirdBossStageData"/>
+            <Element Type="Struct" ID="0x3BB3A7C9" Archetype="BirdBossStageData"/>
+            <Element Type="Struct" ID="0xDA9DADAD" Archetype="BirdBossStageData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

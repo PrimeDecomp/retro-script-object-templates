@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct48</Name>
+        <Name>ChickenFlyerAttackData</Name>
         <SubProperties>
             <Element Type="Enum" ID="0x7D939A1">
                 <DefaultValue>0xB5C34B64</DefaultValue>
@@ -9,19 +9,19 @@
                     <Element Name="kAttackType_None" ID="0xB5C34B64"/>
                     <Element Name="kAttackType_Bomb" ID="0x4A5C32BC"/>
                     <Element Name="kAttackType_Swoop" ID="0xEC9FB9C8"/>
-                    <Element Name="kAttackType_MegaBomb" ID="0x6A5E676B"/>
-                    <Element Name="kAttackType_MultiBomb" ID="0x3444B16D"/>
                     <Element Name="kAttackType_Sink" ID="0xF4859593"/>
+                    <Element Name="kAttackType_Stomp" ID="0xCC1C74A4"/>
+                    <Element Name="kAttackType_Taunt" ID="0x240ABE65"/>
                 </Values>
             </Element>
             <Element Type="Int" ID="0x8A58A7F8">
                 <DefaultValue>3</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x93FA48A4" Archetype="UnknownStruct23"/>
-            <Element Type="Struct" ID="0xC32BDD77" Archetype="UnknownStruct59"/>
-            <Element Type="Struct" ID="0x5902A3AB" Archetype="UnknownStruct60"/>
-            <Element Type="Struct" ID="0xC77A8BF8" Archetype="UnknownStruct61"/>
-            <Element Type="Struct" ID="0x21313785" Archetype="UnknownStruct62"/>
+            <Element Type="Struct" ID="0x584B5DF1" Archetype="ChickenFlyerSwoopAttackData"/>
+            <Element Type="Struct" ID="0x1D366D8E" Archetype="ChickenFlyerStompAttackData"/>
+            <Element Type="Struct" ID="0x525191C2" Archetype="ChickenFlyerStompAttackData"/>
+            <Element Type="Struct" ID="0x1B80811C" Archetype="ChickenFlyerStompAttackData"/>
+            <Element Type="Struct" ID="0xED21C295" Archetype="ChickenFlyerStompAttackData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

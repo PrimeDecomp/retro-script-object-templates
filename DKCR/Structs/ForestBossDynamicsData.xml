@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct49</Name>
+        <Name>ForestBossDynamicsData</Name>
         <SubProperties>
             <Element Type="Float" ID="0x6392404E">
                 <DefaultValue>9.0</DefaultValue>

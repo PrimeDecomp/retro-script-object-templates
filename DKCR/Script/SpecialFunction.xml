@@ -19,7 +19,7 @@
                     <Element Name="kSF_EndingActivator" ID="0x8838D84A"/>
                     <Element Name="kSF_ExtraRenderClipPlane" ID="0x2CB1471C"/>
                     <Element Name="kSF_FlashHudElements" ID="0xCFC89663"/>
-                    <Element Name="Function 13" ID="0xD871451E"/>
+                    <Element Name="kSF_FluidSurfaceEvaluator" ID="0xD871451E"/>
                     <Element Name="kSF_GameStateEnvVarController" ID="0x661EC9E0"/>
                     <Element Name="kSF_HUDTarget" ID="0x1C7FDCAB"/>
                     <Element Name="kSF_InventoryActivator" ID="0xE13871E3"/>
@@ -49,12 +49,12 @@
                     <Element Name="kSF_SunGeneratorTeleporter" ID="0xD7E2F62F"/>
                     <Element Name="kSF_SystemStateEnvVarController" ID="0xDFE51E86"/>
                     <Element Name="kSF_TimeAttack" ID="0x4E081CFA"/>
-                    <Element Name="Function 43" ID="0xE6642737"/>
+                    <Element Name="kSF_AdjustMirrorMode" ID="0xE6642737"/>
                     <Element Name="kSF_ViewFrustumTester" ID="0x129C99C0"/>
                     <Element Name="kSF_SawTikiTongCore" ID="0xFDF2D16C"/>
                     <Element Name="kSF_MirrorMode" ID="0xFF38718"/>
                     <Element Name="kSF_BugThis" ID="0x48D158B9"/>
-                    <Element Name="Allow Title Screen to Advance" ID="0xCD71412F"/>
+                    <Element Name="kSF_TitleScreenDynamicLoadComplete" ID="0xCD71412F"/>
                     <Element Name="kSF_IsContinueWithoutSaving" ID="0xDA5AF6F3"/>
                 </Values>
             </Element>

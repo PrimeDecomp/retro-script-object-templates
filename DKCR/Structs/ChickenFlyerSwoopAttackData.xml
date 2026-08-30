@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct60</Name>
+        <Name>ChickenFlyerSwoopAttackData</Name>
         <SubProperties>
             <Element Type="Enum" ID="0x13D70B67">
                 <DefaultValue>0x226CDE94</DefaultValue>

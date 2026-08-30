@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct50</Name>
+        <Name>ForestBossTailData</Name>
         <SubProperties>
-            <Element Type="Float" ID="0xB335DB07">
-                <DefaultValue>2.0</DefaultValue>
-            </Element>
+            <Element Type="Struct" ID="0x63F77B98" Archetype="ForestBossTailPartData"/>
+            <Element Type="Struct" ID="0x8561E02D" Archetype="ForestBossTailPartData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

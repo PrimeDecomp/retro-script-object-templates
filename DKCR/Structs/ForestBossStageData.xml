@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="DKCReturns">
     <PropertyArchetype Type="Struct">
-        <Name>ForestBossStructB</Name>
+        <Name>ForestBossStageData</Name>
         <SubProperties>
             <Element Type="Float" ID="0xC8844CEA">
                 <DefaultValue>10.0</DefaultValue>
@@ -27,7 +27,7 @@
             <Element Type="Float" ID="0xC4A217AD">
                 <DefaultValue>0.1</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x84DF6106" Archetype="UnknownStruct49">
+            <Element Type="Struct" ID="0x84DF6106" Archetype="ForestBossDynamicsData">
                 <SubProperties>
                     <Element Type="Float" ID="0x6392404E">
                         <DefaultValue>6.0</DefaultValue>
@@ -40,7 +40,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x9F91359A" Archetype="UnknownStruct49">
+            <Element Type="Struct" ID="0x9F91359A" Archetype="ForestBossDynamicsData">
                 <SubProperties>
                     <Element Type="Float" ID="0x39FB7978">
                         <DefaultValue>10.0</DefaultValue>
@@ -53,7 +53,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x294BBCA0" Archetype="UnknownStruct49">
+            <Element Type="Struct" ID="0x294BBCA0" Archetype="ForestBossDynamicsData">
                 <SubProperties>
                     <Element Type="Float" ID="0x6392404E">
                         <DefaultValue>12.0</DefaultValue>
@@ -72,7 +72,7 @@
             <Element Type="Float" ID="0x501CC39F">
                 <DefaultValue>20.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x11C70370" Archetype="UnknownStruct49">
+            <Element Type="Struct" ID="0x11C70370" Archetype="ForestBossDynamicsData">
                 <SubProperties>
                     <Element Type="Float" ID="0x6392404E">
                         <DefaultValue>20.0</DefaultValue>

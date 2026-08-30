@@ -12,7 +12,7 @@
                     <Element Name="kGlueType_DKBarrel" ID="0x8FE9C24B"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0xA46F7341" Archetype="UnknownStruct138"/>
+            <Element Type="Struct" ID="0xA46F7341" Archetype="KeyGlueData"/>
             <Element Type="Struct" ID="0x36538065" Archetype="DKBarrelGlueData"/>
         </SubProperties>
     </PropertyArchetype>

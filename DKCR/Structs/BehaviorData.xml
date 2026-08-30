@@ -40,7 +40,7 @@
                     <Element Name="kBehaviorType_TargetPlayer" ID="0xC990ACE8"/>
                     <Element Name="kBehaviorType_Fall" ID="0xA21028B9"/>
                     <Element Name="kBehaviorType_AreaAttack" ID="0xBE366E61"/>
-                    <Element Name="kBehaviorType_Unknown 35" ID="0x1B9CD6"/>
+                    <Element Name="kBehaviorType_LoiterAt" ID="0x1B9CD6"/>
                     <Element Name="kBehaviorType_SeparateAndReform" ID="0xBC00B733"/>
                     <Element Name="kBehaviorType_AdditiveProjectileAttack" ID="0x93AD73AA"/>
                     <Element Name="kBehaviorType_Seeker" ID="0x78EFFC0E"/>
@@ -80,7 +80,7 @@
             <Element Type="Struct" ID="0x749A68A1" Archetype="TargetPlayerBehaviorData"/>
             <Element Type="Struct" ID="0x2CC6F52" Archetype="FallBehaviorData"/>
             <Element Type="Struct" ID="0xE37F3561" Archetype="AreaAttackBehaviorData"/>
-            <Element Type="Struct" ID="0xA1F091B2" Archetype="UnknownStruct128"/>
+            <Element Type="Struct" ID="0xA1F091B2" Archetype="LoiterAtBehaviorData"/>
             <Element Type="Struct" ID="0x638FC2B" Archetype="SeparateAndReformBehaviorData"/>
             <Element Type="Struct" ID="0x311759A0" Archetype="ProjectileAttackBehaviorData"/>
             <Element Type="Struct" ID="0x5FCE6A84" Archetype="SeekerBehaviorData"/>
