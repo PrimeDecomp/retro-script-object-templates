@@ -27,6 +27,9 @@
             <Element Type="String" ID="0xa0d73242">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
+            <Element Type="String" ID="0x5291EB5F">
+                <CookPreference>OnlyIfModified</CookPreference>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

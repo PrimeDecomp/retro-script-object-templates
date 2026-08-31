@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="Corruption">
-    <Modules>
-        <Element>RSO_Gandrayda.rso</Element>
-    </Modules>
     <Properties Type="Struct">
         <Name>SamusForm</Name>
         <SubProperties>

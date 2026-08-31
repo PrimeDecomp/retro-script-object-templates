@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>VolcanoBossGridAnimData</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0x92807F97" Archetype="VolcanoBossGridAnimSetData"/>
+            <Element Type="Struct" ID="0x7663ABF3" Archetype="VolcanoBossGridAnimSetData"/>
+            <Element Type="Struct" ID="0x8A4C3F96" Archetype="VolcanoBossGridAnimSetData"/>
+            <Element Type="Struct" ID="0x70D8CAC0" Archetype="VolcanoBossGridAnimSetData"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

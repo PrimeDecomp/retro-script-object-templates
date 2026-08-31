@@ -53,6 +53,12 @@
             <Element Type="Bool" ID="0x330573E9">
                 <DefaultValue>true</DefaultValue>
             </Element>
+            <!-- PAL Entries -->
+            <!-- Cook Preference set so when editing NTSC, these don't get added -->
+            <Element Type="Bool" ID="0xD8A2EEF0">
+                <CookPreference>OnlyIfModified</CookPreference>
+                <DefaultValue>false</DefaultValue>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

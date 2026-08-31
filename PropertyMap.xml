@@ -39,7 +39,7 @@
         </Element>
         <Element>
             <Key ID="0x3E7991" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="GuiPointerExitSound"/>
         </Element>
         <Element>
             <Key ID="0x4297B4" Type="bool"/>
@@ -106,8 +106,8 @@
             <Value Name="RotationBehavior"/>
         </Element>
         <Element>
-            <Key ID="0xA81F44" Type="UnknownStruct85"/>
-            <Value Name="UnknownStruct85"/>
+            <Key ID="0xA81F44" Type="CrabDigModule"/>
+            <Value Name="Dig"/>
         </Element>
         <Element>
             <Key ID="0xAE9C61" Type="asset"/>
@@ -202,8 +202,8 @@
             <Value Name="ScanDelayMax"/>
         </Element>
         <Element>
-            <Key ID="0x1197C47" Type="UnknownStruct189"/>
-            <Value Name="UnknownStruct189"/>
+            <Key ID="0x1197C47" Type="JungleBoss1SuperChargeAttackData"/>
+            <Value Name="SuperCharge"/>
         </Element>
         <Element>
             <Key ID="0x11F0193" Type="RevolutionControl"/>
@@ -266,8 +266,8 @@
             <Value Name="MenuAddFavorite"/>
         </Element>
         <Element>
-            <Key ID="0x16768BE" Type="UnknownStruct284"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x16768BE" Type="VolcanoBossSwoopAttackData"/>
+            <Value Name="SwoopAttack"/>
         </Element>
         <Element>
             <Key ID="0x16B65A9" Type="asset"/>
@@ -286,8 +286,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x183DC71" Type="UnknownStruct193"/>
-            <Value Name="UnknownStruct193"/>
+            <Key ID="0x183DC71" Type="AlternateCollisionResponseData"/>
+            <Value Name="AlternateCollisionResponse"/>
         </Element>
         <Element>
             <Key ID="0x185263E" Type="float"/>
@@ -502,8 +502,8 @@
             <Value Name="IceArmorLCollar"/>
         </Element>
         <Element>
-            <Key ID="0x2EB59DC" Type="UnknownStruct56"/>
-            <Value Name="UnknownStruct56"/>
+            <Key ID="0x2EB59DC" Type="JungleBoss1AttackTypeData"/>
+            <Value Name="AttackType1"/>
         </Element>
         <Element>
             <Key ID="0x2F01683" Type="float"/>
@@ -539,7 +539,7 @@
         </Element>
         <Element>
             <Key ID="0x3304D0B" Type="asset"/>
-            <Value Name="TXTR"/>
+            <Value Name="ShardStormVisorTexture"/>
         </Element>
         <Element>
             <Key ID="0x33153A0" Type="float"/>
@@ -634,12 +634,12 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x39CE09A" Type="UnknownStruct202"/>
-            <Value Name="UnknownStruct202"/>
+            <Key ID="0x39CE09A" Type="JungleBoss1CollisionActorSetData"/>
+            <Value Name="CollisionActors"/>
         </Element>
         <Element>
-            <Key ID="0x3A0396F" Type="MoleTrainManagerStructA"/>
-            <Value Name="MoleTrainManagerStructA"/>
+            <Key ID="0x3A0396F" Type="MoleTrainChaseSequenceData"/>
+            <Value Name="Sequence5"/>
         </Element>
         <Element>
             <Key ID="0x3A319DF" Type="UnknownStruct13"/>
@@ -870,8 +870,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x4DEDF14" Type="UnknownStruct88"/>
-            <Value Name="UnknownStruct88"/>
+            <Key ID="0x4DEDF14" Type="CrabShadowModule"/>
+            <Value Name="Shadow"/>
         </Element>
         <Element>
             <Key ID="0x4E45235" Type="asset"/>
@@ -1703,7 +1703,7 @@
         </Element>
         <Element>
             <Key ID="0x9D9BD17" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextCameraHatchOpenVariance"/>
         </Element>
         <Element>
             <Key ID="0x9DA54A0" Type="bool"/>
@@ -2291,7 +2291,7 @@
         </Element>
         <Element>
             <Key ID="0xD55794A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextCameraSequenceVariance"/>
         </Element>
         <Element>
             <Key ID="0xD584A11" Type="int"/>
@@ -3151,7 +3151,7 @@
         </Element>
         <Element>
             <Key ID="0x12289828" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ContinuousParticleTimeOut"/>
         </Element>
         <Element>
             <Key ID="0x122CE118" Type="float"/>
@@ -3803,7 +3803,7 @@
         </Element>
         <Element>
             <Key ID="0x15E0C159" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrenadeBounceMaxAudibleDistance"/>
         </Element>
         <Element>
             <Key ID="0x15E3F283" Type="asset"/>
@@ -3998,8 +3998,8 @@
             <Value Name="MapUnvisitedOutlineAlphaMiniMap"/>
         </Element>
         <Element>
-            <Key ID="0x16D20640" Type="UnknownStruct279"/>
-            <Value Name="UnknownStruct279"/>
+            <Key ID="0x16D20640" Type="VolcanoBossDoubleHandSlamAttackData"/>
+            <Value Name="DoubleHandSlamAttack"/>
         </Element>
         <Element>
             <Key ID="0x16D89ACC" Type="int"/>
@@ -4118,8 +4118,8 @@
             <Value Name="PlankModel10"/>
         </Element>
         <Element>
-            <Key ID="0x17A112B3" Type="UnknownStruct56"/>
-            <Value Name="UnknownStruct56"/>
+            <Key ID="0x17A112B3" Type="JungleBoss1AttackTypeData"/>
+            <Value Name="AttackType3"/>
         </Element>
         <Element>
             <Key ID="0x17A804E1" Type="MusicMasterData"/>
@@ -4246,8 +4246,8 @@
             <Value Name="BoardImpact1Pitch"/>
         </Element>
         <Element>
-            <Key ID="0x1858CBDB" Type="UnknownStruct278"/>
-            <Value Name="UnknownStruct278"/>
+            <Key ID="0x1858CBDB" Type="VolcanoBossAttackSequenceData"/>
+            <Value Name="AttackSequence"/>
         </Element>
         <Element>
             <Key ID="0x185A88AD" Type="WeaponVulnerability"/>
@@ -4407,11 +4407,11 @@
         </Element>
         <Element>
             <Key ID="0x193C048F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="LookAroundTurnTime"/>
         </Element>
         <Element>
             <Key ID="0x193C7751" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextCameraSequenceTime"/>
         </Element>
         <Element>
             <Key ID="0x19468F2A" Type="TDamageInfo"/>
@@ -4530,8 +4530,8 @@
             <Value Name="SnapJawDamage"/>
         </Element>
         <Element>
-            <Key ID="0x19CA49A8" Type="JungleBossStructB"/>
-            <Value Name="JungleBossStructB"/>
+            <Key ID="0x19CA49A8" Type="JungleBoss1CollisionActorData"/>
+            <Value Name="CollosionActor4"/>
         </Element>
         <Element>
             <Key ID="0x19D7AE87" Type="float"/>
@@ -5231,7 +5231,7 @@
         </Element>
         <Element>
             <Key ID="0x1D02D6AA" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SFXTurretRotation"/>
         </Element>
         <Element>
             <Key ID="0x1D159832" Type="float"/>
@@ -5490,8 +5490,8 @@
             <Value Name="PhaserFeedback"/>
         </Element>
         <Element>
-            <Key ID="0x1E64B8DF" Type="UnknownStruct87"/>
-            <Value Name="UnknownStruct87"/>
+            <Key ID="0x1E64B8DF" Type="CrabStunnedModule"/>
+            <Value Name="Stunned"/>
         </Element>
         <Element>
             <Key ID="0x1E6686FE" Type="float"/>
@@ -5626,8 +5626,8 @@
             <Value Name="BallCameraChaseSpringConstant"/>
         </Element>
         <Element>
-            <Key ID="0x1F59E2C1" Type="RobotChickenFlyerStructA"/>
-            <Value Name="RobotChickenFlyerStructA"/>
+            <Key ID="0x1F59E2C1" Type="ChickenFlyerMotionData"/>
+            <Value Name="StompMotion"/>
         </Element>
         <Element>
             <Key ID="0x1F5A38E3" Type="float"/>
@@ -5682,8 +5682,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x1F9A7DC4" Type="JungleBossStructD"/>
-            <Value Name="JungleBossStructD"/>
+            <Key ID="0x1F9A7DC4" Type="VolcanoBossAttackSetData"/>
+            <Value Name="Attack4"/>
         </Element>
         <Element>
             <Key ID="0x1F9BCB8F" Type="float"/>
@@ -5695,7 +5695,7 @@
         </Element>
         <Element>
             <Key ID="0x1FB988F2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BlurPlayerVisorTime"/>
         </Element>
         <Element>
             <Key ID="0x1FC20169" Type="float"/>
@@ -5858,8 +5858,8 @@
             <Value Name="Spline7"/>
         </Element>
         <Element>
-            <Key ID="0x208C69A5" Type="UnknownStruct289"/>
-            <Value Name="UnknownStruct289"/>
+            <Key ID="0x208C69A5" Type="VolcanoBossGlobalAlternateAttackData"/>
+            <Value Name="GlobalAlternateAttackData"/>
         </Element>
         <Element>
             <Key ID="0x20927E9B" Type="Vector"/>
@@ -6222,8 +6222,8 @@
             <Value Name="GravityBoostTime"/>
         </Element>
         <Element>
-            <Key ID="0x229A1901" Type="RobotChickenStructA"/>
-            <Value Name="RobotChickenStructA"/>
+            <Key ID="0x229A1901" Type="RobotChickenTargetedJumpData"/>
+            <Value Name="JumpType2"/>
         </Element>
         <Element>
             <Key ID="0x229CEF2E" Type="float"/>
@@ -6502,8 +6502,8 @@
             <Value Name="Global"/>
         </Element>
         <Element>
-            <Key ID="0x2416759C" Type="UnknownStruct47"/>
-            <Value Name="UnknownStruct47"/>
+            <Key ID="0x2416759C" Type="ProjectileCollisionResponseData"/>
+            <Value Name="PlatformCollision"/>
         </Element>
         <Element>
             <Key ID="0x241839D4" Type="asset"/>
@@ -6814,8 +6814,8 @@
             <Value Name="OutOfSpin"/>
         </Element>
         <Element>
-            <Key ID="0x25AAAAA0" Type="JungleBossStructB"/>
-            <Value Name="JungleBossStructB"/>
+            <Key ID="0x25AAAAA0" Type="JungleBoss1CollisionActorData"/>
+            <Value Name="CollosionActor5"/>
         </Element>
         <Element>
             <Key ID="0x25AF490E" Type="sound"/>
@@ -7334,8 +7334,8 @@
             <Value Name="MotionControl"/>
         </Element>
         <Element>
-            <Key ID="0x287FCF02" Type="UnknownStruct56"/>
-            <Value Name="UnknownStruct56"/>
+            <Key ID="0x287FCF02" Type="JungleBoss1AttackTypeData"/>
+            <Value Name="AttackType5"/>
         </Element>
         <Element>
             <Key ID="0x2883F972" Type="SeedBoss1Shield"/>
@@ -7502,8 +7502,8 @@
             <Value Name="GiantElectricBallExplosion"/>
         </Element>
         <Element>
-            <Key ID="0x2978F187" Type="MoleTrainManagerStructB"/>
-            <Value Name="MoleTrainManagerStructB"/>
+            <Key ID="0x2978F187" Type="MoleTrainWhackSequenceData"/>
+            <Value Name="Sequence2"/>
         </Element>
         <Element>
             <Key ID="0x299916B2" Type="float"/>
@@ -7691,7 +7691,7 @@
         </Element>
         <Element>
             <Key ID="0x2AAE6322" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MapScreenZoomDefaultKey"/>
         </Element>
         <Element>
             <Key ID="0x2AB44ADB" Type="EmperorIngStage3Action"/>
@@ -7774,8 +7774,8 @@
             <Value Name="WarpJumpDamageWindow"/>
         </Element>
         <Element>
-            <Key ID="0x2B16C0BD" Type="MoleCartStruct"/>
-            <Value Name="MoleCartStruct"/>
+            <Key ID="0x2B16C0BD" Type="MoleTrainCartSoundData"/>
+            <Value Name="Sound2"/>
         </Element>
         <Element>
             <Key ID="0x2B19CD88" Type="float"/>
@@ -7970,8 +7970,8 @@
             <Value Name="FidgetAnimationFour"/>
         </Element>
         <Element>
-            <Key ID="0x2BEC4872" Type="JungleBossStructA"/>
-            <Value Name="JungleBossStructA"/>
+            <Key ID="0x2BEC4872" Type="JungleBoss1AttackTypeList"/>
+            <Value Name="Stage2"/>
         </Element>
         <Element>
             <Key ID="0x2BEF7961" Type="float"/>
@@ -8830,8 +8830,8 @@
             <Value Name="GrenadeExplosionSound"/>
         </Element>
         <Element>
-            <Key ID="0x307CE7E4" Type="UnknownStruct207"/>
-            <Value Name="UnknownStruct207"/>
+            <Key ID="0x307CE7E4" Type="JungleBoss1DistanceBoundsData"/>
+            <Value Name="RandomAttributes"/>
         </Element>
         <Element>
             <Key ID="0x308B92DD" Type="UnknownStruct167"/>
@@ -8906,8 +8906,8 @@
             <Value Name="Data"/>
         </Element>
         <Element>
-            <Key ID="0x30E7FE1A" Type="UnknownStruct55"/>
-            <Value Name="UnknownStruct55"/>
+            <Key ID="0x30E7FE1A" Type="JungleBoss1AttackSetData"/>
+            <Value Name="Set4"/>
         </Element>
         <Element>
             <Key ID="0x30ED7ACF" Type="MultiKeyframeAnim"/>
@@ -9031,7 +9031,7 @@
         </Element>
         <Element>
             <Key ID="0x3180D4F3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinimumSplitHeight"/>
         </Element>
         <Element>
             <Key ID="0x318418AA" Type="float"/>
@@ -9271,7 +9271,7 @@
         </Element>
         <Element>
             <Key ID="0x330619CA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HeadTrackPlayerRange"/>
         </Element>
         <Element>
             <Key ID="0x330EDC44" Type="float"/>
@@ -9303,7 +9303,7 @@
         </Element>
         <Element>
             <Key ID="0x333A909E" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundEffectOnMoveUp"/>
         </Element>
         <Element>
             <Key ID="0x333B7549" Type="float"/>
@@ -9463,7 +9463,7 @@
         </Element>
         <Element>
             <Key ID="0x340BE92F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BoostBallHitPlayerFPKnockBackSpeed"/>
         </Element>
         <Element>
             <Key ID="0x340E4CA3" Type="enum"/>
@@ -10047,7 +10047,7 @@
         </Element>
         <Element>
             <Key ID="0x3761C8E8" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="WeldBlobColdColor"/>
         </Element>
         <Element>
             <Key ID="0x37688E93" Type="OceanBridgeSoundSelect"/>
@@ -10759,7 +10759,7 @@
         </Element>
         <Element>
             <Key ID="0x3B6218DA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CameraHatchOpenDuration"/>
         </Element>
         <Element>
             <Key ID="0x3B6740F1" Type="float"/>
@@ -10963,7 +10963,7 @@
         </Element>
         <Element>
             <Key ID="0x3C5B0C98" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TimeToCycleTex"/>
         </Element>
         <Element>
             <Key ID="0x3C5C5405" Type="float"/>
@@ -11594,8 +11594,8 @@
             <Value Name="W"/>
         </Element>
         <Element>
-            <Key ID="0x3FC40D20" Type="UnknownStruct53"/>
-            <Value Name="UnknownStruct53"/>
+            <Key ID="0x3FC40D20" Type="JungleBoss1AttackSetChoice"/>
+            <Value Name="Choice5"/>
         </Element>
         <Element>
             <Key ID="0x3FCD8B66" Type="asset"/>
@@ -11734,8 +11734,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x4081BF95" Type="SpawnPointStruct"/>
-            <Value Name="Capacity"/>
+            <Key ID="0x4081BF95" Type="PlayerInventory"/>
+            <Value Name="SpawnInventoryCapacity"/>
         </Element>
         <Element>
             <Key ID="0x40908EB7" Type="bool"/>
@@ -11863,7 +11863,7 @@
         </Element>
         <Element>
             <Key ID="0x4128FF6D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="InitalCameraHatchOpenVariance"/>
         </Element>
         <Element>
             <Key ID="0x412C60DA" Type="int"/>
@@ -11970,16 +11970,16 @@
             <Value Name="FogNear"/>
         </Element>
         <Element>
-            <Key ID="0x419DC025" Type="RobotChickenStructA"/>
-            <Value Name="RobotChickenStructA"/>
+            <Key ID="0x419DC025" Type="RobotChickenTargetedJumpData"/>
+            <Value Name="JumpType3"/>
         </Element>
         <Element>
             <Key ID="0x41A9414A" Type="Color"/>
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x41ACA731" Type="JungleBossStructD"/>
-            <Value Name="JungleBossStructD"/>
+            <Key ID="0x41ACA731" Type="VolcanoBossAttackSetData"/>
+            <Value Name="Attack1"/>
         </Element>
         <Element>
             <Key ID="0x41AF5EEB" Type="float"/>
@@ -12034,8 +12034,8 @@
             <Value Name="ClimbUpAcceleration"/>
         </Element>
         <Element>
-            <Key ID="0x420151F6" Type="UnknownStruct261"/>
-            <Value Name="UnknownStruct261"/>
+            <Key ID="0x420151F6" Type="ChickenFlyerStageData"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0x420722EB" Type="asset"/>
@@ -12478,8 +12478,8 @@
             <Value Name="DI_WeaponType"/>
         </Element>
         <Element>
-            <Key ID="0x445EF669" Type="UnknownStruct186"/>
-            <Value Name="UnknownStruct186"/>
+            <Key ID="0x445EF669" Type="JungleBoss1RandomJumpAttackData"/>
+            <Value Name="RandomJump"/>
         </Element>
         <Element>
             <Key ID="0x4461A8AD" Type="DamageInfo"/>
@@ -12507,7 +12507,7 @@
         </Element>
         <Element>
             <Key ID="0x4473FEC0" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundDamagingPlayer"/>
         </Element>
         <Element>
             <Key ID="0x44749AB7" Type="bool"/>
@@ -12734,8 +12734,8 @@
             <Value Name="MapScreenAreaOpacity"/>
         </Element>
         <Element>
-            <Key ID="0x45C4C44C" Type="UnknownStruct204"/>
-            <Value Name="UnknownStruct204"/>
+            <Key ID="0x45C4C44C" Type="JungleBoss1CeilingShakeData"/>
+            <Value Name="CeilingShake"/>
         </Element>
         <Element>
             <Key ID="0x45D00B59" Type="asset"/>
@@ -12763,7 +12763,7 @@
         </Element>
         <Element>
             <Key ID="0x4602187E" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundEffectOnChunkDestroyed"/>
         </Element>
         <Element>
             <Key ID="0x460B2702" Type="float"/>
@@ -12826,8 +12826,8 @@
             <Value Name="LookDownTurnControl"/>
         </Element>
         <Element>
-            <Key ID="0x4673C93C" Type="UnknownStruct231"/>
-            <Value Name="UnknownStruct231"/>
+            <Key ID="0x4673C93C" Type="MoleTrainMoleWhackData"/>
+            <Value Name="Whack"/>
         </Element>
         <Element>
             <Key ID="0x46774985" Type="float"/>
@@ -12971,7 +12971,11 @@
         </Element>
         <Element>
             <Key ID="0x47177C43" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="AttackAnimation"/>
+        </Element>
+        <Element>
+            <Key ID="0x47177C43" Type="characteranimation"/>
+            <Value Name="AttackAnimation"/>
         </Element>
         <Element>
             <Key ID="0x471F1217" Type="string"/>
@@ -13170,8 +13174,8 @@
             <Value Name="MinimumDisplaySize"/>
         </Element>
         <Element>
-            <Key ID="0x47F4EAC6" Type="MoleTrainManagerStructB"/>
-            <Value Name="MoleTrainManagerStructB"/>
+            <Key ID="0x47F4EAC6" Type="MoleTrainWhackSequenceData"/>
+            <Value Name="Sequence3"/>
         </Element>
         <Element>
             <Key ID="0x47F99FBC" Type="float"/>
@@ -13602,6 +13606,10 @@
             <Value Name="ItemToChange"/>
         </Element>
         <Element>
+            <Key ID="0x4A3491BD" Type="PlayerItem"/>
+            <Value Name="ItemToChange"/>
+        </Element>
+        <Element>
             <Key ID="0x4A37C437" Type="PlasmaBeamInfo"/>
             <Value Name="LaserSweepBeamInfo"/>
         </Element>
@@ -13846,8 +13854,8 @@
             <Value Name="RotationMaxSpeedOrganic"/>
         </Element>
         <Element>
-            <Key ID="0x4B2D5A37" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x4B2D5A37" Type="sound"/>
+            <Value Name="SoundEffectOnStop"/>
         </Element>
         <Element>
             <Key ID="0x4B2DE673" Type="int"/>
@@ -14010,8 +14018,8 @@
             <Value Name="BossEnergyBarFilledColor"/>
         </Element>
         <Element>
-            <Key ID="0x4C1D4CC9" Type="SpawnPointStruct"/>
-            <Value Name="Amount"/>
+            <Key ID="0x4C1D4CC9" Type="PlayerInventory"/>
+            <Value Name="SpawnInventory"/>
         </Element>
         <Element>
             <Key ID="0x4C1F78F3" Type="float"/>
@@ -14063,7 +14071,7 @@
         </Element>
         <Element>
             <Key ID="0x4C60077E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphTimeTo"/>
         </Element>
         <Element>
             <Key ID="0x4C64D3A6" Type="CharacterAnimationSet"/>
@@ -14730,8 +14738,8 @@
             <Value Name="HorzPopUpVelocity"/>
         </Element>
         <Element>
-            <Key ID="0x50186B6A" Type="UnknownStruct286"/>
-            <Value Name="UnknownStruct286"/>
+            <Key ID="0x50186B6A" Type="VolcanoBossAttackSequenceSetsData"/>
+            <Value Name="AttackSequenceSets"/>
         </Element>
         <Element>
             <Key ID="0x501CC39F" Type="float"/>
@@ -14966,8 +14974,8 @@
             <Value Name="DetectionHeightRange"/>
         </Element>
         <Element>
-            <Key ID="0x51481661" Type="UnknownStruct53"/>
-            <Value Name="UnknownStruct53"/>
+            <Key ID="0x51481661" Type="JungleBoss1AttackSetChoice"/>
+            <Value Name="Choice4"/>
         </Element>
         <Element>
             <Key ID="0x515268E5" Type="asset"/>
@@ -15091,7 +15099,7 @@
         </Element>
         <Element>
             <Key ID="0x520D1DD5" Type="Vector2f"/>
-            <Value Name="Vector2f"/>
+            <Value Name="TwoSided_NearFarPlane"/>
         </Element>
         <Element>
             <Key ID="0x520EBB68" Type="CharacterAnimationSet"/>
@@ -15151,7 +15159,7 @@
         </Element>
         <Element>
             <Key ID="0x525191C2" Type="ChickenFlyerStompAttackData"/>
-            <Value Name="UnknownStruct51"/>
+            <Value Name="Stomper"/>
         </Element>
         <Element>
             <Key ID="0x52604FD4" Type="RevolutionControl"/>
@@ -16471,7 +16479,7 @@
         </Element>
         <Element>
             <Key ID="0x59ADC680" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="LoiterPointPadding"/>
         </Element>
         <Element>
             <Key ID="0x59B4B241" Type="ShipDecalSwapPair"/>
@@ -16555,7 +16563,7 @@
         </Element>
         <Element>
             <Key ID="0x5A3ED5A0" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="NovaWeldingBeam"/>
         </Element>
         <Element>
             <Key ID="0x5A426481" Type="float"/>
@@ -16599,7 +16607,7 @@
         </Element>
         <Element>
             <Key ID="0x5A87C156" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayerFlashedColor"/>
         </Element>
         <Element>
             <Key ID="0x5A8AE74A" Type="bool"/>
@@ -16682,8 +16690,8 @@
             <Value Name="BallForwardBrakingAccelShrubbery"/>
         </Element>
         <Element>
-            <Key ID="0x5B3C92BC" Type="UnknownStruct55"/>
-            <Value Name="UnknownStruct55"/>
+            <Key ID="0x5B3C92BC" Type="JungleBoss1AttackSetData"/>
+            <Value Name="Set2"/>
         </Element>
         <Element>
             <Key ID="0x5B454572" Type="float"/>
@@ -17170,8 +17178,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x5DAF5813" Type="MoleCartStruct"/>
-            <Value Name="MoleCartStruct"/>
+            <Key ID="0x5DAF5813" Type="MoleTrainCartSoundData"/>
+            <Value Name="Sound5"/>
         </Element>
         <Element>
             <Key ID="0x5DB3E694" Type="bool"/>
@@ -17183,7 +17191,7 @@
         </Element>
         <Element>
             <Key ID="0x5DBBA112" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="LoiterTime"/>
         </Element>
         <Element>
             <Key ID="0x5DCF0A64" Type="float"/>
@@ -17222,8 +17230,8 @@
             <Value Name="ScrewAttackWallJumpVerticalVelocity"/>
         </Element>
         <Element>
-            <Key ID="0x5DF3F980" Type="MoleCartStruct"/>
-            <Value Name="MoleCartStruct"/>
+            <Key ID="0x5DF3F980" Type="MoleTrainCartSoundData"/>
+            <Value Name="Sound1"/>
         </Element>
         <Element>
             <Key ID="0x5DFD7820" Type="bool"/>
@@ -17310,8 +17318,8 @@
             <Value Name="JumpLateralModifyGravityTime"/>
         </Element>
         <Element>
-            <Key ID="0x5E856665" Type="UnknownStruct53"/>
-            <Value Name="UnknownStruct53"/>
+            <Key ID="0x5E856665" Type="JungleBoss1AttackSetChoice"/>
+            <Value Name="Choice1"/>
         </Element>
         <Element>
             <Key ID="0x5E85C303" Type="float"/>
@@ -17362,8 +17370,8 @@
             <Value Name="EMPGrenadeAttackInfo"/>
         </Element>
         <Element>
-            <Key ID="0x5ECB9A6B" Type="UnknownStruct83"/>
-            <Value Name="UnknownStruct83"/>
+            <Key ID="0x5ECB9A6B" Type="PirateCrabMgrData"/>
+            <Value Name="PirateCrabMgr"/>
         </Element>
         <Element>
             <Key ID="0x5ECCB98C" Type="float"/>
@@ -17762,8 +17770,8 @@
             <Value Name="OrbitCarcassMaxDistance"/>
         </Element>
         <Element>
-            <Key ID="0x610B8FB8" Type="JungleBossStructB"/>
-            <Value Name="JungleBossStructB"/>
+            <Key ID="0x610B8FB8" Type="JungleBoss1CollisionActorData"/>
+            <Value Name="CollosionActor6"/>
         </Element>
         <Element>
             <Key ID="0x610C0165" Type="float"/>
@@ -18038,8 +18046,8 @@
             <Value Name="EchoHudColorScheme"/>
         </Element>
         <Element>
-            <Key ID="0x62E1522A" Type="MoleTrainManagerStructA"/>
-            <Value Name="MoleTrainManagerStructA"/>
+            <Key ID="0x62E1522A" Type="MoleTrainChaseSequenceData"/>
+            <Value Name="Sequence1"/>
         </Element>
         <Element>
             <Key ID="0x62E39DB0" Type="float"/>
@@ -18210,8 +18218,8 @@
             <Value Name="DeployTime"/>
         </Element>
         <Element>
-            <Key ID="0x63CD839F" Type="UnknownStruct282"/>
-            <Value Name="UnknownStruct282"/>
+            <Key ID="0x63CD839F" Type="VolcanoBossLavaAttackData"/>
+            <Value Name="LavaAttack"/>
         </Element>
         <Element>
             <Key ID="0x63CD8FEA" Type="float"/>
@@ -18518,8 +18526,8 @@
             <Value Name="Sound_FireballLoop"/>
         </Element>
         <Element>
-            <Key ID="0x6575A3D5" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x6575A3D5" Type="sound"/>
+            <Value Name="SoundEffectOnMoveDown"/>
         </Element>
         <Element>
             <Key ID="0x6575BF29" Type="bool"/>
@@ -19367,7 +19375,7 @@
         </Element>
         <Element>
             <Key ID="0x69E51CD3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="OpticArrayDamageHideTime"/>
         </Element>
         <Element>
             <Key ID="0x69E6568D" Type="float"/>
@@ -19458,8 +19466,8 @@
             <Value Name="ApplyMaximumHorizontalLimit"/>
         </Element>
         <Element>
-            <Key ID="0x6A5549A3" Type="UnknownStruct281"/>
-            <Value Name="UnknownStruct281"/>
+            <Key ID="0x6A5549A3" Type="VolcanoBossHandSwipeAttackData"/>
+            <Value Name="HandSwipeAttack"/>
         </Element>
         <Element>
             <Key ID="0x6A598A9B" Type="TextGradientColors"/>
@@ -19551,7 +19559,7 @@
         </Element>
         <Element>
             <Key ID="0x6AB7C2F5" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="PlayerMorphBallCollisionSound"/>
         </Element>
         <Element>
             <Key ID="0x6ABE7307" Type="ScanInfoSecondaryModel"/>
@@ -19795,7 +19803,7 @@
         </Element>
         <Element>
             <Key ID="0x6C14CD39" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="Sound_GrenadeCuring"/>
         </Element>
         <Element>
             <Key ID="0x6C160621" Type="float"/>
@@ -19831,7 +19839,11 @@
         </Element>
         <Element>
             <Key ID="0x6C3B5F38" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_React"/>
+        </Element>
+        <Element>
+            <Key ID="0x6C3B5F38" Type="characteranimation"/>
+            <Value Name="Animation_React"/>
         </Element>
         <Element>
             <Key ID="0x6C447FF0" Type="Vector"/>
@@ -20011,7 +20023,7 @@
         </Element>
         <Element>
             <Key ID="0x6D210BEB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BoostBallCollisionKnockBackSpeed"/>
         </Element>
         <Element>
             <Key ID="0x6D267E88" Type="asset"/>
@@ -20026,8 +20038,8 @@
             <Value Name="FollowWaypoints"/>
         </Element>
         <Element>
-            <Key ID="0x6D2C222E" Type="MoleTrainManagerStructA"/>
-            <Value Name="MoleTrainManagerStructA"/>
+            <Key ID="0x6D2C222E" Type="MoleTrainChaseSequenceData"/>
+            <Value Name="Sequence4"/>
         </Element>
         <Element>
             <Key ID="0x6D31262B" Type="float"/>
@@ -20187,7 +20199,7 @@
         </Element>
         <Element>
             <Key ID="0x6DDEA66D" Type="LayerInfo"/>
-            <Value Name="LayerInfo"/>
+            <Value Name="FlowRefractWarp"/>
         </Element>
         <Element>
             <Key ID="0x6DE336D3" Type="float"/>
@@ -20226,8 +20238,8 @@
             <Value Name="Alt4BoardLiftSoundEffect"/>
         </Element>
         <Element>
-            <Key ID="0x6E3800D3" Type="JungleBossStructC"/>
-            <Value Name="JungleBossStructC"/>
+            <Key ID="0x6E3800D3" Type="JungleBoss1MeteorRainGenerationSetData"/>
+            <Value Name="Set1"/>
         </Element>
         <Element>
             <Key ID="0x6E3825EF" Type="Vector"/>
@@ -20246,8 +20258,8 @@
             <Value Name="FadeInDelta"/>
         </Element>
         <Element>
-            <Key ID="0x6E4A9D27" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x6E4A9D27" Type="sound"/>
+            <Value Name="SoundEffectOnChunkGenerated"/>
         </Element>
         <Element>
             <Key ID="0x6E575D67" Type="float"/>
@@ -20290,8 +20302,8 @@
             <Value Name="FixedDelay5"/>
         </Element>
         <Element>
-            <Key ID="0x6ED124EF" Type="UnknownStruct55"/>
-            <Value Name="UnknownStruct55"/>
+            <Key ID="0x6ED124EF" Type="JungleBoss1AttackSetData"/>
+            <Value Name="Set1"/>
         </Element>
         <Element>
             <Key ID="0x6ED9D988" Type="HealthInfo"/>
@@ -20614,8 +20626,8 @@
             <Value Name="GenericExitStrings"/>
         </Element>
         <Element>
-            <Key ID="0x70D8CAC0" Type="VolcanoBossBodyPartStructC"/>
-            <Value Name="VolcanoBossBodyPartStructC"/>
+            <Key ID="0x70D8CAC0" Type="VolcanoBossGridAnimSetData"/>
+            <Value Name="PalmSwipe"/>
         </Element>
         <Element>
             <Key ID="0x70E597D4" Type="float"/>
@@ -20755,7 +20767,7 @@
         </Element>
         <Element>
             <Key ID="0x71946EEC" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CameraHatchOpenDurationVariance"/>
         </Element>
         <Element>
             <Key ID="0x719F92AB" Type="float"/>
@@ -20814,8 +20826,8 @@
             <Value Name="ShieldBustedScanInfo"/>
         </Element>
         <Element>
-            <Key ID="0x71E9D1A1" Type="UnknownStruct142"/>
-            <Value Name="UnknownStruct142"/>
+            <Key ID="0x71E9D1A1" Type="PlayerActionHintFlags"/>
+            <Value Name="PlayerActionHintFlags"/>
         </Element>
         <Element>
             <Key ID="0x71EAB030" Type="Color"/>
@@ -20851,7 +20863,7 @@
         </Element>
         <Element>
             <Key ID="0x722B1BC0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MapScreenMove2DHoverDepth"/>
         </Element>
         <Element>
             <Key ID="0x723542BB" Type="float"/>
@@ -20890,8 +20902,8 @@
             <Value Name="Intensity"/>
         </Element>
         <Element>
-            <Key ID="0x72544AFD" Type="UnknownStruct192"/>
-            <Value Name="UnknownStruct192"/>
+            <Key ID="0x72544AFD" Type="JungleBoss1AttackSetList"/>
+            <Value Name="AttackSet"/>
         </Element>
         <Element>
             <Key ID="0x725D3D75" Type="float"/>
@@ -21039,7 +21051,11 @@
         </Element>
         <Element>
             <Key ID="0x734D923B" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="AttackAnimation"/>
+        </Element>
+        <Element>
+            <Key ID="0x734D923B" Type="animation"/>
+            <Value Name="AttackAnimation"/>
         </Element>
         <Element>
             <Key ID="0x7352D60A" Type="DamageVulnerability"/>
@@ -21090,12 +21106,12 @@
             <Value Name="GuiLabel"/>
         </Element>
         <Element>
-            <Key ID="0x7399ABBB" Type="sound"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7399ABBB" Type="int"/>
+            <Value Name="IntoAttackAnimation"/>
         </Element>
         <Element>
-            <Key ID="0x7399ABBB" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7399ABBB" Type="animation"/>
+            <Value Name="IntoAttackAnimation"/>
         </Element>
         <Element>
             <Key ID="0x73AC8586" Type="float"/>
@@ -21154,8 +21170,8 @@
             <Value Name="JumpTargetPossiblePrimaryColorGreen"/>
         </Element>
         <Element>
-            <Key ID="0x73FF5613" Type="UnknownStruct233"/>
-            <Value Name="UnknownStruct233"/>
+            <Key ID="0x73FF5613" Type="MoleTrainMoleBombAttackData"/>
+            <Value Name="Bomb"/>
         </Element>
         <Element>
             <Key ID="0x74059F59" Type="enum"/>
@@ -21206,8 +21222,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x74411162" Type="JungleBossStructD"/>
-            <Value Name="JungleBossStructD"/>
+            <Key ID="0x74411162" Type="VolcanoBossAttackSetData"/>
+            <Value Name="Attack2"/>
         </Element>
         <Element>
             <Key ID="0x744165C4" Type="float"/>
@@ -21546,8 +21562,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x7663ABF3" Type="VolcanoBossBodyPartStructC"/>
-            <Value Name="VolcanoBossBodyPartStructC"/>
+            <Key ID="0x7663ABF3" Type="VolcanoBossGridAnimSetData"/>
+            <Value Name="HandSlam"/>
         </Element>
         <Element>
             <Key ID="0x7666757E" Type="asset"/>
@@ -22319,7 +22335,7 @@
         </Element>
         <Element>
             <Key ID="0x7A4B4685" Type="asset"/>
-            <Value Name="TXTR"/>
+            <Value Name="RefractWarpMap"/>
         </Element>
         <Element>
             <Key ID="0x7A4B4AEA" Type="bool"/>
@@ -22334,8 +22350,8 @@
             <Value Name="GrappleAttachMaxDistance"/>
         </Element>
         <Element>
-            <Key ID="0x7A5E5E73" Type="UnknownStruct281"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7A5E5E73" Type="VolcanoBossPalmSwipeAttackData"/>
+            <Value Name="PalmSwipeAttack"/>
         </Element>
         <Element>
             <Key ID="0x7A6231BF" Type="bool"/>
@@ -23022,8 +23038,8 @@
             <Value Name="ActorInformation"/>
         </Element>
         <Element>
-            <Key ID="0x7E3B3184" Type="UnknownStruct294"/>
-            <Value Name="UnknownStruct294"/>
+            <Key ID="0x7E3B3184" Type="VolcanoBossGridAnimData"/>
+            <Value Name="GridAnimData"/>
         </Element>
         <Element>
             <Key ID="0x7E4359D1" Type="int"/>
@@ -24070,8 +24086,8 @@
             <Value Name="HyperModeBurstShotsMin"/>
         </Element>
         <Element>
-            <Key ID="0x839D50E7" Type="UnknownStruct53"/>
-            <Value Name="UnknownStruct53"/>
+            <Key ID="0x839D50E7" Type="JungleBoss1AttackSetChoice"/>
+            <Value Name="Choice3"/>
         </Element>
         <Element>
             <Key ID="0x83A413D9" Type="asset"/>
@@ -24234,8 +24250,8 @@
             <Value Name="RagDollData"/>
         </Element>
         <Element>
-            <Key ID="0x84855E0F" Type="UnknownStruct239"/>
-            <Value Name="UnknownStruct239"/>
+            <Key ID="0x84855E0F" Type="MoleTrainBossWhackData"/>
+            <Value Name="BossMoleWhack"/>
         </Element>
         <Element>
             <Key ID="0x84927794" Type="asset"/>
@@ -24343,7 +24359,7 @@
         </Element>
         <Element>
             <Key ID="0x8518047A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphTimeRestore"/>
         </Element>
         <Element>
             <Key ID="0x851BE4BE" Type="UnknownStruct173"/>
@@ -24742,8 +24758,8 @@
             <Value Name="StunnedReelSound"/>
         </Element>
         <Element>
-            <Key ID="0x8792726D" Type="RobotChickenStructA"/>
-            <Value Name="RobotChickenStructA"/>
+            <Key ID="0x8792726D" Type="RobotChickenTargetedJumpData"/>
+            <Value Name="JumpType1"/>
         </Element>
         <Element>
             <Key ID="0x87929C41" Type="bool"/>
@@ -24879,7 +24895,7 @@
         </Element>
         <Element>
             <Key ID="0x8843CE6D" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="MorningStarShatter"/>
         </Element>
         <Element>
             <Key ID="0x88461442" Type="float"/>
@@ -25246,8 +25262,8 @@
             <Value Name="UseTimeToCompleteBlock"/>
         </Element>
         <Element>
-            <Key ID="0x8A4C3F96" Type="VolcanoBossBodyPartStructC"/>
-            <Value Name="VolcanoBossBodyPartStructC"/>
+            <Key ID="0x8A4C3F96" Type="VolcanoBossGridAnimSetData"/>
+            <Value Name="HandSwipe"/>
         </Element>
         <Element>
             <Key ID="0x8A4E16E4" Type="bool"/>
@@ -25967,7 +25983,7 @@
         </Element>
         <Element>
             <Key ID="0x8E30F547" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="ContinuousParticleSystem"/>
         </Element>
         <Element>
             <Key ID="0x8E34B059" Type="DefenseMechanoidData"/>
@@ -26015,7 +26031,7 @@
         </Element>
         <Element>
             <Key ID="0x8E718724" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="OptionalModel2Alpha"/>
         </Element>
         <Element>
             <Key ID="0x8E79A0FB" Type="float"/>
@@ -26211,7 +26227,7 @@
         </Element>
         <Element>
             <Key ID="0x8F7F0613" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmorDamageStunTime"/>
         </Element>
         <Element>
             <Key ID="0x8F7FDD6F" Type="float"/>
@@ -26391,15 +26407,15 @@
         </Element>
         <Element>
             <Key ID="0x907F8E96" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SelectTargetDistanceFactor"/>
         </Element>
         <Element>
             <Key ID="0x9087DAE1" Type="float"/>
             <Value Name="AdvancedRotationMaxSpeedWater"/>
         </Element>
         <Element>
-            <Key ID="0x90880398" Type="JungleBossStructB"/>
-            <Value Name="JungleBossStructB"/>
+            <Key ID="0x90880398" Type="JungleBoss1CollisionActorData"/>
+            <Value Name="CollosionActor2"/>
         </Element>
         <Element>
             <Key ID="0x908A8E6C" Type="float"/>
@@ -26722,8 +26738,8 @@
             <Value Name="Sound_Stick"/>
         </Element>
         <Element>
-            <Key ID="0x92807F97" Type="VolcanoBossBodyPartStructC"/>
-            <Value Name="VolcanoBossBodyPartStructC"/>
+            <Key ID="0x92807F97" Type="VolcanoBossGridAnimSetData"/>
+            <Value Name="DoubleHandSlam"/>
         </Element>
         <Element>
             <Key ID="0x92827035" Type="float"/>
@@ -26827,7 +26843,7 @@
         </Element>
         <Element>
             <Key ID="0x932FEA01" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JumpTargetColorAnimatePeriod"/>
         </Element>
         <Element>
             <Key ID="0x93347099" Type="asset"/>
@@ -27047,7 +27063,7 @@
         </Element>
         <Element>
             <Key ID="0x946B04FF" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundEffectOnChunkGenerated"/>
         </Element>
         <Element>
             <Key ID="0x946CEFDE" Type="TweakTargeting_VulnerabilityIndicator"/>
@@ -27178,8 +27194,8 @@
             <Value Name="Empty"/>
         </Element>
         <Element>
-            <Key ID="0x9521AC40" Type="MoleTrainManagerStructB"/>
-            <Value Name="MoleTrainManagerStructB"/>
+            <Key ID="0x9521AC40" Type="MoleTrainWhackSequenceData"/>
+            <Value Name="Sequence4"/>
         </Element>
         <Element>
             <Key ID="0x95237258" Type="float"/>
@@ -27234,8 +27250,8 @@
             <Value Name="PlayerAvoidanceDistance"/>
         </Element>
         <Element>
-            <Key ID="0x956C6E14" Type="UnknownStruct55"/>
-            <Value Name="UnknownStruct55"/>
+            <Key ID="0x956C6E14" Type="JungleBoss1AttackSetData"/>
+            <Value Name="Set5"/>
         </Element>
         <Element>
             <Key ID="0x95700A27" Type="float"/>
@@ -28270,8 +28286,8 @@
             <Value Name="SummonLocationMethod"/>
         </Element>
         <Element>
-            <Key ID="0x9AECDC44" Type="MoleTrainManagerStructB"/>
-            <Value Name="MoleTrainManagerStructB"/>
+            <Key ID="0x9AECDC44" Type="MoleTrainWhackSequenceData"/>
+            <Value Name="Sequence1"/>
         </Element>
         <Element>
             <Key ID="0x9AF26C4E" Type="float"/>
@@ -28507,7 +28523,7 @@
         </Element>
         <Element>
             <Key ID="0x9C425325" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextEmptyHatchOpenTime"/>
         </Element>
         <Element>
             <Key ID="0x9C49DD81" Type="MinorIngBoostBallGuardian"/>
@@ -28523,7 +28539,7 @@
         </Element>
         <Element>
             <Key ID="0x9C7950A4" Type="asset"/>
-            <Value Name="CalculateSeed"/>
+            <Value Name="SplashSoundSmall"/>
         </Element>
         <Element>
             <Key ID="0x9C7E9051" Type="UnknownStruct227"/>
@@ -28675,7 +28691,7 @@
         </Element>
         <Element>
             <Key ID="0x9D7B5570" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="OpticArrayDamageHideThreshold"/>
         </Element>
         <Element>
             <Key ID="0x9D837DA5" Type="bool"/>
@@ -28811,7 +28827,7 @@
         </Element>
         <Element>
             <Key ID="0x9E69BCFB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CuringTime"/>
         </Element>
         <Element>
             <Key ID="0x9E8631F1" Type="UnknownStruct9"/>
@@ -28951,7 +28967,7 @@
         </Element>
         <Element>
             <Key ID="0x9F543A0D" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundEffectOnMoveDown"/>
         </Element>
         <Element>
             <Key ID="0x9F566DB4" Type="int"/>
@@ -29323,7 +29339,7 @@
         </Element>
         <Element>
             <Key ID="0xA13B1BA9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MissileDestroyedEmptyHatchOpenDuration"/>
         </Element>
         <Element>
             <Key ID="0xA1417B38" Type="int"/>
@@ -29350,8 +29366,8 @@
             <Value Name="MorphOutOfBall"/>
         </Element>
         <Element>
-            <Key ID="0xA152F46F" Type="RobotChickenFlyerStructA"/>
-            <Value Name="RobotChickenFlyerStructA"/>
+            <Key ID="0xA152F46F" Type="ChickenFlyerMotionData"/>
+            <Value Name="TrackPlayerMotion"/>
         </Element>
         <Element>
             <Key ID="0xA156F285" Type="spline"/>
@@ -29395,7 +29411,7 @@
         </Element>
         <Element>
             <Key ID="0xA184D013" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextCameraHatchOpenTime"/>
         </Element>
         <Element>
             <Key ID="0xA18A3F25" Type="float"/>
@@ -29611,7 +29627,7 @@
         </Element>
         <Element>
             <Key ID="0xA28B199D" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="GuiPointerEnterSound"/>
         </Element>
         <Element>
             <Key ID="0xA296206A" Type="float"/>
@@ -30015,7 +30031,7 @@
         </Element>
         <Element>
             <Key ID="0xA4B62AA9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="EmptyHatchOpenDuration"/>
         </Element>
         <Element>
             <Key ID="0xA4B9984F" Type="bool"/>
@@ -30278,8 +30294,8 @@
             <Value Name="BumpIntoWallKnockbackTime"/>
         </Element>
         <Element>
-            <Key ID="0xA694E8CA" Type="UnknownStruct235"/>
-            <Value Name="UnknownStruct235"/>
+            <Key ID="0xA694E8CA" Type="MoleTrainMoleChaseData"/>
+            <Value Name="Chase"/>
         </Element>
         <Element>
             <Key ID="0xA6A1CD8F" Type="float"/>
@@ -30583,7 +30599,7 @@
         </Element>
         <Element>
             <Key ID="0xA7BE5EDF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HeadTrackTargetRange"/>
         </Element>
         <Element>
             <Key ID="0xA7C8E63F" Type="float"/>
@@ -30646,8 +30662,8 @@
             <Value Name="DeathEffect0Count"/>
         </Element>
         <Element>
-            <Key ID="0xA8233351" Type="UnknownStruct57"/>
-            <Value Name="UnknownStruct57"/>
+            <Key ID="0xA8233351" Type="VolcanoBossAttackSequenceSetData"/>
+            <Value Name="AttackSequenceSet1"/>
         </Element>
         <Element>
             <Key ID="0xA826BD98" Type="string"/>
@@ -30922,8 +30938,8 @@
             <Value Name="UseRenderPush"/>
         </Element>
         <Element>
-            <Key ID="0xA9B9997F" Type="UnknownStruct293"/>
-            <Value Name="UnknownStruct293"/>
+            <Key ID="0xA9B9997F" Type="VolcanoBossCollisionActorSetData"/>
+            <Value Name="CollisionActors"/>
         </Element>
         <Element>
             <Key ID="0xA9BAC3FE" Type="asset"/>
@@ -30950,8 +30966,8 @@
             <Value Name="BeamTextureU2"/>
         </Element>
         <Element>
-            <Key ID="0xA9D29E32" Type="UnknownStruct19"/>
-            <Value Name="UnknownStruct19"/>
+            <Key ID="0xA9D29E32" Type="AreaNodeSounds"/>
+            <Value Name="Sounds"/>
         </Element>
         <Element>
             <Key ID="0xA9D5FF48" Type="bool"/>
@@ -31259,7 +31275,7 @@
         </Element>
         <Element>
             <Key ID="0xAB84892E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrenadeExplosionMaxAudibleDistance"/>
         </Element>
         <Element>
             <Key ID="0xAB9566A2" Type="float"/>
@@ -31482,12 +31498,12 @@
             <Value Name="StabDamageTimeMorphball"/>
         </Element>
         <Element>
-            <Key ID="0xACE8E090" Type="JungleBossStructB"/>
-            <Value Name="JungleBossStructB"/>
+            <Key ID="0xACE8E090" Type="JungleBoss1CollisionActorData"/>
+            <Value Name="CollosionActor3"/>
         </Element>
         <Element>
-            <Key ID="0xACEEF42B" Type="LocomotionSpeed"/>
-            <Value Name="LocomotionSpeed"/>
+            <Key ID="0xACEEF42B" Type="CrabAttackModule"/>
+            <Value Name="Attack"/>
         </Element>
         <Element>
             <Key ID="0xACF22673" Type="UnknownStruct160"/>
@@ -32171,7 +32187,7 @@
         </Element>
         <Element>
             <Key ID="0xB0259D23" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RefractWarpTopDown"/>
         </Element>
         <Element>
             <Key ID="0xB028DB0E" Type="LightParameters"/>
@@ -32218,8 +32234,8 @@
             <Value Name="SlowSpeedPeriodScale"/>
         </Element>
         <Element>
-            <Key ID="0xB0652A69" Type="MoleCartStruct"/>
-            <Value Name="MoleCartStruct"/>
+            <Key ID="0xB0652A69" Type="MoleTrainCartSoundData"/>
+            <Value Name="Sound3"/>
         </Element>
         <Element>
             <Key ID="0xB06815B3" Type="asset"/>
@@ -32355,7 +32371,7 @@
         </Element>
         <Element>
             <Key ID="0xB10CC3EF" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundEffectOnStop"/>
         </Element>
         <Element>
             <Key ID="0xB10F94C5" Type="asset"/>
@@ -32727,7 +32743,7 @@
         </Element>
         <Element>
             <Key ID="0xB34E89AE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinFallAngleHighHP"/>
         </Element>
         <Element>
             <Key ID="0xB35B7BEC" Type="string"/>
@@ -32878,8 +32894,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xB3FBC998" Type="RobotChickenStructA"/>
-            <Value Name="RobotChickenStructA"/>
+            <Key ID="0xB3FBC998" Type="RobotChickenTargetedJumpData"/>
+            <Value Name="JumpType4"/>
         </Element>
         <Element>
             <Key ID="0xB3FBFFC8" Type="float"/>
@@ -33231,7 +33247,7 @@
         </Element>
         <Element>
             <Key ID="0xB619C33A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JumpInitialTurnTime"/>
         </Element>
         <Element>
             <Key ID="0xB61AFA3B" Type="RobotChickenStompAttackData"/>
@@ -33283,7 +33299,7 @@
         </Element>
         <Element>
             <Key ID="0xB64EA21C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="EmptyHatchOpenDurationVariance"/>
         </Element>
         <Element>
             <Key ID="0xB64ED093" Type="asset"/>
@@ -33439,7 +33455,7 @@
         </Element>
         <Element>
             <Key ID="0xB7246843" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="TwoSided_Color"/>
         </Element>
         <Element>
             <Key ID="0xB72565FF" Type="choice"/>
@@ -33555,7 +33571,7 @@
         </Element>
         <Element>
             <Key ID="0xB7D4B884" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxFallAngleHighHP"/>
         </Element>
         <Element>
             <Key ID="0xB7DC6C65" Type="asset"/>
@@ -33914,8 +33930,8 @@
             <Value Name="GrappleGuardianEyeGlow"/>
         </Element>
         <Element>
-            <Key ID="0xB9FCDE3B" Type="UnknownStruct228"/>
-            <Value Name="UnknownStruct228"/>
+            <Key ID="0xB9FCDE3B" Type="MoleTrainCartData"/>
+            <Value Name="Data"/>
         </Element>
         <Element>
             <Key ID="0xB9FFA928" Type="ShellBugData"/>
@@ -34366,8 +34382,8 @@
             <Value Name="Shop"/>
         </Element>
         <Element>
-            <Key ID="0xBC2381A6" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xBC2381A6" Type="sound"/>
+            <Value Name="SoundEffectOnChunkDestroyed"/>
         </Element>
         <Element>
             <Key ID="0xBC25CAED" Type="int"/>
@@ -34443,7 +34459,7 @@
         </Element>
         <Element>
             <Key ID="0xBC86052A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TwoSided_ColorRate"/>
         </Element>
         <Element>
             <Key ID="0xBC96214F" Type="float"/>
@@ -34618,8 +34634,8 @@
             <Value Name="MaximumSpeedForAudioInverse"/>
         </Element>
         <Element>
-            <Key ID="0xBDA31C28" Type="JungleBossStructC"/>
-            <Value Name="JungleBossStructC"/>
+            <Key ID="0xBDA31C28" Type="JungleBoss1MeteorRainGenerationSetData"/>
+            <Value Name="Set2"/>
         </Element>
         <Element>
             <Key ID="0xBDA45F1A" Type="Color"/>
@@ -34930,8 +34946,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xBF455E0F" Type="UnknownStruct191"/>
-            <Value Name="UnknownStruct191"/>
+            <Key ID="0xBF455E0F" Type="JungleBoss1MeteorRainAttackData"/>
+            <Value Name="MeteorRain"/>
         </Element>
         <Element>
             <Key ID="0xBF496273" Type="bool"/>
@@ -35011,7 +35027,7 @@
         </Element>
         <Element>
             <Key ID="0xBFACE762" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="WeldBlobHotColor"/>
         </Element>
         <Element>
             <Key ID="0xBFAEFB37" Type="PowerBombGuardianStageProperties"/>
@@ -35047,7 +35063,11 @@
         </Element>
         <Element>
             <Key ID="0xBFE017DE" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_React"/>
+        </Element>
+        <Element>
+            <Key ID="0xBFE017DE" Type="animation"/>
+            <Value Name="Animation_React"/>
         </Element>
         <Element>
             <Key ID="0xBFF0E37B" Type="Color"/>
@@ -35058,8 +35078,8 @@
             <Value Name="Extend"/>
         </Element>
         <Element>
-            <Key ID="0xBFF964A8" Type="MoleTrainManagerStructA"/>
-            <Value Name="MoleTrainManagerStructA"/>
+            <Key ID="0xBFF964A8" Type="MoleTrainChaseSequenceData"/>
+            <Value Name="Sequence3"/>
         </Element>
         <Element>
             <Key ID="0xBFFFE95A" Type="int"/>
@@ -35091,7 +35111,7 @@
         </Element>
         <Element>
             <Key ID="0xC017CF42" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="ShardStormVisorFrostExplosion"/>
         </Element>
         <Element>
             <Key ID="0xC0181762" Type="TweakGui_VisorColorSchemeTypedef"/>
@@ -35774,8 +35794,8 @@
             <Value Name="MaxShotsInABurst"/>
         </Element>
         <Element>
-            <Key ID="0xC3E3EF00" Type="VolcanoBossBodyPartStructB"/>
-            <Value Name="VolcanoBossBodyPartStructB"/>
+            <Key ID="0xC3E3EF00" Type="VolcanoBossAttackData"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0xC3E41AAF" Type="float"/>
@@ -35930,8 +35950,8 @@
             <Value Name="GenerateSpreadAngle"/>
         </Element>
         <Element>
-            <Key ID="0xC4D0E557" Type="RobotChickenFlyerStructA"/>
-            <Value Name="RobotChickenFlyerStructA"/>
+            <Key ID="0xC4D0E557" Type="ChickenFlyerMotionData"/>
+            <Value Name="StrafeMotion"/>
         </Element>
         <Element>
             <Key ID="0xC4D32AE5" Type="TweakPlayer_Collision"/>
@@ -36094,8 +36114,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xC5A31FC4" Type="UnknownStruct280"/>
-            <Value Name="UnknownStruct280"/>
+            <Key ID="0xC5A31FC4" Type="VolcanoBossHandSlamAttackData"/>
+            <Value Name="HandSlamAttack"/>
         </Element>
         <Element>
             <Key ID="0xC5A921F0" Type="float"/>
@@ -36122,8 +36142,8 @@
             <Value Name="EchoFogFarZ"/>
         </Element>
         <Element>
-            <Key ID="0xC5C612B7" Type="UnknownStruct57"/>
-            <Value Name="UnknownStruct57"/>
+            <Key ID="0xC5C612B7" Type="VolcanoBossAttackSequenceSetData"/>
+            <Value Name="AttackSequenceSet3"/>
         </Element>
         <Element>
             <Key ID="0xC5C91839" Type="enum"/>
@@ -36354,8 +36374,8 @@
             <Value Name="PhazonGrappleMaxRange"/>
         </Element>
         <Element>
-            <Key ID="0xC6DCB2C7" Type="MoleCartStruct"/>
-            <Value Name="MoleCartStruct"/>
+            <Key ID="0xC6DCB2C7" Type="MoleTrainCartSoundData"/>
+            <Value Name="Sound4"/>
         </Element>
         <Element>
             <Key ID="0xC6E48F18" Type="float"/>
@@ -36371,7 +36391,7 @@
         </Element>
         <Element>
             <Key ID="0xC6E9D30E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrappleJetPackAngle"/>
         </Element>
         <Element>
             <Key ID="0xC6EAA851" Type="RevolutionControl"/>
@@ -36414,8 +36434,8 @@
             <Value Name="SuperMissile_Power"/>
         </Element>
         <Element>
-            <Key ID="0xC7150E5A" Type="UnknownStruct234"/>
-            <Value Name="UnknownStruct234"/>
+            <Key ID="0xC7150E5A" Type="MoleTrainMoleBoomerangAttackData"/>
+            <Value Name="Boomerang"/>
         </Element>
         <Element>
             <Key ID="0xC717A929" Type="float"/>
@@ -36778,8 +36798,8 @@
             <Value Name="RandomScheme"/>
         </Element>
         <Element>
-            <Key ID="0xC9045A02" Type="UnknownStruct58"/>
-            <Value Name="UnknownStruct58"/>
+            <Key ID="0xC9045A02" Type="VolcanoBossHandClapAttackData"/>
+            <Value Name="HandClapAttack"/>
         </Element>
         <Element>
             <Key ID="0xC90CDA8C" Type="asset"/>
@@ -36798,8 +36818,8 @@
             <Value Name="DeathBallDamageDelay"/>
         </Element>
         <Element>
-            <Key ID="0xC91B0946" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xC91B0946" Type="sound"/>
+            <Value Name="SoundEffectOnMoveUp"/>
         </Element>
         <Element>
             <Key ID="0xC91EF399" Type="asset"/>
@@ -36834,8 +36854,8 @@
             <Value Name="HyperModeCharge"/>
         </Element>
         <Element>
-            <Key ID="0xC932F084" Type="UnknownStruct284"/>
-            <Value Name="UnknownStruct284"/>
+            <Key ID="0xC932F084" Type="VolcanoBossSmashAttackData"/>
+            <Value Name="SmashAttack"/>
         </Element>
         <Element>
             <Key ID="0xC9416034" Type="DamageInfo"/>
@@ -37350,8 +37370,8 @@
             <Value Name="CanBounce"/>
         </Element>
         <Element>
-            <Key ID="0xCC43CDED" Type="UnknownStruct236"/>
-            <Value Name="UnknownStruct236"/>
+            <Key ID="0xCC43CDED" Type="MoleTrainMoleData"/>
+            <Value Name="MoleData"/>
         </Element>
         <Element>
             <Key ID="0xCC458CB9" Type="float"/>
@@ -37418,8 +37438,8 @@
             <Value Name="InitialLaunchDelay"/>
         </Element>
         <Element>
-            <Key ID="0xCCB08A34" Type="UnknownStruct188"/>
-            <Value Name="UnknownStruct188"/>
+            <Key ID="0xCCB08A34" Type="JungleBoss1ChargeAttackData"/>
+            <Value Name="Charge"/>
         </Element>
         <Element>
             <Key ID="0xCCB312C3" Type="bool"/>
@@ -37486,8 +37506,8 @@
             <Value Name="WallScrapeEffect"/>
         </Element>
         <Element>
-            <Key ID="0xCCF1EEE5" Type="JungleBossStructA"/>
-            <Value Name="JungleBossStructA"/>
+            <Key ID="0xCCF1EEE5" Type="JungleBoss1AttackTypeList"/>
+            <Value Name="Stage3"/>
         </Element>
         <Element>
             <Key ID="0xCCF2CAB2" Type="float"/>
@@ -37594,8 +37614,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xCD85B29D" Type="UnknownStruct285"/>
-            <Value Name="UnknownStruct285"/>
+            <Key ID="0xCD85B29D" Type="VolcanoBossAttackTypeData"/>
+            <Value Name="Attacks"/>
         </Element>
         <Element>
             <Key ID="0xCD8AB1E3" Type="float"/>
@@ -37614,8 +37634,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xCD9DE8CC" Type="UnknownStruct206"/>
-            <Value Name="UnknownStruct206"/>
+            <Key ID="0xCD9DE8CC" Type="JungleBoss1MeteorRainProjectileData"/>
+            <Value Name="MeteorRainProjectile"/>
         </Element>
         <Element>
             <Key ID="0xCDA8F0F3" Type="asset"/>
@@ -37966,8 +37986,8 @@
             <Value Name="Sound_BreakElectricEel"/>
         </Element>
         <Element>
-            <Key ID="0xCF626995" Type="UnknownStruct56"/>
-            <Value Name="UnknownStruct56"/>
+            <Key ID="0xCF626995" Type="JungleBoss1AttackTypeData"/>
+            <Value Name="AttackType4"/>
         </Element>
         <Element>
             <Key ID="0xCF6C1DE9" Type="float"/>
@@ -38346,8 +38366,8 @@
             <Value Name="LeftCollar"/>
         </Element>
         <Element>
-            <Key ID="0xD1757FE9" Type="MoleTrainManagerStructA"/>
-            <Value Name="MoleTrainManagerStructA"/>
+            <Key ID="0xD1757FE9" Type="MoleTrainChaseSequenceData"/>
+            <Value Name="Sequence2"/>
         </Element>
         <Element>
             <Key ID="0xD1777BF7" Type="int"/>
@@ -38410,8 +38430,8 @@
             <Value Name="SCAN"/>
         </Element>
         <Element>
-            <Key ID="0xD1CA816C" Type="JungleBossStructD"/>
-            <Value Name="JungleBossStructD"/>
+            <Key ID="0xD1CA816C" Type="VolcanoBossAttackSetData"/>
+            <Value Name="Attack3"/>
         </Element>
         <Element>
             <Key ID="0xD1CD493A" Type="WeaponVulnerability"/>
@@ -38599,7 +38619,7 @@
         </Element>
         <Element>
             <Key ID="0xD294848C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MissileDestroyedEmptyHatchOpenDurationVariance"/>
         </Element>
         <Element>
             <Key ID="0xD2986C43" Type="float"/>
@@ -38619,7 +38639,7 @@
         </Element>
         <Element>
             <Key ID="0xD2B71804" Type="asset"/>
-            <Value Name="CAUD"/>
+            <Value Name="Sound_MorningStarShatter"/>
         </Element>
         <Element>
             <Key ID="0xD2BA9438" Type="string"/>
@@ -38934,8 +38954,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xD4292680" Type="JungleBossStructB"/>
-            <Value Name="JungleBossStructB"/>
+            <Key ID="0xD4292680" Type="JungleBoss1CollisionActorData"/>
+            <Value Name="CollosionActor1"/>
         </Element>
         <Element>
             <Key ID="0xD42AA92C" Type="float"/>
@@ -39310,8 +39330,8 @@
             <Value Name="MinimumActivationDistance"/>
         </Element>
         <Element>
-            <Key ID="0xD6554C1A" Type="UnknownStruct47"/>
-            <Value Name="UnknownStruct47"/>
+            <Key ID="0xD6554C1A" Type="ProjectileCollisionResponseData"/>
+            <Value Name="PlayerCollision"/>
         </Element>
         <Element>
             <Key ID="0xD657F545" Type="float"/>
@@ -39866,8 +39886,8 @@
             <Value Name="ChargeBeamDamage"/>
         </Element>
         <Element>
-            <Key ID="0xD9BBA58A" Type="JungleBossStructA"/>
-            <Value Name="JungleBossStructA"/>
+            <Key ID="0xD9BBA58A" Type="JungleBoss1AttackTypeList"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0xD9BED8D3" Type="asset"/>
@@ -40175,7 +40195,7 @@
         </Element>
         <Element>
             <Key ID="0xDB7A3A6B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RefractWarpFlat"/>
         </Element>
         <Element>
             <Key ID="0xDB7F4AA2" Type="int"/>
@@ -41498,8 +41518,8 @@
             <Value Name="MinLaserPulseAttackTime"/>
         </Element>
         <Element>
-            <Key ID="0xE3395655" Type="UnknownStruct230"/>
-            <Value Name="UnknownStruct230"/>
+            <Key ID="0xE3395655" Type="MoleTrainMoleWhackAttackData"/>
+            <Value Name="Attack"/>
         </Element>
         <Element>
             <Key ID="0xE33A996D" Type="asset"/>
@@ -41695,7 +41715,7 @@
         </Element>
         <Element>
             <Key ID="0xE434119B" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudFlashAddColor"/>
         </Element>
         <Element>
             <Key ID="0xE446A4FC" Type="WeaponVulnerability"/>
@@ -41711,7 +41731,11 @@
         </Element>
         <Element>
             <Key ID="0xE44C130C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="IntoAttackAnimation"/>
+        </Element>
+        <Element>
+            <Key ID="0xE44C130C" Type="characteranimation"/>
+            <Value Name="IntoAttackAnimation"/>
         </Element>
         <Element>
             <Key ID="0xE450724B" Type="UnknownStruct10"/>
@@ -41962,8 +41986,8 @@
             <Value Name="RetroStudios"/>
         </Element>
         <Element>
-            <Key ID="0xE5915E70" Type="UnknownStruct238"/>
-            <Value Name="UnknownStruct238"/>
+            <Key ID="0xE5915E70" Type="MoleTrainWhackData"/>
+            <Value Name="WhackAMole"/>
         </Element>
         <Element>
             <Key ID="0xE593F1C6" Type="float"/>
@@ -41978,8 +42002,8 @@
             <Value Name="SuspensionBridgeData"/>
         </Element>
         <Element>
-            <Key ID="0xE59C4016" Type="UnknownStruct47"/>
-            <Value Name="UnknownStruct47"/>
+            <Key ID="0xE59C4016" Type="ProjectileCollisionResponseData"/>
+            <Value Name="CreatureCollision"/>
         </Element>
         <Element>
             <Key ID="0xE59DD61F" Type="float"/>
@@ -42091,7 +42115,7 @@
         </Element>
         <Element>
             <Key ID="0xE64BD01E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HypermodeInitialOnTime"/>
         </Element>
         <Element>
             <Key ID="0xE65578E3" Type="Color"/>
@@ -42243,7 +42267,7 @@
         </Element>
         <Element>
             <Key ID="0xE7234F72" Type="sound"/>
-            <Value Name="Unknown"/>
+            <Value Name="SFXTurretRotation"/>
         </Element>
         <Element>
             <Key ID="0xE72D6DC4" Type="TDamageInfo"/>
@@ -42470,8 +42494,8 @@
             <Value Name="MovementSpeedMultiplier"/>
         </Element>
         <Element>
-            <Key ID="0xE84AA51C" Type="RobotChickenFlyerStructA"/>
-            <Value Name="RobotChickenFlyerStructA"/>
+            <Key ID="0xE84AA51C" Type="ChickenFlyerMotionData"/>
+            <Value Name="Motion"/>
         </Element>
         <Element>
             <Key ID="0xE85121C7" Type="bool"/>
@@ -42775,7 +42799,11 @@
         </Element>
         <Element>
             <Key ID="0xE9BF2240" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_Damaged"/>
+        </Element>
+        <Element>
+            <Key ID="0xE9BF2240" Type="characteranimation"/>
+            <Value Name="Animation_Damaged"/>
         </Element>
         <Element>
             <Key ID="0xE9C116BF" Type="float"/>
@@ -42834,8 +42862,8 @@
             <Value Name="UsePlayerCrush"/>
         </Element>
         <Element>
-            <Key ID="0xEA0F134D" Type="UnknownStruct205"/>
-            <Value Name="UnknownStruct205"/>
+            <Key ID="0xEA0F134D" Type="JungleBoss1MeteorRainGenerationSetList"/>
+            <Value Name="GenerationPattern"/>
         </Element>
         <Element>
             <Key ID="0xEA119B2C" Type="asset"/>
@@ -42859,7 +42887,7 @@
         </Element>
         <Element>
             <Key ID="0xEA2C7744" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="NovaWeldingTorch"/>
         </Element>
         <Element>
             <Key ID="0xEA2D4CA8" Type="bool"/>
@@ -43274,8 +43302,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xEC8DB600" Type="UnknownStruct187"/>
-            <Value Name="UnknownStruct187"/>
+            <Key ID="0xEC8DB600" Type="JungleBoss1TargetedJumpAttackData"/>
+            <Value Name="TargetedJump"/>
         </Element>
         <Element>
             <Key ID="0xEC97CDBB" Type="float"/>
@@ -43378,8 +43406,8 @@
             <Value Name="ChaseOffset"/>
         </Element>
         <Element>
-            <Key ID="0xED114BA6" Type="UnknownStruct53"/>
-            <Value Name="UnknownStruct53"/>
+            <Key ID="0xED114BA6" Type="JungleBoss1AttackSetChoice"/>
+            <Value Name="Choice2"/>
         </Element>
         <Element>
             <Key ID="0xED1235D3" Type="RevolutionControl"/>
@@ -43439,7 +43467,7 @@
         </Element>
         <Element>
             <Key ID="0xED410449" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MissileHatchOpenDuration"/>
         </Element>
         <Element>
             <Key ID="0xED4A2787" Type="string"/>
@@ -43455,7 +43483,11 @@
         </Element>
         <Element>
             <Key ID="0xED5F16AC" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_Damaged"/>
+        </Element>
+        <Element>
+            <Key ID="0xED5F16AC" Type="animation"/>
+            <Value Name="Animation_Damaged"/>
         </Element>
         <Element>
             <Key ID="0xED685533" Type="DamageInfo"/>
@@ -43542,8 +43574,8 @@
             <Value Name="ForwardAccelIce"/>
         </Element>
         <Element>
-            <Key ID="0xEDB32680" Type="VolcanoBossBodyPartStructB"/>
-            <Value Name="VolcanoBossBodyPartStructB"/>
+            <Key ID="0xEDB32680" Type="VolcanoBossAttackData"/>
+            <Value Name="Stage3"/>
         </Element>
         <Element>
             <Key ID="0xEDB6062B" Type="float"/>
@@ -43814,8 +43846,8 @@
             <Value Name="FreezeDuration"/>
         </Element>
         <Element>
-            <Key ID="0xEF3E4DA5" Type="UnknownStruct203"/>
-            <Value Name="UnknownStruct203"/>
+            <Key ID="0xEF3E4DA5" Type="JungleBoss1AttackStageData"/>
+            <Value Name="AttackStages"/>
         </Element>
         <Element>
             <Key ID="0xEF3EFEC0" Type="int"/>
@@ -44090,8 +44122,8 @@
             <Value Name="PowerBomb"/>
         </Element>
         <Element>
-            <Key ID="0xF0BCB424" Type="UnknownStruct56"/>
-            <Value Name="UnknownStruct56"/>
+            <Key ID="0xF0BCB424" Type="JungleBoss1AttackTypeData"/>
+            <Value Name="AttackType2"/>
         </Element>
         <Element>
             <Key ID="0xF0BF68A4" Type="RevolutionPhysicalControl"/>
@@ -44210,8 +44242,8 @@
             <Value Name="PART"/>
         </Element>
         <Element>
-            <Key ID="0xF140225C" Type="UnknownStruct190"/>
-            <Value Name="UnknownStruct190"/>
+            <Key ID="0xF140225C" Type="JungleBoss1FireBeamAttackData"/>
+            <Value Name="FireBeam"/>
         </Element>
         <Element>
             <Key ID="0xF148F728" Type="AnimationSet"/>
@@ -44246,8 +44278,8 @@
             <Value Name="UnselectedVisorBeamColor"/>
         </Element>
         <Element>
-            <Key ID="0xF17AEF10" Type="UnknownStruct283"/>
-            <Value Name="UnknownStruct283"/>
+            <Key ID="0xF17AEF10" Type="VolcanoBossSeekerFireballAttackData"/>
+            <Value Name="SeekerFireballAttack"/>
         </Element>
         <Element>
             <Key ID="0xF18384D4" Type="HealthInfo"/>
@@ -44518,12 +44550,12 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xF32A1781" Type="JungleBossStructC"/>
-            <Value Name="JungleBossStructC"/>
+            <Key ID="0xF32A1781" Type="JungleBoss1MeteorRainGenerationSetData"/>
+            <Value Name="Set3"/>
         </Element>
         <Element>
-            <Key ID="0xF3348244" Type="UnknownStruct57"/>
-            <Value Name="UnknownStruct57"/>
+            <Key ID="0xF3348244" Type="VolcanoBossAttackSequenceSetData"/>
+            <Value Name="AttackSequenceSet2"/>
         </Element>
         <Element>
             <Key ID="0xF33B0DD4" Type="float"/>
@@ -44771,7 +44803,7 @@
         </Element>
         <Element>
             <Key ID="0xF484E0AE" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="HoldInitialAnimation"/>
         </Element>
         <Element>
             <Key ID="0xF48FD559" Type="Color"/>
@@ -44878,8 +44910,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xF4ED9547" Type="Inventory"/>
-            <Value Name="InventoryPlayer"/>
+            <Key ID="0xF4ED9547" Type="PlayerInventory"/>
+            <Value Name="Inventory"/>
         </Element>
         <Element>
             <Key ID="0xF4F19C8B" Type="spline"/>
@@ -45303,7 +45335,7 @@
         </Element>
         <Element>
             <Key ID="0xF707C050" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="InitialCameraHatchOpenTime"/>
         </Element>
         <Element>
             <Key ID="0xF70BEFC0" Type="bool"/>
@@ -45379,7 +45411,7 @@
         </Element>
         <Element>
             <Key ID="0xF768D625" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MissileHatchOpenDurationVariance"/>
         </Element>
         <Element>
             <Key ID="0xF769F604" Type="asset"/>
@@ -45391,7 +45423,7 @@
         </Element>
         <Element>
             <Key ID="0xF76F7D0B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbitPointColorAnimatePeriod"/>
         </Element>
         <Element>
             <Key ID="0xF77138D5" Type="float"/>
@@ -45891,7 +45923,7 @@
         </Element>
         <Element>
             <Key ID="0xF9EF55D4" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="OptionalModel1Alpha"/>
         </Element>
         <Element>
             <Key ID="0xF9EF8D5D" Type="LaunchProjectileData"/>
@@ -45935,7 +45967,7 @@
         </Element>
         <Element>
             <Key ID="0xFA22836A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NextEmptyHatchOpenVariance"/>
         </Element>
         <Element>
             <Key ID="0xFA255139" Type="bool"/>
@@ -46018,8 +46050,8 @@
             <Value Name="Attack7"/>
         </Element>
         <Element>
-            <Key ID="0xFA9B4240" Type="VolcanoBossBodyPartStructB"/>
-            <Value Name="VolcanoBossBodyPartStructB"/>
+            <Key ID="0xFA9B4240" Type="VolcanoBossAttackData"/>
+            <Value Name="Stage2"/>
         </Element>
         <Element>
             <Key ID="0xFAA6ABE5" Type="RevolutionControl"/>
@@ -46038,8 +46070,8 @@
             <Value Name="BelowBiteDamage"/>
         </Element>
         <Element>
-            <Key ID="0xFAB2F514" Type="UnknownStruct58"/>
-            <Value Name="UnknownStruct58"/>
+            <Key ID="0xFAB2F514" Type="VolcanoBossHandClapAttackData"/>
+            <Value Name="HandSlapAttack"/>
         </Element>
         <Element>
             <Key ID="0xFAB52EB9" Type="int"/>
@@ -46231,7 +46263,7 @@
         </Element>
         <Element>
             <Key ID="0xFBA31A97" Type="Vector2f"/>
-            <Value Name="Vector2f"/>
+            <Value Name="TwoSided_DistanceRate"/>
         </Element>
         <Element>
             <Key ID="0xFBA6A1D6" Type="float"/>
@@ -46615,7 +46647,7 @@
         </Element>
         <Element>
             <Key ID="0xFDC6649D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BoostBallHitPlayerBallKnockBackSpeed"/>
         </Element>
         <Element>
             <Key ID="0xFDCCB479" Type="int"/>
@@ -46734,8 +46766,8 @@
             <Value Name="MirrorModeText"/>
         </Element>
         <Element>
-            <Key ID="0xFE4D6482" Type="UnknownStruct232"/>
-            <Value Name="UnknownStruct232"/>
+            <Key ID="0xFE4D6482" Type="MoleTrainMolePickaxeAttackData"/>
+            <Value Name="Pickaxe"/>
         </Element>
         <Element>
             <Key ID="0xFE51924E" Type="LaunchProjectileData"/>
@@ -46834,8 +46866,8 @@
             <Value Name="GrabberExplosionSound"/>
         </Element>
         <Element>
-            <Key ID="0xFEB702B2" Type="UnknownStruct55"/>
-            <Value Name="UnknownStruct55"/>
+            <Key ID="0xFEB702B2" Type="JungleBoss1AttackSetData"/>
+            <Value Name="Set3"/>
         </Element>
         <Element>
             <Key ID="0xFEBBC04E" Type="asset"/>
@@ -46995,7 +47027,7 @@
         </Element>
         <Element>
             <Key ID="0xFF90B1E5" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="SoundOutofGround"/>
         </Element>
         <Element>
             <Key ID="0xFF92E3ED" Type="float"/>

@@ -13,7 +13,7 @@
             <Element Type="Float" ID="0x8747552E">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x71E9D1A1" Archetype="UnknownStruct142"/>
+            <Element Type="Struct" ID="0x71E9D1A1" Archetype="PlayerActionHintFlags"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

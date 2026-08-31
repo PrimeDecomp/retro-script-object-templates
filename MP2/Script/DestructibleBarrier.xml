@@ -45,20 +45,20 @@
             <Element Type="Int" ID="0x92485DFA">
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6E4A9D27">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x6E4A9D27">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xBC2381A6">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xBC2381A6">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6575A3D5">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x6575A3D5">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xC91B0946">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0xC91B0946">
+                <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x4B2D5A37">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Sound" ID="0x4B2D5A37">
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x605847B9">
                 <DefaultValue>50.0</DefaultValue>

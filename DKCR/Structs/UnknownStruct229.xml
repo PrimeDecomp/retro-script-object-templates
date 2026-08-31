@@ -6,11 +6,11 @@
             <Element Type="Int" ID="0xC686AF51">
                 <DefaultValue>2</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x5DF3F980" Archetype="MoleCartStruct"/>
-            <Element Type="Struct" ID="0x2B16C0BD" Archetype="MoleCartStruct"/>
-            <Element Type="Struct" ID="0xB0652A69" Archetype="MoleCartStruct"/>
-            <Element Type="Struct" ID="0xC6DCB2C7" Archetype="MoleCartStruct"/>
-            <Element Type="Struct" ID="0x5DAF5813" Archetype="MoleCartStruct"/>
+            <Element Type="Struct" ID="0x5DF3F980" Archetype="MoleTrainCartSoundData"/>
+            <Element Type="Struct" ID="0x2B16C0BD" Archetype="MoleTrainCartSoundData"/>
+            <Element Type="Struct" ID="0xB0652A69" Archetype="MoleTrainCartSoundData"/>
+            <Element Type="Struct" ID="0xC6DCB2C7" Archetype="MoleTrainCartSoundData"/>
+            <Element Type="Struct" ID="0x5DAF5813" Archetype="MoleTrainCartSoundData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

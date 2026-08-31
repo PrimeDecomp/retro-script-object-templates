@@ -42,11 +42,31 @@
             <Element Type="Int" ID="0x92485DFA">
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0x946B04FF"/>
-            <Element Type="Asset" ID="0x4602187E"/>
-            <Element Type="Asset" ID="0x9F543A0D"/>
-            <Element Type="Asset" ID="0x333A909E"/>
-            <Element Type="Asset" ID="0xB10CC3EF"/>
+            <Element Type="Asset" ID="0x946B04FF">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Asset" ID="0x4602187E">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Asset" ID="0x9F543A0D">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Asset" ID="0x333A909E">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
+            <Element Type="Asset" ID="0xB10CC3EF">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Float" ID="0x605847B9">
                 <DefaultValue>50.0</DefaultValue>
             </Element>

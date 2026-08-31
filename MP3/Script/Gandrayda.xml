@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="Corruption">
     <Modules>
+        <Element>RSO_SeedBoss2Bot.rso</Element>
+        <Element>RSO_Berserker.rso</Element>
+        <Element>RSO_FlyingPirate.rso</Element>
         <Element>RSO_Gandrayda.rso</Element>
     </Modules>
     <Properties Type="Struct">

@@ -1273,27 +1273,27 @@
         </Element>
         <Element>
             <Key>DANN</Key>
-            <Value>DANN</Value>
+            <Value>DamageAnnihilator</Value>
         </Element>
         <Element>
             <Key>DBAI</Key>
-            <Value>DBAI</Value>
+            <Value>DamageAI</Value>
         </Element>
         <Element>
             <Key>DBAL</Key>
-            <Value>DBAL</Value>
+            <Value>DamageBoostBall</Value>
         </Element>
         <Element>
             <Key>DBMB</Key>
-            <Value>DBMB</Value>
+            <Value>DamageBomb</Value>
         </Element>
         <Element>
             <Key>DCAN</Key>
-            <Value>DCAN</Value>
+            <Value>DamageCannonBall</Value>
         </Element>
         <Element>
             <Key>DDRK</Key>
-            <Value>DDRK</Value>
+            <Value>DamageDark</Value>
         </Element>
         <Element>
             <Key>DEAD</Key>
@@ -1309,23 +1309,23 @@
         </Element>
         <Element>
             <Key>DLGT</Key>
-            <Value>DLGT</Value>
+            <Value>DamageLight</Value>
         </Element>
         <Element>
             <Key>DMIS</Key>
-            <Value>DMIS</Value>
+            <Value>DamageMissile</Value>
         </Element>
         <Element>
             <Key>DPBM</Key>
-            <Value>DPBM</Value>
+            <Value>DamagePowerBomb</Value>
         </Element>
         <Element>
             <Key>DPHZ</Key>
-            <Value>DPHZ</Value>
+            <Value>DamagePhazon</Value>
         </Element>
         <Element>
             <Key>DPWR</Key>
-            <Value>DPWR</Value>
+            <Value>DamagePower</Value>
         </Element>
         <Element>
             <Key>DRKX</Key>
@@ -1333,7 +1333,7 @@
         </Element>
         <Element>
             <Key>DSCW</Key>
-            <Value>DSCW</Value>
+            <Value>DamageScrew</Value>
         </Element>
         <Element>
             <Key>ENTR</Key>
@@ -1747,7 +1747,7 @@
         </Element>
         <Element>
             <Key>XDMG</Key>
-            <Value>XDamage	</Value>
+            <Value>XDamage</Value>
         </Element>
         <Element>
             <Key>ZERO</Key>

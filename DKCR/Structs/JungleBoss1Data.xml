@@ -10,12 +10,12 @@
                     <Element Name="kBossType_Thugly" ID="0x2CBB4218"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0x39CE09A" Archetype="UnknownStruct202"/>
-            <Element Type="Struct" ID="0xEF3E4DA5" Archetype="UnknownStruct203"/>
-            <Element Type="Struct" ID="0x45C4C44C" Archetype="UnknownStruct204"/>
+            <Element Type="Struct" ID="0x39CE09A" Archetype="JungleBoss1CollisionActorSetData"/>
+            <Element Type="Struct" ID="0xEF3E4DA5" Archetype="JungleBoss1AttackStageData"/>
+            <Element Type="Struct" ID="0x45C4C44C" Archetype="JungleBoss1CeilingShakeData"/>
             <Element Type="Struct" ID="0x9E8F9696" Archetype="DamageInfo"/>
-            <Element Type="Struct" ID="0xCD9DE8CC" Archetype="UnknownStruct206"/>
-            <Element Type="Struct" ID="0x307CE7E4" Archetype="UnknownStruct207"/>
+            <Element Type="Struct" ID="0xCD9DE8CC" Archetype="JungleBoss1MeteorRainProjectileData"/>
+            <Element Type="Struct" ID="0x307CE7E4" Archetype="JungleBoss1DistanceBoundsData"/>
             <Element Type="Float" ID="0x2F2AE3E5">
                 <DefaultValue>55.0</DefaultValue>
             </Element>

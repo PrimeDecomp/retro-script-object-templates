@@ -3,10 +3,10 @@
     <PropertyArchetype Type="Struct">
         <Name>VolcanoBossAttackStageData</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x208C69A5" Archetype="UnknownStruct289"/>
-            <Element Type="Struct" ID="0xC3E3EF00" Archetype="VolcanoBossBodyPartStructB"/>
-            <Element Type="Struct" ID="0xFA9B4240" Archetype="VolcanoBossBodyPartStructB"/>
-            <Element Type="Struct" ID="0xEDB32680" Archetype="VolcanoBossBodyPartStructB"/>
+            <Element Type="Struct" ID="0x208C69A5" Archetype="VolcanoBossGlobalAlternateAttackData"/>
+            <Element Type="Struct" ID="0xC3E3EF00" Archetype="VolcanoBossAttackData"/>
+            <Element Type="Struct" ID="0xFA9B4240" Archetype="VolcanoBossAttackData"/>
+            <Element Type="Struct" ID="0xEDB32680" Archetype="VolcanoBossAttackData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

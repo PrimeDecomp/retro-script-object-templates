@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>JungleBoss1AttackSetList</Name>
+        <SubProperties>
+            <Element Type="Bool" ID="0xA6DED874">
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Struct" ID="0x6ED124EF" Archetype="JungleBoss1AttackSetData"/>
+            <Element Type="Struct" ID="0x5B3C92BC" Archetype="JungleBoss1AttackSetData"/>
+            <Element Type="Struct" ID="0xFEB702B2" Archetype="JungleBoss1AttackSetData"/>
+            <Element Type="Struct" ID="0x30E7FE1A" Archetype="JungleBoss1AttackSetData"/>
+            <Element Type="Struct" ID="0x956C6E14" Archetype="JungleBoss1AttackSetData"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

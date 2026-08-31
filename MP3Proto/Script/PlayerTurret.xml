@@ -42,7 +42,11 @@
                     <Element>WPSC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Asset" ID="0x1D02D6AA"/>
+            <Element Type="Asset" ID="0x1D02D6AA">
+                <TypeFilter>
+                    <Element>CAUD</Element>
+                </TypeFilter>
+            </Element>
             <Element Type="Asset" ID="0xC40EE323"/>
             <Element Type="Asset" ID="0x868A4829"/>
             <Element Type="Asset" ID="0x84D8EF33"/>

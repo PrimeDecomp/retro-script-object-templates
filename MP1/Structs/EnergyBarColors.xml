@@ -7,22 +7,22 @@
             <Element Type="Color" ID="0x0">
                 <Name>EnergyBarFilled</Name>
             </Element>
-            <Element Type="Color" ID="0x0">
+            <Element Type="Color" ID="0x4">
                 <Name>EnergyBarEmpty</Name>
             </Element>
-            <Element Type="Color" ID="0x0">
+            <Element Type="Color" ID="0x8">
                 <Name>EnergyBarShadow</Name>
             </Element>
-            <Element Type="Color" ID="0x0">
+            <Element Type="Color" ID="0xC">
                 <Name>EnergyTankFilled</Name>
             </Element>
-            <Element Type="Color" ID="0x0">
+            <Element Type="Color" ID="0x10">
                 <Name>EnergyTankEmpty</Name>
             </Element>
-            <Element Type="Color" ID="0x0">
+            <Element Type="Color" ID="0x14">
                 <Name>EnergyDigitsFont</Name>
             </Element>
-            <Element Type="Color" ID="0x0">
+            <Element Type="Color" ID="0x18">
                 <Name>EnergyDigitsOutline</Name>
             </Element>
         </SubProperties>

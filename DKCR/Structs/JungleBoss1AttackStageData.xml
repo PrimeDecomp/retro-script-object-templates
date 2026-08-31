@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>JungleBoss1AttackStageData</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0xD9BBA58A" Archetype="JungleBoss1AttackTypeList"/>
+            <Element Type="Struct" ID="0x2BEC4872" Archetype="JungleBoss1AttackTypeList"/>
+            <Element Type="Struct" ID="0xCCF1EEE5" Archetype="JungleBoss1AttackTypeList"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

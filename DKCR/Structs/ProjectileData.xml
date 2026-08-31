@@ -73,7 +73,7 @@
                     <Z>0.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x183DC71" Archetype="UnknownStruct193"/>
+            <Element Type="Struct" ID="0x183DC71" Archetype="AlternateCollisionResponseData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

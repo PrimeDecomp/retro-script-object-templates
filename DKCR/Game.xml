@@ -676,6 +676,10 @@
             <Value Path="Structs/AdditiveTouchAttackBehaviorData.xml"/>
         </Element>
         <Element>
+            <Key>AlternateCollisionResponseData</Key>
+            <Value Path="Structs/AlternateCollisionResponseData.xml"/>
+        </Element>
+        <Element>
             <Key>AnimEnum</Key>
             <Value Path="Enums/AnimEnum.xml"/>
         </Element>
@@ -694,6 +698,10 @@
         <Element>
             <Key>AreaDamageModifierData</Key>
             <Value Path="Structs/AreaDamageModifierData.xml"/>
+        </Element>
+        <Element>
+            <Key>AreaNodeSounds</Key>
+            <Value Path="Structs/AreaNodeSounds.xml"/>
         </Element>
         <Element>
             <Key>AttackSelector</Key>
@@ -880,8 +888,16 @@
             <Value Path="Structs/ChickenFlyerAttackData.xml"/>
         </Element>
         <Element>
+            <Key>ChickenFlyerMotionData</Key>
+            <Value Path="Structs/ChickenFlyerMotionData.xml"/>
+        </Element>
+        <Element>
             <Key>ChickenFlyerSoundData</Key>
             <Value Path="Structs/ChickenFlyerSoundData.xml"/>
+        </Element>
+        <Element>
+            <Key>ChickenFlyerStageData</Key>
+            <Value Path="Structs/ChickenFlyerStageData.xml"/>
         </Element>
         <Element>
             <Key>ChickenFlyerStompAttackData</Key>
@@ -930,6 +946,22 @@
         <Element>
             <Key>CounterConditions</Key>
             <Value Path="Structs/CounterConditions.xml"/>
+        </Element>
+        <Element>
+            <Key>CrabAttackModule</Key>
+            <Value Path="Structs/CrabAttackModule.xml"/>
+        </Element>
+        <Element>
+            <Key>CrabDigModule</Key>
+            <Value Path="Structs/CrabDigModule.xml"/>
+        </Element>
+        <Element>
+            <Key>CrabShadowModule</Key>
+            <Value Path="Structs/CrabShadowModule.xml"/>
+        </Element>
+        <Element>
+            <Key>CrabStunnedModule</Key>
+            <Value Path="Structs/CrabStunnedModule.xml"/>
         </Element>
         <Element>
             <Key>CreditsData</Key>
@@ -1228,28 +1260,88 @@
             <Value Path="Structs/IslandLoadConfirmScreen.xml"/>
         </Element>
         <Element>
+            <Key>JungleBoss1AttackSetChoice</Key>
+            <Value Path="Structs/JungleBoss1AttackSetChoice.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1AttackSetData</Key>
+            <Value Path="Structs/JungleBoss1AttackSetData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1AttackSetList</Key>
+            <Value Path="Structs/JungleBoss1AttackSetList.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1AttackStageData</Key>
+            <Value Path="Structs/JungleBoss1AttackStageData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1AttackTypeData</Key>
+            <Value Path="Structs/JungleBoss1AttackTypeData.xml"/>
+        </Element>
+        <Element>
             <Key>JungleBoss1AttackTypeEnum</Key>
             <Value Path="Structs/JungleBoss1AttackTypeEnum.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1AttackTypeList</Key>
+            <Value Path="Structs/JungleBoss1AttackTypeList.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1CeilingShakeData</Key>
+            <Value Path="Structs/JungleBoss1CeilingShakeData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1ChargeAttackData</Key>
+            <Value Path="Structs/JungleBoss1ChargeAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1CollisionActorData</Key>
+            <Value Path="Structs/JungleBoss1CollisionActorData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1CollisionActorSetData</Key>
+            <Value Path="Structs/JungleBoss1CollisionActorSetData.xml"/>
         </Element>
         <Element>
             <Key>JungleBoss1Data</Key>
             <Value Path="Structs/JungleBoss1Data.xml"/>
         </Element>
         <Element>
-            <Key>JungleBossStructA</Key>
-            <Value Path="Structs/JungleBossStructA.xml"/>
+            <Key>JungleBoss1DistanceBoundsData</Key>
+            <Value Path="Structs/JungleBoss1DistanceBoundsData.xml"/>
         </Element>
         <Element>
-            <Key>JungleBossStructB</Key>
-            <Value Path="Structs/JungleBossStructB.xml"/>
+            <Key>JungleBoss1FireBeamAttackData</Key>
+            <Value Path="Structs/JungleBoss1FireBeamAttackData.xml"/>
         </Element>
         <Element>
-            <Key>JungleBossStructC</Key>
-            <Value Path="Structs/JungleBossStructC.xml"/>
+            <Key>JungleBoss1MeteorRainAttackData</Key>
+            <Value Path="Structs/JungleBoss1MeteorRainAttackData.xml"/>
         </Element>
         <Element>
-            <Key>JungleBossStructD</Key>
-            <Value Path="Structs/JungleBossStructD.xml"/>
+            <Key>JungleBoss1MeteorRainGenerationSetData</Key>
+            <Value Path="Structs/JungleBoss1MeteorRainGenerationSetData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1MeteorRainGenerationSetList</Key>
+            <Value Path="Structs/JungleBoss1MeteorRainGenerationSetList.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1MeteorRainProjectileData</Key>
+            <Value Path="Structs/JungleBoss1MeteorRainProjectileData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1RandomJumpAttackData</Key>
+            <Value Path="Structs/JungleBoss1RandomJumpAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1SuperChargeAttackData</Key>
+            <Value Path="Structs/JungleBoss1SuperChargeAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1TargetedJumpAttackData</Key>
+            <Value Path="Structs/JungleBoss1TargetedJumpAttackData.xml"/>
         </Element>
         <Element>
             <Key>KeyGlueData</Key>
@@ -1294,10 +1386,6 @@
         <Element>
             <Key>LocomotionContextEnum</Key>
             <Value Path="Structs/LocomotionContextEnum.xml"/>
-        </Element>
-        <Element>
-            <Key>LocomotionSpeed</Key>
-            <Value Path="Structs/LocomotionSpeed.xml"/>
         </Element>
         <Element>
             <Key>LoiterAtBehaviorData</Key>
@@ -1348,24 +1436,64 @@
             <Value Path="Structs/ModifyContactRuleData.xml"/>
         </Element>
         <Element>
-            <Key>MoleCartStruct</Key>
-            <Value Path="Structs/MoleCartStruct.xml"/>
+            <Key>MoleTrainBossWhackData</Key>
+            <Value Path="Structs/MoleTrainBossWhackData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainCartData</Key>
+            <Value Path="Structs/MoleTrainCartData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainCartSoundData</Key>
+            <Value Path="Structs/MoleTrainCartSoundData.xml"/>
         </Element>
         <Element>
             <Key>MoleTrainChaseData</Key>
             <Value Path="Structs/MoleTrainChaseData.xml"/>
         </Element>
         <Element>
+            <Key>MoleTrainChaseSequenceData</Key>
+            <Value Path="Structs/MoleTrainChaseSequenceData.xml"/>
+        </Element>
+        <Element>
             <Key>MoleTrainManagerData</Key>
             <Value Path="Structs/MoleTrainManagerData.xml"/>
         </Element>
         <Element>
-            <Key>MoleTrainManagerStructA</Key>
-            <Value Path="Structs/MoleTrainManagerStructA.xml"/>
+            <Key>MoleTrainMoleBombAttackData</Key>
+            <Value Path="Structs/MoleTrainMoleBombAttackData.xml"/>
         </Element>
         <Element>
-            <Key>MoleTrainManagerStructB</Key>
-            <Value Path="Structs/MoleTrainManagerStructB.xml"/>
+            <Key>MoleTrainMoleBoomerangAttackData</Key>
+            <Value Path="Structs/MoleTrainMoleBoomerangAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainMoleChaseData</Key>
+            <Value Path="Structs/MoleTrainMoleChaseData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainMoleData</Key>
+            <Value Path="Structs/MoleTrainMoleData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainMolePickaxeAttackData</Key>
+            <Value Path="Structs/MoleTrainMolePickaxeAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainMoleWhackAttackData</Key>
+            <Value Path="Structs/MoleTrainMoleWhackAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainMoleWhackData</Key>
+            <Value Path="Structs/MoleTrainMoleWhackData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainWhackData</Key>
+            <Value Path="Structs/MoleTrainWhackData.xml"/>
+        </Element>
+        <Element>
+            <Key>MoleTrainWhackSequenceData</Key>
+            <Value Path="Structs/MoleTrainWhackSequenceData.xml"/>
         </Element>
         <Element>
             <Key>MotionInterpolationMethod</Key>
@@ -1388,12 +1516,12 @@
             <Value Path="Structs/MultiModelInformation.xml"/>
         </Element>
         <Element>
-            <Key>MusicEnumB</Key>
-            <Value Path="Enums/MusicEnumB.xml"/>
-        </Element>
-        <Element>
             <Key>MusicMasterData</Key>
             <Value Path="Structs/MusicMasterData.xml"/>
+        </Element>
+        <Element>
+            <Key>MusicSystemAreaState</Key>
+            <Value Path="Enums/MusicSystemAreaState.xml"/>
         </Element>
         <Element>
             <Key>MusicTrackData</Key>
@@ -1524,6 +1652,10 @@
             <Value Path="Structs/PirateCrabData.xml"/>
         </Element>
         <Element>
+            <Key>PirateCrabMgrData</Key>
+            <Value Path="Structs/PirateCrabMgrData.xml"/>
+        </Element>
+        <Element>
             <Key>PlatformCrushData</Key>
             <Value Path="Structs/PlatformCrushData.xml"/>
         </Element>
@@ -1534,6 +1666,10 @@
         <Element>
             <Key>PlayerActionHintData</Key>
             <Value Path="Structs/PlayerActionHintData.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerActionHintFlags</Key>
+            <Value Path="Structs/PlayerActionHintFlags.xml"/>
         </Element>
         <Element>
             <Key>PlayerAlternateSkin</Key>
@@ -1732,6 +1868,10 @@
             <Value Path="Structs/ProjectileCollisionData.xml"/>
         </Element>
         <Element>
+            <Key>ProjectileCollisionResponseData</Key>
+            <Value Path="Structs/ProjectileCollisionResponseData.xml"/>
+        </Element>
+        <Element>
             <Key>ProjectileData</Key>
             <Value Path="Structs/ProjectileData.xml"/>
         </Element>
@@ -1908,10 +2048,6 @@
             <Value Path="Structs/RobotChickenFlyerData.xml"/>
         </Element>
         <Element>
-            <Key>RobotChickenFlyerStructA</Key>
-            <Value Path="Structs/RobotChickenFlyerStructA.xml"/>
-        </Element>
-        <Element>
             <Key>RobotChickenJump1AttackData</Key>
             <Value Path="Structs/RobotChickenJump1AttackData.xml"/>
         </Element>
@@ -1936,12 +2072,12 @@
             <Value Path="Structs/RobotChickenStompAttackData.xml"/>
         </Element>
         <Element>
-            <Key>RobotChickenStructA</Key>
-            <Value Path="Structs/RobotChickenStructA.xml"/>
-        </Element>
-        <Element>
             <Key>RobotChickenSumoAttackData</Key>
             <Value Path="Structs/RobotChickenSumoAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>RobotChickenTargetedJumpData</Key>
+            <Value Path="Structs/RobotChickenTargetedJumpData.xml"/>
         </Element>
         <Element>
             <Key>RocketBarrelThrustData</Key>
@@ -2272,10 +2408,6 @@
             <Value Path="Structs/UnknownStruct140.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct142</Key>
-            <Value Path="Structs/UnknownStruct142.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct144</Key>
             <Value Path="Structs/UnknownStruct144.xml"/>
         </Element>
@@ -2360,68 +2492,8 @@
             <Value Path="Structs/UnknownStruct184.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct186</Key>
-            <Value Path="Structs/UnknownStruct186.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct187</Key>
-            <Value Path="Structs/UnknownStruct187.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct188</Key>
-            <Value Path="Structs/UnknownStruct188.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct189</Key>
-            <Value Path="Structs/UnknownStruct189.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct19</Key>
-            <Value Path="Structs/UnknownStruct19.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct190</Key>
-            <Value Path="Structs/UnknownStruct190.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct191</Key>
-            <Value Path="Structs/UnknownStruct191.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct192</Key>
-            <Value Path="Structs/UnknownStruct192.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct193</Key>
-            <Value Path="Structs/UnknownStruct193.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct20</Key>
             <Value Path="Structs/UnknownStruct20.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct202</Key>
-            <Value Path="Structs/UnknownStruct202.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct203</Key>
-            <Value Path="Structs/UnknownStruct203.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct204</Key>
-            <Value Path="Structs/UnknownStruct204.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct205</Key>
-            <Value Path="Structs/UnknownStruct205.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct206</Key>
-            <Value Path="Structs/UnknownStruct206.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct207</Key>
-            <Value Path="Structs/UnknownStruct207.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct22</Key>
@@ -2432,52 +2504,8 @@
             <Value Path="Structs/UnknownStruct227.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct228</Key>
-            <Value Path="Structs/UnknownStruct228.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct229</Key>
             <Value Path="Structs/UnknownStruct229.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct230</Key>
-            <Value Path="Structs/UnknownStruct230.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct231</Key>
-            <Value Path="Structs/UnknownStruct231.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct232</Key>
-            <Value Path="Structs/UnknownStruct232.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct233</Key>
-            <Value Path="Structs/UnknownStruct233.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct234</Key>
-            <Value Path="Structs/UnknownStruct234.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct235</Key>
-            <Value Path="Structs/UnknownStruct235.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct236</Key>
-            <Value Path="Structs/UnknownStruct236.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct238</Key>
-            <Value Path="Structs/UnknownStruct238.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct239</Key>
-            <Value Path="Structs/UnknownStruct239.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct261</Key>
-            <Value Path="Structs/UnknownStruct261.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct266</Key>
@@ -2500,60 +2528,12 @@
             <Value Path="Structs/UnknownStruct276.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct278</Key>
-            <Value Path="Structs/UnknownStruct278.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct279</Key>
-            <Value Path="Structs/UnknownStruct279.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct28</Key>
             <Value Path="Structs/UnknownStruct28.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct280</Key>
-            <Value Path="Structs/UnknownStruct280.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct281</Key>
-            <Value Path="Structs/UnknownStruct281.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct282</Key>
-            <Value Path="Structs/UnknownStruct282.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct283</Key>
-            <Value Path="Structs/UnknownStruct283.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct284</Key>
-            <Value Path="Structs/UnknownStruct284.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct285</Key>
-            <Value Path="Structs/UnknownStruct285.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct286</Key>
-            <Value Path="Structs/UnknownStruct286.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct289</Key>
-            <Value Path="Structs/UnknownStruct289.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct29</Key>
             <Value Path="Structs/UnknownStruct29.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct293</Key>
-            <Value Path="Structs/UnknownStruct293.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct294</Key>
-            <Value Path="Structs/UnknownStruct294.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct299</Key>
@@ -2572,56 +2552,16 @@
             <Value Path="Structs/UnknownStruct35.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct47</Key>
-            <Value Path="Structs/UnknownStruct47.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct52</Key>
             <Value Path="Structs/UnknownStruct52.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct53</Key>
-            <Value Path="Structs/UnknownStruct53.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct55</Key>
-            <Value Path="Structs/UnknownStruct55.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct56</Key>
-            <Value Path="Structs/UnknownStruct56.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct57</Key>
-            <Value Path="Structs/UnknownStruct57.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct58</Key>
-            <Value Path="Structs/UnknownStruct58.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct66</Key>
             <Value Path="Structs/UnknownStruct66.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct83</Key>
-            <Value Path="Structs/UnknownStruct83.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct84</Key>
             <Value Path="Structs/UnknownStruct84.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct85</Key>
-            <Value Path="Structs/UnknownStruct85.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct87</Key>
-            <Value Path="Structs/UnknownStruct87.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct88</Key>
-            <Value Path="Structs/UnknownStruct88.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>
@@ -2644,8 +2584,32 @@
             <Value Path="Structs/VerticalRocketBarrelThrustData.xml"/>
         </Element>
         <Element>
+            <Key>VolcanoBossAttackData</Key>
+            <Value Path="Structs/VolcanoBossAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossAttackSequenceData</Key>
+            <Value Path="Structs/VolcanoBossAttackSequenceData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossAttackSequenceSetData</Key>
+            <Value Path="Structs/VolcanoBossAttackSequenceSetData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossAttackSequenceSetsData</Key>
+            <Value Path="Structs/VolcanoBossAttackSequenceSetsData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossAttackSetData</Key>
+            <Value Path="Structs/VolcanoBossAttackSetData.xml"/>
+        </Element>
+        <Element>
             <Key>VolcanoBossAttackStageData</Key>
             <Value Path="Structs/VolcanoBossAttackStageData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossAttackTypeData</Key>
+            <Value Path="Structs/VolcanoBossAttackTypeData.xml"/>
         </Element>
         <Element>
             <Key>VolcanoBossAttackTypeEnum</Key>
@@ -2660,32 +2624,76 @@
             <Value Path="Structs/VolcanoBossBodyPartEnum.xml"/>
         </Element>
         <Element>
-            <Key>VolcanoBossBodyPartStructB</Key>
-            <Value Path="Structs/VolcanoBossBodyPartStructB.xml"/>
-        </Element>
-        <Element>
-            <Key>VolcanoBossBodyPartStructC</Key>
-            <Value Path="Structs/VolcanoBossBodyPartStructC.xml"/>
-        </Element>
-        <Element>
             <Key>VolcanoBossCollisionActorData</Key>
             <Value Path="Structs/VolcanoBossCollisionActorData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossCollisionActorSetData</Key>
+            <Value Path="Structs/VolcanoBossCollisionActorSetData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossDoubleHandSlamAttackData</Key>
+            <Value Path="Structs/VolcanoBossDoubleHandSlamAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossGlobalAlternateAttackData</Key>
+            <Value Path="Structs/VolcanoBossGlobalAlternateAttackData.xml"/>
         </Element>
         <Element>
             <Key>VolcanoBossGlobalData</Key>
             <Value Path="Structs/VolcanoBossGlobalData.xml"/>
         </Element>
         <Element>
+            <Key>VolcanoBossGridAnimData</Key>
+            <Value Path="Structs/VolcanoBossGridAnimData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossGridAnimSetData</Key>
+            <Value Path="Structs/VolcanoBossGridAnimSetData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossHandClapAttackData</Key>
+            <Value Path="Structs/VolcanoBossHandClapAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>VolcanoBossHandData</Key>
             <Value Path="Structs/VolcanoBossHandData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossHandSlamAttackData</Key>
+            <Value Path="Structs/VolcanoBossHandSlamAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossHandSwipeAttackData</Key>
+            <Value Path="Structs/VolcanoBossHandSwipeAttackData.xml"/>
         </Element>
         <Element>
             <Key>VolcanoBossHeadData</Key>
             <Value Path="Structs/VolcanoBossHeadData.xml"/>
         </Element>
         <Element>
+            <Key>VolcanoBossLavaAttackData</Key>
+            <Value Path="Structs/VolcanoBossLavaAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>VolcanoBossMiscProperties</Key>
             <Value Path="Structs/VolcanoBossMiscProperties.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossPalmSwipeAttackData</Key>
+            <Value Path="Structs/VolcanoBossPalmSwipeAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossSeekerFireballAttackData</Key>
+            <Value Path="Structs/VolcanoBossSeekerFireballAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossSmashAttackData</Key>
+            <Value Path="Structs/VolcanoBossSmashAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>VolcanoBossSwoopAttackData</Key>
+            <Value Path="Structs/VolcanoBossSwoopAttackData.xml"/>
         </Element>
         <Element>
             <Key>VolumeCategory</Key>

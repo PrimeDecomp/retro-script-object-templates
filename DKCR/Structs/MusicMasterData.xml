@@ -30,7 +30,7 @@
             <Element Type="Float" ID="0x196E17D9">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Enum" ID="0xFB8F0B1F" Archetype="MusicEnumB">
+            <Element Type="Enum" ID="0xFB8F0B1F" Archetype="MusicSystemAreaState">
                 <DefaultValue>0xCBF698CA</DefaultValue>
             </Element>
             <Element Type="Enum" ID="0x9558711E" Archetype="VolumeCategory">

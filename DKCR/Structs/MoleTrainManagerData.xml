@@ -10,8 +10,8 @@
                 <DefaultValue>3.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x55990ED8" Archetype="MoleTrainChaseData"/>
-            <Element Type="Struct" ID="0xE5915E70" Archetype="UnknownStruct238"/>
-            <Element Type="Struct" ID="0x84855E0F" Archetype="UnknownStruct239"/>
+            <Element Type="Struct" ID="0xE5915E70" Archetype="MoleTrainWhackData"/>
+            <Element Type="Struct" ID="0x84855E0F" Archetype="MoleTrainBossWhackData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>
