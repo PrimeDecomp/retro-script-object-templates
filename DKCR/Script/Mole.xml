@@ -36,7 +36,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xCC43CDED" Archetype="UnknownStruct236"/>
+            <Element Type="Struct" ID="0xCC43CDED" Archetype="MoleTrainMoleData"/>
             <Element Type="Struct" ID="0xB16CED2" Archetype="TrackObjectModuleData"/>
         </SubProperties>
     </Properties>

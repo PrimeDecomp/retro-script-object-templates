@@ -60,7 +60,7 @@
                     <Element Name="kCartType_Conductor" ID="0x6B3D1C5C"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0xB9FCDE3B" Archetype="UnknownStruct228"/>
+            <Element Type="Struct" ID="0xB9FCDE3B" Archetype="MoleTrainCartData"/>
             <Element Type="Struct" ID="0xC9425E4B" Archetype="UnknownStruct229"/>
         </SubProperties>
     </Properties>

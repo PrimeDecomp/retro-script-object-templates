@@ -497,7 +497,7 @@
                 <Name>MissileRicochet</Name>
                 <DefaultValue>0.1</DefaultValue>
             </Element>
-            <Element Type="Float" ID="0x26">
+            <Element Type="Float" ID="0x27">
                 <Name>PhazonBeamRicochet</Name>
                 <DefaultValue>0.1</DefaultValue>
             </Element>

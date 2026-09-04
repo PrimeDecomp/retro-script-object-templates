@@ -14,8 +14,8 @@
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE1EC7346" Archetype="BasicSwarmProperties"/>
-            <Element Type="Sound" ID="0x7399ABBB">
-                <DefaultValue>0</DefaultValue>
+            <Element Type="Int" ID="0x7399ABBB">
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x734D923B">
                 <DefaultValue>-1</DefaultValue>

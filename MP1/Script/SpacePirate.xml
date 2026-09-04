@@ -48,6 +48,7 @@
                     <Element Name="NoKnockbackImpulseReset" Mask="0x80"/>
                     <Element Name="NoMeleeAttack" Mask="0x200"/>
                     <Element Name="BreakAttack" Mask="0x400"/>
+                    <Element Name="Unknown" Mask="0x800"/>
                     <Element Name="Seated" Mask="0x1000"/>
                     <Element Name="ShadowPirate" Mask="0x2000"/>
                     <Element Name="AlertBeforeCloak" Mask="0x4000"/>

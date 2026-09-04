@@ -4,7 +4,7 @@
         <Name>AreaStreamedAudioState</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Enum" ID="0xE7D8D823" Archetype="MusicEnumB">
+            <Element Type="Enum" ID="0xE7D8D823" Archetype="MusicSystemAreaState">
                 <DefaultValue>0xCBF698CA</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x5C9246C">

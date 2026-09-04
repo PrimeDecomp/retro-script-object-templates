@@ -10,7 +10,7 @@
             <Element Type="Bool" ID="0xB9C40F92">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xF4ED9547" Archetype="Inventory"/>
+            <Element Type="Struct" ID="0xF4ED9547" Archetype="PlayerInventory"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

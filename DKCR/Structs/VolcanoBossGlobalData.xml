@@ -9,8 +9,8 @@
             <Element Type="Float" ID="0xEE382651">
                 <DefaultValue>0.5</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xA9B9997F" Archetype="UnknownStruct293"/>
-            <Element Type="Struct" ID="0x7E3B3184" Archetype="UnknownStruct294"/>
+            <Element Type="Struct" ID="0xA9B9997F" Archetype="VolcanoBossCollisionActorSetData"/>
+            <Element Type="Struct" ID="0x7E3B3184" Archetype="VolcanoBossGridAnimData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

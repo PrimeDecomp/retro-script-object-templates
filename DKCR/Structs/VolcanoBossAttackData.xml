@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>VolcanoBossAttackData</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0xCD85B29D" Archetype="VolcanoBossAttackTypeData"/>
+            <Element Type="Struct" ID="0x50186B6A" Archetype="VolcanoBossAttackSequenceSetsData"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

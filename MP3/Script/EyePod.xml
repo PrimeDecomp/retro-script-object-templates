@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="Corruption">
     <Modules>
+        <Element>RSO_ScriptTeamAiMgr.rso</Element>
         <Element>RSO_EyePod.rso</Element>
     </Modules>
     <Properties Type="Struct">

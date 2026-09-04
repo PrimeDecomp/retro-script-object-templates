@@ -4,9 +4,7 @@
         <Name>PlayerStateChange</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0x4A3491BD">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Choice" ID="0x4A3491BD"/>
             <Element Type="Int" ID="0x28C71B54">
                 <DefaultValue>1</DefaultValue>
             </Element>

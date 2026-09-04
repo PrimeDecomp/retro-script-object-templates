@@ -51,13 +51,13 @@
             <Element Type="Float" ID="0xBBD7C692">
                 <DefaultValue>13.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xE84AA51C" Archetype="RobotChickenFlyerStructA"/>
-            <Element Type="Struct" ID="0xA152F46F" Archetype="RobotChickenFlyerStructA"/>
-            <Element Type="Struct" ID="0x1F59E2C1" Archetype="RobotChickenFlyerStructA"/>
-            <Element Type="Struct" ID="0xC4D0E557" Archetype="RobotChickenFlyerStructA"/>
+            <Element Type="Struct" ID="0xE84AA51C" Archetype="ChickenFlyerMotionData"/>
+            <Element Type="Struct" ID="0xA152F46F" Archetype="ChickenFlyerMotionData"/>
+            <Element Type="Struct" ID="0x1F59E2C1" Archetype="ChickenFlyerMotionData"/>
+            <Element Type="Struct" ID="0xC4D0E557" Archetype="ChickenFlyerMotionData"/>
             <Element Type="Struct" ID="0xF8011EC5" Archetype="ChickenFlyerSoundData"/>
             <Element Type="Struct" ID="0x68FD49AE" Archetype="AnimGridModifierData"/>
-            <Element Type="Struct" ID="0x420151F6" Archetype="UnknownStruct261"/>
+            <Element Type="Struct" ID="0x420151F6" Archetype="ChickenFlyerStageData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

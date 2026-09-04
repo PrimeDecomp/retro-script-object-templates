@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>AlternateCollisionResponseData</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0xD6554C1A" Archetype="ProjectileCollisionResponseData"/>
+            <Element Type="Struct" ID="0xE59C4016" Archetype="ProjectileCollisionResponseData"/>
+            <Element Type="Struct" ID="0x2416759C" Archetype="ProjectileCollisionResponseData"/>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

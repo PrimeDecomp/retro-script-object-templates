@@ -6,11 +6,11 @@
             <Element Type="Int" ID="0x65ECEB7A">
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x62E1522A" Archetype="MoleTrainManagerStructA"/>
-            <Element Type="Struct" ID="0xD1757FE9" Archetype="MoleTrainManagerStructA"/>
-            <Element Type="Struct" ID="0xBFF964A8" Archetype="MoleTrainManagerStructA"/>
-            <Element Type="Struct" ID="0x6D2C222E" Archetype="MoleTrainManagerStructA"/>
-            <Element Type="Struct" ID="0x3A0396F" Archetype="MoleTrainManagerStructA"/>
+            <Element Type="Struct" ID="0x62E1522A" Archetype="MoleTrainChaseSequenceData"/>
+            <Element Type="Struct" ID="0xD1757FE9" Archetype="MoleTrainChaseSequenceData"/>
+            <Element Type="Struct" ID="0xBFF964A8" Archetype="MoleTrainChaseSequenceData"/>
+            <Element Type="Struct" ID="0x6D2C222E" Archetype="MoleTrainChaseSequenceData"/>
+            <Element Type="Struct" ID="0x3A0396F" Archetype="MoleTrainChaseSequenceData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

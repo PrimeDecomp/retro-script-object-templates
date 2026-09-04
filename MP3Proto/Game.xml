@@ -892,10 +892,6 @@
             <Value Path="Structs/InterpolationMethod.xml"/>
         </Element>
         <Element>
-            <Key>Inventory</Key>
-            <Value Path="Structs/Inventory.xml"/>
-        </Element>
-        <Element>
             <Key>InventoryControls</Key>
             <Value Path="Structs/InventoryControls.xml"/>
         </Element>
@@ -1058,6 +1054,10 @@
         <Element>
             <Key>PlayerControls</Key>
             <Value Path="Structs/PlayerControls.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerInventory</Key>
+            <Value Path="Structs/PlayerInventory.xml"/>
         </Element>
         <Element>
             <Key>PlayerInventoryAbilities</Key>
@@ -1689,7 +1689,7 @@
         </Element>
         <Element>
             <Key>ATPA</Key>
-            <Value>ATPA</Value>
+            <Value>AttachedPath</Value>
         </Element>
         <Element>
             <Key>ATTK</Key>
@@ -1697,7 +1697,7 @@
         </Element>
         <Element>
             <Key>BEZR</Key>
-            <Value>BEZR</Value>
+            <Value>BezierSpline</Value>
         </Element>
         <Element>
             <Key>BIDG</Key>
@@ -1709,7 +1709,7 @@
         </Element>
         <Element>
             <Key>BSPL</Key>
-            <Value>BSPL</Value>
+            <Value>BSpline</Value>
         </Element>
         <Element>
             <Key>BXDG</Key>
@@ -1717,7 +1717,7 @@
         </Element>
         <Element>
             <Key>CINT</Key>
-            <Value>CINT</Value>
+            <Value>CustomInterpolation</Value>
         </Element>
         <Element>
             <Key>CLOS</Key>
@@ -1733,7 +1733,7 @@
         </Element>
         <Element>
             <Key>CROM</Key>
-            <Value>CROM</Value>
+            <Value>CatmullRomSpline</Value>
         </Element>
         <Element>
             <Key>CTGT</Key>
@@ -1749,7 +1749,7 @@
         </Element>
         <Element>
             <Key>DBMB</Key>
-            <Value>DBMB</Value>
+            <Value>DamageBomb</Value>
         </Element>
         <Element>
             <Key>DEAD</Key>
@@ -1785,7 +1785,7 @@
         </Element>
         <Element>
             <Key>FOVP</Key>
-            <Value>FOVP</Value>
+            <Value>FOVPath</Value>
         </Element>
         <Element>
             <Key>FREZ</Key>
@@ -1793,11 +1793,11 @@
         </Element>
         <Element>
             <Key>GRN0</Key>
-            <Value>GRN0</Value>
+            <Value>Generate0</Value>
         </Element>
         <Element>
             <Key>GRN1</Key>
-            <Value>GRN1</Value>
+            <Value>Generate1</Value>
         </Element>
         <Element>
             <Key>GRNT</Key>
@@ -1901,111 +1901,111 @@
         </Element>
         <Element>
             <Key>IS20</Key>
-            <Value>IS20</Value>
+            <Value>InternalState20</Value>
         </Element>
         <Element>
             <Key>IS21</Key>
-            <Value>IS21</Value>
+            <Value>InternalState21</Value>
         </Element>
         <Element>
             <Key>IS22</Key>
-            <Value>IS22</Value>
+            <Value>InternalState22</Value>
         </Element>
         <Element>
             <Key>IS23</Key>
-            <Value>IS23</Value>
+            <Value>InternalState23</Value>
         </Element>
         <Element>
             <Key>IS24</Key>
-            <Value>IS24</Value>
+            <Value>InternalState24</Value>
         </Element>
         <Element>
             <Key>IS25</Key>
-            <Value>IS25</Value>
+            <Value>InternalState25</Value>
         </Element>
         <Element>
             <Key>IS26</Key>
-            <Value>IS26</Value>
+            <Value>InternalState26</Value>
         </Element>
         <Element>
             <Key>IS27</Key>
-            <Value>IS27</Value>
+            <Value>InternalState27</Value>
         </Element>
         <Element>
             <Key>IS28</Key>
-            <Value>IS28</Value>
+            <Value>InternalState28</Value>
         </Element>
         <Element>
             <Key>IS29</Key>
-            <Value>IS29</Value>
+            <Value>InternalState29</Value>
         </Element>
         <Element>
             <Key>IS30</Key>
-            <Value>IS30</Value>
+            <Value>InternalState30</Value>
         </Element>
         <Element>
             <Key>IS31</Key>
-            <Value>IS31</Value>
+            <Value>InternalState31</Value>
         </Element>
         <Element>
             <Key>IS32</Key>
-            <Value>IS32</Value>
+            <Value>InternalState32</Value>
         </Element>
         <Element>
             <Key>IS33</Key>
-            <Value>IS33</Value>
+            <Value>InternalState33</Value>
         </Element>
         <Element>
             <Key>IS34</Key>
-            <Value>IS34</Value>
+            <Value>InternalState34</Value>
         </Element>
         <Element>
             <Key>IS35</Key>
-            <Value>IS35</Value>
+            <Value>InternalState35</Value>
         </Element>
         <Element>
             <Key>IS36</Key>
-            <Value>IS36</Value>
+            <Value>InternalState36</Value>
         </Element>
         <Element>
             <Key>IS37</Key>
-            <Value>IS37</Value>
+            <Value>InternalState37</Value>
         </Element>
         <Element>
             <Key>IS38</Key>
-            <Value>IS38</Value>
+            <Value>InternalState38</Value>
         </Element>
         <Element>
             <Key>IS39</Key>
-            <Value>IS39</Value>
+            <Value>InternalState39</Value>
         </Element>
         <Element>
             <Key>IS40</Key>
-            <Value>IS40</Value>
+            <Value>InternalState40</Value>
         </Element>
         <Element>
             <Key>IS41</Key>
-            <Value>IS41</Value>
+            <Value>InternalState41</Value>
         </Element>
         <Element>
             <Key>IS44</Key>
-            <Value>IS44</Value>
+            <Value>InternalState44</Value>
         </Element>
         <Element>
             <Key>IS45</Key>
-            <Value>IS45</Value>
+            <Value>InternalState45</Value>
         </Element>
         <Element>
             <Key>IS46</Key>
-            <Value>IS46</Value>
+            <Value>InternalState46</Value>
         </Element>
         <Element>
             <Key>IS47</Key>
-            <Value>IS47</Value>
+            <Value>InternalState47</Value>
         </Element>
         <Element>
             <Key>IS48</Key>
-            <Value>IS48</Value>
+            <Value>InternalState48</Value>
         </Element>
         <Element>
             <Key>LDWA</Key>
@@ -2021,7 +2021,7 @@
         </Element>
         <Element>
             <Key>LINR</Key>
-            <Value>LINR</Value>
+            <Value>LinearSpline</Value>
         </Element>
         <Element>
             <Key>LOCK</Key>
@@ -2045,15 +2045,15 @@
         </Element>
         <Element>
             <Key>MOTP</Key>
-            <Value>MOTP</Value>
+            <Value>MotionPath</Value>
         </Element>
         <Element>
             <Key>MOTS</Key>
-            <Value>MOTS</Value>
+            <Value>MotionSpline</Value>
         </Element>
         <Element>
             <Key>NEXT</Key>
-            <Value>NEXT</Value>
+            <Value>Next</Value>
         </Element>
         <Element>
             <Key>OPEN</Key>
@@ -2061,7 +2061,7 @@
         </Element>
         <Element>
             <Key>ORBO</Key>
-            <Value>ORBO</Value>
+            <Value>OrbitObject</Value>
         </Element>
         <Element>
             <Key>PLAY</Key>
@@ -2069,7 +2069,7 @@
         </Element>
         <Element>
             <Key>PLRP</Key>
-            <Value>PLRP</Value>
+            <Value>PlayerPath</Value>
         </Element>
         <Element>
             <Key>PRSA</Key>
@@ -2149,15 +2149,15 @@
         </Element>
         <Element>
             <Key>SE01</Key>
-            <Value>SE01</Value>
+            <Value>ScriptEvent01</Value>
         </Element>
         <Element>
             <Key>SE02</Key>
-            <Value>SE02</Value>
+            <Value>ScriptEvent02</Value>
         </Element>
         <Element>
             <Key>SE03</Key>
-            <Value>SE03</Value>
+            <Value>ScriptEvent03</Value>
         </Element>
         <Element>
             <Key>SLAV</Key>
@@ -2181,15 +2181,15 @@
         </Element>
         <Element>
             <Key>TGTO</Key>
-            <Value>TGTO</Value>
+            <Value>TargetObject</Value>
         </Element>
         <Element>
             <Key>TGTP</Key>
-            <Value>TGTP</Value>
+            <Value>TargetPath</Value>
         </Element>
         <Element>
             <Key>TGTS</Key>
-            <Value>TGTS</Value>
+            <Value>TargetSpline</Value>
         </Element>
         <Element>
             <Key>UFRZ</Key>
@@ -2567,7 +2567,7 @@
         </Element>
         <Element>
             <Key>XDMG</Key>
-            <Value>XDMG</Value>
+            <Value>XDamage</Value>
         </Element>
         <Element>
             <Key>XENF</Key>
