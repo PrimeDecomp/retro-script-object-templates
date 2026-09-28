@@ -11,6 +11,9 @@
                     <Element Type="Float" ID="0x37B6DF3D">
                         <DefaultValue>25.0</DefaultValue>
                     </Element>
+                    <Element Type="Choice" ID="0x4D577910">
+                        <DefaultValue>0</DefaultValue>
+                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0xC9AC01D2" Archetype="TDamageInfo">
@@ -20,6 +23,9 @@
                     </Element>
                     <Element Type="Float" ID="0x37B6DF3D">
                         <DefaultValue>25.0</DefaultValue>
+                    </Element>
+                    <Element Type="Choice" ID="0x4D577910">
+                        <DefaultValue>0</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>

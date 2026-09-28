@@ -12,27 +12,9 @@
             <Element Type="Float" ID="0x8E9BFEA3">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Color" ID="0x768110CD">
-                <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
-                </DefaultValue>
-            </Element>
-            <Element Type="Color" ID="0x319F966B">
-                <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
-                </DefaultValue>
-            </Element>
-            <Element Type="Color" ID="0xA81F378C">
-                <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
-                </DefaultValue>
-            </Element>
+            <Element Type="Color" ID="0x768110CD"/>
+            <Element Type="Color" ID="0x319F966B"/>
+            <Element Type="Color" ID="0xA81F378C"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

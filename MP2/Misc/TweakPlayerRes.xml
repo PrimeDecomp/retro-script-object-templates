@@ -9,7 +9,7 @@
             <Element Type="Struct" ID="0x279852BA" Archetype="TBallTransitionResources"/>
             <Element Type="Struct" ID="0x5E630608" Archetype="TGunResources"/>
             <Element Type="Float" ID="0x36AD9D19">
-                <DefaultValue>-0.0</DefaultValue>
+                <DefaultValue>5.0</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>

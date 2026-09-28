@@ -14,9 +14,10 @@
             </Element>
             <Element Type="Color" ID="0x52F1D0D7">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.627451003</A>
                 </DefaultValue>
             </Element>
             <Element Type="Int" ID="0xE7D57D6A">
