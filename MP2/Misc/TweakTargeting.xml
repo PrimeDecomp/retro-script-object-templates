@@ -234,9 +234,10 @@
             </Element>
             <Element Type="Color" ID="0x42420F6E">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.403921992</R>
+                    <G>0.68235302</G>
+                    <B>0.882353008</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xA63229F1">
@@ -244,9 +245,10 @@
             </Element>
             <Element Type="Color" ID="0xBDA45F1A">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.470587999</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB090E147">
@@ -263,9 +265,10 @@
             </Element>
             <Element Type="Color" ID="0xE42F6BE0">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>0.407842994</G>
+                    <B>0.0196080003</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x45910E5D">
@@ -276,44 +279,50 @@
             </Element>
             <Element Type="Color" ID="0x13CE8500">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.274509996</R>
+                    <G>0.419607997</G>
+                    <B>1.0</B>
+                    <A>0.235293999</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x9829F256">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>0.235293999</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x77A613B9">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.419607997</R>
+                    <G>0.0862749964</G>
+                    <B>0.568627</B>
+                    <A>0.231372997</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xDFA81287">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.427451015</R>
+                    <G>0.0745100006</G>
+                    <B>0.0823530033</B>
+                    <A>0.231372997</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xDA752C50">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.470587999</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x7B544E14">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.705882013</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x618D150A">
@@ -378,23 +387,26 @@
             </Element>
             <Element Type="Color" ID="0xF7998E63">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x3CE853E3">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>0.619607985</G>
+                    <B>0.156863004</B>
+                    <A>0.25097999</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x83B1CC8">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.109803997</R>
+                    <G>0.184313998</G>
+                    <B>0.239216</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x966982B1">
@@ -402,9 +414,10 @@
             </Element>
             <Element Type="Color" ID="0xF9799F5F">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.537254989</R>
+                    <G>0.839215994</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x9B980788">
@@ -412,16 +425,18 @@
             </Element>
             <Element Type="Color" ID="0x3523A47F">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.49019599</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x27358B4D">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.196078002</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2FF52290">
@@ -432,9 +447,10 @@
             </Element>
             <Element Type="Color" ID="0x65D449E1">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294117987</R>
+                    <G>0.494118005</G>
+                    <B>0.639216006</B>
+                    <A>0.49019599</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x42C7FBE4">
@@ -448,9 +464,10 @@
             </Element>
             <Element Type="Color" ID="0xCD8FE5D">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>0.254902005</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xDD8CF478">
@@ -477,13 +494,7 @@
             <Element Type="Float" ID="0xFEF5668B">
                 <DefaultValue>8.0</DefaultValue>
             </Element>
-            <Element Type="Color" ID="0x5CE2A16F">
-                <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
-                </DefaultValue>
-            </Element>
+            <Element Type="Color" ID="0x5CE2A16F"/>
             <Element Type="Struct" ID="0x1E179603" Archetype="TweakTargeting_VulnerabilityIndicator"/>
             <Element Type="Struct" ID="0x2B70CEF8" Archetype="TweakTargeting_VulnerabilityIndicator"/>
             <Element Type="Struct" ID="0x946CEFDE" Archetype="TweakTargeting_VulnerabilityIndicator"/>

@@ -12,23 +12,26 @@
             </Element>
             <Element Type="Color" ID="0x62CA2DDD">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.63529402</R>
+                    <G>0.788235009</G>
+                    <B>0.941175997</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xDC4C2A5F">
                 <DefaultValue>
-                    <R>0.0</R>
+                    <R>1.0</R>
                     <G>0.0</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xA288FE51">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
+                    <R>1.0</R>
+                    <G>1.0</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Choice" ID="0xF316C617">
@@ -54,9 +57,10 @@
             </Element>
             <Element Type="Color" ID="0x66351D36">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.63529402</R>
+                    <G>0.788235009</G>
+                    <B>0.941175997</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x99A65CA7">
