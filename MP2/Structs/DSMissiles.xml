@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct16</Name>
+        <Name>DSMissiles</Name>
         <SubProperties>
             <Element Type="Float" ID="0x7EE77018">
                 <DefaultValue>50.0</DefaultValue>

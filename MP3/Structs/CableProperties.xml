@@ -13,9 +13,9 @@
                 <Values>
                     <Element Name="kBloom_None" ID="0x436F402A"/>
                     <Element Name="kBloom_Alpha" ID="0xD2BE3F50"/>
-                    <Element Name="Unknown 3" ID="0xCF31A6CF"/>
-                    <Element Name="Unknown 4" ID="0x4ACF8AED"/>
-                    <Element Name="Unknown 5" ID="0xA808E20"/>
+                    <Element Name="kBloom_Fixed25Pct" ID="0xCF31A6CF"/>
+                    <Element Name="kBloom_Fixed50Pct" ID="0x4ACF8AED"/>
+                    <Element Name="kBloom_Fixed100Pct" ID="0xA808E20"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0x3AFBE300">

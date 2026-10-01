@@ -13,7 +13,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xD83CAAB6" Archetype="UnknownStruct17"/>
+            <Element Type="Struct" ID="0xD83CAAB6" Archetype="DSStageInfo"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

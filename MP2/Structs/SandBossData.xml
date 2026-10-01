@@ -101,8 +101,8 @@
             </Element>
             <Element Type="Struct" ID="0x95371A32" Archetype="SandBossStampedeData"/>
             <Element Type="Struct" ID="0x7619E561" Archetype="UnknownStruct41"/>
-            <Element Type="Struct" ID="0x8B452A19" Archetype="SandBossStructA"/>
-            <Element Type="Struct" ID="0xCF8C54C" Archetype="SandBossStructA"/>
+            <Element Type="Struct" ID="0x8B452A19" Archetype="SandBossArmorData"/>
+            <Element Type="Struct" ID="0xCF8C54C" Archetype="SandBossArmorData"/>
             <Element Type="Asset" ID="0xBBD84681">
                 <TypeFilter>
                     <Element>CMDL</Element>
