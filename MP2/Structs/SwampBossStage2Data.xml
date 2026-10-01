@@ -29,10 +29,10 @@
             <Element Type="Float" ID="0xCABE6B96">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x7FA9256A" Archetype="SwampBossStage2Struct"/>
-            <Element Type="Struct" ID="0x8B884B8E" Archetype="SwampBossStage2Struct"/>
-            <Element Type="Struct" ID="0x4B7A789" Archetype="SwampBossStage2Struct"/>
-            <Element Type="Struct" ID="0xF096C96D" Archetype="SwampBossStage2Struct"/>
+            <Element Type="Struct" ID="0x7FA9256A" Archetype="SwampBossStage2Phase"/>
+            <Element Type="Struct" ID="0x8B884B8E" Archetype="SwampBossStage2Phase"/>
+            <Element Type="Struct" ID="0x4B7A789" Archetype="SwampBossStage2Phase"/>
+            <Element Type="Struct" ID="0xF096C96D" Archetype="SwampBossStage2Phase"/>
             <Element Type="Float" ID="0x7E192395">
                 <DefaultValue>30.0</DefaultValue>
             </Element>

@@ -916,6 +916,14 @@
             <Value Path="Enums/ControllerMapping.xml"/>
         </Element>
         <Element>
+            <Key>DSMissiles</Key>
+            <Value Path="Structs/DSMissiles.xml"/>
+        </Element>
+        <Element>
+            <Key>DSStageInfo</Key>
+            <Value Path="Structs/DSStageInfo.xml"/>
+        </Element>
+        <Element>
             <Key>DamageInfo</Key>
             <Value Path="Structs/DamageInfo.xml"/>
         </Element>
@@ -1152,6 +1160,10 @@
             <Value Path="Structs/SafeZoneStructA.xml"/>
         </Element>
         <Element>
+            <Key>SandBossArmorData</Key>
+            <Value Path="Structs/SandBossArmorData.xml"/>
+        </Element>
+        <Element>
             <Key>SandBossChargeBeamData</Key>
             <Value Path="Structs/SandBossChargeBeamData.xml"/>
         </Element>
@@ -1162,10 +1174,6 @@
         <Element>
             <Key>SandBossStampedeData</Key>
             <Value Path="Structs/SandBossStampedeData.xml"/>
-        </Element>
-        <Element>
-            <Key>SandBossStructA</Key>
-            <Value Path="Structs/SandBossStructA.xml"/>
         </Element>
         <Element>
             <Key>SandwormStruct</Key>
@@ -1236,8 +1244,8 @@
             <Value Path="Structs/SwampBossStage2Data.xml"/>
         </Element>
         <Element>
-            <Key>SwampBossStage2Struct</Key>
-            <Value Path="Structs/SwampBossStage2Struct.xml"/>
+            <Key>SwampBossStage2Phase</Key>
+            <Value Path="Structs/SwampBossStage2Phase.xml"/>
         </Element>
         <Element>
             <Key>TBallTransitionResources</Key>
@@ -1510,14 +1518,6 @@
         <Element>
             <Key>UnknownStruct10</Key>
             <Value Path="Structs/UnknownStruct10.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct16</Key>
-            <Value Path="Structs/UnknownStruct16.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct17</Key>
-            <Value Path="Structs/UnknownStruct17.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct34</Key>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct17</Name>
+        <Name>DSStageInfo</Name>
         <SubProperties>
             <Element Type="Float" ID="0xB5AF7831">
                 <DefaultValue>-1.0</DefaultValue>
@@ -30,7 +30,7 @@
             <Element Type="Float" ID="0xB751778B">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xD6740348" Archetype="UnknownStruct16"/>
+            <Element Type="Struct" ID="0xD6740348" Archetype="DSMissiles"/>
             <Element Type="Bool" ID="0x3FF87A8C">
                 <DefaultValue>false</DefaultValue>
             </Element>
