@@ -10,7 +10,9 @@
                 </TypeFilter>
             </Element>
             <Element Type="String" ID="0x32698BD6"/>
-            <Element Type="Choice" ID="0x3D326F90" Archetype="InventorySlot"/>
+            <Element Type="Choice" ID="0x3D326F90" Archetype="InventorySlot">
+                <DefaultValue>10</DefaultValue>
+            </Element>
             <Element Type="Struct" ID="0x2DA1EC33" Archetype="ScannableParameters"/>
         </SubProperties>
     </Properties>
