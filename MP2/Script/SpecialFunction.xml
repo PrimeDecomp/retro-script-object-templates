@@ -6,7 +6,7 @@
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties">
                 <SubProperties>
                     <Element Type="Bool" ID="0x41435456">
-                        <DefaultValue>true</DefaultValue>
+                        <DefaultValue>false</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
@@ -105,13 +105,13 @@
             </Element>
             <Element Type="Choice" ID="0x3FA164BC" Archetype="PlayerItem"/>
             <Element Type="Sound" ID="0xA4EE16BF">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x227A6411">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE926B7B4">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>

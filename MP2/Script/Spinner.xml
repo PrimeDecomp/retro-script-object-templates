@@ -29,13 +29,13 @@
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x8B66ECA2">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x52EDD16B">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE88E7D41">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>
