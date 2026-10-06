@@ -780,6 +780,10 @@
             <Value Path="Structs/PlatformMotionProperties.xml"/>
         </Element>
         <Element>
+            <Key>PlayerInventory</Key>
+            <Value Path="Structs/PlayerInventory.xml"/>
+        </Element>
+        <Element>
             <Key>RezbitData</Key>
             <Value Path="Structs/RezbitData.xml"/>
         </Element>
@@ -826,10 +830,6 @@
         <Element>
             <Key>SpacePirateWeaponData</Key>
             <Value Path="Structs/SpacePirateWeaponData.xml"/>
-        </Element>
-        <Element>
-            <Key>SpawnPointStruct</Key>
-            <Value Path="Structs/SpawnPointStruct.xml"/>
         </Element>
         <Element>
             <Key>SpindleCameraInterpolant</Key>

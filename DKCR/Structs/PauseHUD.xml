@@ -3,9 +3,9 @@
     <PropertyArchetype Type="Struct">
         <Name>PauseHUD</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0xEB03168D" Archetype="UnknownStruct149"/>
-            <Element Type="Struct" ID="0xCCD85456" Archetype="UnknownStruct150"/>
-            <Element Type="Struct" ID="0xB48315CC" Archetype="UnknownStruct151"/>
+            <Element Type="Struct" ID="0xEB03168D" Archetype="InGamePauseMenu"/>
+            <Element Type="Struct" ID="0xCCD85456" Archetype="ActivateSuperGuidePauseMenu"/>
+            <Element Type="Struct" ID="0xB48315CC" Archetype="CancelSuperGuidePauseMenu"/>
             <Element Type="Struct" ID="0xB54DD084" Archetype="ControllerScreen"/>
         </SubProperties>
     </PropertyArchetype>

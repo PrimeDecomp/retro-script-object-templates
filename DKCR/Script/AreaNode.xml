@@ -71,7 +71,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xA9D29E32" Archetype="AreaNodeSounds"/>
-            <Element Type="Struct" ID="0x86963E8A" Archetype="UnknownStruct20"/>
+            <Element Type="Struct" ID="0x86963E8A" Archetype="AreaNodeLoadingData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

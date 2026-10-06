@@ -73,8 +73,8 @@
                     <Element>STRG</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0xACF22673" Archetype="UnknownStruct160"/>
-            <Element Type="Struct" ID="0x5BA82F66" Archetype="UnknownStruct161"/>
+            <Element Type="Struct" ID="0xACF22673" Archetype="TimeAttackEOLDisplaySounds"/>
+            <Element Type="Struct" ID="0x5BA82F66" Archetype="TimeAttackEOLDisplayTiming"/>
             <Element Type="Struct" ID="0x860139AD" Archetype="TextGradientColors"/>
             <Element Type="Struct" ID="0x6A598A9B" Archetype="TextGradientColors"/>
             <Element Type="Struct" ID="0xF24649EC" Archetype="TextGradientColors"/>

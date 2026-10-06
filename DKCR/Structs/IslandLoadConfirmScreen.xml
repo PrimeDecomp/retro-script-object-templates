@@ -8,10 +8,10 @@
                     <Element>FRME</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x1145AE1B" Archetype="UnknownStruct29"/>
-            <Element Type="Struct" ID="0x67A7C770" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x308B92DD" Archetype="UnknownStruct167"/>
-            <Element Type="Struct" ID="0x73E2819B" Archetype="UnknownStruct27"/>
+            <Element Type="Struct" ID="0x1145AE1B" Archetype="AnimatedGuiFrame"/>
+            <Element Type="Struct" ID="0x67A7C770" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x308B92DD" Archetype="InventoryScreen"/>
+            <Element Type="Struct" ID="0x73E2819B" Archetype="MenuSounds"/>
             <Element Type="Asset" ID="0x4D4749A8">
                 <TypeFilter>
                     <Element>CAUD</Element>

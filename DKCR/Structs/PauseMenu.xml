@@ -8,7 +8,7 @@
                     <Element>FRME</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x73E2819B" Archetype="UnknownStruct27"/>
+            <Element Type="Struct" ID="0x73E2819B" Archetype="MenuSounds"/>
             <Element Type="Asset" ID="0xC8B7DBD5">
                 <TypeFilter>
                     <Element>STRG</Element>

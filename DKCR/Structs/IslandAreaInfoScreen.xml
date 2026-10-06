@@ -84,7 +84,7 @@
                     <Element>STRG</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x73E2819B" Archetype="UnknownStruct27"/>
+            <Element Type="Struct" ID="0x73E2819B" Archetype="MenuSounds"/>
             <Element Type="Asset" ID="0xE119319B">
                 <TypeFilter>
                     <Element>TXTR</Element>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="DKCReturns">
+    <PropertyArchetype Type="Struct">
+        <Name>MenuTextGradients</Name>
+        <SubProperties>
+            <Element Type="Struct" ID="0xBDD1A035" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>0.35686299</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.70196098</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.70196098</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0x8AA2BFE5" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.90196103</G>
+                            <B>0.117647</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.54509801</G>
+                            <B>0.117647</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.70196098</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0xCA0D2611" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>0.627451</R>
+                            <G>1.0</G>
+                            <B>0.47843099</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>0.129412</R>
+                            <G>0.54901999</G>
+                            <B>0.50980401</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.031373002</R>
+                            <G>0.17647099</G>
+                            <B>0.031373002</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0x731756F6" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>1.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>0.49803901</R>
+                            <G>0.49803901</G>
+                            <B>0.49803901</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.0</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0x83FA2328" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>0.35686299</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.70196098</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.70196098</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0x2F82F98C" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>0.35686299</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.70196098</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.70196098</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0xBCB5DAC7" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.90196103</G>
+                            <B>0.117647</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>0.54509801</G>
+                            <B>0.117647</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>0.70196098</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+            <Element Type="Struct" ID="0x6126E3A3" Archetype="TextGradientColors">
+                <SubProperties>
+                    <Element Type="Color" ID="0xF9E0D0FB">
+                        <DefaultValue>
+                            <R>0.0</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE0417E89">
+                        <DefaultValue>
+                            <R>0.0</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xF2E13506">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>1.0</B>
+                        </DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
+        </SubProperties>
+    </PropertyArchetype>
+</PropertyTemplate>

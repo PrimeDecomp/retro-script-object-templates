@@ -38,8 +38,8 @@
                     <Element>STRG</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x2A83FBBB" Archetype="UnknownStruct160"/>
-            <Element Type="Struct" ID="0x78673AB6" Archetype="UnknownStruct163"/>
+            <Element Type="Struct" ID="0x2A83FBBB" Archetype="GameOverDisplaySounds"/>
+            <Element Type="Struct" ID="0x78673AB6" Archetype="GameOverDisplayTiming"/>
             <Element Type="Struct" ID="0x860139AD" Archetype="TextGradientColors"/>
             <Element Type="Struct" ID="0x6A598A9B" Archetype="TextGradientColors"/>
         </SubProperties>

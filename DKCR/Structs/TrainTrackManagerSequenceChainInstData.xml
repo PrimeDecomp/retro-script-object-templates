@@ -5,7 +5,7 @@
         <SubProperties>
             <Element Type="String" ID="0xBD0B7EDE"/>
             <Element Type="String" ID="0xFCAB0249"/>
-            <Element Type="Struct" ID="0x31770D3F" Archetype="UnknownStruct272"/>
+            <Element Type="Struct" ID="0x31770D3F" Archetype="TrackTrackManagerSequenceChainThemeData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

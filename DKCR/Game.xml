@@ -59,7 +59,7 @@
         </Element>
         <Element>
             <Key>AVIS</Key>
-            <Value Path="Script/AVIS.xml"/>
+            <Value Path="Script/AudioVisualization.xml"/>
         </Element>
         <Element>
             <Key>BABL</Key>
@@ -207,7 +207,7 @@
         </Element>
         <Element>
             <Key>EOLD</Key>
-            <Value Path="Script/EOLDisplay.xml"/>
+            <Value Path="Script/EndOfLevelDisplay.xml"/>
         </Element>
         <Element>
             <Key>FILT</Key>
@@ -267,7 +267,7 @@
         </Element>
         <Element>
             <Key>GPTR</Key>
-            <Value Path="Script/GPTR.xml"/>
+            <Value Path="Script/GuiPointer.xml"/>
         </Element>
         <Element>
             <Key>GSLD</Key>
@@ -327,7 +327,7 @@
         </Element>
         <Element>
             <Key>MEAT</Key>
-            <Value Path="Script/MEAT.xml"/>
+            <Value Path="Script/MemoryEater.xml"/>
         </Element>
         <Element>
             <Key>MMDL</Key>
@@ -599,7 +599,7 @@
         </Element>
         <Element>
             <Key>TPND</Key>
-            <Value Path="Script/TPND.xml"/>
+            <Value Path="Script/TippyPoundyPlatform.xml"/>
         </Element>
         <Element>
             <Key>TRGR</Key>
@@ -611,7 +611,7 @@
         </Element>
         <Element>
             <Key>TSEQ</Key>
-            <Value Path="Script/TrainSequence.xml"/>
+            <Value Path="Script/TrainTrackSequence.xml"/>
         </Element>
         <Element>
             <Key>TUTR</Key>
@@ -652,6 +652,10 @@
     </ScriptObjects>
     <PropertyArchetypes>
         <Element>
+            <Key>ActivateSuperGuidePauseMenu</Key>
+            <Value Path="Structs/ActivateSuperGuidePauseMenu.xml"/>
+        </Element>
+        <Element>
             <Key>ActivationTime</Key>
             <Value Path="Structs/ActivationTime.xml"/>
         </Element>
@@ -688,6 +692,10 @@
             <Value Path="Structs/AnimGridModifierData.xml"/>
         </Element>
         <Element>
+            <Key>AnimatedGuiFrame</Key>
+            <Value Path="Structs/AnimatedGuiFrame.xml"/>
+        </Element>
+        <Element>
             <Key>AreaAttackBehaviorData</Key>
             <Value Path="Structs/AreaAttackBehaviorData.xml"/>
         </Element>
@@ -700,6 +708,10 @@
             <Value Path="Structs/AreaDamageModifierData.xml"/>
         </Element>
         <Element>
+            <Key>AreaNodeLoadingData</Key>
+            <Value Path="Structs/AreaNodeLoadingData.xml"/>
+        </Element>
+        <Element>
             <Key>AreaNodeSounds</Key>
             <Value Path="Structs/AreaNodeSounds.xml"/>
         </Element>
@@ -710,6 +722,10 @@
         <Element>
             <Key>AttractMovieScreen</Key>
             <Value Path="Structs/AttractMovieScreen.xml"/>
+        </Element>
+        <Element>
+            <Key>AudioOptionsScreen</Key>
+            <Value Path="Structs/AudioOptionsScreen.xml"/>
         </Element>
         <Element>
             <Key>BarrelBalloonData</Key>
@@ -876,6 +892,10 @@
             <Value Path="Structs/CameraTracking.xml"/>
         </Element>
         <Element>
+            <Key>CancelSuperGuidePauseMenu</Key>
+            <Value Path="Structs/CancelSuperGuidePauseMenu.xml"/>
+        </Element>
+        <Element>
             <Key>CharacterGlueData</Key>
             <Value Path="Structs/CharacterGlueData.xml"/>
         </Element>
@@ -928,12 +948,32 @@
             <Value Path="Structs/ConditionalTest.xml"/>
         </Element>
         <Element>
+            <Key>ConfirmPopup</Key>
+            <Value Path="Structs/ConfirmPopup.xml"/>
+        </Element>
+        <Element>
             <Key>Connection</Key>
             <Value Path="Structs/Connection.xml"/>
         </Element>
         <Element>
             <Key>ControlCommands</Key>
             <Value Path="Structs/ControlCommands.xml"/>
+        </Element>
+        <Element>
+            <Key>ControllerChangeInstructions</Key>
+            <Value Path="Structs/ControllerChangeInstructions.xml"/>
+        </Element>
+        <Element>
+            <Key>ControllerCoreScreen</Key>
+            <Value Path="Structs/ControllerCoreScreen.xml"/>
+        </Element>
+        <Element>
+            <Key>ControllerNunchukScreen</Key>
+            <Value Path="Structs/ControllerNunchukScreen.xml"/>
+        </Element>
+        <Element>
+            <Key>ControllerOptionsScreen</Key>
+            <Value Path="Structs/ControllerOptionsScreen.xml"/>
         </Element>
         <Element>
             <Key>ControllerScreen</Key>
@@ -1084,6 +1124,34 @@
             <Value Path="Structs/EditorProperties.xml"/>
         </Element>
         <Element>
+            <Key>EndOfLevelDisplaySounds</Key>
+            <Value Path="Structs/EndOfLevelDisplaySounds.xml"/>
+        </Element>
+        <Element>
+            <Key>EndOfLevelDisplayTiming</Key>
+            <Value Path="Structs/EndOfLevelDisplayTiming.xml"/>
+        </Element>
+        <Element>
+            <Key>ExtrasCategoriesScreen</Key>
+            <Value Path="Structs/ExtrasCategoriesScreen.xml"/>
+        </Element>
+        <Element>
+            <Key>ExtrasDioramaScreen</Key>
+            <Value Path="Structs/ExtrasDioramaScreen.xml"/>
+        </Element>
+        <Element>
+            <Key>ExtrasImageCategory</Key>
+            <Value Path="Structs/ExtrasImageCategory.xml"/>
+        </Element>
+        <Element>
+            <Key>ExtrasImageView</Key>
+            <Value Path="Structs/ExtrasImageView.xml"/>
+        </Element>
+        <Element>
+            <Key>ExtrasMusicScreen</Key>
+            <Value Path="Structs/ExtrasMusicScreen.xml"/>
+        </Element>
+        <Element>
             <Key>ExtrasScreen</Key>
             <Value Path="Structs/ExtrasScreen.xml"/>
         </Element>
@@ -1172,6 +1240,14 @@
             <Value Path="Structs/GameManagerData.xml"/>
         </Element>
         <Element>
+            <Key>GameOverDisplaySounds</Key>
+            <Value Path="Structs/GameOverDisplaySounds.xml"/>
+        </Element>
+        <Element>
+            <Key>GameOverDisplayTiming</Key>
+            <Value Path="Structs/GameOverDisplayTiming.xml"/>
+        </Element>
+        <Element>
             <Key>GameOverHUD</Key>
             <Value Path="Structs/GameOverHUD.xml"/>
         </Element>
@@ -1228,8 +1304,20 @@
             <Value Path="Structs/IdleTrackBehaviorData.xml"/>
         </Element>
         <Element>
+            <Key>InGamePauseMenu</Key>
+            <Value Path="Structs/InGamePauseMenu.xml"/>
+        </Element>
+        <Element>
+            <Key>InGamePauseOptions</Key>
+            <Value Path="Structs/InGamePauseOptions.xml"/>
+        </Element>
+        <Element>
             <Key>InterpolationMethod</Key>
             <Value Path="Structs/InterpolationMethod.xml"/>
+        </Element>
+        <Element>
+            <Key>InventoryScreen</Key>
+            <Value Path="Structs/InventoryScreen.xml"/>
         </Element>
         <Element>
             <Key>IslandAreaInfoScreen</Key>
@@ -1240,20 +1328,12 @@
             <Value Path="Structs/IslandAreaSounds.xml"/>
         </Element>
         <Element>
-            <Key>IslandAreaStruct</Key>
-            <Value Path="Structs/IslandAreaStruct.xml"/>
-        </Element>
-        <Element>
             <Key>IslandHUDScreens</Key>
             <Value Path="Structs/IslandHUDScreens.xml"/>
         </Element>
         <Element>
             <Key>IslandHUDSounds</Key>
             <Value Path="Structs/IslandHUDSounds.xml"/>
-        </Element>
-        <Element>
-            <Key>IslandHudStruct</Key>
-            <Value Path="Structs/IslandHudStruct.xml"/>
         </Element>
         <Element>
             <Key>IslandLoadConfirmScreen</Key>
@@ -1314,6 +1394,10 @@
         <Element>
             <Key>JungleBoss1FireBeamAttackData</Key>
             <Value Path="Structs/JungleBoss1FireBeamAttackData.xml"/>
+        </Element>
+        <Element>
+            <Key>JungleBoss1JumpData</Key>
+            <Value Path="Structs/JungleBoss1JumpData.xml"/>
         </Element>
         <Element>
             <Key>JungleBoss1MeteorRainAttackData</Key>
@@ -1380,6 +1464,10 @@
             <Value Path="Structs/KongSwingData.xml"/>
         </Element>
         <Element>
+            <Key>LevelStatusIcons</Key>
+            <Value Path="Structs/LevelStatusIcons.xml"/>
+        </Element>
+        <Element>
             <Key>LightParameters</Key>
             <Value Path="Structs/LightParameters.xml"/>
         </Element>
@@ -1414,6 +1502,14 @@
         <Element>
             <Key>MaterialType</Key>
             <Value Path="Structs/MaterialType.xml"/>
+        </Element>
+        <Element>
+            <Key>MenuSounds</Key>
+            <Value Path="Structs/MenuSounds.xml"/>
+        </Element>
+        <Element>
+            <Key>MenuTextGradients</Key>
+            <Value Path="Structs/MenuTextGradients.xml"/>
         </Element>
         <Element>
             <Key>MineCartData</Key>
@@ -1848,6 +1944,10 @@
             <Value Path="Structs/PoiObjectPriorityEnum.xml"/>
         </Element>
         <Element>
+            <Key>PoundyPlatformData</Key>
+            <Value Path="Structs/PoundyPlatformData.xml"/>
+        </Element>
+        <Element>
             <Key>ProbabilityRelayData</Key>
             <Value Path="Structs/ProbabilityRelayData.xml"/>
         </Element>
@@ -1946,6 +2046,10 @@
         <Element>
             <Key>ReactiveAnimGridModifierLogicData</Key>
             <Value Path="Structs/ReactiveAnimGridModifierLogicData.xml"/>
+        </Element>
+        <Element>
+            <Key>ReactivePlatformData</Key>
+            <Value Path="Structs/ReactivePlatformData.xml"/>
         </Element>
         <Element>
             <Key>ReactiveScaleData</Key>
@@ -2132,6 +2236,14 @@
             <Value Path="Enums/Shape.xml"/>
         </Element>
         <Element>
+            <Key>ShopItemDef</Key>
+            <Value Path="Structs/ShopItemDef.xml"/>
+        </Element>
+        <Element>
+            <Key>ShopPrices</Key>
+            <Value Path="Structs/ShopPrices.xml"/>
+        </Element>
+        <Element>
             <Key>ShopScreen</Key>
             <Value Path="Structs/ShopScreen.xml"/>
         </Element>
@@ -2316,12 +2428,24 @@
             <Value Path="Structs/TidalWaveData.xml"/>
         </Element>
         <Element>
+            <Key>TimeAttackEOLDisplaySounds</Key>
+            <Value Path="Structs/TimeAttackEOLDisplaySounds.xml"/>
+        </Element>
+        <Element>
+            <Key>TimeAttackEOLDisplayTiming</Key>
+            <Value Path="Structs/TimeAttackEOLDisplayTiming.xml"/>
+        </Element>
+        <Element>
             <Key>TimeAttackEOLHUD</Key>
             <Value Path="Structs/TimeAttackEOLHUD.xml"/>
         </Element>
         <Element>
             <Key>TimeAttackHUD</Key>
             <Value Path="Structs/TimeAttackHUD.xml"/>
+        </Element>
+        <Element>
+            <Key>TimeAttackHUDSounds</Key>
+            <Value Path="Structs/TimeAttackHUDSounds.xml"/>
         </Element>
         <Element>
             <Key>TippyPlatformData</Key>
@@ -2346,6 +2470,10 @@
         <Element>
             <Key>TrackPlayerAnimGridModifierLogicData</Key>
             <Value Path="Structs/TrackPlayerAnimGridModifierLogicData.xml"/>
+        </Element>
+        <Element>
+            <Key>TrackTrackManagerSequenceChainThemeData</Key>
+            <Value Path="Structs/TrackTrackManagerSequenceChainThemeData.xml"/>
         </Element>
         <Element>
             <Key>TrainTrackManagerData</Key>
@@ -2408,94 +2536,6 @@
             <Value Path="Structs/UnknownStruct140.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct144</Key>
-            <Value Path="Structs/UnknownStruct144.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct145</Key>
-            <Value Path="Structs/UnknownStruct145.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct146</Key>
-            <Value Path="Structs/UnknownStruct146.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct148</Key>
-            <Value Path="Structs/UnknownStruct148.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct149</Key>
-            <Value Path="Structs/UnknownStruct149.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct150</Key>
-            <Value Path="Structs/UnknownStruct150.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct151</Key>
-            <Value Path="Structs/UnknownStruct151.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct154</Key>
-            <Value Path="Structs/UnknownStruct154.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct155</Key>
-            <Value Path="Structs/UnknownStruct155.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct158</Key>
-            <Value Path="Structs/UnknownStruct158.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct160</Key>
-            <Value Path="Structs/UnknownStruct160.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct161</Key>
-            <Value Path="Structs/UnknownStruct161.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct163</Key>
-            <Value Path="Structs/UnknownStruct163.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct167</Key>
-            <Value Path="Structs/UnknownStruct167.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct170</Key>
-            <Value Path="Structs/UnknownStruct170.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct171</Key>
-            <Value Path="Structs/UnknownStruct171.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct172</Key>
-            <Value Path="Structs/UnknownStruct172.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct173</Key>
-            <Value Path="Structs/UnknownStruct173.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct18</Key>
-            <Value Path="Structs/UnknownStruct18.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct183</Key>
-            <Value Path="Structs/UnknownStruct183.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct184</Key>
-            <Value Path="Structs/UnknownStruct184.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct20</Key>
-            <Value Path="Structs/UnknownStruct20.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct22</Key>
             <Value Path="Structs/UnknownStruct22.xml"/>
         </Element>
@@ -2516,44 +2556,8 @@
             <Value Path="Structs/UnknownStruct269.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct27</Key>
-            <Value Path="Structs/UnknownStruct27.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct272</Key>
-            <Value Path="Structs/UnknownStruct272.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct276</Key>
-            <Value Path="Structs/UnknownStruct276.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct28</Key>
-            <Value Path="Structs/UnknownStruct28.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct29</Key>
-            <Value Path="Structs/UnknownStruct29.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct299</Key>
             <Value Path="Structs/UnknownStruct299.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct30</Key>
-            <Value Path="Structs/UnknownStruct30.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct31</Key>
-            <Value Path="Structs/UnknownStruct31.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct35</Key>
-            <Value Path="Structs/UnknownStruct35.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct52</Key>
-            <Value Path="Structs/UnknownStruct52.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct66</Key>

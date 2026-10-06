@@ -75,7 +75,7 @@
         </Element>
         <Element>
             <Key>AVIS</Key>
-            <Value Path="Script/AudioVisualizer.xml"/>
+            <Value Path="Script/AudioVisualization.xml"/>
         </Element>
         <Element>
             <Key>AVMC</Key>

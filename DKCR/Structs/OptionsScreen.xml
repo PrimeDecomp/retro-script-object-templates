@@ -8,7 +8,7 @@
                     <Element>FRME</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x73E2819B" Archetype="UnknownStruct27"/>
+            <Element Type="Struct" ID="0x73E2819B" Archetype="MenuSounds"/>
             <Element Type="Asset" ID="0xA4F20C17">
                 <TypeFilter>
                     <Element>STRG</Element>
@@ -55,8 +55,8 @@
                     <Element>TXTR</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x7BAA11B" Archetype="UnknownStruct31"/>
-            <Element Type="Struct" ID="0xCB2FF702" Archetype="UnknownStruct30"/>
+            <Element Type="Struct" ID="0x7BAA11B" Archetype="AudioOptionsScreen"/>
+            <Element Type="Struct" ID="0xCB2FF702" Archetype="ControllerOptionsScreen"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

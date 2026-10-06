@@ -26,7 +26,7 @@
                     <Element>STRG</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x52363FB6" Archetype="UnknownStruct158"/>
+            <Element Type="Struct" ID="0x52363FB6" Archetype="TimeAttackHUDSounds"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

@@ -3,16 +3,16 @@
     <PropertyArchetype Type="Struct">
         <Name>AddDropScreen</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0xC68BC9EC" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x569D9045" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x67A7C770" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x8C9C574C" Archetype="UnknownStruct28"/>
+            <Element Type="Struct" ID="0xC68BC9EC" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x569D9045" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x67A7C770" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x8C9C574C" Archetype="ConfirmPopup"/>
             <Element Type="Asset" ID="0x806052CB">
                 <TypeFilter>
                     <Element>FRME</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x73E2819B" Archetype="UnknownStruct27"/>
+            <Element Type="Struct" ID="0x73E2819B" Archetype="MenuSounds"/>
             <Element Type="Asset" ID="0x9BF39933">
                 <TypeFilter>
                     <Element>CAUD</Element>
