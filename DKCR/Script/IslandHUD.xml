@@ -21,12 +21,12 @@
             </Element>
             <Element Type="Struct" ID="0x1743B770" Archetype="IslandHUDScreens"/>
             <Element Type="Struct" ID="0x3F88E900" Archetype="IslandHUDSounds"/>
-            <Element Type="Struct" ID="0xEB7C1BF2" Archetype="UnknownStruct183"/>
-            <Element Type="Struct" ID="0xC68BC9EC" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x6BDD8B7A" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0xCC53C738" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0xBCF93A2A" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x6549E3F9" Archetype="UnknownStruct28"/>
+            <Element Type="Struct" ID="0xEB7C1BF2" Archetype="LevelStatusIcons"/>
+            <Element Type="Struct" ID="0xC68BC9EC" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x6BDD8B7A" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0xCC53C738" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0xBCF93A2A" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x6549E3F9" Archetype="ConfirmPopup"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

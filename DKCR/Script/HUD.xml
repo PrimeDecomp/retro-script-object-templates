@@ -12,8 +12,8 @@
             <Element Type="Struct" ID="0x51841C6D" Archetype="TimeAttackHUD"/>
             <Element Type="Struct" ID="0x106B3089" Archetype="TimeAttackEOLHUD"/>
             <Element Type="Struct" ID="0x3C280E64" Archetype="GameOverHUD"/>
-            <Element Type="Struct" ID="0xC68BC9EC" Archetype="UnknownStruct28"/>
-            <Element Type="Struct" ID="0x6BDD8B7A" Archetype="UnknownStruct28"/>
+            <Element Type="Struct" ID="0xC68BC9EC" Archetype="ConfirmPopup"/>
+            <Element Type="Struct" ID="0x6BDD8B7A" Archetype="ConfirmPopup"/>
             <Element Type="Struct" ID="0x3F88E900" Archetype="IslandHUDSounds"/>
         </SubProperties>
     </Properties>

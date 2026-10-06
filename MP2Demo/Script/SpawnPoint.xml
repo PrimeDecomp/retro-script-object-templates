@@ -10,8 +10,8 @@
             <Element Type="Bool" ID="0xB9C40F92">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x4C1D4CC9" Archetype="SpawnPointStruct"/>
-            <Element Type="Struct" ID="0x4081BF95" Archetype="SpawnPointStruct"/>
+            <Element Type="Struct" ID="0x4C1D4CC9" Archetype="PlayerInventory"/>
+            <Element Type="Struct" ID="0x4081BF95" Archetype="PlayerInventory"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

@@ -8,7 +8,7 @@
                     <Element>FRME</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x73E2819B" Archetype="UnknownStruct27"/>
+            <Element Type="Struct" ID="0x73E2819B" Archetype="MenuSounds"/>
             <Element Type="Asset" ID="0xA4F20C17">
                 <TypeFilter>
                     <Element>STRG</Element>
@@ -69,7 +69,7 @@
                     <Element>CAUD</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x8C9C574C" Archetype="UnknownStruct28"/>
+            <Element Type="Struct" ID="0x8C9C574C" Archetype="ConfirmPopup"/>
             <Element Type="Asset" ID="0xE119319B">
                 <TypeFilter>
                     <Element>TXTR</Element>

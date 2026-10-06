@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>IslandHUDScreens</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0xD85524DB" Archetype="UnknownStruct35"/>
+            <Element Type="Struct" ID="0xD85524DB" Archetype="MenuTextGradients"/>
             <Element Type="Struct" ID="0xBAB90759" Archetype="TitleScreen"/>
             <Element Type="Struct" ID="0xF9674517" Archetype="IslandAreaInfoScreen"/>
             <Element Type="Struct" ID="0x2C7916EC" Archetype="IslandLoadConfirmScreen"/>
