@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>CameraHintStructA</Name>
+        <Name>CameraPositionInterpolation</Name>
         <SubProperties>
             <Element Type="Choice" ID="0xF53DCDD6">
                 <DefaultValue>0</DefaultValue>
