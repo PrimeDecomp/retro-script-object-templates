@@ -10,7 +10,7 @@
                 <DefaultValue>0.1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xAF85A374">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xC712847C">
                 <DefaultValue>127</DefaultValue>

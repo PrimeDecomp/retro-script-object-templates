@@ -16,7 +16,7 @@
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x388D2E46">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

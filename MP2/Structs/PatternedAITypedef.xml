@@ -80,7 +80,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x19F84380">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="AnimationSet" ID="0xE25FB08C"/>
             <Element Type="Asset" ID="0x55744160">
@@ -135,13 +135,13 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x7344D6CD">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x562CF323">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xCDD9F41C">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x87011652">
                 <TypeFilter>
