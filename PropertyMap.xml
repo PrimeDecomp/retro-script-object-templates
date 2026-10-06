@@ -4342,8 +4342,8 @@
             <Value Name="ForwardAccelNormal"/>
         </Element>
         <Element>
-            <Key ID="0x18DD95CD" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x18DD95CD" Type="choice"/>
+            <Value Name="HorizontalJustification"/>
         </Element>
         <Element>
             <Key ID="0x18E3B4E9" Type="ProbabilityRelayData"/>
@@ -12046,8 +12046,8 @@
             <Value Name="Priority"/>
         </Element>
         <Element>
-            <Key ID="0x42091548" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x42091548" Type="choice"/>
+            <Value Name="VerticalJustification"/>
         </Element>
         <Element>
             <Key ID="0x420949DC" Type="int"/>
@@ -44399,7 +44399,7 @@
         </Element>
         <Element>
             <Key ID="0xF203BC81" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ExcludeFromLineOfSightTest"/>
         </Element>
         <Element>
             <Key ID="0xF20BA524" Type="float"/>
