@@ -55,6 +55,13 @@
                     <Element Type="Float" ID="0xE287D8DD">
                         <DefaultValue>0.0</DefaultValue>
                     </Element>
+                    <Element Type="Struct" ID="0x4476BED8">
+                        <SubProperties>
+                            <Element Type="Bool" ID="0x17ADDFC6">
+                                <DefaultValue>true</DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
@@ -95,13 +102,13 @@
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x14038B71">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x16A435CB">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x67EDEFC2">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8F4FB79D">
                 <DefaultValue>1.0</DefaultValue>
