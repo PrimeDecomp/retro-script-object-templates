@@ -7,70 +7,80 @@
                 <DefaultValue>
                     <R>0.0</R>
                     <G>0.0</G>
-                    <B>0.0</B>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xA09CAEFE">
                 <DefaultValue>
                     <R>0.0</R>
-                    <G>0.0</G>
+                    <G>1.0</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x6BF04FF9">
                 <DefaultValue>
-                    <R>0.0</R>
+                    <R>1.0</R>
                     <G>0.0</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x4280D00A">
                 <DefaultValue>
                     <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xEC4197E3">
                 <DefaultValue>
-                    <R>0.0</R>
+                    <R>1.0</R>
                     <G>0.0</G>
-                    <B>0.0</B>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x823E2FB3">
                 <DefaultValue>
                     <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <G>0.5</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x95CC4ED8">
                 <DefaultValue>
                     <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <G>1.0</G>
+                    <B>0.5</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xDB2CA6FF">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
+                    <R>1.0</R>
+                    <G>0.5</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x3D27FFD">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
+                    <R>0.5</R>
+                    <G>1.0</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x4C215775">
                 <DefaultValue>
-                    <R>0.0</R>
+                    <R>0.5</R>
                     <G>0.0</G>
-                    <B>0.0</B>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
         </SubProperties>
