@@ -18379,7 +18379,7 @@
         </Element>
         <Element>
             <Key ID="0x6491357E" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxAttacksPerDoubleShot"/>
         </Element>
         <Element>
             <Key ID="0x6497C750" Type="float"/>
@@ -24815,7 +24815,7 @@
         </Element>
         <Element>
             <Key ID="0x87CC8BA4" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinAttacksPerDoubleShot"/>
         </Element>
         <Element>
             <Key ID="0x87D22D43" Type="float"/>
@@ -38803,7 +38803,7 @@
         </Element>
         <Element>
             <Key ID="0xD356C997" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="WaypointTargetSpreadRadius"/>
         </Element>
         <Element>
             <Key ID="0xD3593630" Type="sound"/>
