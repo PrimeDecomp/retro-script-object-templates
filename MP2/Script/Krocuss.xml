@@ -124,10 +124,10 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x6A11338F">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xF64CA627">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x214E48A0">
                 <DefaultValue>50.0</DefaultValue>
