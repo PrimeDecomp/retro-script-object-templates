@@ -3366,8 +3366,8 @@
             <Value Name="Sound_ToeTarget"/>
         </Element>
         <Element>
-            <Key ID="0x138729A7" Type="CameraHintStructA"/>
-            <Value Name="CameraHintStructA"/>
+            <Key ID="0x138729A7" Type="CameraPositionInterpolation"/>
+            <Value Name="PositionInterpolationOff"/>
         </Element>
         <Element>
             <Key ID="0x138821C3" Type="TrainTrackManagerSequenceInstData"/>
@@ -18666,8 +18666,8 @@
             <Value Name="OrbitModeTimer"/>
         </Element>
         <Element>
-            <Key ID="0x664C450A" Type="CameraHintStructC"/>
-            <Value Name="CameraHintStructB"/>
+            <Key ID="0x664C450A" Type="CameraAngleRange"/>
+            <Value Name="AttitudeRange"/>
         </Element>
         <Element>
             <Key ID="0x664C450A" Type="CameraHintStructB"/>
@@ -26874,8 +26874,8 @@
             <Value Name="CameraHintStructA1"/>
         </Element>
         <Element>
-            <Key ID="0x934E392C" Type="CameraHintStructA"/>
-            <Value Name="CameraHintStructA1"/>
+            <Key ID="0x934E392C" Type="CameraPositionInterpolation"/>
+            <Value Name="PositionInterpolationOn"/>
         </Element>
         <Element>
             <Key ID="0x934E82B5" Type="asset"/>
@@ -28832,6 +28832,10 @@
         <Element>
             <Key ID="0x9E8631F1" Type="UnknownStruct9"/>
             <Value Name="UnknownStruct9"/>
+        </Element>
+        <Element>
+            <Key ID="0x9E8631F1" Type="CameraRotationInterpolation"/>
+            <Value Name="RotationInterpolation"/>
         </Element>
         <Element>
             <Key ID="0x9E87E0EB" Type="asset"/>
@@ -36658,8 +36662,8 @@
             <Value Name="YButtonIn"/>
         </Element>
         <Element>
-            <Key ID="0xC82395FA" Type="CameraHintStructC"/>
-            <Value Name="CameraHintStructB"/>
+            <Key ID="0xC82395FA" Type="CameraAngleRange"/>
+            <Value Name="AzimuthRange"/>
         </Element>
         <Element>
             <Key ID="0xC82395FA" Type="CameraHintStructB"/>
