@@ -32,9 +32,9 @@
             </Element>
             <Element Type="Vector" ID="0x7960C3A0">
                 <DefaultValue>
-                    <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <X>20.0</X>
+                    <Y>25.0</Y>
+                    <Z>20.0</Z>
                 </DefaultValue>
             </Element>
         </SubProperties>

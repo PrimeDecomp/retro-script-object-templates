@@ -78,14 +78,14 @@
             <Element Type="Vector" ID="0x50812F49">
                 <DefaultValue>
                     <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <Y>-4.0</Y>
+                    <Z>0.8</Z>
                 </DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x7EDC2474">
                 <DefaultValue>
                     <X>0.0</X>
-                    <Y>0.0</Y>
+                    <Y>-4.0</Y>
                     <Z>0.0</Z>
                 </DefaultValue>
             </Element>
@@ -342,65 +342,74 @@
             </Element>
             <Element Type="Color" ID="0xF08C7E50">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294118</R>
+                    <G>0.294118</G>
+                    <B>0.294118</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x809B480D">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.27451</R>
+                    <G>0.286275</G>
+                    <B>0.560784</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x38804BEB">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294118</R>
+                    <G>0.294118</G>
+                    <B>0.294118</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x557AB710">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.294118</R>
+                    <G>0.294118</G>
+                    <B>0.294118</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xC29B7093">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.333</R>
+                    <G>0.333</G>
+                    <B>0.333</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x582EFD3B">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.039</R>
+                    <G>0.039</G>
+                    <B>0.039</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x3ADFCFEF">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.254</R>
+                    <G>0.254</G>
+                    <B>0.254</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x8DCF0226">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.1</R>
+                    <G>0.1</G>
+                    <B>0.1</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x70638EAA">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.39</R>
+                    <G>0.39</G>
+                    <B>0.39</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5B888032">
@@ -414,9 +423,10 @@
             </Element>
             <Element Type="Color" ID="0xA9620C45">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x7189C83E">
@@ -428,23 +438,26 @@
             </Element>
             <Element Type="Color" ID="0xE7126099">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.3</R>
+                    <G>0.3</G>
+                    <B>0.3</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x934A247F">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.1</R>
+                    <G>0.1</G>
+                    <B>0.1</B>
+                    <A>0.5</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x530A846">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xC4D839F4" Archetype="TweakGui_Misc_UnknownStruct1"/>

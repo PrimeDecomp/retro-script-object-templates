@@ -5,16 +5,18 @@
         <SubProperties>
             <Element Type="Color" ID="0xDFD3CFF0">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
+                    <R>0.25</R>
+                    <G>0.5</G>
                     <B>0.0</B>
+                    <A>0.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x10F17007">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>0.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1DA9CDF3">
@@ -34,16 +36,18 @@
             </Element>
             <Element Type="Color" ID="0x21B607C0">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x705663E8">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x33BABD84">

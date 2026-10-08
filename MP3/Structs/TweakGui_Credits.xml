@@ -8,9 +8,10 @@
             <Element Type="String" ID="0xCEF90C00"/>
             <Element Type="Color" ID="0x1A96EC67">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>0.764706</R>
+                    <G>0.898039</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x844AB6B0">
@@ -18,6 +19,7 @@
                     <R>0.0</R>
                     <G>0.0</G>
                     <B>0.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x19686BF6">
