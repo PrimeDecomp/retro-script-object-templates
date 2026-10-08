@@ -6,7 +6,30 @@
             <Element Type="Float" ID="0x102E085F">
                 <DefaultValue>0.2</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xFAA71E25" Archetype="TWeaponDamage"/>
+            <Element Type="Struct" ID="0xFAA71E25" Archetype="TWeaponDamage">
+                <SubProperties>
+                    <Element Type="Struct" ID="0x8AC4278A">
+                        <SubProperties>
+                            <Element Type="Float" ID="0xF3EC8748">
+                                <DefaultValue>10.0</DefaultValue>
+                            </Element>
+                            <Element Type="Float" ID="0x37B6DF3D">
+                                <DefaultValue>5.0</DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
+                    <Element Type="Struct" ID="0xC9AC01D2">
+                        <SubProperties>
+                            <Element Type="Float" ID="0xF3EC8748">
+                                <DefaultValue>10.0</DefaultValue>
+                            </Element>
+                            <Element Type="Float" ID="0x37B6DF3D">
+                                <DefaultValue>5.0</DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
+                </SubProperties>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

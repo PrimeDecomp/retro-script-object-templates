@@ -5,16 +5,16 @@
         <SubProperties>
             <Element Type="Vector" ID="0x3C9366AC">
                 <DefaultValue>
-                    <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <X>-0.65</X>
+                    <Y>-0.1</Y>
+                    <Z>0.05</Z>
                 </DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x66B1D066">
                 <DefaultValue>
-                    <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <X>-0.45</X>
+                    <Y>-0.1</Y>
+                    <Z>-0.3</Z>
                 </DefaultValue>
             </Element>
         </SubProperties>

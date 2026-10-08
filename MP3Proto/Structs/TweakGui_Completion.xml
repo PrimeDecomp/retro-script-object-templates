@@ -8,9 +8,10 @@
             <Element Type="String" ID="0xA0D69D0"/>
             <Element Type="Color" ID="0x5A24A7E4">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xA938BF39">
@@ -22,9 +23,10 @@
             </Element>
             <Element Type="Color" ID="0xC6CC9D0C">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xD3A4A180">
@@ -36,9 +38,10 @@
             </Element>
             <Element Type="Color" ID="0x7AB5642">
                 <DefaultValue>
-                    <R>0.0</R>
-                    <G>0.0</G>
-                    <B>0.0</B>
+                    <R>1.0</R>
+                    <G>1.0</G>
+                    <B>1.0</B>
+                    <A>1.0</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0x595C63ED">

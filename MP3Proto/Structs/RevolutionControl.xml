@@ -10,7 +10,7 @@
             <Element Type="Struct" ID="0xE646D3B7" Archetype="RevolutionPhysicalControl">
                 <SubProperties>
                     <Element Type="Enum" ID="0x60D66244">
-                        <DefaultValue>0x96A037F0</DefaultValue>
+                        <DefaultValue>0x0FA9664A</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
@@ -20,7 +20,7 @@
             <Element Type="Struct" ID="0xF0BF68A4" Archetype="RevolutionPhysicalControl">
                 <SubProperties>
                     <Element Type="Enum" ID="0x60D66244">
-                        <DefaultValue>0x96A037F0</DefaultValue>
+                        <DefaultValue>0x0FA9664A</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>

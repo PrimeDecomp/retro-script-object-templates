@@ -9,8 +9,8 @@
             <Element Type="Vector" ID="0xC7BF307C">
                 <DefaultValue>
                     <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <Y>4.0</Y>
+                    <Z>1.0</Z>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF88297B3">
@@ -103,8 +103,8 @@
             <Element Type="Vector" ID="0xA8A86DE9">
                 <DefaultValue>
                     <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <Y>10.0</Y>
+                    <Z>1.0</Z>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1F526953">
@@ -134,8 +134,8 @@
             <Element Type="Vector" ID="0x416D0E9F">
                 <DefaultValue>
                     <X>0.0</X>
-                    <Y>0.0</Y>
-                    <Z>0.0</Z>
+                    <Y>1.0</Y>
+                    <Z>1.0</Z>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xA6DD7839">
