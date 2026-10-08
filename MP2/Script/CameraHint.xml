@@ -60,8 +60,8 @@
                 </DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xF71C36F2" Archetype="CameraFOV"/>
-            <Element Type="Struct" ID="0x664C450A" Archetype="CameraHintStructC"/>
-            <Element Type="Struct" ID="0xC82395FA" Archetype="CameraHintStructC"/>
+            <Element Type="Struct" ID="0x664C450A" Archetype="CameraAngleRange"/>
+            <Element Type="Struct" ID="0xC82395FA" Archetype="CameraAngleRange"/>
             <Element Type="Struct" ID="0x645EB009" Archetype="CameraSpeed"/>
             <Element Type="Struct" ID="0x80CFBB54" Archetype="CameraZOffset"/>
             <Element Type="Float" ID="0x2AE08BE1">
@@ -73,9 +73,9 @@
             <Element Type="Float" ID="0xC91EF813">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x934E392C" Archetype="CameraHintStructA"/>
-            <Element Type="Struct" ID="0x9E8631F1" Archetype="UnknownStruct9"/>
-            <Element Type="Struct" ID="0x138729A7" Archetype="CameraHintStructA"/>
+            <Element Type="Struct" ID="0x934E392C" Archetype="CameraPositionInterpolation"/>
+            <Element Type="Struct" ID="0x9E8631F1" Archetype="CameraRotationInterpolation"/>
+            <Element Type="Struct" ID="0x138729A7" Archetype="CameraPositionInterpolation"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

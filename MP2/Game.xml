@@ -864,12 +864,12 @@
             <Value Path="Structs/CameraFOV.xml"/>
         </Element>
         <Element>
-            <Key>CameraHintStructA</Key>
-            <Value Path="Structs/CameraHintStructA.xml"/>
+            <Key>CameraPositionInterpolation</Key>
+            <Value Path="Structs/CameraPositionInterpolation.xml"/>
         </Element>
         <Element>
-            <Key>CameraHintStructC</Key>
-            <Value Path="Structs/CameraHintStructC.xml"/>
+            <Key>CameraAngleRange</Key>
+            <Value Path="Structs/CameraAngleRange.xml"/>
         </Element>
         <Element>
             <Key>CameraOffset</Key>
@@ -1536,8 +1536,8 @@
             <Value Path="Structs/UnknownStruct42.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct9</Key>
-            <Value Path="Structs/UnknownStruct9.xml"/>
+            <Key>CameraRotationInterpolation</Key>
+            <Value Path="Structs/CameraRotationInterpolation.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>
