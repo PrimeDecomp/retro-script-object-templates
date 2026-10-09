@@ -418,8 +418,8 @@
             <Value Name="MinSpitRange"/>
         </Element>
         <Element>
-            <Key ID="0x261A4E0" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x261A4E0" Type="choice"/>
+            <Value Name="GameOption"/>
         </Element>
         <Element>
             <Key ID="0x263834D" Type="float"/>
@@ -10715,7 +10715,7 @@
         </Element>
         <Element>
             <Key ID="0x3AF75FCC" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxEnergyDrainAllowed"/>
         </Element>
         <Element>
             <Key ID="0x3AFBE300" Type="enum"/>
@@ -11554,10 +11554,6 @@
             <Value Name="InventoryItemParm"/>
         </Element>
         <Element>
-            <Key ID="0x3FA164BC" Type="int"/>
-            <Value Name="InventoryItemParm"/>
-        </Element>
-        <Element>
             <Key ID="0x3FA5C15B" Type="SwarmBotData"/>
             <Value Name="SwarmBotProperties"/>
         </Element>
@@ -11899,7 +11895,7 @@
         </Element>
         <Element>
             <Key ID="0x414379EA" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="FilterCutoffFrequency"/>
         </Element>
         <Element>
             <Key ID="0x41481F90" Type="asset"/>
@@ -12643,7 +12639,7 @@
         </Element>
         <Element>
             <Key ID="0x454F16B1" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrenadeNumBounces"/>
         </Element>
         <Element>
             <Key ID="0x45511F61" Type="TextGradientColors"/>
@@ -12714,12 +12710,8 @@
             <Value Name="ThrustData"/>
         </Element>
         <Element>
-            <Key ID="0x45B71390" Type="sound"/>
-            <Value Name="Always FF"/>
-        </Element>
-        <Element>
-            <Key ID="0x45B71390" Type="int"/>
-            <Value Name="Always FF"/>
+            <Key ID="0x45B71390" Type="asset"/>
+            <Value Name="PirateProjectileVisorEffect"/>
         </Element>
         <Element>
             <Key ID="0x45B717DF" Type="Color"/>
@@ -13602,10 +13594,6 @@
             <Value Name="AllowZooming"/>
         </Element>
         <Element>
-            <Key ID="0x4A3491BD" Type="int"/>
-            <Value Name="ItemToChange"/>
-        </Element>
-        <Element>
             <Key ID="0x4A3491BD" Type="PlayerItem"/>
             <Value Name="ItemToChange"/>
         </Element>
@@ -13974,8 +13962,8 @@
             <Value Name="ChewDamageOnSpitOut"/>
         </Element>
         <Element>
-            <Key ID="0x4BD8ECB9" Type="TweakControls_UnknownStruct2"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x4BD8ECB9" Type="PlayerMovementControls"/>
+            <Value Name="Movement"/>
         </Element>
         <Element>
             <Key ID="0x4BDEE69A" Type="float"/>
@@ -14239,7 +14227,7 @@
         </Element>
         <Element>
             <Key ID="0x4D3109E3" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="BarrierStartsDown"/>
         </Element>
         <Element>
             <Key ID="0x4D320455" Type="float"/>
@@ -14342,8 +14330,8 @@
             <Value Name="MinTimeBetweenRapidShots"/>
         </Element>
         <Element>
-            <Key ID="0x4DA7EF52" Type="TweakControls_UnknownStruct1"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x4DA7EF52" Type="PlayerControls"/>
+            <Value Name="PlayerControlsCore"/>
         </Element>
         <Element>
             <Key ID="0x4DA90D36" Type="int"/>
@@ -17451,7 +17439,7 @@
         </Element>
         <Element>
             <Key ID="0x5F3F294C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ExplosionGrowthEnergy"/>
         </Element>
         <Element>
             <Key ID="0x5F3F29E3" Type="asset"/>
@@ -17655,7 +17643,7 @@
         </Element>
         <Element>
             <Key ID="0x6078A651" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HUDIconMinSize"/>
         </Element>
         <Element>
             <Key ID="0x607BC79E" Type="asset"/>
@@ -19199,7 +19187,7 @@
         </Element>
         <Element>
             <Key ID="0x68DC4D11" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="ProjectileExplosionSpash"/>
         </Element>
         <Element>
             <Key ID="0x68E1B284" Type="TweakGui_XRayVisor"/>
@@ -19594,8 +19582,12 @@
             <Value Name="WaterBallJumpFactor"/>
         </Element>
         <Element>
+            <Key ID="0x6AE6F0EB" Type="animation"/>
+            <Value Name="Animation_Anim3"/>
+        </Element>
+        <Element>
             <Key ID="0x6AE6F0EB" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_Anim3"/>
         </Element>
         <Element>
             <Key ID="0x6AF2871B" Type="float"/>
@@ -20214,8 +20206,12 @@
             <Value Name="Positional"/>
         </Element>
         <Element>
+            <Key ID="0x6E1320D6" Type="animation"/>
+            <Value Name="Animation_Anim1"/>
+        </Element>
+        <Element>
             <Key ID="0x6E1320D6" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_Anim1"/>
         </Element>
         <Element>
             <Key ID="0x6E14BC06" Type="enum"/>
@@ -20891,7 +20887,7 @@
         </Element>
         <Element>
             <Key ID="0x72439B39" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="EnergyDrainPerSec"/>
         </Element>
         <Element>
             <Key ID="0x72531867" Type="float"/>
@@ -22074,8 +22070,8 @@
             <Value Name="CAUD"/>
         </Element>
         <Element>
-            <Key ID="0x791A3C7D" Type="TweakControls_UnknownStruct1"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x791A3C7D" Type="PlayerControls"/>
+            <Value Name="PlayerControlsPC"/>
         </Element>
         <Element>
             <Key ID="0x79220DD6" Type="float"/>
@@ -23090,8 +23086,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x7EA45F85" Type="TweakControls_UnknownStruct1"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7EA45F85" Type="PlayerControls"/>
+            <Value Name="PlayerControlsNunchuk"/>
         </Element>
         <Element>
             <Key ID="0x7EAB4BAB" Type="float"/>
@@ -23611,7 +23607,7 @@
         </Element>
         <Element>
             <Key ID="0x80CE481A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxPoleExtensionLength"/>
         </Element>
         <Element>
             <Key ID="0x80CFBB54" Type="CameraZOffset"/>
@@ -23770,8 +23766,12 @@
             <Value Name="ForwardsPitch"/>
         </Element>
         <Element>
+            <Key ID="0x81D14BE8" Type="animation"/>
+            <Value Name="Animation_Anim0"/>
+        </Element>
+        <Element>
             <Key ID="0x81D14BE8" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_Anim0"/>
         </Element>
         <Element>
             <Key ID="0x81D39802" Type="float"/>
@@ -24366,8 +24366,12 @@
             <Value Name="ExtrasMusicScreen"/>
         </Element>
         <Element>
+            <Key ID="0x85249BD5" Type="animation"/>
+            <Value Name="Animation_Anim2"/>
+        </Element>
+        <Element>
             <Key ID="0x85249BD5" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="Animation_Anim2"/>
         </Element>
         <Element>
             <Key ID="0x8527B396" Type="sound"/>
@@ -25218,8 +25222,8 @@
             <Value Name="GridDistMax"/>
         </Element>
         <Element>
-            <Key ID="0x8A09F99A" Type="SafeZoneStructA"/>
-            <Value Name="SafeZoneStructA"/>
+            <Key ID="0x8A09F99A" Type="SafeZoneFog"/>
+            <Value Name="FogEntering"/>
         </Element>
         <Element>
             <Key ID="0x8A0DFD23" Type="float"/>
@@ -25275,7 +25279,7 @@
         </Element>
         <Element>
             <Key ID="0x8A548CC9" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="IsDrawOrbitPointDefault"/>
         </Element>
         <Element>
             <Key ID="0x8A58A7F8" Type="int"/>
@@ -26198,8 +26202,8 @@
             <Value Name="MovementBetweenOffsets"/>
         </Element>
         <Element>
-            <Key ID="0x8F64F167" Type="TweakControls_UnknownStruct1"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x8F64F167" Type="PlayerControls"/>
+            <Value Name="PlayerControlsClassic"/>
         </Element>
         <Element>
             <Key ID="0x8F6732EA" Type="DigitalGuardianHeadStruct"/>
@@ -29123,10 +29127,6 @@
         </Element>
         <Element>
             <Key ID="0xA02EF0C4" Type="PlayerItem"/>
-            <Value Name="ItemToGive"/>
-        </Element>
-        <Element>
-            <Key ID="0xA02EF0C4" Type="int"/>
             <Value Name="ItemToGive"/>
         </Element>
         <Element>
@@ -32114,8 +32114,8 @@
             <Value Name="HeightRandomMin"/>
         </Element>
         <Element>
-            <Key ID="0xAFB855B8" Type="SafeZoneStructA"/>
-            <Value Name="SafeZoneStructA"/>
+            <Key ID="0xAFB855B8" Type="SafeZoneFog"/>
+            <Value Name="FogLeaving"/>
         </Element>
         <Element>
             <Key ID="0xAFB9313A" Type="GhorWeakSpotData"/>
@@ -34867,7 +34867,7 @@
         </Element>
         <Element>
             <Key ID="0xBEF177D6" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="DesignMemory"/>
         </Element>
         <Element>
             <Key ID="0xBEF6D56D" Type="int"/>
@@ -38803,7 +38803,7 @@
         </Element>
         <Element>
             <Key ID="0xD356C997" Type="float"/>
-            <Value Name="WaypointTargetSpreadRadius"/>
+            <Value Name="TargetPointRandomVariance"/>
         </Element>
         <Element>
             <Key ID="0xD3593630" Type="sound"/>
@@ -38871,10 +38871,6 @@
         </Element>
         <Element>
             <Key ID="0xD3AF8D72" Type="PlayerItem"/>
-            <Value Name="PlayerItem"/>
-        </Element>
-        <Element>
-            <Key ID="0xD3AF8D72" Type="int"/>
             <Value Name="PlayerItem"/>
         </Element>
         <Element>
@@ -39062,8 +39058,8 @@
             <Value Name="RTriggerIn"/>
         </Element>
         <Element>
-            <Key ID="0xD4B29446" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xD4B29446" Type="Flags"/>
+            <Value Name="SplineFlagsCameraSpline"/>
         </Element>
         <Element>
             <Key ID="0xD4B4AD93" Type="float"/>
@@ -39619,7 +39615,7 @@
         </Element>
         <Element>
             <Key ID="0xD8116003" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxTimeAsEcho"/>
         </Element>
         <Element>
             <Key ID="0xD81537B6" Type="spline"/>
@@ -44015,7 +44011,7 @@
         </Element>
         <Element>
             <Key ID="0xF00BB6BB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HUDIconMaxSize"/>
         </Element>
         <Element>
             <Key ID="0xF00DF306" Type="float"/>
@@ -44119,7 +44115,7 @@
         </Element>
         <Element>
             <Key ID="0xF0A45C32" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxTimeAsHurtful"/>
         </Element>
         <Element>
             <Key ID="0xF0B2F4CF" Type="WeaponVulnerability"/>
@@ -46858,8 +46854,8 @@
             <Value Name="ScanThrough"/>
         </Element>
         <Element>
-            <Key ID="0xFE9EAC26" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xFE9EAC26" Type="choice"/>
+            <Value Name="StartStyle"/>
         </Element>
         <Element>
             <Key ID="0xFEA6BCE9" Type="float"/>

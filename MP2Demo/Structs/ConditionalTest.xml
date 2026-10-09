@@ -6,9 +6,7 @@
             <Element Type="Choice" ID="0xDE3E40A3">
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD3AF8D72">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Choice" ID="0xD3AF8D72" Archetype="PlayerItem"/>
             <Element Type="Choice" ID="0x3BDEA98">
                 <Values>
                     <Element Name="Amount" ID="0x0"/>

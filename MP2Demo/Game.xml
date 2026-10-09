@@ -784,6 +784,10 @@
             <Value Path="Structs/PlayerInventory.xml"/>
         </Element>
         <Element>
+            <Key>PlayerItem</Key>
+            <Value Path="Enums/PlayerItem.xml"/>
+        </Element>
+        <Element>
             <Key>RezbitData</Key>
             <Value Path="Structs/RezbitData.xml"/>
         </Element>

@@ -1804,6 +1804,10 @@
             <Value Path="Structs/PlayerCommonData.xml"/>
         </Element>
         <Element>
+            <Key>PlayerControls</Key>
+            <Value Path="Structs/PlayerControls.xml"/>
+        </Element>
+        <Element>
             <Key>PlayerCrouchData</Key>
             <Value Path="Structs/PlayerCrouchData.xml"/>
         </Element>
@@ -1854,6 +1858,10 @@
         <Element>
             <Key>PlayerMountRiderList</Key>
             <Value Path="Structs/PlayerMountRiderList.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerMovementControls</Key>
+            <Value Path="Structs/PlayerMovementControls.xml"/>
         </Element>
         <Element>
             <Key>PlayerMovementParameters</Key>
@@ -2514,14 +2522,6 @@
         <Element>
             <Key>TutorialLocation</Key>
             <Value Path="Structs/TutorialLocation.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakControls_UnknownStruct1</Key>
-            <Value Path="Structs/TweakControls_UnknownStruct1.xml"/>
-        </Element>
-        <Element>
-            <Key>TweakControls_UnknownStruct2</Key>
-            <Value Path="Structs/TweakControls_UnknownStruct2.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct</Key>
