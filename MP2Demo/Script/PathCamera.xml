@@ -7,7 +7,7 @@
             <Element Type="Flags" ID="0x5CBD5BAE">
                 <DefaultValue>32</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD4B29446">
+            <Element Type="Flags" ID="0xD4B29446">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x493D6A2D" Archetype="SplineType"/>

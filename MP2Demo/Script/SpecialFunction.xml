@@ -33,9 +33,7 @@
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x8249F6C7" Archetype="MasterLayer"/>
-            <Element Type="Int" ID="0x3FA164BC">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Choice" ID="0x3FA164BC" Archetype="PlayerItem"/>
             <Element Type="Sound" ID="0xA4EE16BF">
                 <DefaultValue>0</DefaultValue>
             </Element>

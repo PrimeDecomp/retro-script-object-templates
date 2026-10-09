@@ -1156,8 +1156,8 @@
             <Value Path="Structs/SafeZoneAttributes.xml"/>
         </Element>
         <Element>
-            <Key>SafeZoneStructA</Key>
-            <Value Path="Structs/SafeZoneStructA.xml"/>
+            <Key>SafeZoneFog</Key>
+            <Value Path="Structs/SafeZoneFog.xml"/>
         </Element>
         <Element>
             <Key>SandBossArmorData</Key>

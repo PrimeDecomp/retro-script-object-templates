@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>SafeZoneStructA</Name>
+        <Name>SafeZoneFog</Name>
         <SubProperties>
             <Element Type="Bool" ID="0x29C77D27">
                 <DefaultValue>true</DefaultValue>

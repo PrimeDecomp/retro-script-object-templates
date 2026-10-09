@@ -40,7 +40,7 @@
                 &lt;br/&gt;* &lt;span style=&quot; font-weight:600;&quot;&gt;Sinusoidal&lt;/span&gt;: If inside a CameraHint, the perspective change adds up on top of the cutscene's properties.
                 </Description>
             </Element>
-            <Element Type="Int" ID="0xD4B29446">
+            <Element Type="Flags" ID="0xD4B29446">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x493D6A2D" Archetype="SplineType"/>

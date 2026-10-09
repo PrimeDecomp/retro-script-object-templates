@@ -158,7 +158,7 @@
             <Element Type="Float" ID="0x9F638987">
                 <DefaultValue>0.2</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x8A09F99A" Archetype="SafeZoneStructA">
+            <Element Type="Struct" ID="0x8A09F99A" Archetype="SafeZoneFog">
                 <SubProperties>
                     <Element Type="Bool" ID="0x29C77D27">
                         <DefaultValue>false</DefaultValue>
@@ -198,7 +198,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xAFB855B8" Archetype="SafeZoneStructA">
+            <Element Type="Struct" ID="0xAFB855B8" Archetype="SafeZoneFog">
                 <SubProperties>
                     <Element Type="Bool" ID="0x29C77D27">
                         <DefaultValue>false</DefaultValue>
