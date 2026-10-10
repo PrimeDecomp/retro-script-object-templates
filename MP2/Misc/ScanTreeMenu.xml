@@ -17,13 +17,21 @@
                 </TypeFilter>
             </Element>
             <Element Type="String" ID="0x30531924"/>
-            <Element Type="Int" ID="0x50BCE632"/>
+            <Element Type="Int" ID="0x50BCE632">
+                <DefaultValue>0</DefaultValue>
+            </Element>
             <Element Type="String" ID="0x01BB03B9"/>
-            <Element Type="Int" ID="0x420949DC"/>
+            <Element Type="Int" ID="0x420949DC">
+                <DefaultValue>1</DefaultValue>
+            </Element>
             <Element Type="String" ID="0xA7CC080D"/>
-            <Element Type="Int" ID="0xFAB52EB9"/>
+            <Element Type="Int" ID="0xFAB52EB9">
+                <DefaultValue>2</DefaultValue>
+            </Element>
             <Element Type="String" ID="0x626B3683"/>
-            <Element Type="Int" ID="0x67621600"/>
+            <Element Type="Int" ID="0x67621600">
+                <DefaultValue>3</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>

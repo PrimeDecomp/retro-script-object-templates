@@ -29,13 +29,13 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x508520E1">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x34C7C1CC">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xB253B362">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x4406DC02">
                 <DefaultValue>0</DefaultValue>

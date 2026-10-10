@@ -26,10 +26,10 @@
             </Element>
             <Element Type="Color" ID="0x8C8B3289">
                 <DefaultValue>
-                    <R>0.29803899</R>
+                    <R>0.3</R>
                     <G>0.60000002</G>
                     <B>1.0</B>
-                    <A>0.49803901</A>
+                    <A>0.5</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x90AA341F">

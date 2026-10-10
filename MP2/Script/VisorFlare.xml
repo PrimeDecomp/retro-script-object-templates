@@ -28,20 +28,11 @@
             <Element Type="Bool" ID="0x50881A9">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x3C257223" Archetype="FlareDef">
-                <SubProperties>
-                    <Element Type="Float" ID="0x2C51A676">
-                        <DefaultValue>1.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
+            <Element Type="Struct" ID="0x3C257223" Archetype="FlareDef"/>
             <Element Type="Struct" ID="0x5A84EE6" Archetype="FlareDef">
                 <SubProperties>
                     <Element Type="Float" ID="0xCB99B4DA">
                         <DefaultValue>0.25</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x2C51A676">
-                        <DefaultValue>1.0</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
@@ -50,9 +41,6 @@
                     <Element Type="Float" ID="0xCB99B4DA">
                         <DefaultValue>0.5</DefaultValue>
                     </Element>
-                    <Element Type="Float" ID="0x2C51A676">
-                        <DefaultValue>1.0</DefaultValue>
-                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x76B2376C" Archetype="FlareDef">
@@ -60,17 +48,11 @@
                     <Element Type="Float" ID="0xCB99B4DA">
                         <DefaultValue>0.75</DefaultValue>
                     </Element>
-                    <Element Type="Float" ID="0x2C51A676">
-                        <DefaultValue>1.0</DefaultValue>
-                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x61C9232F" Archetype="FlareDef">
                 <SubProperties>
                     <Element Type="Float" ID="0xCB99B4DA">
-                        <DefaultValue>1.0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x2C51A676">
                         <DefaultValue>1.0</DefaultValue>
                     </Element>
                 </SubProperties>

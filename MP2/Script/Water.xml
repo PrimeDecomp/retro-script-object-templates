@@ -67,7 +67,7 @@
                 <DefaultValue>
                     <R>0.0</R>
                     <G>0.0</G>
-                    <B>0.49803901</B>
+                    <B>0.5</B>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF7C6FC2">
@@ -85,86 +85,11 @@
             <Element Type="Float" ID="0xB0259D23">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x244E9E6D" Archetype="LayerInfo">
-                <SubProperties>
-                    <Element Type="Choice" ID="0xE94F7E87">
-                        <DefaultValue>0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x3C5B0C98">
-                        <DefaultValue>5.0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x89E3D294">
-                        <DefaultValue>0.15000001</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x80C7499">
-                        <DefaultValue>10.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0xE75248E4" Archetype="LayerInfo">
-                <SubProperties>
-                    <Element Type="Choice" ID="0xE94F7E87">
-                        <DefaultValue>0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x3C5B0C98">
-                        <DefaultValue>5.0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x89E3D294">
-                        <DefaultValue>0.15000001</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x80C7499">
-                        <DefaultValue>10.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0x385E0D43" Archetype="LayerInfo">
-                <SubProperties>
-                    <Element Type="Choice" ID="0xE94F7E87">
-                        <DefaultValue>0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x3C5B0C98">
-                        <DefaultValue>5.0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x89E3D294">
-                        <DefaultValue>0.15000001</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x80C7499">
-                        <DefaultValue>10.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0xD369B640" Archetype="LayerInfo">
-                <SubProperties>
-                    <Element Type="Choice" ID="0xE94F7E87">
-                        <DefaultValue>0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x3C5B0C98">
-                        <DefaultValue>5.0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x89E3D294">
-                        <DefaultValue>0.15000001</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x80C7499">
-                        <DefaultValue>10.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
-            <Element Type="Struct" ID="0x6DDEA66D" Archetype="LayerInfo">
-                <SubProperties>
-                    <Element Type="Choice" ID="0xE94F7E87">
-                        <DefaultValue>0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x3C5B0C98">
-                        <DefaultValue>5.0</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x89E3D294">
-                        <DefaultValue>0.15000001</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x80C7499">
-                        <DefaultValue>10.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
+            <Element Type="Struct" ID="0x244E9E6D" Archetype="LayerInfo"/>
+            <Element Type="Struct" ID="0xE75248E4" Archetype="LayerInfo"/>
+            <Element Type="Struct" ID="0x385E0D43" Archetype="LayerInfo"/>
+            <Element Type="Struct" ID="0xD369B640" Archetype="LayerInfo"/>
+            <Element Type="Struct" ID="0x6DDEA66D" Archetype="LayerInfo"/>
             <Element Type="Float" ID="0xF14E3A14">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
@@ -174,7 +99,7 @@
             <Element Type="Color" ID="0x5A96218C">
                 <DefaultValue>
                     <R>0.0</R>
-                    <G>0.49803901</G>
+                    <G>0.5</G>
                     <B>1.0</B>
                 </DefaultValue>
             </Element>
@@ -211,19 +136,19 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xBA717F19">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xAE7C7EFC">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xEEF81E4C">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x63C96763">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xD36209BC">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Color" ID="0xE578C0DD">
                 <DefaultValue>
