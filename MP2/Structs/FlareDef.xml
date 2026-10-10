@@ -12,7 +12,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2C51A676">
-                <DefaultValue>0.0</DefaultValue>
+                <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Color" ID="0x37C7D09D">
                 <DefaultValue>

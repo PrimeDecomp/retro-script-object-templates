@@ -97,7 +97,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xBB3CCAE">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x991202C3">
                 <DefaultValue>1</DefaultValue>

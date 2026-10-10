@@ -4,19 +4,19 @@
         <Name>LayerInfo</Name>
         <SubProperties>
             <Element Type="Choice" ID="0xE94F7E87">
-                <DefaultValue>-2143184152</DefaultValue>
+                <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x3C5B0C98">
-                <DefaultValue>0.0</DefaultValue>
+                <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x912954E6">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x89E3D294">
-                <DefaultValue>-0.0</DefaultValue>
+                <DefaultValue>0.15000001</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x80C7499">
-                <DefaultValue>0.0</DefaultValue>
+                <DefaultValue>10.0</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>
