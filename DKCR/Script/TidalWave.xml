@@ -6,7 +6,7 @@
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="AnimationSet" ID="0xA244C9D8"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Struct" ID="0x8C5E15C9" Archetype="TidalWaveData"/>
+            <Element Type="Struct" ID="0x8C5E15C9" Archetype="AdjustUV"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

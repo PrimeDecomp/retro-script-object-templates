@@ -141,10 +141,10 @@
             <Element Type="Float" ID="0x3DAD897B">
                 <DefaultValue>50.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6CF4324">
+            <Element Type="Sound" ID="0x6CF4324">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x23F5E1EE">
+            <Element Type="Sound" ID="0x23F5E1EE">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x62C744CD" Archetype="ActorParameters"/>

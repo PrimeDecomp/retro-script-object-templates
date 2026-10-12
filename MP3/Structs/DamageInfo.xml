@@ -14,7 +14,7 @@
                     <Element Name="kWeaponType_ScrewAttack" ID="0x9B37D58B"/>
                     <Element Name="kWeaponType_Ai" ID="0xBC709037"/>
                     <Element Name="kWeaponType_FriendlyAi" ID="0xCD26D8F0"/>
-                    <Element Name="kWeaponType_UnknownSource" ID="0x4A2039D3"/>
+                    <Element Name="kWeaponType_Unstoppable" ID="0x4A2039D3"/>
                     <Element Name="kWeaponType_Electrical" ID="0xF8009F03"/>
                     <Element Name="kWeaponType_PoisonWater" ID="0xE7194EEA"/>
                 </Values>

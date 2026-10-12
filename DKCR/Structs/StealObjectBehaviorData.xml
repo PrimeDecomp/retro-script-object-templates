@@ -34,7 +34,11 @@
                 <DefaultValue>2.0</DefaultValue>
             </Element>
             <Element Type="String" ID="0xD2BA9438"/>
-            <Element Type="Asset" ID="0x3311BA2B"/>
+            <Element Type="Asset" ID="0x3311BA2B">
+                <TypeFilter>
+                    <Element>FSMC</Element>
+                </TypeFilter>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

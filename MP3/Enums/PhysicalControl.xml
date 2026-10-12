@@ -25,10 +25,10 @@
             <Element Name="kControl_REV_AnalogLeft" ID="0x783DE2D4"/>
             <Element Name="kControl_REV_Z1" ID="0x45C3998B"/>
             <Element Name="kControl_REV_Z2" ID="0xDCCAC831"/>
-            <Element Name="kControl_UNK1_RollLeft" ID="0xB99F4240"/>
-            <Element Name="kControl_UNK1_RollRight" ID="0x53BECAC6"/>
-            <Element Name="kControl_UNK1_PitchUp" ID="0xA4751ABD"/>
-            <Element Name="kControl_UNK1_PitchDown" ID="0x99A2FA23"/>
+            <Element Name="kControl_REV_NUNCHAKU_RollLeft" ID="0xB99F4240"/>
+            <Element Name="kControl_REV_NUNCHAKU_RollRight" ID="0x53BECAC6"/>
+            <Element Name="kControl_REV_NUNCHAKU_PitchUp" ID="0xA4751ABD"/>
+            <Element Name="kControl_REV_NUNCHAKU_PitchDown" ID="0x99A2FA23"/>
             <Element Name="kControl_REV_DPD_Up" ID="0x572AC00B"/>
             <Element Name="kControl_REV_DPD_Down" ID="0x4D3B3B88"/>
             <Element Name="kControl_REV_DPD_Right" ID="0x34F1BC04"/>

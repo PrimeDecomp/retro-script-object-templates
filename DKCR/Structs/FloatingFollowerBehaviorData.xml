@@ -30,7 +30,11 @@
             <Element Type="Float" ID="0x29A27CB9">
                 <DefaultValue>8.0</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0x3311BA2B"/>
+            <Element Type="Asset" ID="0x3311BA2B">
+                <TypeFilter>
+                    <Element>FSMC</Element>
+                </TypeFilter>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

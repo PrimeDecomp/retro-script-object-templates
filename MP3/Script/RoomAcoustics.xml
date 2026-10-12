@@ -7,14 +7,14 @@
             <Element Type="Enum" ID="0xBE7CA9E">
                 <DefaultValue>0x3AAA1114</DefaultValue>
                 <Values>
-                    <Element Name="Low" ID="0x1C750ED3"/>
-                    <Element Name="Background" ID="0x3AAA1114"/>
-                    <Element Name="Medium" ID="0xD42E70C4"/>
-                    <Element Name="Foreground" ID="0x1BAD2014"/>
-                    <Element Name="High" ID="0x9D82E6BE"/>
+                    <Element Name="NAudioManager::kRAP_Low" ID="0x1C750ED3"/>
+                    <Element Name="NAudioManager::kRAP_Background" ID="0x3AAA1114"/>
+                    <Element Name="NAudioManager::kRAP_Medium" ID="0xD42E70C4"/>
+                    <Element Name="NAudioManager::kRAP_Foreground" ID="0x1BAD2014"/>
+                    <Element Name="NAudioManager::kRAP_High" ID="0x9D82E6BE"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0x555B055E" Archetype="UnknownStruct54"/>
+            <Element Type="Struct" ID="0x555B055E" Archetype="ReverbProperties"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

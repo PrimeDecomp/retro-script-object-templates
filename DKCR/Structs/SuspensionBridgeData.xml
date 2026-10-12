@@ -16,8 +16,8 @@
                 <DefaultValue>20.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x681F4C76" Archetype="UnknownStruct269"/>
-            <Element Type="Struct" ID="0xF6555670" Archetype="SuspensionBridgeStruct"/>
-            <Element Type="Struct" ID="0x7CB2693B" Archetype="SuspensionBridgeStruct"/>
+            <Element Type="Struct" ID="0xF6555670" Archetype="SuspensionBridgeMovementDetectionData"/>
+            <Element Type="Struct" ID="0x7CB2693B" Archetype="SuspensionBridgeMovementDetectionData"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

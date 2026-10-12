@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="Echoes">
+<PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
     <PropertyArchetype Type="Struct">
-        <Name>SplitterMainChassisData</Name>
+        <Name>SplitterChassisData</Name>
         <SubProperties>
             <Element Type="Int" ID="0xCEF5C2FE">
                 <DefaultValue>124</DefaultValue>
@@ -18,7 +18,7 @@
             <Element Type="Struct" ID="0xEFACFA50" Archetype="DamageInfo">
                 <SubProperties>
                     <Element Type="Choice" ID="0x119FBD31">
-                        <DefaultValue>11</DefaultValue>
+                        <DefaultValue>9</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF2D02613">
                         <DefaultValue>20.0</DefaultValue>
@@ -85,7 +85,7 @@
             <Element Type="Struct" ID="0xCFACFF53" Archetype="DamageInfo">
                 <SubProperties>
                     <Element Type="Choice" ID="0x119FBD31">
-                        <DefaultValue>11</DefaultValue>
+                        <DefaultValue>9</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF2D02613">
                         <DefaultValue>20.0</DefaultValue>
@@ -98,7 +98,6 @@
             <Element Type="Sound" ID="0xA61C2A66">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
             <Element Type="Struct" ID="0x24E23CC5" Archetype="DamageVulnerability"/>
         </SubProperties>
     </PropertyArchetype>

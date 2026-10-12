@@ -14,10 +14,10 @@
             <Element Type="Enum" ID="0x79CFA775">
                 <DefaultValue>0xB5F070C1</DefaultValue>
                 <Values>
-                    <Element Name="None" ID="0xB5F070C1"/>
-                    <Element Name="Clip" ID="0x67406469"/>
-                    <Element Name="ClipDetailed" ID="0x81197C46"/>
-                    <Element Name="Shrink" ID="0xBD47002C"/>
+                    <Element Name="CSimpleShadow::kEdgeAdjust_None" ID="0xB5F070C1"/>
+                    <Element Name="CSimpleShadow::kEdgeAdjust_Clip" ID="0x67406469"/>
+                    <Element Name="CSimpleShadow::kEdgeAdjust_ClipDetailed" ID="0x81197C46"/>
+                    <Element Name="CSimpleShadow::kEdgeAdjust_Shrink" ID="0xBD47002C"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x1CF3F468">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct20</Name>
+        <Name>MinorIngInglet</Name>
         <SubProperties>
             <Element Type="Struct" ID="0xCF90D15E" Archetype="HealthInfo"/>
             <Element Type="Struct" ID="0x337F9524" Archetype="DamageInfo">

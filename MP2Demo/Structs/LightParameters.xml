@@ -9,7 +9,7 @@
             <Element Type="Float" ID="0x1D011A39">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xECDA4163">
+            <Element Type="Choice" ID="0xECDA4163">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x3E2CD38D">
