@@ -608,6 +608,10 @@
             <Value Path="Structs/ActorParameters.xml"/>
         </Element>
         <Element>
+            <Key>CameraAngleConstraint</Key>
+            <Value Path="Structs/CameraAngleConstraint.xml"/>
+        </Element>
+        <Element>
             <Key>CameraBehaviour</Key>
             <Value Path="Structs/CameraBehaviour.xml"/>
         </Element>
@@ -618,14 +622,6 @@
         <Element>
             <Key>CameraFOV</Key>
             <Value Path="Structs/CameraFOV.xml"/>
-        </Element>
-        <Element>
-            <Key>CameraHintStructA1</Key>
-            <Value Path="Structs/CameraHintStructA1.xml"/>
-        </Element>
-        <Element>
-            <Key>CameraHintStructB</Key>
-            <Value Path="Structs/CameraHintStructB.xml"/>
         </Element>
         <Element>
             <Key>CameraOffset</Key>
@@ -642,6 +638,10 @@
         <Element>
             <Key>CameraZOffset</Key>
             <Value Path="Structs/CameraZOffset.xml"/>
+        </Element>
+        <Element>
+            <Key>CommandoEGrenade</Key>
+            <Value Path="Structs/CommandoEGrenade.xml"/>
         </Element>
         <Element>
             <Key>CommandoShield</Key>
@@ -748,6 +748,10 @@
             <Value Path="Structs/IngSpaceJumpGuardianData.xml"/>
         </Element>
         <Element>
+            <Key>InterpolationType</Key>
+            <Value Path="Structs/InterpolationType.xml"/>
+        </Element>
+        <Element>
             <Key>LayerInfo</Key>
             <Value Path="Structs/LayerInfo.xml"/>
         </Element>
@@ -766,6 +770,10 @@
         <Element>
             <Key>MinorIngIngSpot</Key>
             <Value Path="Structs/MinorIngIngSpot.xml"/>
+        </Element>
+        <Element>
+            <Key>MinorIngInglet</Key>
+            <Value Path="Structs/MinorIngInglet.xml"/>
         </Element>
         <Element>
             <Key>PatternedAITypedef</Key>
@@ -844,12 +852,12 @@
             <Value Path="Structs/SplineType.xml"/>
         </Element>
         <Element>
-            <Key>SplitterCommandModuleData</Key>
-            <Value Path="Structs/SplitterCommandModuleData.xml"/>
+            <Key>SplitterChassisData</Key>
+            <Value Path="Structs/SplitterChassisData.xml"/>
         </Element>
         <Element>
-            <Key>SplitterMainChassisData</Key>
-            <Value Path="Structs/SplitterMainChassisData.xml"/>
+            <Key>SplitterCommandModuleData</Key>
+            <Value Path="Structs/SplitterCommandModuleData.xml"/>
         </Element>
         <Element>
             <Key>SurroundPan</Key>
@@ -1112,16 +1120,8 @@
             <Value Path="Structs/UnknownStruct1.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct11</Key>
-            <Value Path="Structs/UnknownStruct11.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct2</Key>
             <Value Path="Structs/UnknownStruct2.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct20</Key>
-            <Value Path="Structs/UnknownStruct20.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct4</Key>

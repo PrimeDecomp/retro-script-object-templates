@@ -140,7 +140,7 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x9347820E" Archetype="UnknownStruct38"/>
+            <Element Type="Struct" ID="0x9347820E" Archetype="MissileRepellerData"/>
             <Element Type="Asset" ID="0xB7DC6C65">
                 <TypeFilter>
                     <Element>PART</Element>

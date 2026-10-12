@@ -852,6 +852,10 @@
             <Value Path="Structs/BoostBallGuardianData.xml"/>
         </Element>
         <Element>
+            <Key>CameraAngleConstraint</Key>
+            <Value Path="Structs/CameraAngleConstraint.xml"/>
+        </Element>
+        <Element>
             <Key>CameraBehaviour</Key>
             <Value Path="Structs/CameraBehaviour.xml"/>
         </Element>
@@ -862,14 +866,6 @@
         <Element>
             <Key>CameraFOV</Key>
             <Value Path="Structs/CameraFOV.xml"/>
-        </Element>
-        <Element>
-            <Key>CameraPositionInterpolation</Key>
-            <Value Path="Structs/CameraPositionInterpolation.xml"/>
-        </Element>
-        <Element>
-            <Key>CameraAngleRange</Key>
-            <Value Path="Structs/CameraAngleRange.xml"/>
         </Element>
         <Element>
             <Key>CameraOffset</Key>
@@ -894,6 +890,10 @@
         <Element>
             <Key>CommandData</Key>
             <Value Path="Structs/CommandData.xml"/>
+        </Element>
+        <Element>
+            <Key>CommandoEGrenade</Key>
+            <Value Path="Structs/CommandoEGrenade.xml"/>
         </Element>
         <Element>
             <Key>CommandoShield</Key>
@@ -1092,6 +1092,14 @@
             <Value Path="Structs/IngSpiderballGuardianStruct.xml"/>
         </Element>
         <Element>
+            <Key>InterpolationOrientationType</Key>
+            <Value Path="Structs/InterpolationOrientationType.xml"/>
+        </Element>
+        <Element>
+            <Key>InterpolationType</Key>
+            <Value Path="Structs/InterpolationType.xml"/>
+        </Element>
+        <Element>
             <Key>InventorySlot</Key>
             <Value Path="Enums/InventorySlot.xml"/>
         </Element>
@@ -1110,6 +1118,14 @@
         <Element>
             <Key>MinorIngIngSpot</Key>
             <Value Path="Structs/MinorIngIngSpot.xml"/>
+        </Element>
+        <Element>
+            <Key>MinorIngInglet</Key>
+            <Value Path="Structs/MinorIngInglet.xml"/>
+        </Element>
+        <Element>
+            <Key>MissileRepellerData</Key>
+            <Value Path="Structs/MissileRepellerData.xml"/>
         </Element>
         <Element>
             <Key>MysteryFlyerData</Key>
@@ -1172,6 +1188,10 @@
             <Value Path="Structs/SandBossData.xml"/>
         </Element>
         <Element>
+            <Key>SandBossMultiWormAttackData</Key>
+            <Value Path="Structs/SandBossMultiWormAttackData.xml"/>
+        </Element>
+        <Element>
             <Key>SandBossStampedeData</Key>
             <Value Path="Structs/SandBossStampedeData.xml"/>
         </Element>
@@ -1216,12 +1236,16 @@
             <Value Path="Structs/SplineType.xml"/>
         </Element>
         <Element>
+            <Key>SplitterChassisData</Key>
+            <Value Path="Structs/SplitterChassisData.xml"/>
+        </Element>
+        <Element>
             <Key>SplitterCommandModuleData</Key>
             <Value Path="Structs/SplitterCommandModuleData.xml"/>
         </Element>
         <Element>
-            <Key>SplitterMainChassisData</Key>
-            <Value Path="Structs/SplitterMainChassisData.xml"/>
+            <Key>SplitterScanBeamData</Key>
+            <Value Path="Structs/SplitterScanBeamData.xml"/>
         </Element>
         <Element>
             <Key>SurroundPan</Key>
@@ -1514,30 +1538,6 @@
         <Element>
             <Key>TweakTargeting_VulnerabilityIndicator</Key>
             <Value Path="Structs/TweakTargeting_VulnerabilityIndicator.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct10</Key>
-            <Value Path="Structs/UnknownStruct10.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct34</Key>
-            <Value Path="Structs/UnknownStruct34.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct38</Key>
-            <Value Path="Structs/UnknownStruct38.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct41</Key>
-            <Value Path="Structs/UnknownStruct41.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct42</Key>
-            <Value Path="Structs/UnknownStruct42.xml"/>
-        </Element>
-        <Element>
-            <Key>CameraRotationInterpolation</Key>
-            <Value Path="Structs/CameraRotationInterpolation.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>

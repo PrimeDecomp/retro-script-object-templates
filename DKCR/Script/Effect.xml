@@ -38,9 +38,9 @@
             <Element Type="Enum" ID="0x2DEF705D">
                 <DefaultValue>0xEC834AD1</DefaultValue>
                 <Values>
-                    <Element Name="ForceUnsorted" ID="0xA7274141"/>
-                    <Element Name="ForceSorted" ID="0xE3E99324"/>
-                    <Element Name="Default" ID="0xEC834AD1"/>
+                    <Element Name="NScriptEffect::kRenderOverride_ForceUnsorted" ID="0xA7274141"/>
+                    <Element Name="NScriptEffect::kRenderOverride_ForceSorted" ID="0xE3E99324"/>
+                    <Element Name="NScriptEffect::kRenderOverride_Default" ID="0xEC834AD1"/>
                 </Values>
             </Element>
             <Element Type="Struct" ID="0xB028DB0E" Archetype="LightParameters"/>

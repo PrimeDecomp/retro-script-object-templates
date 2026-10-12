@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct11</Name>
+        <Name>CommandoEGrenade</Name>
         <SubProperties>
             <Element Type="Float" ID="0x74479B13">
                 <DefaultValue>10.0</DefaultValue>
@@ -21,7 +21,7 @@
             <Element Type="Struct" ID="0x14D1A3A8" Archetype="DamageInfo">
                 <SubProperties>
                     <Element Type="Choice" ID="0x119FBD31">
-                        <DefaultValue>9</DefaultValue>
+                        <DefaultValue>11</DefaultValue>
                     </Element>
                     <Element Type="Float" ID="0xF2D02613">
                         <DefaultValue>50.0</DefaultValue>

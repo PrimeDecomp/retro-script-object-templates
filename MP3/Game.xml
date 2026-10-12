@@ -1620,6 +1620,10 @@
             <Value Path="Enums/RevViewLockType.xml"/>
         </Element>
         <Element>
+            <Key>ReverbProperties</Key>
+            <Value Path="Structs/ReverbProperties.xml"/>
+        </Element>
+        <Element>
             <Key>RevolutionControl</Key>
             <Value Path="Structs/RevolutionControl.xml"/>
         </Element>
@@ -2194,10 +2198,6 @@
         <Element>
             <Key>UnknownStruct50</Key>
             <Value Path="Structs/UnknownStruct50.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct54</Key>
-            <Value Path="Structs/UnknownStruct54.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct6</Key>

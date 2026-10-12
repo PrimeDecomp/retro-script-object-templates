@@ -680,6 +680,10 @@
             <Value Path="Structs/AdditiveTouchAttackBehaviorData.xml"/>
         </Element>
         <Element>
+            <Key>AdjustUV</Key>
+            <Value Path="Structs/AdjustUV.xml"/>
+        </Element>
+        <Element>
             <Key>AlternateCollisionResponseData</Key>
             <Value Path="Structs/AlternateCollisionResponseData.xml"/>
         </Element>
@@ -982,6 +986,10 @@
         <Element>
             <Key>Convergence</Key>
             <Value Path="Structs/Convergence.xml"/>
+        </Element>
+        <Element>
+            <Key>ConvergenceTuner</Key>
+            <Value Path="Structs/ConvergenceTuner.xml"/>
         </Element>
         <Element>
             <Key>CounterConditions</Key>
@@ -2380,8 +2388,8 @@
             <Value Path="Structs/SuspensionBridgeData.xml"/>
         </Element>
         <Element>
-            <Key>SuspensionBridgeStruct</Key>
-            <Value Path="Structs/SuspensionBridgeStruct.xml"/>
+            <Key>SuspensionBridgeMovementDetectionData</Key>
+            <Value Path="Structs/SuspensionBridgeMovementDetectionData.xml"/>
         </Element>
         <Element>
             <Key>SwingLineBehaviorData</Key>
@@ -2430,10 +2438,6 @@
         <Element>
             <Key>TextProperties</Key>
             <Value Path="Structs/TextProperties.xml"/>
-        </Element>
-        <Element>
-            <Key>TidalWaveData</Key>
-            <Value Path="Structs/TidalWaveData.xml"/>
         </Element>
         <Element>
             <Key>TimeAttackEOLDisplaySounds</Key>
@@ -2558,10 +2562,6 @@
         <Element>
             <Key>UnknownStruct299</Key>
             <Value Path="Structs/UnknownStruct299.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct66</Key>
-            <Value Path="Structs/UnknownStruct66.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct84</Key>

@@ -29,8 +29,8 @@
             <Element Type="Enum" ID="0x6F74F82F">
                 <DefaultValue>0xE21173B7</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0xE21173B7"/>
-                    <Element Name="Unknown 2" ID="0x22AD3DF8"/>
+                    <Element Name="kLoop_FALSE" ID="0xE21173B7"/>
+                    <Element Name="kLoop_TRUE" ID="0x22AD3DF8"/>
                 </Values>
             </Element>
             <Element Type="Enum" ID="0x611F9F41">

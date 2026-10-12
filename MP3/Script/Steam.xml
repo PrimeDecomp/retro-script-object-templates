@@ -31,9 +31,9 @@
             <Element Type="Enum" ID="0x92869052">
                 <DefaultValue>0x56B01A4A</DefaultValue>
                 <Values>
-                    <Element Name="Unknown 1" ID="0x56B01A4A"/>
-                    <Element Name="Unknown 2" ID="0x6CC92DBA"/>
-                    <Element Name="Unknown 3" ID="0xB0F5486C"/>
+                    <Element Name="kFilterShape_FullScreenQuarters" ID="0x56B01A4A"/>
+                    <Element Name="kFilterShape_HalfScreenQuartersBottom" ID="0x6CC92DBA"/>
+                    <Element Name="kFilterShape_HalfScreenQuartersTop" ID="0xB0F5486C"/>
                 </Values>
             </Element>
         </SubProperties>

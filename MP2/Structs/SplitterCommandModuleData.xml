@@ -108,7 +108,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x9EC51FE4" Archetype="UnknownStruct42"/>
+            <Element Type="Struct" ID="0x9EC51FE4" Archetype="SplitterScanBeamData"/>
             <Element Type="Sound" ID="0xEA307548">
                 <DefaultValue>0</DefaultValue>
             </Element>

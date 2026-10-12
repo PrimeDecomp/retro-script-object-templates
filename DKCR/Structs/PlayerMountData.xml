@@ -3,11 +3,11 @@
     <PropertyArchetype Type="Struct">
         <Name>PlayerMountData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x2B70FD04">
+            <Element Type="Flags" ID="0x2B70FD04">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x138BAC93">
+            <Element Type="Flags" ID="0x138BAC93">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>0</DefaultValue>
             </Element>

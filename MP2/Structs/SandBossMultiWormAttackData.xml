@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct41</Name>
+        <Name>SandBossMultiWormAttackData</Name>
         <SubProperties>
             <Element Type="Struct" ID="0xB9784F0E" Archetype="SandBossChargeBeamData"/>
             <Element Type="Struct" ID="0xB8AE1BDC" Archetype="SandBossChargeBeamData"/>

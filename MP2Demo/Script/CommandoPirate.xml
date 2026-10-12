@@ -140,7 +140,7 @@
             <Element Type="Float" ID="0xED69488F">
                 <DefaultValue>20.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xFB435257" Archetype="UnknownStruct11"/>
+            <Element Type="Struct" ID="0xFB435257" Archetype="CommandoEGrenade"/>
             <Element Type="Float" ID="0x5D02F384">
                 <DefaultValue>20.0</DefaultValue>
             </Element>
