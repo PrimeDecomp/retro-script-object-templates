@@ -48,10 +48,10 @@
                 <DefaultValue>5</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x6758BF01">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x524A8073">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x50E46527">
                 <DefaultValue>30.0</DefaultValue>

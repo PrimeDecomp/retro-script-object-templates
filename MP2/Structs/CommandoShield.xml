@@ -32,7 +32,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xE6E92E73">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x6CB0DA5A">
                 <DefaultValue>50.0</DefaultValue>
@@ -65,10 +65,10 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xBF3C59B6">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x78BE3B8D">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

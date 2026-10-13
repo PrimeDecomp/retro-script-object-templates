@@ -129,7 +129,7 @@
                 <DefaultValue>0.5</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x4FAAC896">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0xD5869B0B">
                 <DefaultValue>0</DefaultValue>

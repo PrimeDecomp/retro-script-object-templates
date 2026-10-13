@@ -43,16 +43,16 @@
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xA24376EC">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xD35EB69D">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xAADAABB8">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x8128CE4A">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x66E34A08">
                 <TypeFilter>
@@ -194,10 +194,10 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x8C41066C">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x8649FE53">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x547F9400">
                 <DefaultValue>50.0</DefaultValue>

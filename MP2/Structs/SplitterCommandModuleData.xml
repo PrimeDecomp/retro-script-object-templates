@@ -110,25 +110,25 @@
             </Element>
             <Element Type="Struct" ID="0x9EC51FE4" Archetype="SplitterScanBeamData"/>
             <Element Type="Sound" ID="0xEA307548">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x3779BD93">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xC90DBDB4">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE7724802">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xD4A06273">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xAFC20631">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x2FF5A809">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
             <Element Type="Struct" ID="0x80A8EF3B" Archetype="DamageVulnerability"/>

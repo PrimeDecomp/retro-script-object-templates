@@ -63,10 +63,10 @@
                 <DefaultValue>0.5</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x4AB24275">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xFE3E7BBF">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xAD4CE8F3">
                 <DefaultValue>0.5</DefaultValue>

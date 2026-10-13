@@ -67,10 +67,10 @@
                 <DefaultValue>2</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x258C3E1B">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xAF6AAD88">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

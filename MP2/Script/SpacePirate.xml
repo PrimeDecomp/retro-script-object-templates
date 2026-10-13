@@ -107,7 +107,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Sound" ID="0xEAC27605">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xA5912430" Archetype="DamageInfo">
                 <SubProperties>
@@ -144,7 +144,7 @@
                 <DefaultValue>80.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x1BB16EA5">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x71587B45">
                 <DefaultValue>0.1</DefaultValue>
@@ -159,7 +159,7 @@
                 <DefaultValue>0.050000001</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x386431AC">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB2AC2D96">
                 <DefaultValue>1.0</DefaultValue>
@@ -180,10 +180,10 @@
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x3BB37A8F">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE160B593">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8708B7D3">
                 <DefaultValue>0.2</DefaultValue>

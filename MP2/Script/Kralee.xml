@@ -131,7 +131,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x80B58324">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xA4EF7B42">
                 <DefaultValue>-1</DefaultValue>

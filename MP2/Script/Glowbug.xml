@@ -49,10 +49,10 @@
                 </DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xDB10F6B">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x50E45EA8">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xA9482EB1">
                 <TypeFilter>

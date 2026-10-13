@@ -80,13 +80,13 @@
                 <DefaultValue>80.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x1BB16EA5">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x3BB37A8F">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE160B593">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xFCA76593">
                 <DefaultValue>-1</DefaultValue>
@@ -123,7 +123,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Sound" ID="0xEAC27605">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xED69488F">
                 <DefaultValue>20.0</DefaultValue>

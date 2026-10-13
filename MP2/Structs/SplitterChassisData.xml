@@ -96,7 +96,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Sound" ID="0xA61C2A66">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
             <Element Type="Struct" ID="0x24E23CC5" Archetype="DamageVulnerability"/>

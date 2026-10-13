@@ -47,7 +47,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x29D8744A">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x8D4F3B88">
                 <DefaultValue>1</DefaultValue>

@@ -9,7 +9,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x46E902E8">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x5E1D1931" Archetype="IngSpaceJumpGuardianStruct"/>
             <Element Type="Struct" ID="0x6B08E2E5" Archetype="IngSpaceJumpGuardianStruct"/>
@@ -31,7 +31,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x4051FD1A">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x424A6D37" Archetype="DamageInfo">
                 <SubProperties>

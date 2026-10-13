@@ -108,7 +108,7 @@
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x97070F80">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xAA453357">
                 <DefaultValue>-1</DefaultValue>

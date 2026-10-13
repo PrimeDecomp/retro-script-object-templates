@@ -86,10 +86,10 @@
                 <DefaultValue>45.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xA4231323">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x3AAF7871">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>
