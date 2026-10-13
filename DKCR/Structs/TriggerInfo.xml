@@ -3,14 +3,8 @@
     <PropertyArchetype Type="Struct">
         <Name>TriggerInfo</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0x97C0611F">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>1</DefaultValue>
-            </Element>
-            <Element Type="Flags" ID="0x50224907">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>128</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x97C0611F" Archetype="TriggerDetectionFlags"/>
+            <Element Type="Flags" ID="0x50224907" Archetype="TriggerEffectFlags"/>
             <Element Type="Bool" ID="0x7150D7F8">
                 <DefaultValue>false</DefaultValue>
             </Element>

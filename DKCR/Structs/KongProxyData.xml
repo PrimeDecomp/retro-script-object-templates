@@ -9,14 +9,8 @@
             <Element Type="Bool" ID="0x80BC66EA">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x30060F67">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>0</DefaultValue>
-            </Element>
-            <Element Type="Flags" ID="0x2F026A4F">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x30060F67" Archetype="PlayerCharactersBitField"/>
+            <Element Type="Flags" ID="0x2F026A4F" Archetype="PlayerCharactersBitField"/>
             <Element Type="Float" ID="0x42AC42EA">
                 <DefaultValue>0.5</DefaultValue>
             </Element>

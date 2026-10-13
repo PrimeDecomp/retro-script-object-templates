@@ -8,9 +8,7 @@
                 <DefaultValue>10</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x380585EC" Archetype="CameraBehaviour"/>
-            <Element Type="Flags" ID="0x21D720A9">
-                <DefaultValue>318</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x21D720A9" Archetype="CameraHintFlags"/>
             <Element Type="Struct" ID="0x456D05C6" Archetype="CameraDistance"/>
             <Element Type="Struct" ID="0xF5521FFA" Archetype="CameraDistance"/>
             <Element Type="Struct" ID="0x89658A06" Archetype="CameraDistance"/>

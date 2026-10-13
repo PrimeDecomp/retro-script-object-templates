@@ -13,35 +13,7 @@
             <Element Type="Float" ID="0xC91EF813">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x1BCE57E1">
-                <DefaultValue>1</DefaultValue>
-                <Flags>
-                    <Element Name="Unknown 1" Mask="0x1"/>
-                    <Element Name="Control Dir Override" Mask="0x2"/>
-                    <Element Name="Extend Target Distance" Mask="0x4"/>
-                    <Element Name="Out Of Ball Look At Hint" Mask="0x8"/>
-                    <Element Name="Spider Ball Control XY" Mask="0x10"/>
-                    <Element Name="Disable Unmorph" Mask="0x20"/>
-                    <Element Name="Disable Morph" Mask="0x40"/>
-                    <Element Name="Disable Controls" Mask="0x80"/>
-                    <Element Name="Disable Boost" Mask="0x100"/>
-                    <Element Name="Force Combat Visor" Mask="0x200"/>
-                    <Element Name="Force Scan Visor" Mask="0x400"/>
-                    <Element Name="Force Dark Visor" Mask="0x800"/>
-                    <Element Name="Force Echo Visor" Mask="0x1000"/>
-                    <Element Name="Freeze Player" Mask="0x2000"/>
-                    <Element Name="Face On Unmorph" Mask="0x4000"/>
-                    <Element Name="Unknown 16" Mask="0x8000"/>
-                    <Element Name="Unknown 17" Mask="0x10000"/>
-                    <Element Name="Unknown 18" Mask="0x20000"/>
-                    <Element Name="Unknown 19" Mask="0x40000"/>
-                    <Element Name="Force Free Look" Mask="0x80000"/>
-                    <Element Name="Unknown 21" Mask="0x100000"/>
-                    <Element Name="Force First Person" Mask="0x200000"/>
-                    <Element Name="Force Third Person" Mask="0x400000"/>
-                    <Element Name="Unknown 24" Mask="0x800000"/>
-                </Flags>
-            </Element>
+            <Element Type="Flags" ID="0x1BCE57E1" Archetype="PlayerHintFlags"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

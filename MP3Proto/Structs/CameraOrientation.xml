@@ -14,9 +14,7 @@
                     <Element Name="kOT_Surface" ID="0xC5148ADE"/>
                 </Values>
             </Element>
-            <Element Type="Flags" ID="0x6219022E">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x6219022E" Archetype="OrientationFlags"/>
             <Element Type="Enum" ID="0x44191FB8">
                 <DefaultValue>0x33D21F2E</DefaultValue>
                 <Values>

@@ -13,12 +13,8 @@
             <Element Type="Float" ID="0x2A53245A">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x5C5FC6E">
-                <DefaultValue>160</DefaultValue>
-            </Element>
-            <Element Type="Flags" ID="0xD4B29446">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x5C5FC6E" Archetype="CinematicCameraFlags"/>
+            <Element Type="Flags" ID="0xD4B29446" Archetype="CameraSplineFlags"/>
             <Element Type="Struct" ID="0x493D6A2D" Archetype="SplineType"/>
             <Element Type="Struct" ID="0x5604D304" Archetype="SplineType"/>
             <Element Type="Spline" ID="0x27E5F874"/>

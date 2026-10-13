@@ -7,9 +7,7 @@
         <Name>PlayerTurret</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Flags" ID="0xEEADEFA6">
-                <DefaultValue>1</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xEEADEFA6" Archetype="PlayerTurretFlags"/>
             <Element Type="Float" ID="0x17CD8B2A">
                 <DefaultValue>90.0</DefaultValue>
             </Element>

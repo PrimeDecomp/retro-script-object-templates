@@ -10,9 +10,7 @@
             <Element Type="Float" ID="0x8747552E">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x21D720A9">
-                <DefaultValue>30853</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x21D720A9" Archetype="CameraHintFlags"/>
             <Element Type="Struct" ID="0x97A93F8F" Archetype="CameraConstraints"/>
             <Element Type="Struct" ID="0xD1BD5C40" Archetype="CameraPosition"/>
             <Element Type="Struct" ID="0x4BE3494B" Archetype="CameraNavigation"/>

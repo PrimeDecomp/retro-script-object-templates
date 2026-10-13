@@ -14,10 +14,7 @@
                     <Element Name="kPT_Sidescroll" ID="0x4309158B"/>
                 </Values>
             </Element>
-            <Element Type="Flags" ID="0xB1B6CF33">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>2</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xB1B6CF33" Archetype="CameraPositionFlags"/>
             <Element Type="Struct" ID="0xE8AB9BC8" Archetype="PathPosition"/>
             <Element Type="Struct" ID="0x9EC1DF0C" Archetype="SpindlePosition"/>
             <Element Type="Struct" ID="0xBBB2D1E6" Archetype="SurfacePosition"/>

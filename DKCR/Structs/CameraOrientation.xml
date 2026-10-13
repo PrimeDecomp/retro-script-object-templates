@@ -15,10 +15,7 @@
                     <Element Name="kOT_FrameObjects" ID="0x6C2978E3"/>
                 </Values>
             </Element>
-            <Element Type="Flags" ID="0x6219022E">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>8</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x6219022E" Archetype="OrientationFlags"/>
             <Element Type="Enum" ID="0x44191FB8">
                 <DefaultValue>0x33D21F2E</DefaultValue>
                 <Values>

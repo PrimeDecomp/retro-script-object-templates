@@ -8,9 +8,7 @@
                 <DefaultValue>20.0</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x68ACBD86"/>
-            <Element Type="Flags" ID="0x4F7FEC39">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x4F7FEC39" Archetype="RumbleFlags"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

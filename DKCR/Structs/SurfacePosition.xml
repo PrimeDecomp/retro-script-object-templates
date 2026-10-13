@@ -3,10 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>SurfacePosition</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0x9D99B2E3">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>1</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x9D99B2E3" Archetype="SurfacePositionFlags"/>
             <Element Type="Struct" ID="0xE69C51D7" Archetype="OffsetInterpolant"/>
             <Element Type="Struct" ID="0x959108A5" Archetype="Convergence"/>
         </SubProperties>

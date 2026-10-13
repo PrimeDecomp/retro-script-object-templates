@@ -35,9 +35,7 @@
             <Element Type="Float" ID="0x5F3F294C">
                 <DefaultValue>100.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0xFA51D735">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xFA51D735" Archetype="MetroidFlags"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

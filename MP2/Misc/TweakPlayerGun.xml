@@ -14,42 +14,42 @@
             <Element Type="Struct" ID="0x8DA058FE" Archetype="TweakPlayerGun_RicochetDamage_Factor"/>
             <Element Type="Struct" ID="0xFFDB4BB7" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>16</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x937A35BD" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>16</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x26196738" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>16</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0xF40808C9" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>16</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x9A6D7A31" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>16</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x12F14C5A" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>19</DefaultValue>
                     </Element>
                 </SubProperties>

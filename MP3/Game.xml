@@ -848,6 +848,10 @@
             <Value Path="Structs/ActorParameters.xml"/>
         </Element>
         <Element>
+            <Key>ActorTransformFlags</Key>
+            <Value Path="Flags/ActorTransformFlags.xml"/>
+        </Element>
+        <Element>
             <Key>AiDifficultySetting</Key>
             <Value Path="Structs/AiDifficultySetting.xml"/>
         </Element>
@@ -904,6 +908,10 @@
             <Value Path="Structs/CameraConstraints.xml"/>
         </Element>
         <Element>
+            <Key>CameraConstraintFlags</Key>
+            <Value Path="Flags/CameraConstraintFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraControls</Key>
             <Value Path="Structs/CameraControls.xml"/>
         </Element>
@@ -912,8 +920,16 @@
             <Value Path="Structs/CameraFieldOfView.xml"/>
         </Element>
         <Element>
+            <Key>CameraHintFlags</Key>
+            <Value Path="Flags/CameraHintFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraInterpolation</Key>
             <Value Path="Structs/CameraInterpolation.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraInterpolationFlags</Key>
+            <Value Path="Flags/CameraInterpolationFlags.xml"/>
         </Element>
         <Element>
             <Key>CameraMotion</Key>
@@ -924,6 +940,10 @@
             <Value Path="Structs/CameraNavigation.xml"/>
         </Element>
         <Element>
+            <Key>CameraNavigationFlags</Key>
+            <Value Path="Flags/CameraNavigationFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraOrientation</Key>
             <Value Path="Structs/CameraOrientation.xml"/>
         </Element>
@@ -932,12 +952,20 @@
             <Value Path="Structs/CameraPosition.xml"/>
         </Element>
         <Element>
+            <Key>CameraPositionFlags</Key>
+            <Value Path="Flags/CameraPositionFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraRotation</Key>
             <Value Path="Structs/CameraRotation.xml"/>
         </Element>
         <Element>
             <Key>CameraShakerData</Key>
             <Value Path="Structs/CameraShakerData.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraShakerFlags</Key>
+            <Value Path="Flags/CameraShakerFlags.xml"/>
         </Element>
         <Element>
             <Key>CameraShakerEnvelope</Key>
@@ -950,6 +978,10 @@
         <Element>
             <Key>CinematicBlend</Key>
             <Value Path="Structs/CinematicBlend.xml"/>
+        </Element>
+        <Element>
+            <Key>CinematicCameraFlags</Key>
+            <Value Path="Flags/CinematicCameraFlags.xml"/>
         </Element>
         <Element>
             <Key>ColliderPosition</Key>
@@ -986,6 +1018,10 @@
         <Element>
             <Key>ControlCommands</Key>
             <Value Path="Structs/ControlCommands.xml"/>
+        </Element>
+        <Element>
+            <Key>ControlHintFlags</Key>
+            <Value Path="Flags/ControlHintFlags.xml"/>
         </Element>
         <Element>
             <Key>Convergence</Key>
@@ -1376,6 +1412,10 @@
             <Value Path="Structs/MiscControls.xml"/>
         </Element>
         <Element>
+            <Key>MiscEditorFlags</Key>
+            <Value Path="Flags/MiscEditorFlags.xml"/>
+        </Element>
+        <Element>
             <Key>ModIncaData</Key>
             <Value Path="Structs/ModIncaData.xml"/>
         </Element>
@@ -1416,6 +1456,10 @@
             <Value Path="Enums/Orientation.xml"/>
         </Element>
         <Element>
+            <Key>OrientationFlags</Key>
+            <Value Path="Flags/OrientationFlags.xml"/>
+        </Element>
+        <Element>
             <Key>OrientationInterpolationMethod</Key>
             <Value Path="Structs/OrientationInterpolationMethod.xml"/>
         </Element>
@@ -1426,6 +1470,10 @@
         <Element>
             <Key>PTCNoseTurretData</Key>
             <Value Path="Structs/PTCNoseTurretData.xml"/>
+        </Element>
+        <Element>
+            <Key>PathControlFlags</Key>
+            <Value Path="Flags/PathControlFlags.xml"/>
         </Element>
         <Element>
             <Key>PathDetermination</Key>
@@ -1442,6 +1490,10 @@
         <Element>
             <Key>PathPosition</Key>
             <Value Path="Structs/PathPosition.xml"/>
+        </Element>
+        <Element>
+            <Key>PathPositionFlags</Key>
+            <Value Path="Flags/PathPositionFlags.xml"/>
         </Element>
         <Element>
             <Key>PathType</Key>
@@ -1504,8 +1556,16 @@
             <Value Path="Structs/PlasmaBeamInfo.xml"/>
         </Element>
         <Element>
+            <Key>PlatformMotionFlags</Key>
+            <Value Path="Flags/PlatformMotionFlags.xml"/>
+        </Element>
+        <Element>
             <Key>PlatformMotionProperties</Key>
             <Value Path="Structs/PlatformMotionProperties.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerActorFlags</Key>
+            <Value Path="Flags/PlayerActorFlags.xml"/>
         </Element>
         <Element>
             <Key>PlayerActorOverlay</Key>
@@ -1514,6 +1574,10 @@
         <Element>
             <Key>PlayerControls</Key>
             <Value Path="Structs/PlayerControls.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerHintFlags</Key>
+            <Value Path="Flags/PlayerHintFlags.xml"/>
         </Element>
         <Element>
             <Key>PlayerInventory</Key>
@@ -1616,6 +1680,10 @@
             <Value Path="Structs/ReptilicusHunterHyperMode.xml"/>
         </Element>
         <Element>
+            <Key>RepulsorFlags</Key>
+            <Value Path="Flags/RepulsorFlags.xml"/>
+        </Element>
+        <Element>
             <Key>RevViewLockType</Key>
             <Value Path="Enums/RevViewLockType.xml"/>
         </Element>
@@ -1666,6 +1734,10 @@
         <Element>
             <Key>RotationSplines</Key>
             <Value Path="Structs/RotationSplines.xml"/>
+        </Element>
+        <Element>
+            <Key>RumbleFlags</Key>
+            <Value Path="Flags/RumbleFlags.xml"/>
         </Element>
         <Element>
             <Key>RundasAssets</Key>
@@ -1796,8 +1868,16 @@
             <Value Path="Structs/SpindleOrientation.xml"/>
         </Element>
         <Element>
+            <Key>SpindleOrientationFlags</Key>
+            <Value Path="Flags/SpindleOrientationFlags.xml"/>
+        </Element>
+        <Element>
             <Key>SpindlePosition</Key>
             <Value Path="Structs/SpindlePosition.xml"/>
+        </Element>
+        <Element>
+            <Key>SpindlePositionFlags</Key>
+            <Value Path="Flags/SpindlePositionFlags.xml"/>
         </Element>
         <Element>
             <Key>SpindlePositionInterpolant</Key>
@@ -1840,8 +1920,16 @@
             <Value Path="Structs/SurfaceOrientation.xml"/>
         </Element>
         <Element>
+            <Key>SurfaceOrientationFlags</Key>
+            <Value Path="Flags/SurfaceOrientationFlags.xml"/>
+        </Element>
+        <Element>
             <Key>SurfacePosition</Key>
             <Value Path="Structs/SurfacePosition.xml"/>
+        </Element>
+        <Element>
+            <Key>SurfacePositionFlags</Key>
+            <Value Path="Flags/SurfacePositionFlags.xml"/>
         </Element>
         <Element>
             <Key>SurroundPan</Key>
@@ -1898,6 +1986,14 @@
         <Element>
             <Key>TranslationSplines</Key>
             <Value Path="Structs/TranslationSplines.xml"/>
+        </Element>
+        <Element>
+            <Key>TriggerDetectionFlags</Key>
+            <Value Path="Flags/TriggerDetectionFlags.xml"/>
+        </Element>
+        <Element>
+            <Key>TriggerEffectFlags</Key>
+            <Value Path="Flags/TriggerEffectFlags.xml"/>
         </Element>
         <Element>
             <Key>TriggerInfo</Key>

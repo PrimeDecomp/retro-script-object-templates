@@ -9,14 +9,8 @@
             <Element Type="Float" ID="0xD22DA57C">
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x2C60DD92">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>0</DefaultValue>
-            </Element>
-            <Element Type="Flags" ID="0xC739D41A">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x2C60DD92" Archetype="PlayerCharactersBitField"/>
+            <Element Type="Flags" ID="0xC739D41A" Archetype="PlayerCharactersBitField"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

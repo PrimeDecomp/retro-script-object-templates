@@ -3,9 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>CameraNavigation</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0x22BD900D">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x22BD900D" Archetype="CameraNavigationFlags"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

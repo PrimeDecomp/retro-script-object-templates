@@ -4,9 +4,7 @@
         <Name>SpindleCamera</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Flags" ID="0x3BF4EBA8">
-                <DefaultValue>6400</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x3BF4EBA8" Archetype="SpindleCameraFlags"/>
             <Element Type="Struct" ID="0xE56495FB" Archetype="SpindleCameraInterpolant"/>
             <Element Type="Struct" ID="0x239DEBFC" Archetype="SpindleCameraInterpolant"/>
             <Element Type="Struct" ID="0x27E8D703" Archetype="SpindleCameraInterpolant"/>

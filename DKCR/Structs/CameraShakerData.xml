@@ -3,10 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>CameraShakerData</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0xC3E75C5F">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>528</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags"/>
             <Element Type="Float" ID="0x4D283AC5">
                 <DefaultValue>5.0</DefaultValue>
             </Element>
