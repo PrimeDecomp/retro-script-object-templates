@@ -31,10 +31,10 @@
                 <DefaultValue>-1.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x1F468967">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x1A08AADC">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x6689925B">
                 <DefaultValue>false</DefaultValue>
@@ -134,7 +134,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xEA17CB66">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xEF8DC15">
                 <DefaultValue>-1</DefaultValue>
@@ -167,10 +167,10 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x2C72576B">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x9E02691C">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x3433BC8B">
                 <TypeFilter>
@@ -184,7 +184,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xD3593630">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x908B06E9">
                 <TypeFilter>
@@ -197,7 +197,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xA861649F">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x18402AA9" Archetype="DamageInfo"/>
             <Element Type="Asset" ID="0xE701DAEA">

@@ -44,7 +44,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xDCC2BF11">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

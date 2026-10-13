@@ -12,7 +12,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE19F4608">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

@@ -65,7 +65,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xEEAF03C4">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xAF4FAE74">
                 <TypeFilter>
@@ -78,7 +78,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0xBF107374">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xB43A4CAA">
                 <TypeFilter>
@@ -156,7 +156,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x58A492EF">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
         </SubProperties>

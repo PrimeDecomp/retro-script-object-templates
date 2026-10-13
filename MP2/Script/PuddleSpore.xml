@@ -68,7 +68,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xFE20B4F5">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x8F4787CB" Archetype="ShockWaveInfo"/>
         </SubProperties>

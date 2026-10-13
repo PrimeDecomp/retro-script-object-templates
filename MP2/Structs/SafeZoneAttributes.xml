@@ -4,22 +4,22 @@
         <Name>SafeZoneAttributes</Name>
         <SubProperties>
             <Element Type="Sound" ID="0xC6BFC270">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD4839A3F">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE0903825">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE5567935">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x3E854866">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xD3EC0993">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xD09F83E7">
                 <TypeFilter>

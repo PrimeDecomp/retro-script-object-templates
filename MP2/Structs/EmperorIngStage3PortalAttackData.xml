@@ -9,7 +9,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x1A66BED7">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x553B1339" Archetype="DamageInfo">
                 <SubProperties>

@@ -11,7 +11,7 @@
             </Element>
             <Element Type="Struct" ID="0x8F4787CB" Archetype="ShockWaveInfo"/>
             <Element Type="Sound" ID="0x25AF490E">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </PropertyArchetype>

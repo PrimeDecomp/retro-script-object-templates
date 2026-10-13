@@ -66,7 +66,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x2C1DFA22">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x285EFBD9">
                 <DefaultValue>0.0</DefaultValue>
@@ -75,7 +75,7 @@
                 <DefaultValue>100.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x30752C95">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xBA66A16E">
                 <DefaultValue>0.0</DefaultValue>

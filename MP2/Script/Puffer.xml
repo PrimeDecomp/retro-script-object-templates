@@ -86,7 +86,7 @@
             </Element>
             <Element Type="Struct" ID="0xDEFF74EA" Archetype="DamageInfo"/>
             <Element Type="Sound" ID="0x1F80154D">
-                <DefaultValue>0</DefaultValue>
+                <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
     </Properties>
