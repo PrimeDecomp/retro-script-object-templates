@@ -18,64 +18,64 @@
             <Element Type="Struct" ID="0x4" Archetype="PatternedAITypedef"/>
             <Element Type="Struct" ID="0x5" Archetype="ActorParameters"/>
             <Element Type="Float" ID="0x6">
-                <Name>Hearing Radius</Name>
+                <Name>HearingRadius</Name>
             </Element>
             <Element Type="Float" ID="0x7">
-                <Name>Fade-Out Delay</Name>
+                <Name>FadeOutDelay</Name>
             </Element>
             <Element Type="Float" ID="0x8">
-                <Name>Attack Delay</Name>
+                <Name>AttackDelay</Name>
             </Element>
             <Element Type="Float" ID="0x9">
-                <Name>Freeze Time</Name>
+                <Name>FreezeTime</Name>
             </Element>
             <Element Type="Asset" ID="0xA">
-                <Name>WPSC 1</Name>
+                <Name>HandBlast</Name>
                 <TypeFilter>
                     <Element>WPSC</Element>
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xB" Archetype="DamageInfo">
-                <Name>DamageInfo 1</Name>
+                <Name>HandBlastDamage</Name>
             </Element>
             <Element Type="Asset" ID="0xC">
-                <Name>WPSC 2</Name>
+                <Name>Powerball</Name>
                 <TypeFilter>
                     <Element>WPSC</Element>
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xD" Archetype="DamageInfo">
-                <Name>DamageInfo 2</Name>
+                <Name>PowerballDamage</Name>
             </Element>
             <Element Type="Struct" ID="0xE" Archetype="BehaveChance">
-                <Name>BehaveChance 1</Name>
+                <Name>Far</Name>
             </Element>
             <Element Type="Struct" ID="0xF" Archetype="BehaveChance">
-                <Name>BehaveChance 2</Name>
+                <Name>Mid</Name>
             </Element>
             <Element Type="Struct" ID="0x10" Archetype="BehaveChance">
-                <Name>BehaveChance 3</Name>
+                <Name>Near</Name>
             </Element>
             <Element Type="Sound" ID="0x11">
-                <Name>SoundImpact</Name>
+                <Name>Sound_Impact</Name>
             </Element>
             <Element Type="Float" ID="0x12">
-                <Name>Unknown 1</Name>
+                <Name>DisablePlayerGunTime</Name>
             </Element>
             <Element Type="Sound" ID="0x13">
-                <Name>SFXFadeIn</Name>
+                <Name>Sound_PhazeIn</Name>
             </Element>
             <Element Type="Sound" ID="0x14">
-                <Name>SFXFadeOut</Name>
+                <Name>Sound_PhazeOut</Name>
             </Element>
             <Element Type="Int" ID="0x15">
-                <Name>Unknown 2</Name>
+                <Name>Unknown</Name>
             </Element>
             <Element Type="Float" ID="0x16">
-                <Name>FloorLevel</Name>
+                <Name>ProjectileStopHomingRange</Name>
             </Element>
             <Element Type="Int" ID="0x17">
-                <Name>AttackType</Name>
+                <Name>StartStyle</Name>
             </Element>
             <Element Type="Float" ID="0x18">
                 <Name>HurlRecoverTime</Name>
@@ -87,13 +87,13 @@
                 </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x1A">
-                <Name>SoundProjectileVisor</Name>
+                <Name>Sound_ProjectileVisor</Name>
             </Element>
             <Element Type="Float" ID="0x1B">
-                <Name>LurkDelay</Name>
+                <Name>NearToMidDistance</Name>
             </Element>
             <Element Type="Float" ID="0x1C">
-                <Name>SpaceWarpTime</Name>
+                <Name>MidToFarDistance</Name>
             </Element>
             <Element Type="Int" ID="0x1D">
                 <Name>NearChance</Name>
