@@ -1308,6 +1308,10 @@
             <Value Path="Structs/TriggerInfo.xml"/>
         </Element>
         <Element>
+            <Key>TurretDamageInfo</Key>
+            <Value Path="Structs/TurretDamageInfo.xml"/>
+        </Element>
+        <Element>
             <Key>TweakAutoMapper_Base</Key>
             <Value Path="Structs/TweakAutoMapper_Base.xml"/>
         </Element>
