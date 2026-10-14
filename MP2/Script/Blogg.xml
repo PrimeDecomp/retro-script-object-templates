@@ -126,7 +126,7 @@
             <Element Type="Float" ID="0x6F41BBE7">
                 <DefaultValue>4.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x3874576D" Archetype="BloggStruct">
+            <Element Type="Struct" ID="0x3874576D" Archetype="AlphaBloggStageData">
                 <SubProperties>
                     <Element Type="Int" ID="0x3E505DDB">
                         <DefaultValue>1</DefaultValue>
@@ -145,7 +145,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0x97DD1AA7" Archetype="BloggStruct">
+            <Element Type="Struct" ID="0x97DD1AA7" Archetype="AlphaBloggStageData">
                 <SubProperties>
                     <Element Type="Int" ID="0x3E505DDB">
                         <DefaultValue>1</DefaultValue>
@@ -164,7 +164,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xF2BA21E1" Archetype="BloggStruct">
+            <Element Type="Struct" ID="0xF2BA21E1" Archetype="AlphaBloggStageData">
                 <SubProperties>
                     <Element Type="Int" ID="0x3E505DDB">
                         <DefaultValue>1</DefaultValue>

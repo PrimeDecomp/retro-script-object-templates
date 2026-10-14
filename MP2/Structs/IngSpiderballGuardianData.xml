@@ -3,12 +3,12 @@
     <PropertyArchetype Type="Struct">
         <Name>IngSpiderballGuardianData</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x152DB484" Archetype="IngSpiderballGuardianStruct"/>
-            <Element Type="Struct" ID="0x2D163FF7" Archetype="IngSpiderballGuardianStruct"/>
-            <Element Type="Struct" ID="0x8C2FBB19" Archetype="IngSpiderballGuardianStruct"/>
-            <Element Type="Struct" ID="0x5D612911" Archetype="IngSpiderballGuardianStruct"/>
-            <Element Type="Struct" ID="0xFC58ADFF" Archetype="IngSpiderballGuardianStruct"/>
-            <Element Type="Struct" ID="0xC463268C" Archetype="IngSpiderballGuardianStruct"/>
+            <Element Type="Struct" ID="0x152DB484" Archetype="IngSpiderballGuardianPuzzleData"/>
+            <Element Type="Struct" ID="0x2D163FF7" Archetype="IngSpiderballGuardianPuzzleData"/>
+            <Element Type="Struct" ID="0x8C2FBB19" Archetype="IngSpiderballGuardianPuzzleData"/>
+            <Element Type="Struct" ID="0x5D612911" Archetype="IngSpiderballGuardianPuzzleData"/>
+            <Element Type="Struct" ID="0xFC58ADFF" Archetype="IngSpiderballGuardianPuzzleData"/>
+            <Element Type="Struct" ID="0xC463268C" Archetype="IngSpiderballGuardianPuzzleData"/>
             <Element Type="Float" ID="0xF598739">
                 <DefaultValue>2.0</DefaultValue>
             </Element>

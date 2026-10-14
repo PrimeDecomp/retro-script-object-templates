@@ -367,7 +367,7 @@
         </Element>
         <Element>
             <Key ID="0x1EAAB17" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShieldHP_Dark"/>
         </Element>
         <Element>
             <Key ID="0x1F9C5BB" Type="bool"/>
@@ -2031,7 +2031,7 @@
         </Element>
         <Element>
             <Key ID="0xBD7D5A9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ExitHostInitialTrackingDist"/>
         </Element>
         <Element>
             <Key ID="0xBDE5216" Type="EndOfLevelDisplayTiming"/>
@@ -3027,7 +3027,7 @@
         </Element>
         <Element>
             <Key ID="0x118F1E46" Type="int"/>
-            <Value Name="Max_________________________"/>
+            <Value Name="MaxAttacksBeforeTripleCharge"/>
         </Element>
         <Element>
             <Key ID="0x118F6E87" Type="float"/>
@@ -3678,8 +3678,8 @@
             <Value Name="MinArmAttackInterval"/>
         </Element>
         <Element>
-            <Key ID="0x152DB484" Type="IngSpiderballGuardianStruct"/>
-            <Value Name="IngSpiderballGuardianStruct"/>
+            <Key ID="0x152DB484" Type="IngSpiderballGuardianPuzzleData"/>
+            <Value Name="Puzzle1Properties"/>
         </Element>
         <Element>
             <Key ID="0x152ED0D9" Type="PlayerInventoryItem"/>
@@ -5519,7 +5519,7 @@
         </Element>
         <Element>
             <Key ID="0x1E74F1EC" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChanceToChargeAfterProjectileAttack"/>
         </Element>
         <Element>
             <Key ID="0x1E857439" Type="SeedBoss1Action"/>
@@ -5555,7 +5555,7 @@
         </Element>
         <Element>
             <Key ID="0x1EB90D06" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_1"/>
         </Element>
         <Element>
             <Key ID="0x1EBA4BD8" Type="string"/>
@@ -5599,7 +5599,7 @@
         </Element>
         <Element>
             <Key ID="0x1F228E64" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorMenuUnselectedItemDistance"/>
         </Element>
         <Element>
             <Key ID="0x1F2BC2AF" Type="RevolutionControl"/>
@@ -6474,8 +6474,8 @@
             <Value Name="GenerationRate"/>
         </Element>
         <Element>
-            <Key ID="0x23EE1452" Type="SandwormStruct"/>
-            <Value Name="SandwormStruct"/>
+            <Key ID="0x23EE1452" Type="SandwormAttackSequence"/>
+            <Value Name="BombBossAttackSequence4"/>
         </Element>
         <Element>
             <Key ID="0x23EE6C1D" Type="bool"/>
@@ -7315,7 +7315,7 @@
         </Element>
         <Element>
             <Key ID="0x285D67AD" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="SequentialBoostAttacksMin"/>
         </Element>
         <Element>
             <Key ID="0x285EFBD9" Type="float"/>
@@ -8178,8 +8178,8 @@
             <Value Name="MasterLayer3"/>
         </Element>
         <Element>
-            <Key ID="0x2D163FF7" Type="IngSpiderballGuardianStruct"/>
-            <Value Name="IngSpiderballGuardianStruct"/>
+            <Key ID="0x2D163FF7" Type="IngSpiderballGuardianPuzzleData"/>
+            <Value Name="Puzzle2Properties"/>
         </Element>
         <Element>
             <Key ID="0x2D1C2ECD" Type="float"/>
@@ -8359,7 +8359,7 @@
         </Element>
         <Element>
             <Key ID="0x2DE5A19A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="LoiterAroundPortalTime"/>
         </Element>
         <Element>
             <Key ID="0x2DEF705D" Type="enum"/>
@@ -8387,7 +8387,7 @@
         </Element>
         <Element>
             <Key ID="0x2E11003D" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_2_NumParticlesToGenerate"/>
         </Element>
         <Element>
             <Key ID="0x2E13F903" Type="MasterLayer"/>
@@ -8819,7 +8819,7 @@
         </Element>
         <Element>
             <Key ID="0x306A19B8" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EnableTypewriterEffect"/>
         </Element>
         <Element>
             <Key ID="0x306B2B24" Type="Color"/>
@@ -10238,8 +10238,8 @@
             <Value Name="StunOnlyWhenOnGround"/>
         </Element>
         <Element>
-            <Key ID="0x3874576D" Type="BloggStruct"/>
-            <Value Name="BloggStruct"/>
+            <Key ID="0x3874576D" Type="AlphaBloggStageData"/>
+            <Value Name="AlphaBloggDataStage1"/>
         </Element>
         <Element>
             <Key ID="0x38754EC2" Type="float"/>
@@ -11219,7 +11219,7 @@
         </Element>
         <Element>
             <Key ID="0x3DA219C7" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="ExitHostSecondarySwarmEffect"/>
         </Element>
         <Element>
             <Key ID="0x3DA35851" Type="MinorIngInglet"/>
@@ -11351,7 +11351,7 @@
         </Element>
         <Element>
             <Key ID="0x3E505DDB" Type="int"/>
-            <Value Name="Min_________________________"/>
+            <Value Name="MinAttacksBeforeTripleCharge"/>
         </Element>
         <Element>
             <Key ID="0x3E5727AA" Type="asset"/>
@@ -11747,7 +11747,7 @@
         </Element>
         <Element>
             <Key ID="0x409D1B7C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_3_NumParticlesToGenerate"/>
         </Element>
         <Element>
             <Key ID="0x40A2FE3E" Type="FlameBreathData"/>
@@ -13075,7 +13075,7 @@
         </Element>
         <Element>
             <Key ID="0x479D8DC4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="DetectsOtherAIs"/>
         </Element>
         <Element>
             <Key ID="0x479F6A4F" Type="float"/>
@@ -13111,7 +13111,7 @@
         </Element>
         <Element>
             <Key ID="0x47CDE539" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="OscillationFrequency"/>
         </Element>
         <Element>
             <Key ID="0x47CF5F9A" Type="float"/>
@@ -14431,7 +14431,7 @@
         </Element>
         <Element>
             <Key ID="0x4E749CB5" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_4"/>
         </Element>
         <Element>
             <Key ID="0x4E764575" Type="asset"/>
@@ -14443,7 +14443,7 @@
         </Element>
         <Element>
             <Key ID="0x4E79F717" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="LoiterTimeVariance"/>
         </Element>
         <Element>
             <Key ID="0x4E7DEF7E" Type="float"/>
@@ -15047,7 +15047,7 @@
         </Element>
         <Element>
             <Key ID="0x51BE00D3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MegaSplinterPounceDelayMin"/>
         </Element>
         <Element>
             <Key ID="0x51C5AAD9" Type="Color"/>
@@ -15135,7 +15135,7 @@
         </Element>
         <Element>
             <Key ID="0x5236C2B6" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShieldHP_Light"/>
         </Element>
         <Element>
             <Key ID="0x523A405C" Type="int"/>
@@ -15391,7 +15391,7 @@
         </Element>
         <Element>
             <Key ID="0x5371AC0D" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_3"/>
         </Element>
         <Element>
             <Key ID="0x537375CD" Type="asset"/>
@@ -15686,8 +15686,8 @@
             <Value Name="PhazonBarrageShockwave"/>
         </Element>
         <Element>
-            <Key ID="0x55578CFC" Type="SandwormStruct"/>
-            <Value Name="SandwormStruct"/>
+            <Key ID="0x55578CFC" Type="SandwormAttackSequence"/>
+            <Value Name="BombBossAttackSequence3"/>
         </Element>
         <Element>
             <Key ID="0x555B055E" Type="ReverbProperties"/>
@@ -16247,7 +16247,7 @@
         </Element>
         <Element>
             <Key ID="0x587CA175" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ExitHostInitialTrackingTime"/>
         </Element>
         <Element>
             <Key ID="0x587FA387" Type="float"/>
@@ -16518,8 +16518,8 @@
             <Value Name="AllowsMotion"/>
         </Element>
         <Element>
-            <Key ID="0x59F14D7C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x59F14D7C" Type="choice"/>
+            <Value Name="FirstAttackInSequence"/>
         </Element>
         <Element>
             <Key ID="0x59F65627" Type="float"/>
@@ -17003,7 +17003,7 @@
         </Element>
         <Element>
             <Key ID="0x5CF12E9A" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="AttacksOtherAIs"/>
         </Element>
         <Element>
             <Key ID="0x5CF705F2" Type="AudioPlaybackParms"/>
@@ -17035,7 +17035,7 @@
         </Element>
         <Element>
             <Key ID="0x5D0D2C40" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CoverPointLeashRadius"/>
         </Element>
         <Element>
             <Key ID="0x5D0F883C" Type="spline"/>
@@ -17098,8 +17098,8 @@
             <Value Name="TimeBetweenPatterns"/>
         </Element>
         <Element>
-            <Key ID="0x5D612911" Type="IngSpiderballGuardianStruct"/>
-            <Value Name="IngSpiderballGuardianStruct"/>
+            <Key ID="0x5D612911" Type="IngSpiderballGuardianPuzzleData"/>
+            <Value Name="Puzzle4Properties"/>
         </Element>
         <Element>
             <Key ID="0x5D623269" Type="float"/>
@@ -17623,7 +17623,7 @@
         </Element>
         <Element>
             <Key ID="0x605847B9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PercentageDamageRequiredForReset"/>
         </Element>
         <Element>
             <Key ID="0x606539FA" Type="bool"/>
@@ -17687,7 +17687,7 @@
         </Element>
         <Element>
             <Key ID="0x60B0AE31" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxSplashesInSequence"/>
         </Element>
         <Element>
             <Key ID="0x60BB24C7" Type="TweakGui_UnknownStruct5"/>
@@ -17903,7 +17903,7 @@
         </Element>
         <Element>
             <Key ID="0x61F75902" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxSpitAngleDegrees"/>
         </Element>
         <Element>
             <Key ID="0x61FAB47A" Type="MetroidPhazeoidStruct"/>
@@ -18963,7 +18963,7 @@
         </Element>
         <Element>
             <Key ID="0x67F6C10E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrabMorphballDamagePerSec"/>
         </Element>
         <Element>
             <Key ID="0x67F87D00" Type="asset"/>
@@ -19399,7 +19399,7 @@
         </Element>
         <Element>
             <Key ID="0x6A111B96" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AmbientSpeedFadeToTargetTime"/>
         </Element>
         <Element>
             <Key ID="0x6A11338F" Type="sound"/>
@@ -20091,7 +20091,7 @@
         </Element>
         <Element>
             <Key ID="0x6D5F242F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="SequentialBoostAttacksMax"/>
         </Element>
         <Element>
             <Key ID="0x6D5FD457" Type="float"/>
@@ -20263,7 +20263,7 @@
         </Element>
         <Element>
             <Key ID="0x6E603DF2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChanceToChargeWithoutProjectileAttack"/>
         </Element>
         <Element>
             <Key ID="0x6E6D8EFD" Type="spline"/>
@@ -20319,7 +20319,7 @@
         </Element>
         <Element>
             <Key ID="0x6F135424" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovieVolumeAfterCredits"/>
         </Element>
         <Element>
             <Key ID="0x6F135965" Type="float"/>
@@ -21399,7 +21399,7 @@
         </Element>
         <Element>
             <Key ID="0x7589D549" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GenerationRateFarScaleDistance"/>
         </Element>
         <Element>
             <Key ID="0x75A00CFB" Type="float"/>
@@ -23059,7 +23059,7 @@
         </Element>
         <Element>
             <Key ID="0x7E6E0D38" Type="AnimationSet"/>
-            <Value Name="Unknown"/>
+            <Value Name="RocketLauncherAnimInfo_Dark"/>
         </Element>
         <Element>
             <Key ID="0x7E7391E1" Type="float"/>
@@ -23811,7 +23811,7 @@
         </Element>
         <Element>
             <Key ID="0x81FC78C2" Type="string"/>
-            <Value Name="Unknown"/>
+            <Value Name="STRGFile"/>
         </Element>
         <Element>
             <Key ID="0x81FC979C" Type="bool"/>
@@ -25495,7 +25495,7 @@
         </Element>
         <Element>
             <Key ID="0x8B64DC44" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="MetroidSuckIsUseSineWave"/>
         </Element>
         <Element>
             <Key ID="0x8B66820D" Type="float"/>
@@ -25618,8 +25618,8 @@
             <Value Name="HorizontalSpread"/>
         </Element>
         <Element>
-            <Key ID="0x8C2FBB19" Type="IngSpiderballGuardianStruct"/>
-            <Value Name="IngSpiderballGuardianStruct"/>
+            <Key ID="0x8C2FBB19" Type="IngSpiderballGuardianPuzzleData"/>
+            <Value Name="Puzzle3Properties"/>
         </Element>
         <Element>
             <Key ID="0x8C41066C" Type="sound"/>
@@ -25647,7 +25647,7 @@
         </Element>
         <Element>
             <Key ID="0x8C723B8F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorMenuUnselectedItemScale"/>
         </Element>
         <Element>
             <Key ID="0x8C73CB7C" Type="bool"/>
@@ -26463,7 +26463,7 @@
         </Element>
         <Element>
             <Key ID="0x90C10FE7" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AmbientTransScaleFadeToTargetTime"/>
         </Element>
         <Element>
             <Key ID="0x90C42387" Type="asset"/>
@@ -26703,7 +26703,7 @@
         </Element>
         <Element>
             <Key ID="0x92485DFA" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_4_NumParticlesToGenerate"/>
         </Element>
         <Element>
             <Key ID="0x9249D6B3" Type="asset"/>
@@ -26899,7 +26899,7 @@
         </Element>
         <Element>
             <Key ID="0x93756968" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GenerationRateDistanceScaleAmount"/>
         </Element>
         <Element>
             <Key ID="0x937A35BD" Type="CameraShakerData"/>
@@ -27406,8 +27406,8 @@
             <Value Name="StompPlayerPredictionFrames"/>
         </Element>
         <Element>
-            <Key ID="0x9606B4B0" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x9606B4B0" Type="choice"/>
+            <Value Name="SecondAttackInSequence"/>
         </Element>
         <Element>
             <Key ID="0x961C0D17" Type="bool"/>
@@ -27734,8 +27734,8 @@
             <Value Name="PauseDurationMin"/>
         </Element>
         <Element>
-            <Key ID="0x97DD1AA7" Type="BloggStruct"/>
-            <Value Name="BloggStruct"/>
+            <Key ID="0x97DD1AA7" Type="AlphaBloggStageData"/>
+            <Value Name="AlphaBloggDataStage2"/>
         </Element>
         <Element>
             <Key ID="0x97DE7421" Type="bool"/>
@@ -27819,7 +27819,7 @@
         </Element>
         <Element>
             <Key ID="0x982D7FA8" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_2"/>
         </Element>
         <Element>
             <Key ID="0x982FA668" Type="asset"/>
@@ -28695,7 +28695,7 @@
         </Element>
         <Element>
             <Key ID="0x9D852DFE" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="DestroyedChunkEffect_1_NumParticlesToGenerate"/>
         </Element>
         <Element>
             <Key ID="0x9D8A7F66" Type="bool"/>
@@ -28883,7 +28883,7 @@
         </Element>
         <Element>
             <Key ID="0x9ED00248" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovieVolumeCompletionScreen"/>
         </Element>
         <Element>
             <Key ID="0x9EDE657F" Type="float"/>
@@ -28927,7 +28927,7 @@
         </Element>
         <Element>
             <Key ID="0x9F19F0AF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AmbientTransScaleTarget"/>
         </Element>
         <Element>
             <Key ID="0x9F1BD46D" Type="enum"/>
@@ -29239,7 +29239,7 @@
         </Element>
         <Element>
             <Key ID="0xA0D63374" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BodyProjectileSuckDamagePerSec"/>
         </Element>
         <Element>
             <Key ID="0xA0D73242" Type="string"/>
@@ -29471,7 +29471,7 @@
         </Element>
         <Element>
             <Key ID="0xA1D9802E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TypewriterFadeInTime"/>
         </Element>
         <Element>
             <Key ID="0xA1DD15F6" Type="float"/>
@@ -29775,7 +29775,7 @@
         </Element>
         <Element>
             <Key ID="0xA366C949" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="AddRaindrops"/>
         </Element>
         <Element>
             <Key ID="0xA37429EE" Type="float"/>
@@ -30403,7 +30403,7 @@
         </Element>
         <Element>
             <Key ID="0xA6FD6D54" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="SmallBoostNumBouncesMax"/>
         </Element>
         <Element>
             <Key ID="0xA709DB40" Type="Color"/>
@@ -30623,7 +30623,7 @@
         </Element>
         <Element>
             <Key ID="0xA7D7D767" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GenerationRateFarScaleDistanceStop"/>
         </Element>
         <Element>
             <Key ID="0xA7F551F7" Type="int"/>
@@ -30735,7 +30735,7 @@
         </Element>
         <Element>
             <Key ID="0xA8BB6C61" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseGenerationRateFarScale"/>
         </Element>
         <Element>
             <Key ID="0xA8C2AC76" Type="asset"/>
@@ -30867,7 +30867,7 @@
         </Element>
         <Element>
             <Key ID="0xA94B0EFD" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GenerationRateDistanceScaleStart"/>
         </Element>
         <Element>
             <Key ID="0xA959B017" Type="asset"/>
@@ -30875,7 +30875,7 @@
         </Element>
         <Element>
             <Key ID="0xA95A025B" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrenadeMaxShotsPerBurst"/>
         </Element>
         <Element>
             <Key ID="0xA95F7A26" Type="RevolutionControl"/>
@@ -30927,7 +30927,7 @@
         </Element>
         <Element>
             <Key ID="0xA9B15734" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="LargeBoostNumBouncesMax"/>
         </Element>
         <Element>
             <Key ID="0xA9B55C55" Type="bool"/>
@@ -31319,7 +31319,7 @@
         </Element>
         <Element>
             <Key ID="0xABE99DE0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PercentagePuddleDamageToBoost"/>
         </Element>
         <Element>
             <Key ID="0xABF0E7C3" Type="StackableBlockBehaviorData"/>
@@ -31731,7 +31731,7 @@
         </Element>
         <Element>
             <Key ID="0xAE149646" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovieVolumeLostGame"/>
         </Element>
         <Element>
             <Key ID="0xAE1831D9" Type="float"/>
@@ -32039,7 +32039,7 @@
         </Element>
         <Element>
             <Key ID="0xAF6E671A" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="PirateMuzzleFlashEffect"/>
         </Element>
         <Element>
             <Key ID="0xAF6E81AB" Type="MaterialSoundPair"/>
@@ -33575,7 +33575,7 @@
         </Element>
         <Element>
             <Key ID="0xB7DEAF32" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MegaSplinterPounceDelayMax"/>
         </Element>
         <Element>
             <Key ID="0xB7DED10F" Type="ReactiveActorBehavior"/>
@@ -33690,8 +33690,8 @@
             <Value Name="LockFireMaxRadiusViewport"/>
         </Element>
         <Element>
-            <Key ID="0xB89DFE86" Type="SandwormStruct"/>
-            <Value Name="SandwormStruct"/>
+            <Key ID="0xB89DFE86" Type="SandwormAttackSequence"/>
+            <Value Name="BombBossAttackSequence5"/>
         </Element>
         <Element>
             <Key ID="0xB8A1F0D5" Type="float"/>
@@ -33726,8 +33726,8 @@
             <Value Name="FireMissileTime"/>
         </Element>
         <Element>
-            <Key ID="0xB8C15F15" Type="SandwormStruct"/>
-            <Value Name="SandwormStruct"/>
+            <Key ID="0xB8C15F15" Type="SandwormAttackSequence"/>
+            <Value Name="BombBossAttackSequence1"/>
         </Element>
         <Element>
             <Key ID="0xB8D62DDF" Type="float"/>
@@ -34078,8 +34078,8 @@
             <Value Name="TitleScreen"/>
         </Element>
         <Element>
-            <Key ID="0xBAB98497" Type="IngBoostBallGuardianStruct"/>
-            <Value Name="IngBoostBallGuardianStruct"/>
+            <Key ID="0xBAB98497" Type="IngBoostBallGuardianBoostData"/>
+            <Value Name="Stage1"/>
         </Element>
         <Element>
             <Key ID="0xBAC12CA0" Type="float"/>
@@ -34135,7 +34135,7 @@
         </Element>
         <Element>
             <Key ID="0xBB0FFDD6" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinSplashesInSequence"/>
         </Element>
         <Element>
             <Key ID="0xBB19D2F3" Type="asset"/>
@@ -34991,7 +34991,7 @@
         </Element>
         <Element>
             <Key ID="0xBF87E353" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="GFMuzzleFlashEffect"/>
         </Element>
         <Element>
             <Key ID="0xBF88FE4F" Type="float"/>
@@ -35522,8 +35522,8 @@
             <Value Name="ContactFx"/>
         </Element>
         <Element>
-            <Key ID="0xC2784287" Type="IngBoostBallGuardianStruct"/>
-            <Value Name="IngBoostBallGuardianStruct"/>
+            <Key ID="0xC2784287" Type="IngBoostBallGuardianBoostData"/>
+            <Value Name="Stage3"/>
         </Element>
         <Element>
             <Key ID="0xC27FFA8F" Type="asset"/>
@@ -35858,8 +35858,8 @@
             <Value Name="ScanVirus"/>
         </Element>
         <Element>
-            <Key ID="0xC463268C" Type="IngSpiderballGuardianStruct"/>
-            <Value Name="IngSpiderballGuardianStruct"/>
+            <Key ID="0xC463268C" Type="IngSpiderballGuardianPuzzleData"/>
+            <Value Name="Puzzle6Properties"/>
         </Element>
         <Element>
             <Key ID="0xC46A562B" Type="float"/>
@@ -36203,7 +36203,7 @@
         </Element>
         <Element>
             <Key ID="0xC620183A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinCorporealTime"/>
         </Element>
         <Element>
             <Key ID="0xC6232204" Type="LogBookControls"/>
@@ -37395,7 +37395,7 @@
         </Element>
         <Element>
             <Key ID="0xCC7AE923" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorMenuSelectedItemScale"/>
         </Element>
         <Element>
             <Key ID="0xCC7D17D6" Type="float"/>
@@ -37619,7 +37619,7 @@
         </Element>
         <Element>
             <Key ID="0xCD9C67FE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TimeAfterDamagedForReset"/>
         </Element>
         <Element>
             <Key ID="0xCD9DE8CC" Type="JungleBoss1MeteorRainProjectileData"/>
@@ -37718,8 +37718,8 @@
             <Value Name="FastSmashAttackHealth"/>
         </Element>
         <Element>
-            <Key ID="0xCE246628" Type="SandwormStruct"/>
-            <Value Name="SandwormStruct"/>
+            <Key ID="0xCE246628" Type="SandwormAttackSequence"/>
+            <Value Name="BombBossAttackSequence2"/>
         </Element>
         <Element>
             <Key ID="0xCE284C09" Type="int"/>
@@ -39771,7 +39771,7 @@
         </Element>
         <Element>
             <Key ID="0xD8DAFF1D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AmbientTransScaleFadeToInitialTime"/>
         </Element>
         <Element>
             <Key ID="0xD8ED65B1" Type="float"/>
@@ -40127,7 +40127,7 @@
         </Element>
         <Element>
             <Key ID="0xDB2260B7" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovieVolumeCreditsMusic"/>
         </Element>
         <Element>
             <Key ID="0xDB254386" Type="float"/>
@@ -40635,7 +40635,7 @@
         </Element>
         <Element>
             <Key ID="0xDE56521D" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayTypingSound"/>
         </Element>
         <Element>
             <Key ID="0xDE5709D9" Type="asset"/>
@@ -41659,7 +41659,7 @@
         </Element>
         <Element>
             <Key ID="0xE3FF2ED6" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="SmallBoostNumBouncesMin"/>
         </Element>
         <Element>
             <Key ID="0xE40723FF" Type="float"/>
@@ -41903,7 +41903,7 @@
         </Element>
         <Element>
             <Key ID="0xE5587648" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovieVolumeBeforeCredits"/>
         </Element>
         <Element>
             <Key ID="0xE559FD44" Type="float"/>
@@ -41975,7 +41975,7 @@
         </Element>
         <Element>
             <Key ID="0xE593F1C6" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PercentDamageBeforeSulking"/>
         </Element>
         <Element>
             <Key ID="0xE59672B3" Type="float"/>
@@ -42611,7 +42611,7 @@
         </Element>
         <Element>
             <Key ID="0xE8E0B5A6" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="LoiterRange"/>
         </Element>
         <Element>
             <Key ID="0xE8EA5BC8" Type="sound"/>
@@ -43315,7 +43315,7 @@
         </Element>
         <Element>
             <Key ID="0xECB314B6" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="LargeBoostNumBouncesMin"/>
         </Element>
         <Element>
             <Key ID="0xECB65675" Type="float"/>
@@ -43323,7 +43323,7 @@
         </Element>
         <Element>
             <Key ID="0xECBA9FB2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChanceToOpenMouthDuringCharge"/>
         </Element>
         <Element>
             <Key ID="0xECC78B13" Type="asset"/>
@@ -43687,7 +43687,7 @@
         </Element>
         <Element>
             <Key ID="0xEE538174" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScaleGenerationRateBasedOnDistance"/>
         </Element>
         <Element>
             <Key ID="0xEE53EBE7" Type="SeedBoss1OrbData"/>
@@ -44474,8 +44474,8 @@
             <Value Name="NumberOfJumps"/>
         </Element>
         <Element>
-            <Key ID="0xF2BA21E1" Type="BloggStruct"/>
-            <Value Name="BloggStruct"/>
+            <Key ID="0xF2BA21E1" Type="AlphaBloggStageData"/>
+            <Value Name="AlphaBloggDataStage3"/>
         </Element>
         <Element>
             <Key ID="0xF2C3FC10" Type="float"/>
@@ -44599,7 +44599,7 @@
         </Element>
         <Element>
             <Key ID="0xF38093F5" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovieVolumeCompletionScreenMusic"/>
         </Element>
         <Element>
             <Key ID="0xF382DFF7" Type="DamageVulnerability"/>
@@ -46103,7 +46103,7 @@
         </Element>
         <Element>
             <Key ID="0xFAF13D08" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="IsRicketyBarrel"/>
         </Element>
         <Element>
             <Key ID="0xFAF186B6" Type="string"/>
@@ -46354,8 +46354,8 @@
             <Value Name="GhorUpperBodyData"/>
         </Element>
         <Element>
-            <Key ID="0xFC2697DD" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xFC2697DD" Type="choice"/>
+            <Value Name="ThirdAttackInSequence"/>
         </Element>
         <Element>
             <Key ID="0xFC30BB21" Type="float"/>
@@ -46390,8 +46390,8 @@
             <Value Name="MenuOptionScale"/>
         </Element>
         <Element>
-            <Key ID="0xFC58ADFF" Type="IngSpiderballGuardianStruct"/>
-            <Value Name="IngSpiderballGuardianStruct"/>
+            <Key ID="0xFC58ADFF" Type="IngSpiderballGuardianPuzzleData"/>
+            <Value Name="Puzzle5Properties"/>
         </Element>
         <Element>
             <Key ID="0xFC5A0A21" Type="StaticGeometryTest"/>
@@ -46694,8 +46694,8 @@
             <Value Name="Jump2"/>
         </Element>
         <Element>
-            <Key ID="0xFE18A18F" Type="IngBoostBallGuardianStruct"/>
-            <Value Name="IngBoostBallGuardianStruct"/>
+            <Key ID="0xFE18A18F" Type="IngBoostBallGuardianBoostData"/>
+            <Value Name="Stage2"/>
         </Element>
         <Element>
             <Key ID="0xFE20B4F5" Type="sound"/>
@@ -46771,7 +46771,7 @@
         </Element>
         <Element>
             <Key ID="0xFE69615C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GenerationRateFarAmount"/>
         </Element>
         <Element>
             <Key ID="0xFE69D67A" Type="float"/>
@@ -46951,7 +46951,7 @@
         </Element>
         <Element>
             <Key ID="0xFF226EA3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AmbientSpeedFadeToInitialTime"/>
         </Element>
         <Element>
             <Key ID="0xFF27BB3A" Type="float"/>

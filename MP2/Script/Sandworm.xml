@@ -205,11 +205,11 @@
             <Element Type="Float" ID="0xEFEF7B45">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xB8C15F15" Archetype="SandwormStruct"/>
-            <Element Type="Struct" ID="0xCE246628" Archetype="SandwormStruct"/>
-            <Element Type="Struct" ID="0x55578CFC" Archetype="SandwormStruct"/>
-            <Element Type="Struct" ID="0x23EE1452" Archetype="SandwormStruct"/>
-            <Element Type="Struct" ID="0xB89DFE86" Archetype="SandwormStruct"/>
+            <Element Type="Struct" ID="0xB8C15F15" Archetype="SandwormAttackSequence"/>
+            <Element Type="Struct" ID="0xCE246628" Archetype="SandwormAttackSequence"/>
+            <Element Type="Struct" ID="0x55578CFC" Archetype="SandwormAttackSequence"/>
+            <Element Type="Struct" ID="0x23EE1452" Archetype="SandwormAttackSequence"/>
+            <Element Type="Struct" ID="0xB89DFE86" Archetype="SandwormAttackSequence"/>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
         </SubProperties>
     </Properties>
