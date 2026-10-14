@@ -13,7 +13,7 @@
             <Element Type="AnimationSet" ID="0xA9EB0FC8"/>
             <Element Type="AnimationSet" ID="0xB30ECAE"/>
             <Element Type="AnimationSet" ID="0x7CA5B474"/>
-            <Element Type="Int" ID="0xF9786405">
+            <Element Type="Animation" ID="0xF9786405">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>

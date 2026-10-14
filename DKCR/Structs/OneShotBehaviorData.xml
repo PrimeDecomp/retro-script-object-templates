@@ -15,10 +15,10 @@
             <Element Type="Int" ID="0x682AA3C9">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x85142576">
+            <Element Type="Animation" ID="0x85142576">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x2642A3DF">
+            <Element Type="Animation" ID="0x2642A3DF">
                 <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>

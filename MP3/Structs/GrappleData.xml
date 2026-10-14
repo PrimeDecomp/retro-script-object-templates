@@ -63,7 +63,7 @@
                 <CookPreference>OnlyIfModified</CookPreference>
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7648F63">
+            <Element Type="Animation" ID="0x7648F63">
                 <CookPreference>OnlyIfModified</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>

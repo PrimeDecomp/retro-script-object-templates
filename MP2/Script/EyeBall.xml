@@ -55,16 +55,16 @@
                     <B>0.0</B>
                 </DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x81D14BE8">
+            <Element Type="Animation" ID="0x81D14BE8">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6E1320D6">
+            <Element Type="Animation" ID="0x6E1320D6">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x85249BD5">
+            <Element Type="Animation" ID="0x85249BD5">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6AE6F0EB">
+            <Element Type="Animation" ID="0x6AE6F0EB">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xE4780219">

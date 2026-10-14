@@ -16,13 +16,13 @@
             <Element Type="Bool" ID="0x12341132">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xAACCD7CD">
+            <Element Type="Animation" ID="0xAACCD7CD">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xA2A5B38F">
+            <Element Type="Animation" ID="0xA2A5B38F">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x799F6F58">
+            <Element Type="Animation" ID="0x799F6F58">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x121045F5">
@@ -31,13 +31,13 @@
             <Element Type="Float" ID="0xF470EA14">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7AA31371">
+            <Element Type="Animation" ID="0x7AA31371">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xAC4D7AD">
+            <Element Type="Animation" ID="0xAC4D7AD">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x3D511B9">
+            <Element Type="Animation" ID="0x3D511B9">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xE0983D87">
@@ -52,10 +52,10 @@
             <Element Type="Bool" ID="0x735A909E">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x79E2DE6A">
+            <Element Type="Animation" ID="0x79E2DE6A">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xA2BC7BD1">
+            <Element Type="Animation" ID="0xA2BC7BD1">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x2528F442">

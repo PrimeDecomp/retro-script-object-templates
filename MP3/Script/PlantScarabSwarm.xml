@@ -10,10 +10,10 @@
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x4CFC46FE" Archetype="SwarmBasicsData"/>
-            <Element Type="Int" ID="0xE44C130C">
+            <Element Type="Animation" ID="0xE44C130C">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x47177C43">
+            <Element Type="Animation" ID="0x47177C43">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF11F7384">

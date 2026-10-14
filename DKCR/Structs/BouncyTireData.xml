@@ -4,16 +4,16 @@
         <Name>BouncyTireData</Name>
         <SubProperties>
             <Element Type="AnimationSet" ID="0xA3D63F44"/>
-            <Element Type="Int" ID="0xA2A5B38F">
+            <Element Type="Animation" ID="0xA2A5B38F">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD584A11">
+            <Element Type="Animation" ID="0xD584A11">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xCB1931F5">
+            <Element Type="Animation" ID="0xCB1931F5">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6462907A">
+            <Element Type="Animation" ID="0x6462907A">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2F524FD4">

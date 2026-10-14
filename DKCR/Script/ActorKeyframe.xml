@@ -4,7 +4,7 @@
         <Name>ActorKeyframe</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0xC215A24F">
+            <Element Type="Animation" ID="0xC215A24F">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>

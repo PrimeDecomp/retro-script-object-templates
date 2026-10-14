@@ -682,10 +682,6 @@
             <Value Name="LockonIndicatorOnColor"/>
         </Element>
         <Element>
-            <Key ID="0x3D511B9" Type="int"/>
-            <Value Name="FidgetAnimationThree"/>
-        </Element>
-        <Element>
             <Key ID="0x3D511B9" Type="characteranimation"/>
             <Value Name="FidgetAnimationThree"/>
         </Element>
@@ -808,10 +804,6 @@
         <Element>
             <Key ID="0x479C95B" Type="float"/>
             <Value Name="MinReFlipSwitchTime"/>
-        </Element>
-        <Element>
-            <Key ID="0x483A338" Type="int"/>
-            <Value Name="ChainsGridAnim"/>
         </Element>
         <Element>
             <Key ID="0x483A338" Type="characteranimation"/>
@@ -948,10 +940,6 @@
         <Element>
             <Key ID="0x53AE4A7" Type="float"/>
             <Value Name="StopHomingRange"/>
-        </Element>
-        <Element>
-            <Key ID="0x53D6BEB" Type="int"/>
-            <Value Name="CustomAnimation7"/>
         </Element>
         <Element>
             <Key ID="0x53D6BEB" Type="characteranimation"/>
@@ -1154,10 +1142,6 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x6435AFF" Type="int"/>
-            <Value Name="PoundMeterGridAnim"/>
-        </Element>
-        <Element>
             <Key ID="0x6435AFF" Type="characteranimation"/>
             <Value Name="PoundMeterGridAnim"/>
         </Element>
@@ -1304,10 +1288,6 @@
         <Element>
             <Key ID="0x75F730C" Type="spline"/>
             <Value Name="RocketPackSoundVolume"/>
-        </Element>
-        <Element>
-            <Key ID="0x7648F63" Type="int"/>
-            <Value Name="VoltageAnimation"/>
         </Element>
         <Element>
             <Key ID="0x7648F63" Type="characteranimation"/>
@@ -1870,10 +1850,6 @@
             <Value Name="CloakAcceleration"/>
         </Element>
         <Element>
-            <Key ID="0xAC4D7AD" Type="int"/>
-            <Value Name="FidgetAnimationTwo"/>
-        </Element>
-        <Element>
             <Key ID="0xAC4D7AD" Type="characteranimation"/>
             <Value Name="FidgetAnimationTwo"/>
         </Element>
@@ -2114,10 +2090,6 @@
             <Value Name="PurchaseText"/>
         </Element>
         <Element>
-            <Key ID="0xC5C6CD8" Type="int"/>
-            <Value Name="DiddyInsideAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xC5C6CD8" Type="characteranimation"/>
             <Value Name="DiddyInsideAnimation"/>
         </Element>
@@ -2296,10 +2268,6 @@
         <Element>
             <Key ID="0xD55794A" Type="float"/>
             <Value Name="NextCameraSequenceVariance"/>
-        </Element>
-        <Element>
-            <Key ID="0xD584A11" Type="int"/>
-            <Value Name="SpringAnimation"/>
         </Element>
         <Element>
             <Key ID="0xD584A11" Type="characteranimation"/>
@@ -2828,10 +2796,6 @@
         <Element>
             <Key ID="0x106D3EDB" Type="float"/>
             <Value Name="GandraydaToBeserker"/>
-        </Element>
-        <Element>
-            <Key ID="0x10706107" Type="int"/>
-            <Value Name="PoundAnimation"/>
         </Element>
         <Element>
             <Key ID="0x10706107" Type="characteranimation"/>
@@ -5114,10 +5078,6 @@
             <Value Name="MiscCounter3a"/>
         </Element>
         <Element>
-            <Key ID="0x1C75F24D" Type="int"/>
-            <Value Name="DKInsideAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x1C75F24D" Type="characteranimation"/>
             <Value Name="DKInsideAnimation"/>
         </Element>
@@ -5184,10 +5144,6 @@
         <Element>
             <Key ID="0x1CC93984" Type="float"/>
             <Value Name="MaxGrappleDistance"/>
-        </Element>
-        <Element>
-            <Key ID="0x1CCD0586" Type="int"/>
-            <Value Name="Animation"/>
         </Element>
         <Element>
             <Key ID="0x1CCD0586" Type="animation"/>
@@ -5500,10 +5456,6 @@
         <Element>
             <Key ID="0x1E6686FE" Type="float"/>
             <Value Name="FinalSize"/>
-        </Element>
-        <Element>
-            <Key ID="0x1E67101C" Type="int"/>
-            <Value Name="Secondary"/>
         </Element>
         <Element>
             <Key ID="0x1E67101C" Type="characteranimation"/>
@@ -6006,10 +5958,6 @@
             <Value Name="DetectionRangeSquared"/>
         </Element>
         <Element>
-            <Key ID="0x217A54B9" Type="int"/>
-            <Value Name="HandHitReaction"/>
-        </Element>
-        <Element>
             <Key ID="0x217A54B9" Type="characteranimation"/>
             <Value Name="HandHitReaction"/>
         </Element>
@@ -6326,10 +6274,6 @@
             <Value Name="MaxCameraSequences"/>
         </Element>
         <Element>
-            <Key ID="0x232ADE7E" Type="int"/>
-            <Value Name="CustomAnimation12"/>
-        </Element>
-        <Element>
             <Key ID="0x232ADE7E" Type="characteranimation"/>
             <Value Name="CustomAnimation12"/>
         </Element>
@@ -6576,10 +6520,6 @@
         <Element>
             <Key ID="0x246A1185" Type="asset"/>
             <Value Name="AltModel2"/>
-        </Element>
-        <Element>
-            <Key ID="0x247DB024" Type="int"/>
-            <Value Name="ActionAnimation"/>
         </Element>
         <Element>
             <Key ID="0x247DB024" Type="characteranimation"/>
@@ -6932,10 +6872,6 @@
         <Element>
             <Key ID="0x2639F0B9" Type="bool"/>
             <Value Name="HomeWhileCharging"/>
-        </Element>
-        <Element>
-            <Key ID="0x2642A3DF" Type="int"/>
-            <Value Name="Animation02"/>
         </Element>
         <Element>
             <Key ID="0x2642A3DF" Type="characteranimation"/>
@@ -7826,10 +7762,6 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x2B3BD997" Type="int"/>
-            <Value Name="FidgetAnimationFive"/>
-        </Element>
-        <Element>
             <Key ID="0x2B3BD997" Type="characteranimation"/>
             <Value Name="FidgetAnimationFive"/>
         </Element>
@@ -7964,10 +7896,6 @@
         <Element>
             <Key ID="0x2BD2AE32" Type="string"/>
             <Value Name="NonDuckedVolumeGroups"/>
-        </Element>
-        <Element>
-            <Key ID="0x2BD321DA" Type="int"/>
-            <Value Name="FidgetAnimationFour"/>
         </Element>
         <Element>
             <Key ID="0x2BD321DA" Type="characteranimation"/>
@@ -8122,12 +8050,8 @@
             <Value Name="Beam"/>
         </Element>
         <Element>
-            <Key ID="0x2CC54E77" Type="choice"/>
-            <Value Name="Unknown"/>
-        </Element>
-        <Element>
-            <Key ID="0x2CC54E77" Type="int"/>
-            <Value Name="Multiplayer Mask and Negate"/>
+            <Key ID="0x2CC54E77" Type="ConditionalTestFlags"/>
+            <Value Name="ConditionalTestFlags"/>
         </Element>
         <Element>
             <Key ID="0x2CC5CB93" Type="float"/>
@@ -10682,10 +10606,6 @@
             <Value Name="HudDamageIndicatorRadius"/>
         </Element>
         <Element>
-            <Key ID="0x3ACA31D7" Type="int"/>
-            <Value Name="FidgetAnimationEight"/>
-        </Element>
-        <Element>
             <Key ID="0x3ACA31D7" Type="characteranimation"/>
             <Value Name="FidgetAnimationEight"/>
         </Element>
@@ -10824,10 +10744,6 @@
         <Element>
             <Key ID="0x3BB3A7C9" Type="BirdBossStageData"/>
             <Value Name="Stage3"/>
-        </Element>
-        <Element>
-            <Key ID="0x3BB7E651" Type="int"/>
-            <Value Name="CustomAnimation2"/>
         </Element>
         <Element>
             <Key ID="0x3BB7E651" Type="characteranimation"/>
@@ -11568,10 +11484,6 @@
         <Element>
             <Key ID="0x3FA80592" Type="Color"/>
             <Value Name="GrappleEffectStripeColor"/>
-        </Element>
-        <Element>
-            <Key ID="0x3FA8C740" Type="int"/>
-            <Value Name="FidgetAnimationSeven"/>
         </Element>
         <Element>
             <Key ID="0x3FA8C740" Type="characteranimation"/>
@@ -12666,10 +12578,6 @@
             <Value Name="ShakeAnimation"/>
         </Element>
         <Element>
-            <Key ID="0x456B0545" Type="int"/>
-            <Value Name="ShakeAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x456D05C6" Type="CameraDistance"/>
             <Value Name="MinSpeedDistance"/>
         </Element>
@@ -12866,10 +12774,6 @@
             <Value Name="ConstantRotateInLocalSpace"/>
         </Element>
         <Element>
-            <Key ID="0x46A2FD25" Type="int"/>
-            <Value Name="CustomAnimation8"/>
-        </Element>
-        <Element>
             <Key ID="0x46A2FD25" Type="characteranimation"/>
             <Value Name="CustomAnimation8"/>
         </Element>
@@ -12964,10 +12868,6 @@
         <Element>
             <Key ID="0x4707233B" Type="float"/>
             <Value Name="DriftAngle"/>
-        </Element>
-        <Element>
-            <Key ID="0x47177C43" Type="int"/>
-            <Value Name="AttackAnimation"/>
         </Element>
         <Element>
             <Key ID="0x47177C43" Type="characteranimation"/>
@@ -13648,10 +13548,6 @@
         <Element>
             <Key ID="0x4A66B162" Type="asset"/>
             <Value Name="Puzzle_8_Sound"/>
-        </Element>
-        <Element>
-            <Key ID="0x4A6A84C1" Type="int"/>
-            <Value Name="OffAnimation"/>
         </Element>
         <Element>
             <Key ID="0x4A6A84C1" Type="characteranimation"/>
@@ -15890,10 +15786,6 @@
             <Value Name="MaxLinearSpeed"/>
         </Element>
         <Element>
-            <Key ID="0x563F35C8" Type="int"/>
-            <Value Name="MultiplayerBalloonAnim"/>
-        </Element>
-        <Element>
             <Key ID="0x563F35C8" Type="characteranimation"/>
             <Value Name="MultiplayerBalloonAnim"/>
         </Element>
@@ -16100,10 +15992,6 @@
         <Element>
             <Key ID="0x5796A143" Type="asset"/>
             <Value Name="TransmissionBeacon"/>
-        </Element>
-        <Element>
-            <Key ID="0x579ED88F" Type="int"/>
-            <Value Name="CustomAnimation10"/>
         </Element>
         <Element>
             <Key ID="0x579ED88F" Type="characteranimation"/>
@@ -17578,10 +17466,6 @@
             <Value Name="Sound_HUDReboot"/>
         </Element>
         <Element>
-            <Key ID="0x601FCE68" Type="int"/>
-            <Value Name="ActiveAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x601FCE68" Type="characteranimation"/>
             <Value Name="ActiveAnimation"/>
         </Element>
@@ -17627,10 +17511,6 @@
         </Element>
         <Element>
             <Key ID="0x606539FA" Type="bool"/>
-            <Value Name="Unknown"/>
-        </Element>
-        <Element>
-            <Key ID="0x606E341C" Type="Flags"/>
             <Value Name="Unknown"/>
         </Element>
         <Element>
@@ -18222,10 +18102,6 @@
             <Value Name="SpitAttackMinRange"/>
         </Element>
         <Element>
-            <Key ID="0x63E53FD8" Type="int"/>
-            <Value Name="InactiveAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x63E53FD8" Type="characteranimation"/>
             <Value Name="InactiveAnimation"/>
         </Element>
@@ -18298,10 +18174,6 @@
             <Value Name="LaserInnerColor"/>
         </Element>
         <Element>
-            <Key ID="0x64543B0C" Type="int"/>
-            <Value Name="Primary"/>
-        </Element>
-        <Element>
             <Key ID="0x64543B0C" Type="characteranimation"/>
             <Value Name="Primary"/>
         </Element>
@@ -18324,10 +18196,6 @@
         <Element>
             <Key ID="0x6461CCD6" Type="SwingRopeData"/>
             <Value Name="SwingRopeData"/>
-        </Element>
-        <Element>
-            <Key ID="0x6462907A" Type="int"/>
-            <Value Name="RightJiggleAnimation"/>
         </Element>
         <Element>
             <Key ID="0x6462907A" Type="characteranimation"/>
@@ -19582,10 +19450,6 @@
             <Value Name="Animation_Anim3"/>
         </Element>
         <Element>
-            <Key ID="0x6AE6F0EB" Type="int"/>
-            <Value Name="Animation_Anim3"/>
-        </Element>
-        <Element>
             <Key ID="0x6AF2871B" Type="float"/>
             <Value Name="Unknown"/>
         </Element>
@@ -19824,10 +19688,6 @@
         <Element>
             <Key ID="0x6C3A6799" Type="asset"/>
             <Value Name="SCAN"/>
-        </Element>
-        <Element>
-            <Key ID="0x6C3B5F38" Type="int"/>
-            <Value Name="Animation_React"/>
         </Element>
         <Element>
             <Key ID="0x6C3B5F38" Type="characteranimation"/>
@@ -20203,10 +20063,6 @@
         </Element>
         <Element>
             <Key ID="0x6E1320D6" Type="animation"/>
-            <Value Name="Animation_Anim1"/>
-        </Element>
-        <Element>
-            <Key ID="0x6E1320D6" Type="int"/>
             <Value Name="Animation_Anim1"/>
         </Element>
         <Element>
@@ -20734,10 +20590,6 @@
             <Value Name="ScaleType"/>
         </Element>
         <Element>
-            <Key ID="0x71896D1A" Type="int"/>
-            <Value Name="CustomAnimation5"/>
-        </Element>
-        <Element>
             <Key ID="0x71896D1A" Type="characteranimation"/>
             <Value Name="CustomAnimation5"/>
         </Element>
@@ -20748,10 +20600,6 @@
         <Element>
             <Key ID="0x719066EB" Type="TarPitDataActionFlags"/>
             <Value Name="ActionFlags"/>
-        </Element>
-        <Element>
-            <Key ID="0x719345CF" Type="int"/>
-            <Value Name="SpikesGridAnim"/>
         </Element>
         <Element>
             <Key ID="0x719345CF" Type="characteranimation"/>
@@ -21042,10 +20890,6 @@
             <Value Name="C2"/>
         </Element>
         <Element>
-            <Key ID="0x734D923B" Type="int"/>
-            <Value Name="AttackAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x734D923B" Type="animation"/>
             <Value Name="AttackAnimation"/>
         </Element>
@@ -21096,10 +20940,6 @@
         <Element>
             <Key ID="0x73939407" Type="string"/>
             <Value Name="GuiLabel"/>
-        </Element>
-        <Element>
-            <Key ID="0x7399ABBB" Type="int"/>
-            <Value Name="IntoAttackAnimation"/>
         </Element>
         <Element>
             <Key ID="0x7399ABBB" Type="animation"/>
@@ -22178,10 +22018,6 @@
             <Value Name="Chain27"/>
         </Element>
         <Element>
-            <Key ID="0x799F6F58" Type="int"/>
-            <Value Name="ExitAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x799F6F58" Type="characteranimation"/>
             <Value Name="ExitAnimation"/>
         </Element>
@@ -22244,10 +22080,6 @@
         <Element>
             <Key ID="0x79DE4BA5" Type="PathInterpolation"/>
             <Value Name="Path"/>
-        </Element>
-        <Element>
-            <Key ID="0x79E2DE6A" Type="int"/>
-            <Value Name="GreetAnimation"/>
         </Element>
         <Element>
             <Key ID="0x79E2DE6A" Type="characteranimation"/>
@@ -22400,10 +22232,6 @@
         <Element>
             <Key ID="0x7AA0B07C" Type="RevolutionControl"/>
             <Value Name="Dismount"/>
-        </Element>
-        <Element>
-            <Key ID="0x7AA31371" Type="int"/>
-            <Value Name="FidgetAnimationOne"/>
         </Element>
         <Element>
             <Key ID="0x7AA31371" Type="characteranimation"/>
@@ -23286,10 +23114,6 @@
             <Value Name="BodyDamageMultiplier"/>
         </Element>
         <Element>
-            <Key ID="0x7F96D93C" Type="int"/>
-            <Value Name="RightFacingAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0x7F96D93C" Type="characteranimation"/>
             <Value Name="RightFacingAnimation"/>
         </Element>
@@ -23484,10 +23308,6 @@
         <Element>
             <Key ID="0x8075F8F8" Type="Vector"/>
             <Value Name="MovementDirection"/>
-        </Element>
-        <Element>
-            <Key ID="0x807C58D7" Type="int"/>
-            <Value Name="CustomAnimation11"/>
         </Element>
         <Element>
             <Key ID="0x807C58D7" Type="characteranimation"/>
@@ -23763,10 +23583,6 @@
         </Element>
         <Element>
             <Key ID="0x81D14BE8" Type="animation"/>
-            <Value Name="Animation_Anim0"/>
-        </Element>
-        <Element>
-            <Key ID="0x81D14BE8" Type="int"/>
             <Value Name="Animation_Anim0"/>
         </Element>
         <Element>
@@ -24346,10 +24162,6 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x85142576" Type="int"/>
-            <Value Name="Animation01"/>
-        </Element>
-        <Element>
             <Key ID="0x85142576" Type="characteranimation"/>
             <Value Name="Animation01"/>
         </Element>
@@ -24363,10 +24175,6 @@
         </Element>
         <Element>
             <Key ID="0x85249BD5" Type="animation"/>
-            <Value Name="Animation_Anim2"/>
-        </Element>
-        <Element>
-            <Key ID="0x85249BD5" Type="int"/>
             <Value Name="Animation_Anim2"/>
         </Element>
         <Element>
@@ -25424,10 +25232,6 @@
         <Element>
             <Key ID="0x8B2A15EE" Type="asset"/>
             <Value Name="PART"/>
-        </Element>
-        <Element>
-            <Key ID="0x8B30D933" Type="int"/>
-            <Value Name="RightPalmSwipeCrush"/>
         </Element>
         <Element>
             <Key ID="0x8B30D933" Type="characteranimation"/>
@@ -26528,10 +26332,6 @@
         <Element>
             <Key ID="0x91351B69" Type="bool"/>
             <Value Name="ScanOffsetLocal"/>
-        </Element>
-        <Element>
-            <Key ID="0x91407D7D" Type="int"/>
-            <Value Name="CustomAnimation9"/>
         </Element>
         <Element>
             <Key ID="0x91407D7D" Type="characteranimation"/>
@@ -27934,10 +27734,6 @@
             <Value Name="ExtrasImageCategory"/>
         </Element>
         <Element>
-            <Key ID="0x98E160F8" Type="int"/>
-            <Value Name="CustomAnimation1"/>
-        </Element>
-        <Element>
             <Key ID="0x98E160F8" Type="characteranimation"/>
             <Value Name="CustomAnimation1"/>
         </Element>
@@ -29306,10 +29102,6 @@
             <Value Name="MoleHeadFakeProbability"/>
         </Element>
         <Element>
-            <Key ID="0xA1266897" Type="int"/>
-            <Value Name="AnimationGrid"/>
-        </Element>
-        <Element>
             <Key ID="0xA1266897" Type="characteranimation"/>
             <Value Name="AnimationGrid"/>
         </Element>
@@ -29630,10 +29422,6 @@
             <Value Name="LockDagger0Angle"/>
         </Element>
         <Element>
-            <Key ID="0xA2A5B38F" Type="int"/>
-            <Value Name="IdleAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xA2A5B38F" Type="characteranimation"/>
             <Value Name="IdleAnimation"/>
         </Element>
@@ -29650,19 +29438,11 @@
             <Value Name="RocketPackSound"/>
         </Element>
         <Element>
-            <Key ID="0xA2BC7BD1" Type="int"/>
-            <Value Name="GreetIdleAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xA2BC7BD1" Type="characteranimation"/>
             <Value Name="GreetIdleAnimation"/>
         </Element>
         <Element>
             <Key ID="0xA2DC645A" Type="characteranimation"/>
-            <Value Name="EmptyAnimation"/>
-        </Element>
-        <Element>
-            <Key ID="0xA2DC645A" Type="int"/>
             <Value Name="EmptyAnimation"/>
         </Element>
         <Element>
@@ -30254,7 +30034,7 @@
             <Value Name="OrbitMaxAngularChange"/>
         </Element>
         <Element>
-            <Key ID="0xA64AB9B8" Type="Flags"/>
+            <Key ID="0xA64AB9B8" Type="SpacePirateFlags"/>
             <Value Name="Flags"/>
         </Element>
         <Element>
@@ -30268,10 +30048,6 @@
         <Element>
             <Key ID="0xA6609CC5" Type="Color"/>
             <Value Name="FreeLookBarColor"/>
-        </Element>
-        <Element>
-            <Key ID="0xA66BED42" Type="int"/>
-            <Value Name="CustomAnimation4"/>
         </Element>
         <Element>
             <Key ID="0xA66BED42" Type="characteranimation"/>
@@ -31098,16 +30874,8 @@
             <Value Name="DebugData"/>
         </Element>
         <Element>
-            <Key ID="0xAACCD7CD" Type="int"/>
-            <Value Name="ArriveAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xAACCD7CD" Type="characteranimation"/>
             <Value Name="ArriveAnimation"/>
-        </Element>
-        <Element>
-            <Key ID="0xAACDB11C" Type="int"/>
-            <Value Name="Animation"/>
         </Element>
         <Element>
             <Key ID="0xAACDB11C" Type="characteranimation"/>
@@ -32246,10 +32014,6 @@
             <Value Name="MapZoomIn"/>
         </Element>
         <Element>
-            <Key ID="0xB073B311" Type="int"/>
-            <Value Name="PoundMeterVibrateAnim"/>
-        </Element>
-        <Element>
             <Key ID="0xB073B311" Type="characteranimation"/>
             <Value Name="PoundMeterVibrateAnim"/>
         </Element>
@@ -33306,10 +33070,6 @@
             <Value Name="MarioParty8"/>
         </Element>
         <Element>
-            <Key ID="0xB6641BF0" Type="int"/>
-            <Value Name="Quick"/>
-        </Element>
-        <Element>
             <Key ID="0xB6641BF0" Type="characteranimation"/>
             <Value Name="Quick"/>
         </Element>
@@ -34126,10 +33886,6 @@
             <Value Name="Placeholder"/>
         </Element>
         <Element>
-            <Key ID="0xBB0EE668" Type="int"/>
-            <Value Name="ReactionAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xBB0EE668" Type="characteranimation"/>
             <Value Name="ReactionAnimation"/>
         </Element>
@@ -34858,10 +34614,6 @@
             <Value Name="DesignMemory"/>
         </Element>
         <Element>
-            <Key ID="0xBEF6D56D" Type="int"/>
-            <Value Name="CustomAnimation14"/>
-        </Element>
-        <Element>
             <Key ID="0xBEF6D56D" Type="characteranimation"/>
             <Value Name="CustomAnimation14"/>
         </Element>
@@ -35052,10 +34804,6 @@
         <Element>
             <Key ID="0xBFDDABD4" Type="float"/>
             <Value Name="InitialGrabberOutSpeed"/>
-        </Element>
-        <Element>
-            <Key ID="0xBFE017DE" Type="int"/>
-            <Value Name="Animation_React"/>
         </Element>
         <Element>
             <Key ID="0xBFE017DE" Type="animation"/>
@@ -35402,10 +35150,6 @@
             <Value Name="FadeInRate"/>
         </Element>
         <Element>
-            <Key ID="0xC215A24F" Type="int"/>
-            <Value Name="CharacterAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xC215A24F" Type="characteranimation"/>
             <Value Name="CharacterAnimation"/>
         </Element>
@@ -35448,10 +35192,6 @@
         <Element>
             <Key ID="0xC23A1955" Type="asset"/>
             <Value Name="Sound_Shot"/>
-        </Element>
-        <Element>
-            <Key ID="0xC23BD607" Type="int"/>
-            <Value Name="OnAnimation"/>
         </Element>
         <Element>
             <Key ID="0xC23BD607" Type="characteranimation"/>
@@ -35688,10 +35428,6 @@
         <Element>
             <Key ID="0xC35DB9CE" Type="asset"/>
             <Value Name="PART"/>
-        </Element>
-        <Element>
-            <Key ID="0xC36101F6" Type="int"/>
-            <Value Name="FidgetAnimationSix"/>
         </Element>
         <Element>
             <Key ID="0xC36101F6" Type="characteranimation"/>
@@ -36498,10 +36234,6 @@
             <Value Name="BombModel"/>
         </Element>
         <Element>
-            <Key ID="0xC762476C" Type="int"/>
-            <Value Name="Fake"/>
-        </Element>
-        <Element>
             <Key ID="0xC762476C" Type="characteranimation"/>
             <Value Name="Fake"/>
         </Element>
@@ -36974,7 +36706,7 @@
             <Value Name="TitleTextGradient"/>
         </Element>
         <Element>
-            <Key ID="0xCA19E8C6" Type="Flags"/>
+            <Key ID="0xCA19E8C6" Type="VisorFlags"/>
             <Value Name="VisorFlags"/>
         </Element>
         <Element>
@@ -37146,10 +36878,6 @@
             <Value Name="InitialSpeed"/>
         </Element>
         <Element>
-            <Key ID="0xCB1931F5" Type="int"/>
-            <Value Name="LeftJiggleAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xCB1931F5" Type="characteranimation"/>
             <Value Name="LeftJiggleAnimation"/>
         </Element>
@@ -37192,10 +36920,6 @@
         <Element>
             <Key ID="0xCB4F07C1" Type="bool"/>
             <Value Name="Unknown"/>
-        </Element>
-        <Element>
-            <Key ID="0xCB515E2A" Type="int"/>
-            <Value Name="SecondaryTelegraph"/>
         </Element>
         <Element>
             <Key ID="0xCB515E2A" Type="characteranimation"/>
@@ -38258,10 +37982,6 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xD0ED78B3" Type="int"/>
-            <Value Name="LeftFacingAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xD0ED78B3" Type="characteranimation"/>
             <Value Name="LeftFacingAnimation"/>
         </Element>
@@ -38662,10 +38382,6 @@
             <Value Name="PhazonHarvesterData"/>
         </Element>
         <Element>
-            <Key ID="0xD2DFEBB3" Type="int"/>
-            <Value Name="CustomAnimation6"/>
-        </Element>
-        <Element>
             <Key ID="0xD2DFEBB3" Type="characteranimation"/>
             <Value Name="CustomAnimation6"/>
         </Element>
@@ -38820,10 +38536,6 @@
         <Element>
             <Key ID="0xD38203D7" Type="RevolutionControl"/>
             <Value Name="MenuIncrementValue"/>
-        </Element>
-        <Element>
-            <Key ID="0xD387B254" Type="int"/>
-            <Value Name="FeetTogetherAnim"/>
         </Element>
         <Element>
             <Key ID="0xD387B254" Type="characteranimation"/>
@@ -39700,10 +39412,6 @@
         <Element>
             <Key ID="0xD87C0C65" Type="float"/>
             <Value Name="ChanceSpecialBombIsNapalm"/>
-        </Element>
-        <Element>
-            <Key ID="0xD8828F28" Type="int"/>
-            <Value Name="FeetApartAnim"/>
         </Element>
         <Element>
             <Key ID="0xD8828F28" Type="characteranimation"/>
@@ -41714,10 +41422,6 @@
             <Value Name="MotionRadius"/>
         </Element>
         <Element>
-            <Key ID="0xE44C130C" Type="int"/>
-            <Value Name="IntoAttackAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xE44C130C" Type="characteranimation"/>
             <Value Name="IntoAttackAnimation"/>
         </Element>
@@ -42782,10 +42486,6 @@
             <Value Name="MaxMissileInterval"/>
         </Element>
         <Element>
-            <Key ID="0xE9BF2240" Type="int"/>
-            <Value Name="Animation_Damaged"/>
-        </Element>
-        <Element>
             <Key ID="0xE9BF2240" Type="characteranimation"/>
             <Value Name="Animation_Damaged"/>
         </Element>
@@ -43250,10 +42950,6 @@
             <Value Name="OrbitScanZoneCentreX"/>
         </Element>
         <Element>
-            <Key ID="0xEC556609" Type="int"/>
-            <Value Name="CustomAnimation3"/>
-        </Element>
-        <Element>
             <Key ID="0xEC556609" Type="characteranimation"/>
             <Value Name="CustomAnimation3"/>
         </Element>
@@ -43464,10 +43160,6 @@
         <Element>
             <Key ID="0xED5EC8A1" Type="bool"/>
             <Value Name="MusicFade"/>
-        </Element>
-        <Element>
-            <Key ID="0xED5F16AC" Type="int"/>
-            <Value Name="Animation_Damaged"/>
         </Element>
         <Element>
             <Key ID="0xED5F16AC" Type="animation"/>
@@ -44846,10 +44538,6 @@
             <Value Name="Shield_l_ankle"/>
         </Element>
         <Element>
-            <Key ID="0xF4C85E26" Type="int"/>
-            <Value Name="CustomAnimation13"/>
-        </Element>
-        <Element>
             <Key ID="0xF4C85E26" Type="characteranimation"/>
             <Value Name="CustomAnimation13"/>
         </Element>
@@ -45814,10 +45502,6 @@
             <Value Name="FadeDownTime"/>
         </Element>
         <Element>
-            <Key ID="0xF9786405" Type="int"/>
-            <Value Name="VictoryAnimation"/>
-        </Element>
-        <Element>
             <Key ID="0xF9786405" Type="characteranimation"/>
             <Value Name="VictoryAnimation"/>
         </Element>
@@ -46632,10 +46316,6 @@
         <Element>
             <Key ID="0xFDC6649D" Type="float"/>
             <Value Name="BoostBallHitPlayerBallKnockBackSpeed"/>
-        </Element>
-        <Element>
-            <Key ID="0xFDCCB479" Type="int"/>
-            <Value Name="PulseAnimation"/>
         </Element>
         <Element>
             <Key ID="0xFDCCB479" Type="characteranimation"/>

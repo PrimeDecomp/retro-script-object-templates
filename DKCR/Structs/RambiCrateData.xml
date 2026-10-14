@@ -4,11 +4,11 @@
         <Name>RambiCrateData</Name>
         <SubProperties>
             <Element Type="AnimationSet" ID="0xA3D63F44"/>
-            <Element Type="Int" ID="0xA2DC645A">
+            <Element Type="Animation" ID="0xA2DC645A">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x456B0545">
+            <Element Type="Animation" ID="0x456B0545">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x7B71AE90" Archetype="DamageVulnerability"/>

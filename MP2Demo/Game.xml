@@ -672,6 +672,10 @@
             <Value Path="Structs/ConditionalTest.xml"/>
         </Element>
         <Element>
+            <Key>ConditionalTestFlags</Key>
+            <Value Path="Flags/ConditionalTestFlags.xml"/>
+        </Element>
+        <Element>
             <Key>Connection</Key>
             <Value Path="Structs/Connection.xml"/>
         </Element>
@@ -894,6 +898,10 @@
         <Element>
             <Key>ShredderData</Key>
             <Value Path="Structs/ShredderData.xml"/>
+        </Element>
+        <Element>
+            <Key>SpacePirateFlags</Key>
+            <Value Path="Flags/SpacePirateFlags.xml"/>
         </Element>
         <Element>
             <Key>SpacePirateWeaponData</Key>
@@ -1198,6 +1206,10 @@
         <Element>
             <Key>Vector2f</Key>
             <Value Path="Structs/Vector2f.xml"/>
+        </Element>
+        <Element>
+            <Key>VisorFlags</Key>
+            <Value Path="Flags/VisorFlags.xml"/>
         </Element>
         <Element>
             <Key>VisorParameters</Key>
