@@ -24,7 +24,7 @@
             <Element Name="No Morph Ball Damage Timer" Mask="0x20000"/>
             <Element Name="Absorb Phazon Shots" Mask="0x40000"/>
             <Element Name="Force Free Look" Mask="0x80000"/>
-            <Element Name="Unknown 21" Mask="0x100000"/>
+            <Element Name="Across Areas" Mask="0x100000"/>
             <Element Name="Force First Person" Mask="0x200000"/>
             <Element Name="Force Third Person" Mask="0x400000"/>
             <Element Name="Damp Boost Entry Velocity" Mask="0x800000"/>

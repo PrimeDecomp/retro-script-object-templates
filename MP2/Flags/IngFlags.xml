@@ -3,5 +3,15 @@
     <PropertyArchetype Type="Flags">
         <Name>IngFlags</Name>
         <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Starts As Ing Spot" Mask="0x1"/>
+            <Element Name="Disable Arm Swipe" Mask="0x2"/>
+            <Element Name="Disable Body Projectile" Mask="0x4"/>
+            <Element Name="Disable Mini Portal" Mask="0x8"/>
+            <Element Name="Disable Grapple" Mask="0x10"/>
+            <Element Name="Disable Form Change" Mask="0x20"/>
+            <Element Name="Disable Path Movement" Mask="0x40"/>
+            <Element Name="Always Targetable" Mask="0x80"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

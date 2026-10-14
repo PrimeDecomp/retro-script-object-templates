@@ -3,5 +3,11 @@
     <PropertyArchetype Type="Flags">
         <Name>CameraSplineFlags</Name>
         <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Loop Position" Mask="0x1"/>
+            <Element Name="Loop Look At" Mask="0x2"/>
+            <Element Name="Use Position Time For Look At" Mask="0x4"/>
+            <Element Name="Use Position For Look At" Mask="0x8"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

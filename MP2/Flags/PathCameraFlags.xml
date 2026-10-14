@@ -3,5 +3,15 @@
     <PropertyArchetype Type="Flags">
         <Name>PathCameraFlags</Name>
         <DefaultValue>32</DefaultValue>
+        <Flags>
+            <Element Name="No Dampening" Mask="0x1"/>
+            <Element Name="Unknown 2" Mask="0x2"/>
+            <Element Name="Perpendicular Distance Control" Mask="0x4"/>
+            <Element Name="Look At Hint Height" Mask="0x8"/>
+            <Element Name="Avoid Door Collisions" Mask="0x10"/>
+            <Element Name="Ball Camera Look At" Mask="0x20"/>
+            <Element Name="Look At Path Height" Mask="0x40"/>
+            <Element Name="Perpendicular Look Interpolation" Mask="0x80"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

@@ -3,5 +3,23 @@
     <PropertyArchetype Type="Flags">
         <Name>SpindleCameraFlags</Name>
         <DefaultValue>6400</DefaultValue>
+        <Flags>
+            <Element Name="Project Look At Onto Axis" Mask="0x1"/>
+            <Element Name="Look From Axis" Mask="0x2"/>
+            <Element Name="Unknown 3" Mask="0x4"/>
+            <Element Name="Instant Azimuth" Mask="0x8"/>
+            <Element Name="Unknown 5" Mask="0x10"/>
+            <Element Name="Clamp Azimuth" Mask="0x20"/>
+            <Element Name="Radius From Ball" Mask="0x40"/>
+            <Element Name="Follow Ball Along Axis" Mask="0x80"/>
+            <Element Name="No Linear Speed Limit" Mask="0x100"/>
+            <Element Name="Ball Camera Look At" Mask="0x200"/>
+            <Element Name="Track Ball Azimuth" Mask="0x800"/>
+            <Element Name="Ease Look At Angular Offset" Mask="0x1000"/>
+            <Element Name="Deactivate Outside Radius" Mask="0x2000"/>
+            <Element Name="Fixed Azimuth Side" Mask="0x4000"/>
+            <Element Name="Look At Ball" Mask="0x8000"/>
+            <Element Name="Fixed Position" Mask="0x10000"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>
