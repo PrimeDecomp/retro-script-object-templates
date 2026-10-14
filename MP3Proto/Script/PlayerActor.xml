@@ -38,9 +38,7 @@
             <Element Type="Bool" ID="0x1D8DD846">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x33507998">
-                <DefaultValue>4</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x33507998" Archetype="PlayerActorFlags"/>
             <Element Type="Choice" ID="0xB6832840">
                 <DefaultValue>0</DefaultValue>
             </Element>

@@ -1010,8 +1010,8 @@
             <Value Name="StopRocketHomingRange"/>
         </Element>
         <Element>
-            <Key ID="0x58C1B1D" Type="Flags"/>
-            <Value Name="OffFlagsCameraInterpolation"/>
+            <Key ID="0x58C1B1D" Type="CameraInterpolationFlags"/>
+            <Value Name="OffFlags"/>
         </Element>
         <Element>
             <Key ID="0x58D2DDB" Type="enum"/>
@@ -1062,8 +1062,8 @@
             <Value Name="Annihilator_Bomb"/>
         </Element>
         <Element>
-            <Key ID="0x5C5FC6E" Type="Flags"/>
-            <Value Name="FlagsCinematicCamera"/>
+            <Key ID="0x5C5FC6E" Type="CinematicCameraFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x5C67D0B" Type="bool"/>
@@ -1350,8 +1350,8 @@
             <Value Name="IngSpotBlobFx"/>
         </Element>
         <Element>
-            <Key ID="0x7A6C22C" Type="Flags"/>
-            <Value Name="CustomFlagsCameraInterpolation"/>
+            <Key ID="0x7A6C22C" Type="CameraInterpolationFlags"/>
+            <Value Name="CustomFlags"/>
         </Element>
         <Element>
             <Key ID="0x7A6DF9F" Type="asset"/>
@@ -1638,8 +1638,8 @@
             <Value Name="ZoomMotion"/>
         </Element>
         <Element>
-            <Key ID="0x92FBAD0" Type="Flags"/>
-            <Value Name="IngFlagsIng"/>
+            <Key ID="0x92FBAD0" Type="IngFlags"/>
+            <Value Name="IngFlags"/>
         </Element>
         <Element>
             <Key ID="0x94B5AD6" Type="bool"/>
@@ -1682,8 +1682,8 @@
             <Value Name="OverrideCollisionRadius"/>
         </Element>
         <Element>
-            <Key ID="0x9AB9627" Type="Flags"/>
-            <Value Name="ConstraintFlagsCameraConstraint"/>
+            <Key ID="0x9AB9627" Type="CameraConstraintFlags"/>
+            <Value Name="ConstraintFlags"/>
         </Element>
         <Element>
             <Key ID="0x9AD63DE" Type="choice"/>
@@ -2922,8 +2922,8 @@
             <Value Name="Sound_Projectile"/>
         </Element>
         <Element>
-            <Key ID="0x10E6F366" Type="Flags"/>
-            <Value Name="FlagsSurfaceOrientation"/>
+            <Key ID="0x10E6F366" Type="SurfaceOrientationFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x10E7121B" Type="enum"/>
@@ -2938,8 +2938,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x10F37815" Type="Flags"/>
-            <Value Name="DamageDamage"/>
+            <Key ID="0x10F37815" Type="DamageFlags"/>
+            <Value Name="Damage"/>
         </Element>
         <Element>
             <Key ID="0x10FFE760" Type="float"/>
@@ -3380,10 +3380,6 @@
         <Element>
             <Key ID="0x138B3979" Type="spline"/>
             <Value Name="ChargeWeaponArmPostShotAlpha"/>
-        </Element>
-        <Element>
-            <Key ID="0x138BAC93" Type="Flags"/>
-            <Value Name="GrabbableMounts"/>
         </Element>
         <Element>
             <Key ID="0x138BAC93" Type="PlayerCharactersBitField"/>
@@ -4922,8 +4918,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x1B4962BF" Type="Flags"/>
-            <Value Name="FlagsSpindleOrientation"/>
+            <Key ID="0x1B4962BF" Type="SpindleOrientationFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x1B57D422" Type="float"/>
@@ -5002,8 +4998,8 @@
             <Value Name="IsCameraTarget"/>
         </Element>
         <Element>
-            <Key ID="0x1BCE57E1" Type="Flags"/>
-            <Value Name="FlagsPlayerHint"/>
+            <Key ID="0x1BCE57E1" Type="PlayerHintFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x1BCEF53F" Type="choice"/>
@@ -5274,8 +5270,8 @@
             <Value Name="CameraFreeze"/>
         </Element>
         <Element>
-            <Key ID="0x1D49D35C" Type="Flags"/>
-            <Value Name="OnFlagsCameraInterpolation"/>
+            <Key ID="0x1D49D35C" Type="CameraInterpolationFlags"/>
+            <Value Name="OnFlags"/>
         </Element>
         <Element>
             <Key ID="0x1D510C6C" Type="asset"/>
@@ -5758,8 +5754,8 @@
             <Value Name="TauntAttacksMin"/>
         </Element>
         <Element>
-            <Key ID="0x1FFC65D8" Type="Flags"/>
-            <Value Name="FlagsSurfaceCamera"/>
+            <Key ID="0x1FFC65D8" Type="SurfaceCameraFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x2002E00A" Type="float"/>
@@ -6078,8 +6074,8 @@
             <Value Name="Tar"/>
         </Element>
         <Element>
-            <Key ID="0x21D720A9" Type="Flags"/>
-            <Value Name="FlagsCameraHint"/>
+            <Key ID="0x21D720A9" Type="CameraHintFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x21DC4C35" Type="asset"/>
@@ -6266,8 +6262,8 @@
             <Value Name="ProjectileExplosionShaker"/>
         </Element>
         <Element>
-            <Key ID="0x22BD900D" Type="Flags"/>
-            <Value Name="NavigationFlagsCameraNavigation"/>
+            <Key ID="0x22BD900D" Type="CameraNavigationFlags"/>
+            <Value Name="NavigationFlags"/>
         </Element>
         <Element>
             <Key ID="0x22C57F64" Type="float"/>
@@ -6814,8 +6810,8 @@
             <Value Name="HitPlayerSound"/>
         </Element>
         <Element>
-            <Key ID="0x259D3279" Type="Flags"/>
-            <Value Name="FlagsPathPosition"/>
+            <Key ID="0x259D3279" Type="PathPositionFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x25A68A0E" Type="FlyerMovementMode"/>
@@ -7890,10 +7886,6 @@
             <Value Name="LightVulnerabilityIndicator"/>
         </Element>
         <Element>
-            <Key ID="0x2B70FD04" Type="Flags"/>
-            <Value Name="GrabbableRiders"/>
-        </Element>
-        <Element>
             <Key ID="0x2B70FD04" Type="PlayerCharactersBitField"/>
             <Value Name="GrabbableRiders"/>
         </Element>
@@ -8048,10 +8040,6 @@
         <Element>
             <Key ID="0x2C558C5D" Type="asset"/>
             <Value Name="Sound_JumpLoop"/>
-        </Element>
-        <Element>
-            <Key ID="0x2C60DD92" Type="Flags"/>
-            <Value Name="HasMountingAnimations"/>
         </Element>
         <Element>
             <Key ID="0x2C60DD92" Type="PlayerCharactersBitField"/>
@@ -8574,10 +8562,6 @@
             <Value Name="SpawnAnim"/>
         </Element>
         <Element>
-            <Key ID="0x2F026A4F" Type="Flags"/>
-            <Value Name="RiderPlayers"/>
-        </Element>
-        <Element>
             <Key ID="0x2F026A4F" Type="PlayerCharactersBitField"/>
             <Value Name="RiderPlayers"/>
         </Element>
@@ -8764,10 +8748,6 @@
         <Element>
             <Key ID="0x30059956" Type="ForestBossFlightSound"/>
             <Value Name="EnragedFlightSound"/>
-        </Element>
-        <Element>
-            <Key ID="0x30060F67" Type="Flags"/>
-            <Value Name="ProxyPlayers"/>
         </Element>
         <Element>
             <Key ID="0x30060F67" Type="PlayerCharactersBitField"/>
@@ -9346,8 +9326,8 @@
             <Value Name="ParticleSystem1Orientation"/>
         </Element>
         <Element>
-            <Key ID="0x33507998" Type="Flags"/>
-            <Value Name="FlagsPlayerActor"/>
+            <Key ID="0x33507998" Type="PlayerActorFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x3356D37E" Type="WeaponVulnerability"/>
@@ -10898,8 +10878,8 @@
             <Value Name="Puzzle_3_Sound"/>
         </Element>
         <Element>
-            <Key ID="0x3BF4EBA8" Type="Flags"/>
-            <Value Name="FlagsSpindleCamera"/>
+            <Key ID="0x3BF4EBA8" Type="SpindleCameraFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x3BFFC0D1" Type="RobotChickenFlyerData"/>
@@ -14654,8 +14634,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x4F7FEC39" Type="Flags"/>
-            <Value Name="FlagsRumble"/>
+            <Key ID="0x4F7FEC39" Type="RumbleFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x4F82B9E5" Type="asset"/>
@@ -14762,8 +14742,8 @@
             <Value Name="Colliders"/>
         </Element>
         <Element>
-            <Key ID="0x50224907" Type="Flags"/>
-            <Value Name="EffectFlagsTriggerEffect"/>
+            <Key ID="0x50224907" Type="TriggerEffectFlags"/>
+            <Value Name="EffectFlags"/>
         </Element>
         <Element>
             <Key ID="0x50228364" Type="BeatUpHandlerData"/>
@@ -16978,8 +16958,8 @@
             <Value Name="FlippedOverTime2"/>
         </Element>
         <Element>
-            <Key ID="0x5CBD5BAE" Type="Flags"/>
-            <Value Name="FlagsPathCamera"/>
+            <Key ID="0x5CBD5BAE" Type="PathCameraFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x5CC14B87" Type="float"/>
@@ -17090,8 +17070,8 @@
             <Value Name="GridValueMovingLeft"/>
         </Element>
         <Element>
-            <Key ID="0x5D298A43" Type="Flags"/>
-            <Value Name="MiscFlagsMiscEditor"/>
+            <Key ID="0x5D298A43" Type="MiscEditorFlags"/>
+            <Value Name="MiscFlags"/>
         </Element>
         <Element>
             <Key ID="0x5D3C7239" Type="float"/>
@@ -17942,8 +17922,8 @@
             <Value Name="StabDamageMorphball"/>
         </Element>
         <Element>
-            <Key ID="0x6219022E" Type="Flags"/>
-            <Value Name="FlagsOrientation"/>
+            <Key ID="0x6219022E" Type="OrientationFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x62243011" Type="ZoomBehaviorData"/>
@@ -18926,8 +18906,8 @@
             <Value Name="InfoPopup"/>
         </Element>
         <Element>
-            <Key ID="0x67A984CB" Type="Flags"/>
-            <Value Name="FlagsCameraInterpolation"/>
+            <Key ID="0x67A984CB" Type="CameraInterpolationFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x67AB0E8F" Type="UnknownStruct1"/>
@@ -19334,8 +19314,8 @@
             <Value Name="Period"/>
         </Element>
         <Element>
-            <Key ID="0x69ACC94A" Type="Flags"/>
-            <Value Name="FlagsCameraFieldOfView"/>
+            <Key ID="0x69ACC94A" Type="CameraFieldOfViewFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x69B1E76C" Type="float"/>
@@ -23926,8 +23906,8 @@
             <Value Name="MapMoveForward"/>
         </Element>
         <Element>
-            <Key ID="0x82859F46" Type="Flags"/>
-            <Value Name="FlagsTrigger"/>
+            <Key ID="0x82859F46" Type="TriggerFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x828932C1" Type="string"/>
@@ -25422,8 +25402,8 @@
             <Value Name="HyperModeBurstDelayMin"/>
         </Element>
         <Element>
-            <Key ID="0x8AEF6BD2" Type="Flags"/>
-            <Value Name="FlagsRepulsor"/>
+            <Key ID="0x8AEF6BD2" Type="RepulsorFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x8B0A4C90" Type="Color"/>
@@ -27734,8 +27714,8 @@
             <Value Name="FishScale"/>
         </Element>
         <Element>
-            <Key ID="0x97C0611F" Type="Flags"/>
-            <Value Name="DetectionFlagsTriggerDetection"/>
+            <Key ID="0x97C0611F" Type="TriggerDetectionFlags"/>
+            <Value Name="DetectionFlags"/>
         </Element>
         <Element>
             <Key ID="0x97C95A99" Type="bool"/>
@@ -28198,8 +28178,8 @@
             <Value Name="WaveBuster"/>
         </Element>
         <Element>
-            <Key ID="0x9A78A8BB" Type="Flags"/>
-            <Value Name="DisableControlFlagsControlHint"/>
+            <Key ID="0x9A78A8BB" Type="ControlHintFlags"/>
+            <Value Name="DisableControlFlags"/>
         </Element>
         <Element>
             <Key ID="0x9A83F472" Type="float"/>
@@ -28726,8 +28706,8 @@
             <Value Name="RundasProperties"/>
         </Element>
         <Element>
-            <Key ID="0x9D99B2E3" Type="Flags"/>
-            <Value Name="FlagsSurfacePosition"/>
+            <Key ID="0x9D99B2E3" Type="SurfacePositionFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0x9D9CE325" Type="CharacterGlueData"/>
@@ -31006,10 +30986,6 @@
             <Value Name="LocomotionContext"/>
         </Element>
         <Element>
-            <Key ID="0xA9F8A74F" Type="Flags"/>
-            <Value Name="IgnoreMaterials"/>
-        </Element>
-        <Element>
             <Key ID="0xA9F8A74F" Type="IgnoreMaterials"/>
             <Value Name="IgnoreMaterials"/>
         </Element>
@@ -31858,8 +31834,8 @@
             <Value Name="MinOrbCoverCloseTime"/>
         </Element>
         <Element>
-            <Key ID="0xAE80628F" Type="Flags"/>
-            <Value Name="MotionFlagsPlatformMotion"/>
+            <Key ID="0xAE80628F" Type="PlatformMotionFlags"/>
+            <Value Name="MotionFlags"/>
         </Element>
         <Element>
             <Key ID="0xAE813F86" Type="asset"/>
@@ -32326,8 +32302,8 @@
             <Value Name="FragLimit3"/>
         </Element>
         <Element>
-            <Key ID="0xB0B97F9F" Type="Flags"/>
-            <Value Name="PathFlagsPathControl"/>
+            <Key ID="0xB0B97F9F" Type="PathControlFlags"/>
+            <Value Name="PathFlags"/>
         </Element>
         <Element>
             <Key ID="0xB0C2AF7E" Type="int"/>
@@ -32518,8 +32494,8 @@
             <Value Name="WingDamageEffect"/>
         </Element>
         <Element>
-            <Key ID="0xB1B6CF33" Type="Flags"/>
-            <Value Name="FlagsCameraPosition"/>
+            <Key ID="0xB1B6CF33" Type="CameraPositionFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xB1E6472E" Type="bool"/>
@@ -33722,8 +33698,8 @@
             <Value Name="MinRunAroundTime"/>
         </Element>
         <Element>
-            <Key ID="0xB8A6413A" Type="Flags"/>
-            <Value Name="FlagsSpindlePosition"/>
+            <Key ID="0xB8A6413A" Type="SpindlePositionFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xB8AE1BDC" Type="SandBossChargeBeamData"/>
@@ -35822,8 +35798,8 @@
             <Value Name="MeleeAttackRange"/>
         </Element>
         <Element>
-            <Key ID="0xC3E75C5F" Type="Flags"/>
-            <Value Name="FlagsCameraShaker"/>
+            <Key ID="0xC3E75C5F" Type="CameraShakerFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xC3F4F3EF" Type="choice"/>
@@ -36378,8 +36354,8 @@
             <Value Name="StatsFontColor"/>
         </Element>
         <Element>
-            <Key ID="0xC6CE7689" Type="Flags"/>
-            <Value Name="FlagsActorTransform"/>
+            <Key ID="0xC6CE7689" Type="ActorTransformFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xC6D0D3A4" Type="bool"/>
@@ -36484,10 +36460,6 @@
         <Element>
             <Key ID="0xC7385390" Type="PlayerActorOverlay"/>
             <Value Name="HyperModeOverlay"/>
-        </Element>
-        <Element>
-            <Key ID="0xC739D41A" Type="Flags"/>
-            <Value Name="IsAllowedToTouchWhileSlavedTo"/>
         </Element>
         <Element>
             <Key ID="0xC739D41A" Type="PlayerCharactersBitField"/>
@@ -39070,8 +39042,8 @@
             <Value Name="RTriggerIn"/>
         </Element>
         <Element>
-            <Key ID="0xD4B29446" Type="Flags"/>
-            <Value Name="SplineFlagsCameraSpline"/>
+            <Key ID="0xD4B29446" Type="CameraSplineFlags"/>
+            <Value Name="SplineFlags"/>
         </Element>
         <Element>
             <Key ID="0xD4B4AD93" Type="float"/>
@@ -43774,8 +43746,8 @@
             <Value Name="DeploymentSpeed"/>
         </Element>
         <Element>
-            <Key ID="0xEEADEFA6" Type="Flags"/>
-            <Value Name="FlagsPlayerTurret"/>
+            <Key ID="0xEEADEFA6" Type="PlayerTurretFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xEEAF03C4" Type="sound"/>
@@ -44214,8 +44186,8 @@
             <Value Name="BeamTargetOffsetHeight"/>
         </Element>
         <Element>
-            <Key ID="0xF11C6C2B" Type="Flags"/>
-            <Value Name="FlagsActorRotate"/>
+            <Key ID="0xF11C6C2B" Type="ActorRotateFlags"/>
+            <Value Name="Flags"/>
         </Element>
         <Element>
             <Key ID="0xF11EC8EE" Type="bool"/>
@@ -45262,8 +45234,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xF65FEEF8" Type="Flags"/>
-            <Value Name="RadialDamageDamage"/>
+            <Key ID="0xF65FEEF8" Type="DamageFlags"/>
+            <Value Name="RadialDamage"/>
         </Element>
         <Element>
             <Key ID="0xF668C245" Type="float"/>
@@ -46014,8 +45986,8 @@
             <Value Name="Squawk"/>
         </Element>
         <Element>
-            <Key ID="0xFA51D735" Type="Flags"/>
-            <Value Name="MetroidFlagsMetroid"/>
+            <Key ID="0xFA51D735" Type="MetroidFlags"/>
+            <Value Name="MetroidFlags"/>
         </Element>
         <Element>
             <Key ID="0xFA57398B" Type="float"/>

@@ -8,10 +8,7 @@
             <Element Type="Bool" ID="0x41435456">
                 <DefaultValue>true</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x5D298A43">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>3</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x5D298A43" Archetype="MiscEditorFlags"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

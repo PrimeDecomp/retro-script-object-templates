@@ -10,10 +10,7 @@
             <Element Type="Float" ID="0x8747552E">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x21D720A9">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>1610905732</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x21D720A9" Archetype="CameraHintFlags"/>
             <Element Type="Struct" ID="0x97A93F8F" Archetype="CameraConstraints"/>
             <Element Type="Struct" ID="0xE8EAAF0E" Archetype="CameraTracking"/>
             <Element Type="Struct" ID="0xD1BD5C40" Archetype="CameraPosition"/>

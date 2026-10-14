@@ -3,10 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>PathPosition</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0x259D3279">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x259D3279" Archetype="PathPositionFlags"/>
             <Element Type="Enum" ID="0x340E4CA3">
                 <DefaultValue>0xD25FBD92</DefaultValue>
                 <Values>

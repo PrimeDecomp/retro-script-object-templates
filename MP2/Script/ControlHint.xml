@@ -22,22 +22,7 @@
             <Element Type="Float" ID="0x6A45D9D0">
                 <DefaultValue>0.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x9A78A8BB">
-                <DefaultValue>0</DefaultValue>
-                <Flags>
-                    <Element Name="Disable All Controls" Mask="0x1"/>
-                    <Element Name="Disable Movement?" Mask="0x2"/>
-                    <Element Name="Disable Gun 1" Mask="0x4"/>
-                    <Element Name="Disable Gun 2" Mask="0x8"/>
-                    <Element Name="Unknown 5 (Unused?)" Mask="0x10"/>
-                    <Element Name="Remove Lock-On" Mask="0x20"/>
-                    <Element Name="Disable Morph Transitions" Mask="0x40"/>
-                    <Element Name="Disable Morph 2" Mask="0x80"/>
-                    <Element Name="Unknown 9 (Unused?)" Mask="0x100"/>
-                    <Element Name="Unknown 10" Mask="0x200"/>
-                    <Element Name="Disable Aiming?" Mask="0x400"/>
-                </Flags>
-            </Element>
+            <Element Type="Flags" ID="0x9A78A8BB" Archetype="ControlHintFlags"/>
             <Element Type="Struct" ID="0xA0840DD7" Archetype="CommandData"/>
             <Element Type="Struct" ID="0xD71ADF27" Archetype="CommandData"/>
             <Element Type="Struct" ID="0x4CBF9348" Archetype="CommandData"/>

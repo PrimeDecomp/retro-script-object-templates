@@ -29,9 +29,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
-            <Element Type="Flags" ID="0x92FBAD0">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x92FBAD0" Archetype="IngFlags"/>
             <Element Type="Asset" ID="0xBDCCE71B">
                 <TypeFilter>
                     <Element>CMDL</Element>

@@ -4,9 +4,7 @@
         <Name>PathControl</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Flags" ID="0xB0B97F9F">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xB0B97F9F" Archetype="PathControlFlags"/>
             <Element Type="Enum" ID="0xF25FFDFF">
                 <DefaultValue>0xF56F6770</DefaultValue>
                 <Values>

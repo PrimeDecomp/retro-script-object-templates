@@ -28,9 +28,7 @@
             <Element Type="Float" ID="0xAB8151EA">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x5C5FC6E">
-                <DefaultValue>133236</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x5C5FC6E" Archetype="CinematicCameraFlags"/>
             <Element Type="Spline" ID="0x27E5F874"/>
             <Element Type="Spline" ID="0xC4DFBFA7"/>
             <Element Type="Struct" ID="0x65FC11FF" Archetype="CameraOrientation">
@@ -38,7 +36,7 @@
                     <Element Type="Enum" ID="0x5C72A964">
                         <DefaultValue>0x26AD4A6B</DefaultValue>
                     </Element>
-                    <Element Type="Flags" ID="0x6219022E">
+                    <Element Type="Flags" ID="0x6219022E" Archetype="OrientationFlags">
                         <DefaultValue>12</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0xDA54B3E9">
@@ -62,7 +60,7 @@
             <Element Type="Spline" ID="0xF4F4798E"/>
             <Element Type="Struct" ID="0x764827D4" Archetype="CameraInterpolation">
                 <SubProperties>
-                    <Element Type="Flags" ID="0x1D49D35C">
+                    <Element Type="Flags" ID="0x1D49D35C" Archetype="CameraInterpolationFlags">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0xA738790A">
@@ -86,7 +84,7 @@
                             </Element>
                         </SubProperties>
                     </Element>
-                    <Element Type="Flags" ID="0x58C1B1D">
+                    <Element Type="Flags" ID="0x58C1B1D" Archetype="CameraInterpolationFlags">
                         <DefaultValue>0</DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0x7FAC732A">

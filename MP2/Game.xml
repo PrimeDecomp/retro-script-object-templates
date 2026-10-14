@@ -836,6 +836,10 @@
             <Value Path="Structs/ActorParameters.xml"/>
         </Element>
         <Element>
+            <Key>ActorRotateFlags</Key>
+            <Value Path="Flags/ActorRotateFlags.xml"/>
+        </Element>
+        <Element>
             <Key>AudioPlaybackParms</Key>
             <Value Path="Structs/AudioPlaybackParms.xml"/>
         </Element>
@@ -868,6 +872,10 @@
             <Value Path="Structs/CameraFOV.xml"/>
         </Element>
         <Element>
+            <Key>CameraHintFlags</Key>
+            <Value Path="Flags/CameraHintFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraOffset</Key>
             <Value Path="Structs/CameraOffset.xml"/>
         </Element>
@@ -876,12 +884,24 @@
             <Value Path="Structs/CameraShakerData.xml"/>
         </Element>
         <Element>
+            <Key>CameraShakerFlags</Key>
+            <Value Path="Flags/CameraShakerFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraSpeed</Key>
             <Value Path="Structs/CameraSpeed.xml"/>
         </Element>
         <Element>
+            <Key>CameraSplineFlags</Key>
+            <Value Path="Flags/CameraSplineFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CameraZOffset</Key>
             <Value Path="Structs/CameraZOffset.xml"/>
+        </Element>
+        <Element>
+            <Key>CinematicCameraFlags</Key>
+            <Value Path="Flags/CinematicCameraFlags.xml"/>
         </Element>
         <Element>
             <Key>Command</Key>
@@ -906,6 +926,10 @@
         <Element>
             <Key>Connection</Key>
             <Value Path="Structs/Connection.xml"/>
+        </Element>
+        <Element>
+            <Key>ControlHintFlags</Key>
+            <Value Path="Flags/ControlHintFlags.xml"/>
         </Element>
         <Element>
             <Key>ControllerActionCommand</Key>
@@ -1068,6 +1092,10 @@
             <Value Path="Structs/IngBoostBallGuardianStruct.xml"/>
         </Element>
         <Element>
+            <Key>IngFlags</Key>
+            <Value Path="Flags/IngFlags.xml"/>
+        </Element>
+        <Element>
             <Key>IngPossessionData</Key>
             <Value Path="Structs/IngPossessionData.xml"/>
         </Element>
@@ -1116,12 +1144,20 @@
             <Value Path="Structs/MasterLayer.xml"/>
         </Element>
         <Element>
+            <Key>MetroidFlags</Key>
+            <Value Path="Flags/MetroidFlags.xml"/>
+        </Element>
+        <Element>
             <Key>MinorIngIngSpot</Key>
             <Value Path="Structs/MinorIngIngSpot.xml"/>
         </Element>
         <Element>
             <Key>MinorIngInglet</Key>
             <Value Path="Structs/MinorIngInglet.xml"/>
+        </Element>
+        <Element>
+            <Key>MiscEditorFlags</Key>
+            <Value Path="Flags/MiscEditorFlags.xml"/>
         </Element>
         <Element>
             <Key>MissileRepellerData</Key>
@@ -1132,6 +1168,10 @@
             <Value Path="Structs/MysteryFlyerData.xml"/>
         </Element>
         <Element>
+            <Key>PathCameraFlags</Key>
+            <Value Path="Flags/PathCameraFlags.xml"/>
+        </Element>
+        <Element>
             <Key>PatternedAITypedef</Key>
             <Value Path="Structs/PatternedAITypedef.xml"/>
         </Element>
@@ -1140,8 +1180,20 @@
             <Value Path="Structs/PlasmaBeamInfo.xml"/>
         </Element>
         <Element>
+            <Key>PlatformMotionFlags</Key>
+            <Value Path="Flags/PlatformMotionFlags.xml"/>
+        </Element>
+        <Element>
             <Key>PlatformMotionProperties</Key>
             <Value Path="Structs/PlatformMotionProperties.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerActorFlags</Key>
+            <Value Path="Flags/PlayerActorFlags.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerHintFlags</Key>
+            <Value Path="Flags/PlayerHintFlags.xml"/>
         </Element>
         <Element>
             <Key>PlayerInventory</Key>
@@ -1152,8 +1204,16 @@
             <Value Path="Enums/PlayerItem.xml"/>
         </Element>
         <Element>
+            <Key>PlayerTurretFlags</Key>
+            <Value Path="Flags/PlayerTurretFlags.xml"/>
+        </Element>
+        <Element>
             <Key>PowerBombGuardianStageProperties</Key>
             <Value Path="Structs/PowerBombGuardianStageProperties.xml"/>
+        </Element>
+        <Element>
+            <Key>RepulsorFlags</Key>
+            <Value Path="Flags/RepulsorFlags.xml"/>
         </Element>
         <Element>
             <Key>RezbitData</Key>
@@ -1166,6 +1226,10 @@
         <Element>
             <Key>RubiksPuzzleData</Key>
             <Value Path="Structs/RubiksPuzzleData.xml"/>
+        </Element>
+        <Element>
+            <Key>RumbleFlags</Key>
+            <Value Path="Flags/RumbleFlags.xml"/>
         </Element>
         <Element>
             <Key>SafeZoneAttributes</Key>
@@ -1228,6 +1292,10 @@
             <Value Path="Structs/SpacePirateWeaponData.xml"/>
         </Element>
         <Element>
+            <Key>SpindleCameraFlags</Key>
+            <Value Path="Flags/SpindleCameraFlags.xml"/>
+        </Element>
+        <Element>
             <Key>SpindleCameraInterpolant</Key>
             <Value Path="Structs/SpindleCameraInterpolant.xml"/>
         </Element>
@@ -1246,6 +1314,10 @@
         <Element>
             <Key>SplitterScanBeamData</Key>
             <Value Path="Structs/SplitterScanBeamData.xml"/>
+        </Element>
+        <Element>
+            <Key>SurfaceCameraFlags</Key>
+            <Value Path="Flags/SurfaceCameraFlags.xml"/>
         </Element>
         <Element>
             <Key>SurroundPan</Key>
@@ -1302,6 +1374,10 @@
         <Element>
             <Key>Transform</Key>
             <Value Path="Structs/Transform.xml"/>
+        </Element>
+        <Element>
+            <Key>TriggerFlags</Key>
+            <Value Path="Flags/TriggerFlags.xml"/>
         </Element>
         <Element>
             <Key>TriggerInfo</Key>

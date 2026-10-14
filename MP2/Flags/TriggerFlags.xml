@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Flags">
+        <Name>TriggerFlags</Name>
+        <DefaultValue>30726</DefaultValue>
+        <Flags>
+            <Element Name="Detect Player" Mask="0x1"/>
+            <Element Name="Detect Morphed Player" Mask="0x2"/>
+            <Element Name="Detect Unmorphed Player" Mask="0x4"/>
+            <Element Name="Unknown 1" Mask="0x8"/>
+            <Element Name="Unknown 2" Mask="0x10"/>
+            <Element Name="Unknown 3" Mask="0x20"/>
+            <Element Name="Unknown 4" Mask="0x40"/>
+            <Element Name="Unknown 5" Mask="0x80"/>
+            <Element Name="Unknown 6" Mask="0x100"/>
+            <Element Name="Unknown 7" Mask="0x200"/>
+            <Element Name="Unknown 8" Mask="0x400"/>
+            <Element Name="Detect Player 1" Mask="0x800"/>
+            <Element Name="Detect Player 2" Mask="0x1000"/>
+            <Element Name="Detect Player 3" Mask="0x2000"/>
+            <Element Name="Detect Player 4" Mask="0x4000"/>
+            <Element Name="Detect AI" Mask="0x8000"/>
+            <Element Name="Kill On Entered" Mask="0x10000"/>
+            <Element Name="Use Collision Impulses" Mask="0x20000"/>
+            <Element Name="Use Boolean Intersection" Mask="0x40000"/>
+            <Element Name="Detect Camera" Mask="0x80000"/>
+            <Element Name="Block Environmental Effects" Mask="0x100000"/>
+            <Element Name="Detect Projectiles" Mask="0x200000"/>
+            <Element Name="Detect Bombs" Mask="0x400000"/>
+            <Element Name="Unknown 9" Mask="0x800000"/>
+            <Element Name="Detect Boost Ball" Mask="0x1000000"/>
+            <Element Name="Sunlight (Makes Lumites Appear)" Mask="0x2000000"/>
+            <Element Name="Delete Objects" Mask="0x4000000"/>
+            <Element Name="Detect Spider Ball" Mask="0x8000000"/>
+            <Element Name="Detect Screw Attack" Mask="0x10000000"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

@@ -3,9 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>CameraInterpolation</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0x1D49D35C">
-                <DefaultValue>3</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x1D49D35C" Archetype="CameraInterpolationFlags"/>
             <Element Type="Float" ID="0xC22D6492">
                 <DefaultValue>100.0</DefaultValue>
             </Element>
@@ -15,9 +13,7 @@
             <Element Type="Struct" ID="0xA738790A" Archetype="MotionInterpolationMethod"/>
             <Element Type="Struct" ID="0xA768A18E" Archetype="OrientationInterpolationMethod"/>
             <Element Type="Struct" ID="0x3B8C7CB4" Archetype="FOVInterpolationMethod"/>
-            <Element Type="Flags" ID="0x58C1B1D">
-                <DefaultValue>3</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x58C1B1D" Archetype="CameraInterpolationFlags"/>
             <Element Type="Float" ID="0x943F8A27">
                 <DefaultValue>100.0</DefaultValue>
             </Element>

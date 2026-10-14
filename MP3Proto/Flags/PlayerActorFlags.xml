@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="CorruptionProto">
+    <PropertyArchetype Type="Flags">
+        <Name>PlayerActorFlags</Name>
+        <DefaultValue>4</DefaultValue>
+    </PropertyArchetype>
+</PropertyTemplate>

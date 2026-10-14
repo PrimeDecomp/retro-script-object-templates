@@ -19,7 +19,7 @@
             <Element Type="Struct" ID="0x9A6D7A31" Archetype="CameraShakerData"/>
             <Element Type="Struct" ID="0x12F14C5A" Archetype="CameraShakerData">
                 <SubProperties>
-                    <Element Type="Flags" ID="0xC3E75C5F">
+                    <Element Type="Flags" ID="0xC3E75C5F" Archetype="CameraShakerFlags">
                         <DefaultValue>19</DefaultValue>
                     </Element>
                 </SubProperties>

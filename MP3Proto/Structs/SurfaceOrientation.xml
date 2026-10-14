@@ -3,9 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>SurfaceOrientation</Name>
         <SubProperties>
-            <Element Type="Flags" ID="0x10E6F366">
-                <DefaultValue>256</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x10E6F366" Archetype="SurfaceOrientationFlags"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

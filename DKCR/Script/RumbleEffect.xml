@@ -5,15 +5,12 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties">
                 <SubProperties>
-                    <Element Type="Flags" ID="0x5D298A43">
+                    <Element Type="Flags" ID="0x5D298A43" Archetype="MiscEditorFlags">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Flags" ID="0x4F7FEC39">
-                <CookPreference>Always</CookPreference>
-                <DefaultValue>240</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x4F7FEC39" Archetype="RumbleFlags"/>
             <Element Type="Enum" ID="0x295D238B">
                 <DefaultValue>0x186ECB5</DefaultValue>
                 <Values>

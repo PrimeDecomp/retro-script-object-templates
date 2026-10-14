@@ -15,9 +15,7 @@
                     <Element Name="kPT_Offset" ID="0xACB5235F"/>
                 </Values>
             </Element>
-            <Element Type="Flags" ID="0xB1B6CF33">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xB1B6CF33" Archetype="CameraPositionFlags"/>
             <Element Type="Struct" ID="0x501ED3A3" Archetype="ColliderPosition"/>
             <Element Type="Struct" ID="0xBBDDC576" Archetype="ChasePosition"/>
             <Element Type="Struct" ID="0xE8AB9BC8" Archetype="PathPosition"/>
