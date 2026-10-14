@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Flags">
+        <Name>SpacePirateFlags</Name>
+        <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Pending Ambush" Mask="0x1"/>
+            <Element Name="Ceiling Ambush" Mask="0x2"/>
+            <Element Name="Non Aggressive" Mask="0x4"/>
+            <Element Name="Melee" Mask="0x8"/>
+            <Element Name="No Shuffle Close Check" Mask="0x10"/>
+            <Element Name="Only Attack In Range" Mask="0x20"/>
+            <Element Name="Unknown 7" Mask="0x40"/>
+            <Element Name="No Knockback Impulse Reset" Mask="0x80"/>
+            <Element Name="No Melee Attack" Mask="0x200"/>
+            <Element Name="Break Attack" Mask="0x400"/>
+            <Element Name="Unknown 12" Mask="0x800"/>
+            <Element Name="Seated" Mask="0x1000"/>
+            <Element Name="Shadow Pirate" Mask="0x2000"/>
+            <Element Name="Alert Before Cloak" Mask="0x4000"/>
+            <Element Name="No Break Dodge" Mask="0x8000"/>
+            <Element Name="Floating Corpse" Mask="0x10000"/>
+            <Element Name="Ragdoll No AI Collision" Mask="0x20000"/>
+            <Element Name="Trooper" Mask="0x40000"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>
