@@ -3,5 +3,9 @@
     <PropertyArchetype Type="Flags">
         <Name>RumbleFlags</Name>
         <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Non Positional" Mask="0x1"/>
+            <Element Name="Position At Sender" Mask="0x2"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

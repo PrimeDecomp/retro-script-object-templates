@@ -6,15 +6,7 @@
             <Element Type="Bool" ID="0xFE9DC266">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0xCA19E8C6">
-                <DefaultValue>15</DefaultValue>
-                <Flags>
-                    <Element Name="Combat" Mask="0x1"/>
-                    <Element Name="Scan" Mask="0x2"/>
-                    <Element Name="Dark" Mask="0x4"/>
-                    <Element Name="Echo" Mask="0x8"/>
-                </Flags>
-            </Element>
+            <Element Type="Flags" ID="0xCA19E8C6" Archetype="VisorFlags"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

@@ -5,16 +5,17 @@
         <DefaultValue>0</DefaultValue>
         <Flags>
             <Element Name="Disable All Controls" Mask="0x1"/>
-            <Element Name="Disable Movement?" Mask="0x2"/>
-            <Element Name="Disable Gun 1" Mask="0x4"/>
-            <Element Name="Disable Gun 2" Mask="0x8"/>
-            <Element Name="Unknown 5 (Unused?)" Mask="0x10"/>
-            <Element Name="Remove Lock-On" Mask="0x20"/>
-            <Element Name="Disable Morph Transitions" Mask="0x40"/>
-            <Element Name="Disable Morph 2" Mask="0x80"/>
-            <Element Name="Unknown 9 (Unused?)" Mask="0x100"/>
-            <Element Name="Unknown 10" Mask="0x200"/>
-            <Element Name="Disable Aiming?" Mask="0x400"/>
+            <Element Name="Disable Movement" Mask="0x2"/>
+            <Element Name="Disable Weapons" Mask="0x4"/>
+            <Element Name="Disable Beam Selection" Mask="0x8"/>
+            <Element Name="Disable Visors" Mask="0x10"/>
+            <Element Name="Disable Orbit" Mask="0x20"/>
+            <Element Name="Disable Unmorph" Mask="0x40"/>
+            <Element Name="Disable Morph" Mask="0x80"/>
+            <Element Name="Disable Look" Mask="0x100"/>
+            <Element Name="Disable Boost Ball" Mask="0x200"/>
+            <Element Name="Disable Spider Ball" Mask="0x400"/>
+            <Element Name="Reset Gun" Mask="0x80000000"/>
         </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

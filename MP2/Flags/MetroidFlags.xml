@@ -3,5 +3,9 @@
     <PropertyArchetype Type="Flags">
         <Name>MetroidFlags</Name>
         <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Baby Metroid" Mask="0x1"/>
+            <Element Name="Starts In Wall" Mask="0x2"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

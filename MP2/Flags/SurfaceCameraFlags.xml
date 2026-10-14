@@ -3,5 +3,12 @@
     <PropertyArchetype Type="Flags">
         <Name>SurfaceCameraFlags</Name>
         <DefaultValue>2</DefaultValue>
+        <Flags>
+            <Element Name="Follow Player Directly" Mask="0x1"/>
+            <Element Name="Offset Along Surface" Mask="0x2"/>
+            <Element Name="Offset Is Degrees" Mask="0x4"/>
+            <Element Name="Target Ball Position" Mask="0x8"/>
+            <Element Name="Project Target Along Hint Forward" Mask="0x10"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

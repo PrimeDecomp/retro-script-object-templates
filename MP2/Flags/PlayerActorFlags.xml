@@ -3,5 +3,18 @@
     <PropertyArchetype Type="Flags">
         <Name>PlayerActorFlags</Name>
         <DefaultValue>4</DefaultValue>
+        <Flags>
+            <Element Name="Load Next Suit" Mask="0x1"/>
+            <Element Name="Reverse Suit Order" Mask="0x2"/>
+            <Element Name="Reset On Deactivate" Mask="0x4"/>
+            <Element Name="Delay Area Load" Mask="0x8"/>
+            <Element Name="Stay Registered On Deactivate" Mask="0x10"/>
+            <Element Name="No Shadow" Mask="0x20"/>
+            <Element Name="Hide Gun" Mask="0x40"/>
+            <Element Name="Wait For Increment" Mask="0x80"/>
+            <Element Name="Render Gun First" Mask="0x100"/>
+            <Element Name="Hide Grapple" Mask="0x200"/>
+            <Element Name="Keep Suit" Mask="0x400"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

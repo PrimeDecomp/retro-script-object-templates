@@ -3,5 +3,9 @@
     <PropertyArchetype Type="Flags">
         <Name>RepulsorFlags</Name>
         <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Repel Player" Mask="0x1"/>
+            <Element Name="Use Forward Vector" Mask="0x2"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

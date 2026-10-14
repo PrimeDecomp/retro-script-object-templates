@@ -3,5 +3,14 @@
     <PropertyArchetype Type="Flags">
         <Name>ActorRotateFlags</Name>
         <DefaultValue>20</DefaultValue>
+        <Flags>
+            <Element Name="Auto Start" Mask="0x1"/>
+            <Element Name="Loop" Mask="0x2"/>
+            <Element Name="Local Rotation" Mask="0x4"/>
+            <Element Name="Duration From Splines" Mask="0x8"/>
+            <Element Name="Advance Time" Mask="0x10"/>
+            <Element Name="External Time" Mask="0x20"/>
+            <Element Name="Angular Velocity" Mask="0x40"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>
