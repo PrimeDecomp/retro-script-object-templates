@@ -4,7 +4,7 @@
         <Name>CinematicCameraFlags</Name>
         <Flags>
             <Element Name="LookAtPlayer" Mask="0x1"/>
-            <Element Name="OutOfPlayerEye" Mask="0x2"/>
+            <Element Name="FullScreen" Mask="0x2"/>
             <Element Name="IntoPlayerEye" Mask="0x4"/>
             <Element Name="CinematicSkip" Mask="0x8"/>
             <Element Name="FinishCineSkip" Mask="0x10"/>
@@ -21,6 +21,7 @@
         </Flags>
         <DefaultValue>168</DefaultValue>
         <Description>
+        &lt;br/&gt;* &lt;span style=&quot; font-weight:600;&quot;&gt;FullScreen&lt;/span&gt;: In multiplayer, shows the cutscene in a single full-screen viewport and pauses the match timer. Also turns off 30 FPS mode.
         &lt;br/&gt;* &lt;span style=&quot; font-weight:600;&quot;&gt;FinishCineSkip&lt;/span&gt;: Interrupts the cutscene skip progress and resumes on this camera.
         &lt;br/&gt;* &lt;span style=&quot; font-weight:600;&quot;&gt;CheckFailsafe&lt;/span&gt;: Freezes the player in place during the cutscene.
         &lt;br/&gt;* &lt;span style=&quot; font-weight:600;&quot;&gt;CinematicPause&lt;/span&gt;: Freezes the environment during the cutscene.
