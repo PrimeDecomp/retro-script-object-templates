@@ -31,10 +31,10 @@
             <Element Type="Float" ID="0xD4D52631">
                 <DefaultValue>1.5</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x6C3B5F38">
+            <Element Type="Animation" ID="0x6C3B5F38">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xE9BF2240">
+            <Element Type="Animation" ID="0xE9BF2240">
                 <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>

@@ -26,7 +26,7 @@
             <Element Type="Bool" ID="0xBCA8B742">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x606E341C">
+            <Element Type="Int" ID="0x606E341C">
                 <DefaultValue>128</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xA21B515A" Archetype="ShadowProjection"/>

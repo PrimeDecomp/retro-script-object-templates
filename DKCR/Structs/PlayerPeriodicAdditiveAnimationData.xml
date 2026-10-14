@@ -9,7 +9,7 @@
             <Element Type="Float" ID="0xFE41227F">
                 <DefaultValue>6.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xAACDB11C">
+            <Element Type="Animation" ID="0xAACDB11C">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>

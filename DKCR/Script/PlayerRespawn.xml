@@ -17,7 +17,7 @@
             <Element Type="Struct" ID="0xCC528ED6" Archetype="PlayerDeathData"/>
             <Element Type="Struct" ID="0x416BD9EB" Archetype="MasterLayerList"/>
             <Element Type="AnimationSet" ID="0xF8B3ABE0"/>
-            <Element Type="Int" ID="0x563F35C8">
+            <Element Type="Animation" ID="0x563F35C8">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="AnimationSet" ID="0x32CE899F"/>

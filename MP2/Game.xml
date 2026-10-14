@@ -924,6 +924,10 @@
             <Value Path="Structs/ConditionalTest.xml"/>
         </Element>
         <Element>
+            <Key>ConditionalTestFlags</Key>
+            <Value Path="Flags/ConditionalTestFlags.xml"/>
+        </Element>
+        <Element>
             <Key>Connection</Key>
             <Value Path="Structs/Connection.xml"/>
         </Element>

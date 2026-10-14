@@ -68,19 +68,19 @@
                     <Element>FSMC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x6435AFF">
+            <Element Type="Animation" ID="0x6435AFF">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xB073B311">
+            <Element Type="Animation" ID="0xB073B311">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x719345CF">
+            <Element Type="Animation" ID="0x719345CF">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5B203CBA">
                 <DefaultValue>12.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x483A338">
+            <Element Type="Animation" ID="0x483A338">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xE0DCFBBE" Archetype="RobotChickenBeltData"/>

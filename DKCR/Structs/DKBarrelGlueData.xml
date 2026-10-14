@@ -3,10 +3,10 @@
     <PropertyArchetype Type="Struct">
         <Name>DKBarrelGlueData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0x1C75F24D">
+            <Element Type="Animation" ID="0x1C75F24D">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xC5C6CD8">
+            <Element Type="Animation" ID="0xC5C6CD8">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xE845AC92">

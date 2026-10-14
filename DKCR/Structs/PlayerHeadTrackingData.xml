@@ -3,15 +3,15 @@
     <PropertyArchetype Type="Struct">
         <Name>PlayerHeadTrackingData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xAACDB11C">
+            <Element Type="Animation" ID="0xAACDB11C">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7F96D93C">
+            <Element Type="Animation" ID="0x7F96D93C">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD0ED78B3">
+            <Element Type="Animation" ID="0xD0ED78B3">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>

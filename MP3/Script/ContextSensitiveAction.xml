@@ -7,7 +7,7 @@
         <Name>ContextSensitiveAction</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
-            <Element Type="Int" ID="0xAACDB11C">
+            <Element Type="Animation" ID="0xAACDB11C">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Enum" ID="0xB068F40B">

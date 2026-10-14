@@ -90,10 +90,10 @@
             <Element Type="Float" ID="0xD4D52631">
                 <DefaultValue>1.5</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xBFE017DE">
+            <Element Type="Animation" ID="0xBFE017DE">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xED5F16AC">
+            <Element Type="Animation" ID="0xED5F16AC">
                 <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>

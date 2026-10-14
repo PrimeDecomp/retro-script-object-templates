@@ -1000,6 +1000,10 @@
             <Value Path="Structs/ConditionalTest.xml"/>
         </Element>
         <Element>
+            <Key>ConditionalTestFlags</Key>
+            <Value Path="Flags/ConditionalTestFlags.xml"/>
+        </Element>
+        <Element>
             <Key>Connection</Key>
             <Value Path="Structs/Connection.xml"/>
         </Element>
@@ -2322,6 +2326,10 @@
         <Element>
             <Key>VelocityConvergence</Key>
             <Value Path="Structs/VelocityConvergence.xml"/>
+        </Element>
+        <Element>
+            <Key>VisorFlags</Key>
+            <Value Path="Flags/VisorFlags.xml"/>
         </Element>
         <Element>
             <Key>VisorParameters</Key>

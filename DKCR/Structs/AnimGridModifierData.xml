@@ -3,7 +3,7 @@
     <PropertyArchetype Type="Struct">
         <Name>AnimGridModifierData</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xA1266897">
+            <Element Type="Animation" ID="0xA1266897">
                 <CookPreference>Always</CookPreference>
                 <DefaultValue>-1</DefaultValue>
             </Element>
