@@ -3,5 +3,13 @@
     <PropertyArchetype Type="Flags">
         <Name>CameraShakerFlags</Name>
         <DefaultValue>16</DefaultValue>
+        <Flags>
+            <Element Name="Distance Attenuation" Mask="0x1"/>
+            <Element Name="Explicit Duration" Mask="0x4"/>
+            <Element Name="Amplitude Scaled Volume" Mask="0x8"/>
+            <Element Name="Non Positional Sound" Mask="0x10"/>
+            <Element Name="Allow Cinematic" Mask="0x20"/>
+            <Element Name="Rumble Distance Attenuation" Mask="0x40"/>
+        </Flags>
     </PropertyArchetype>
 </PropertyTemplate>

@@ -27,7 +27,7 @@
             <Element Name="Block Environmental Effects" Mask="0x100000"/>
             <Element Name="Detect Projectiles" Mask="0x200000"/>
             <Element Name="Detect Bombs" Mask="0x400000"/>
-            <Element Name="Unknown 9" Mask="0x800000"/>
+            <Element Name="Detect Power Bombs" Mask="0x800000"/>
             <Element Name="Detect Boost Ball" Mask="0x1000000"/>
             <Element Name="Sunlight (Makes Lumites Appear)" Mask="0x2000000"/>
             <Element Name="Delete Objects" Mask="0x4000000"/>
