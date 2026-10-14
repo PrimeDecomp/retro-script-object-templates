@@ -19,15 +19,15 @@
             <Element Name="Force Echo Visor" Mask="0x1000"/>
             <Element Name="Freeze Player" Mask="0x2000"/>
             <Element Name="Face On Unmorph" Mask="0x4000"/>
-            <Element Name="Unknown 16" Mask="0x8000"/>
-            <Element Name="Unknown 17" Mask="0x10000"/>
-            <Element Name="Unknown 18" Mask="0x20000"/>
+            <Element Name="Ignore Dark World Damage" Mask="0x8000"/>
+            <Element Name="No Safe Zone Healing" Mask="0x10000"/>
+            <Element Name="No Morph Ball Damage Timer" Mask="0x20000"/>
             <Element Name="Unknown 19" Mask="0x40000"/>
             <Element Name="Force Free Look" Mask="0x80000"/>
             <Element Name="Unknown 21" Mask="0x100000"/>
             <Element Name="Force First Person" Mask="0x200000"/>
             <Element Name="Force Third Person" Mask="0x400000"/>
-            <Element Name="Unknown 24" Mask="0x800000"/>
+            <Element Name="Damp Boost Entry Velocity" Mask="0x800000"/>
         </Flags>
     </PropertyArchetype>
 </PropertyTemplate>
