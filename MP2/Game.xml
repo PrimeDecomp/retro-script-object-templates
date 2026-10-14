@@ -840,16 +840,16 @@
             <Value Path="Flags/ActorRotateFlags.xml"/>
         </Element>
         <Element>
+            <Key>AlphaBloggStageData</Key>
+            <Value Path="Structs/AlphaBloggStageData.xml"/>
+        </Element>
+        <Element>
             <Key>AudioPlaybackParms</Key>
             <Value Path="Structs/AudioPlaybackParms.xml"/>
         </Element>
         <Element>
             <Key>BasicSwarmProperties</Key>
             <Value Path="Structs/BasicSwarmProperties.xml"/>
-        </Element>
-        <Element>
-            <Key>BloggStruct</Key>
-            <Value Path="Structs/BloggStruct.xml"/>
         </Element>
         <Element>
             <Key>BoostBallGuardianData</Key>
@@ -1084,12 +1084,12 @@
             <Value Path="Structs/HealthInfo.xml"/>
         </Element>
         <Element>
-            <Key>IngBoostBallGuardianData</Key>
-            <Value Path="Structs/IngBoostBallGuardianData.xml"/>
+            <Key>IngBoostBallGuardianBoostData</Key>
+            <Value Path="Structs/IngBoostBallGuardianBoostData.xml"/>
         </Element>
         <Element>
-            <Key>IngBoostBallGuardianStruct</Key>
-            <Value Path="Structs/IngBoostBallGuardianStruct.xml"/>
+            <Key>IngBoostBallGuardianData</Key>
+            <Value Path="Structs/IngBoostBallGuardianData.xml"/>
         </Element>
         <Element>
             <Key>IngFlags</Key>
@@ -1116,8 +1116,8 @@
             <Value Path="Structs/IngSpiderballGuardianData.xml"/>
         </Element>
         <Element>
-            <Key>IngSpiderballGuardianStruct</Key>
-            <Value Path="Structs/IngSpiderballGuardianStruct.xml"/>
+            <Key>IngSpiderballGuardianPuzzleData</Key>
+            <Value Path="Structs/IngSpiderballGuardianPuzzleData.xml"/>
         </Element>
         <Element>
             <Key>InterpolationOrientationType</Key>
@@ -1260,8 +1260,8 @@
             <Value Path="Structs/SandBossStampedeData.xml"/>
         </Element>
         <Element>
-            <Key>SandwormStruct</Key>
-            <Value Path="Structs/SandwormStruct.xml"/>
+            <Key>SandwormAttackSequence</Key>
+            <Value Path="Structs/SandwormAttackSequence.xml"/>
         </Element>
         <Element>
             <Key>ScaleSplines</Key>

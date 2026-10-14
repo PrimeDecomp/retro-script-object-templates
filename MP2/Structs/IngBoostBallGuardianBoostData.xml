@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>IngBoostBallGuardianStruct</Name>
+        <Name>IngBoostBallGuardianBoostData</Name>
         <SubProperties>
             <Element Type="Float" ID="0x25D02BC5">
                 <DefaultValue>1.8</DefaultValue>

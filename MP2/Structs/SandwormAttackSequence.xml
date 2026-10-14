@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Echoes">
     <PropertyArchetype Type="Struct">
-        <Name>SandwormStruct</Name>
+        <Name>SandwormAttackSequence</Name>
         <SubProperties>
             <Element Type="Float" ID="0x98106EE2">
                 <DefaultValue>1.0</DefaultValue>
@@ -15,13 +15,13 @@
             <Element Type="Float" ID="0xFE9133CD">
                 <DefaultValue>1.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x59F14D7C">
+            <Element Type="Choice" ID="0x59F14D7C">
                 <DefaultValue>3</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x9606B4B0">
+            <Element Type="Choice" ID="0x9606B4B0">
                 <DefaultValue>5</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xFC2697DD">
+            <Element Type="Choice" ID="0xFC2697DD">
                 <DefaultValue>5</DefaultValue>
             </Element>
         </SubProperties>

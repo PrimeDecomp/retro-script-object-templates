@@ -147,7 +147,7 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0xBAB98497" Archetype="IngBoostBallGuardianStruct">
+            <Element Type="Struct" ID="0xBAB98497" Archetype="IngBoostBallGuardianBoostData">
                 <SubProperties>
                     <Element Type="Float" ID="0x25D02BC5">
                         <DefaultValue>15.0</DefaultValue>
@@ -193,7 +193,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xFE18A18F" Archetype="IngBoostBallGuardianStruct">
+            <Element Type="Struct" ID="0xFE18A18F" Archetype="IngBoostBallGuardianBoostData">
                 <SubProperties>
                     <Element Type="Float" ID="0x25D02BC5">
                         <DefaultValue>15.0</DefaultValue>
@@ -239,7 +239,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Struct" ID="0xC2784287" Archetype="IngBoostBallGuardianStruct">
+            <Element Type="Struct" ID="0xC2784287" Archetype="IngBoostBallGuardianBoostData">
                 <SubProperties>
                     <Element Type="Float" ID="0x25D02BC5">
                         <DefaultValue>15.0</DefaultValue>
