@@ -120,6 +120,7 @@
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF317F4D5">
+                <Description>Amount subtracted each second from Dark Samus's accumulated recent damage, clamped at zero. The remaining damage is compared with DamageInterruptThreshold.</Description>
                 <DefaultValue>4.0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xD2122711">
@@ -136,7 +137,8 @@
             <Element Type="Sound" ID="0xEA17CB66">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xEF8DC15">
+            <Element Type="Sound" ID="0xEF8DC15">
+                <Description>Sound played at the sweep beam's endpoint. It starts when the sweep attack begins, follows the endpoint during the attack, and stops when the attack ends.</Description>
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x72DF331">
@@ -199,7 +201,9 @@
             <Element Type="Sound" ID="0xA861649F">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x18402AA9" Archetype="DamageInfo"/>
+            <Element Type="Struct" ID="0x18402AA9" Archetype="DamageInfo">
+                <Description>Damage settings for the continuous Phazon beam. The damage amount is multiplied by the frame duration before it is applied to the player.</Description>
+            </Element>
             <Element Type="Asset" ID="0xE701DAEA">
                 <TypeFilter>
                     <Element>PART</Element>

@@ -31,6 +31,7 @@
                 <DefaultValue>30.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x889EF9EA">
+                <Description>Vertical distance from the player where in-range radar blips start fading. Opacity falls linearly to zero at RadarWorldHalfHeight. A player radar-radius override replaces this threshold with 0.667 times the overridden vertical radius.</Description>
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB68FF81A">
@@ -144,15 +145,19 @@
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xBA53888E">
+                <Description>Seconds used to fade the visor or beam menu's title after selection animation ends. Title opacity is the remaining fade time divided by this value. The beam-menu countdown does not advance in multiplayer.</Description>
                 <DefaultValue>2.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xCC7AE923">
+                <Description>Scale of the selected icon in the visor and beam menus. Selection animation blends between this value and VisorMenuUnselectedItemScale.</Description>
                 <DefaultValue>1.7</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8C723B8F">
+                <Description>Scale of unselected icons and the surrounding lozenges in the visor and beam menus. Selection animation blends between this value and VisorMenuSelectedItemScale.</Description>
                 <DefaultValue>1.2</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1F228E64">
+                <Description>Distance from the menu center to an unselected icon or lozenge in the visor and beam menus. Selection animation moves the selected icon between this distance and the center.</Description>
                 <DefaultValue>1.8</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xE34FA22C">
@@ -174,12 +179,14 @@
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x78174D4B">
+                <Description>Radar display radius used to convert horizontal world distances into radar coordinates. Positions are scaled by this value divided by the current radar world radius; out-of-range markers are placed on this radius.</Description>
                 <DefaultValue>1.65</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x3CB2115B">
                 <DefaultValue>0.039999999</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xFC30BB21">
+                <Description>Base size of radar blips before viewport scaling. Individual swarm blips use half this size; Sandworm blips use seven-tenths. The drawing routine multiplies the resulting radius by four to form the blip quad.</Description>
                 <DefaultValue>0.039999999</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x86CDDE75">
@@ -237,18 +244,23 @@
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x4FF930A5">
+                <Description>Integer control for the face reflection's orthographic half-width. The half-width is 0.02 + 0.007 times this value, then multiplied by the reflection's aspect factor.</Description>
                 <DefaultValue>15</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x1C106DF3">
+                <Description>Integer control for the face reflection's orthographic half-height. The half-height is 0.02 + 0.007 times this value.</Description>
                 <DefaultValue>10</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xDAADF917">
+                <Description>Integer control for the face reflection's forward offset from the first-person camera. The offset is 0.2 + 0.015 times this value.</Description>
                 <DefaultValue>6</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xE3D55457">
+                <Description>Integer control for the face reflection's vertical offset from the first-person camera. The offset along camera up is 0.005 times this value minus 0.05.</Description>
                 <DefaultValue>9</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xDD39F60A">
+                <Description>Integer control for the face reflection's aspect factor. The factor is 1 + 0.05 times this value and multiplies the orthographic half-width without changing the half-height.</Description>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="String" ID="0x3DB45F6A"/>
@@ -290,6 +302,7 @@
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x8B64DC44">
+                <Description>Selects the pulse shape for the fullscreen energy-drain effect: true uses a sine wave; false uses a triangular wave. MetroidSuckPulseCycleTime sets the period, MetroidSuckPulseColor sets the color, and MetroidSuckIsAdditive selects the blending mode.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x7161446B">

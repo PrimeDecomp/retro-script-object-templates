@@ -154,8 +154,10 @@
                     <Element>SWHC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0xF0E4D621">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0xF0E4D621">
+                <TypeFilter>
+                    <Element>SWHC</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xEDD43636" Archetype="DamageInfo"/>
             <Element Type="Asset" ID="0x5439A08">

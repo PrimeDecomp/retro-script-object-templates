@@ -4,6 +4,7 @@
         <Name>DynamicLightParent</Name>
         <SubProperties>
             <Element Type="Vector" ID="0xDDD74295">
+                <Description>Translation offset from the first actor connected by Connect/Attach. With UseParentRotation enabled, the offset follows the parent's current orientation and optional LocatorName. Otherwise, its initial world-space direction is retained.</Description>
                 <DefaultValue>
                     <X>0.0</X>
                     <Y>0.0</Y>
@@ -11,14 +12,18 @@
                 </DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x88F018B3">
+                <Description>Euler rotation offset applied when attaching to the parent. With UseParentRotation enabled, it is combined with the parent's current transform and optional LocatorName. Otherwise, the initial attachment orientation is retained.</Description>
                 <DefaultValue>
                     <X>0.0</X>
                     <Y>0.0</Y>
                     <Z>0.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="String" ID="0xFBC6C110"/>
+            <Element Type="String" ID="0xFBC6C110">
+                <Description>Parent model locator used as the attachment point. If the name cannot be resolved, the light follows the parent actor's transform instead.</Description>
+            </Element>
             <Element Type="Bool" ID="0xF72EEFBD">
+                <Description>Follows the parent's orientation as well as its position, using LocatorName when available. When disabled, only the attachment position follows the parent; the initial world-space offset and orientation are retained. A connected CameraTarget/Attach actor can override the light's orientation afterward.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

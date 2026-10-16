@@ -24,7 +24,8 @@
             <Element Type="Int" ID="0x6E88D6AD">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD993F97B">
+            <Element Type="Flags" ID="0xD993F97B" Archetype="HUDHintVisorFlags">
+                <Description>Selects which visors can display the hint. Bit n enables visor n. The hint's area must be visible, and a sphere of radius 1 centered on the hint must intersect the camera's view.</Description>
                 <DefaultValue>15</DefaultValue>
             </Element>
         </SubProperties>

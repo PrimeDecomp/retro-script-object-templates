@@ -197,15 +197,19 @@
                 <DefaultValue>8.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xCCF05648">
+                <Description>Value of external parameter 0 for the active JetPack or ScubaGear effect at zero intensity. Interpolates toward JetPackFlameSizeMax as intensity increases.</Description>
                 <DefaultValue>2.25</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2A90F9A9">
+                <Description>Value of external parameter 0 for the active JetPack or ScubaGear effect at intensity 1. Interpolated from JetPackFlameSizeMin.</Description>
                 <DefaultValue>3.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x9CA8F357">
+                <Description>Value of external parameter 1 for the active JetPack or ScubaGear effect at zero intensity. Interpolates toward JetPackFlameSpeedMax as intensity increases.</Description>
                 <DefaultValue>-0.1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x7AC85CB6">
+                <Description>Value of external parameter 1 for the active JetPack or ScubaGear effect at intensity 1. Interpolated from JetPackFlameSpeedMin.</Description>
                 <DefaultValue>-0.23</DefaultValue>
             </Element>
         </SubProperties>

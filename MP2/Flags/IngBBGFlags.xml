@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Flags">
+        <Name>IngBBGFlags</Name>
+        <DefaultValue>0</DefaultValue>
+        <Flags>
+            <!-- These flags use non-power-of-two values because Retro messed up. -->
+            <Element Name="Disable Arm Swipe" Mask="0x1"/>
+            <Element Name="Disable Body Projectile" Mask="0x2"/>
+            <Element Name="Disable Mini Portal" Mask="0x3"/>
+            <Element Name="Disable Form Change" Mask="0x4"/>
+            <Element Name="Disable Path Movement" Mask="0x5"/>
+            <Element Name="Always Targetable" Mask="0x6"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

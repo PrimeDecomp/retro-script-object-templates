@@ -32,6 +32,7 @@
                 <DefaultValue>0.1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x5C072FD0" Archetype="DamageInfo">
+                <Description>Damage settings for the radial effect started by the Activate animation event. The radius scales that effect. Intersecting actors are damaged once per melee-state cycle, after a damage ray test passes.</Description>
                 <SubProperties>
                     <Element Type="Choice" ID="0x119FBD31">
                         <DefaultValue>11</DefaultValue>

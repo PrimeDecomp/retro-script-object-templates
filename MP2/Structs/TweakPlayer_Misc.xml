@@ -4,48 +4,61 @@
         <Name>TweakPlayer_Misc</Name>
         <SubProperties>
             <Element Type="Float" ID="0xB49B008E">
+                <Description>Distance below the top of the standing collision bounds used to calculate eye height. Also sets the maximum vertical aiming error used by burst-fire attacks.</Description>
                 <DefaultValue>0.2</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB0291470">
+                <Description>Multiplier for the player's turning speed outside free-look turning. Free Look Turn Factor replaces it when free-look turning is enabled and its button requirement, if any, is met.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x287892AB">
+                <Description>Replaces Normal Turn Factor while free look turns the player. When free look requires a held button, this multiplier applies only while that button is held.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x79F8EF93">
+                <Description>Horizontal free-look angle at full left or right input, in degrees. Also scales the smoothing step as the current yaw approaches its target.</Description>
                 <DefaultValue>100.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x34304E98">
+                <Description>Vertical free-look angle at full up or down input, in degrees. Limits the first-person camera's combined pitch and free-look angle.</Description>
                 <DefaultValue>70.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xBA27556F">
+                <Description>Base angular speed, in degrees per second, for moving the free-look angles toward their targets while look input is held. Free Look Snap Speed replaces it when look input is released.</Description>
                 <DefaultValue>100.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD7D7828E">
+                <Description>Base angular speed, in degrees per second, used to move the free-look angles toward their targets when look input is not held.</Description>
                 <DefaultValue>200.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xE0C431E">
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2C1DA0EC">
+                <Description>Yaw and pitch tolerance, in degrees, for treating free look as centered. Both angles must be below this value before Free Look Centered Time can end free look.</Description>
                 <DefaultValue>0.1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xE11788E4">
+                <Description>Time spent within Free Look Min Angle before free look ends with no look input held and both target angles are reset to zero.</Description>
                 <DefaultValue>0.25</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xC982754E">
                 <DefaultValue>80.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xFB5C81A9">
+                <Description>When free look does not require held buttons, keeps the current angles after look input is released if input was previously latched and absolute forward speed is at or below 0xFB909BC3. Moving faster clears the latch and releases the held angles.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xFB909BC3">
+                <Description>Maximum absolute forward speed for retaining the free-look angles after look input is released. Used when 0xFB5C81A9 is enabled and free look does not require held buttons. Side-to-side and vertical speed are not tested.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF1F038DE">
+                <Description>Divisor applied to both left-stick axes when controller input is initialized. The divided values are clamped to -1 through 1. Positive values below 1 reach full input with less stick travel.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2B1F5094">
+                <Description>Divisor applied to both right-stick axes when controller input is initialized. The divided values are clamped to -1 through 1. Positive values below 1 reach full input with less stick travel.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
         </SubProperties>

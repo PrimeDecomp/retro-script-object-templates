@@ -3,14 +3,19 @@
     <PropertyArchetype Type="Struct">
         <Name>DamageInfo</Name>
         <SubProperties>
-            <Element Type="Choice" ID="0x119FBD31" Archetype="WeaponType"/>
+            <Element Type="Choice" ID="0x119FBD31" Archetype="WeaponType">
+                <Description>Weapon type used to select the target's damage response. The Unstoppable type also marks this damage as an instant kill.</Description>
+            </Element>
             <Element Type="Float" ID="0xF2D02613">
+                <Description>Base damage before the target's Damage Multiplier is applied.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xEE1BE914">
+                <Description>Radius used for distance-based knockback falloff. Loading this record does not enable radius damage by itself.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x555FF80A">
+                <Description>Base knockback strength before distance falloff and the target's damage response are applied. Damage Radius supplies the falloff distance.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
         </SubProperties>

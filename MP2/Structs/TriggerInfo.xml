@@ -11,7 +11,7 @@
                     <Z>0.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Flags" ID="0x82859F46" Archetype="TriggerFlags" />
+            <Element Type="Flags" ID="0x82859F46" Archetype="TriggerFlags"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

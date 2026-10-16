@@ -130,12 +130,15 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xDD8502CC">
+                <Description>Multiplies the delays between shots and attacks after a SetToMax message in Power Bomb Guardian mode. SetToZero restores the multiplier to 1. Outside Power Bomb Guardian mode, SetToMax also uses 1.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x4AB8CF7D">
+                <Description>Multiplies the predicted projectile flight time used to extrapolate the player's movement while the player is morphed and not boosting. The predicted aim displacement is limited by a world collision test before the random aim offset is added.</Description>
                 <DefaultValue>0.40000001</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF5E28404">
+                <Description>Sets the maximum radius of the random aim offset. The offset uses a random angle around the player's up axis and a random radius from zero to this value.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0xA87D72FC">

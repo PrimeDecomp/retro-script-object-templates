@@ -44,9 +44,11 @@
                 <DefaultValue>80.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5236C2B6">
+                <Description>Damage threshold for breaking the light shield. Dark and Annihilator projectiles add to the shield damage total. The shield-killed condition becomes true when that total exceeds this value. Activating a shield resets the total to zero.</Description>
                 <DefaultValue>50.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1EAAB17">
+                <Description>Damage threshold for breaking the dark shield. Light and Annihilator projectiles add to the shield damage total. The shield-killed condition becomes true when that total exceeds this value. Activating a shield resets the total to zero.</Description>
                 <DefaultValue>50.0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xAE9C61">
@@ -141,15 +143,19 @@
             <Element Type="Float" ID="0x3DAD897B">
                 <DefaultValue>50.0</DefaultValue>
             </Element>
-            <Element Type="Sound" ID="0x6CF4324">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x6CF4324">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x23F5E1EE">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x62C744CD" Archetype="ActorParameters"/>
             <Element Type="AnimationSet" ID="0xB92B481D"/>
-            <Element Type="AnimationSet" ID="0x7E6E0D38"/>
+            <Element Type="AnimationSet" ID="0x7E6E0D38">
+                <Description>Animation set, character index, and initial animation used to create the rocket launcher while the Elite Pirate is possessed by an Ing. Otherwise, RocketLauncherAnimInfo supplies these values. RocketLauncherActorInfo supplies the launcher's actor parameters.</Description>
+            </Element>
             <Element Type="Asset" ID="0xBD321538">
                 <TypeFilter>
                     <Element>ELSC</Element>

@@ -4,45 +4,59 @@
         <Name>IngBoostBallGuardianBoostData</Name>
         <SubProperties>
             <Element Type="Float" ID="0x25D02BC5">
+                <Description>Delay in seconds before requesting boost-puddle mode. The timer resets when that mode ends and counts down while the guardian is outside Ing-spot form and no cinematic camera is active.</Description>
                 <DefaultValue>1.8</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xABE99DE0">
+                <Description>Fraction of BreakBoostPuddleModeDamage that must be exceeded by bomb damage since the last boost to request another boost; 0.5 means half. The since-boost damage counter resets when this happens. Reaching the total BreakBoostPuddleModeDamage threshold exits puddle form instead.</Description>
                 <DefaultValue>1.8</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xE2B23F03">
+                <Description>Total bomb damage needed to end boost-puddle mode. PercentagePuddleDamageToBoost multiplies this value to set the damage-since-last-boost threshold for requesting another boost.</Description>
                 <DefaultValue>1.8</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2F845006">
+                <Description>Accumulated bomb damage to the rolling boost ball that triggers the same interruption flag as a crystal collision. The threshold is met when accumulated damage is greater than or equal to this value.</Description>
                 <DefaultValue>150.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5D1626FB">
+                <Description>Lower bound in seconds for the next-boost delay chosen when a boost ends. The timer counts down in Ing-spot form while boost-puddle mode remains active; expiry requests another boost.</Description>
                 <DefaultValue>0.5</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xBB76891A">
+                <Description>Upper bound in seconds for the next-boost delay chosen when a boost ends. NextBoostTimeMin supplies the lower bound.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x285D67AD">
+                <Description>Lower bound for the randomly selected number of consecutive boost attacks before submerging. Each sequence contains one large boost; the remaining boosts use the small-boost bounce limits.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x6D5F242F">
+                <Description>Upper bound for the number of consecutive boost attacks selected with SequentialBoostAttacksMin before submerging.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xE3FF2ED6">
+                <Description>Lower bound for the randomly selected collision-bounce limit of each small boost. Reaching the limit starts the final-bounce phase.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xA6FD6D54">
+                <Description>Upper bound for the small-boost collision-bounce limit selected with SmallBoostNumBouncesMin.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xECB314B6">
+                <Description>Lower bound for the randomly selected collision-bounce limit of the sequence's large boost. One boost in each sequence receives this range instead of the small-boost range.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xA9B15734">
+                <Description>Upper bound for the large-boost collision-bounce limit selected with LargeBoostNumBouncesMin.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1213A7D4">
+                <Description>Movement-speed scale assigned to the guardian when this health stage becomes active.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xC19ED897">
+                <Description>Multiplier applied to the selected Ing-spot movement speed, including movement along walls.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
         </SubProperties>

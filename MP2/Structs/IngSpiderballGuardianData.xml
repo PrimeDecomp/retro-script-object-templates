@@ -3,12 +3,24 @@
     <PropertyArchetype Type="Struct">
         <Name>IngSpiderballGuardianData</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x152DB484" Archetype="IngSpiderballGuardianPuzzleData"/>
-            <Element Type="Struct" ID="0x2D163FF7" Archetype="IngSpiderballGuardianPuzzleData"/>
-            <Element Type="Struct" ID="0x8C2FBB19" Archetype="IngSpiderballGuardianPuzzleData"/>
-            <Element Type="Struct" ID="0x5D612911" Archetype="IngSpiderballGuardianPuzzleData"/>
-            <Element Type="Struct" ID="0xFC58ADFF" Archetype="IngSpiderballGuardianPuzzleData"/>
-            <Element Type="Struct" ID="0xC463268C" Archetype="IngSpiderballGuardianPuzzleData"/>
+            <Element Type="Struct" ID="0x152DB484" Archetype="IngSpiderballGuardianPuzzleData">
+                <Description>Patrol movement, stun and charge settings for Spider Guardian puzzle section 1. BeginNextPuzzleSection advances to the next section and enters patrol. This record is also used if the section index is outside 0 through 5.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x2D163FF7" Archetype="IngSpiderballGuardianPuzzleData">
+                <Description>Patrol movement, stun and charge settings for Spider Guardian puzzle section 2. BeginNextPuzzleSection advances to the next section and enters patrol.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x8C2FBB19" Archetype="IngSpiderballGuardianPuzzleData">
+                <Description>Patrol movement, stun and charge settings for Spider Guardian puzzle section 3. BeginNextPuzzleSection advances to the next section and enters patrol.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x5D612911" Archetype="IngSpiderballGuardianPuzzleData">
+                <Description>Patrol movement, stun and charge settings for Spider Guardian puzzle section 4. BeginNextPuzzleSection advances to the next section and enters patrol.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xFC58ADFF" Archetype="IngSpiderballGuardianPuzzleData">
+                <Description>Patrol movement, stun and charge settings for Spider Guardian puzzle section 5. BeginNextPuzzleSection advances to the next section and enters patrol.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xC463268C" Archetype="IngSpiderballGuardianPuzzleData">
+                <Description>Patrol movement, stun and charge settings for Spider Guardian puzzle section 6. BeginNextPuzzleSection advances to the next section and enters patrol.</Description>
+            </Element>
             <Element Type="Float" ID="0xF598739">
                 <DefaultValue>2.0</DefaultValue>
             </Element>
@@ -28,12 +40,16 @@
             <Element Type="Float" ID="0x32133B39">
                 <DefaultValue>20.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xAED23ABC" Archetype="AudioPlaybackParms"/>
+            <Element Type="Struct" ID="0xAED23ABC" Archetype="AudioPlaybackParms">
+                <Description>Sound played by a SoundPlay animation event while patrolling or damaged, if the player is within the sound distance and the event's probability test passes.</Description>
+            </Element>
             <Element Type="Struct" ID="0x3A5E2F52" Archetype="AudioPlaybackParms"/>
             <Element Type="Struct" ID="0xCEE38F10" Archetype="AudioPlaybackParms"/>
             <Element Type="Struct" ID="0x796FA303" Archetype="AudioPlaybackParms"/>
             <Element Type="Struct" ID="0xD5F3E9C4" Archetype="AudioPlaybackParms"/>
-            <Element Type="Struct" ID="0x44C1F241" Archetype="AudioPlaybackParms"/>
+            <Element Type="Struct" ID="0x44C1F241" Archetype="AudioPlaybackParms">
+                <Description>One-shot sound played when the guardian enters the charging state. Setting the charging state again does not replay it.</Description>
+            </Element>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

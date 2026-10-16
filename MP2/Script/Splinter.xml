@@ -31,21 +31,27 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB8ED9FFA">
+                <Description>Minimum interval between patrol taunts, in seconds. The interval is chosen between this value and the maximum interval, then halved while the player is within detection range. Both bounds must be nonzero for timed patrol taunts.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5E8D301B">
+                <Description>Maximum interval between patrol taunts, in seconds. The interval is chosen between the minimum interval and this value, then halved while the player is within detection range. Both bounds must be nonzero for timed patrol taunts.</Description>
                 <DefaultValue>18.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB98BB88F">
+                <Description>Minimum delay before emerging from the cocoon, in seconds. The emergence deadline is the current time plus a random delay between this value and the maximum delay.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5FEB176E">
+                <Description>Maximum delay before emerging from the cocoon, in seconds. The emergence deadline is the current time plus a random delay between the minimum delay and this value.</Description>
                 <DefaultValue>3.0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x726CD31D">
+                <Description>Minimum count for evasive taunt and sidestep actions. An inclusive random count between the minimum and maximum is selected when the object is created and when a jump begins. Each taunt or sidestep subtracts one. The ShouldTaunt condition remains true while the count is positive.</Description>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x376E909F">
+                <Description>Maximum count for evasive taunt and sidestep actions. An inclusive random count between the minimum and maximum is selected when the object is created and when a jump begins. Each taunt or sidestep subtracts one. The ShouldTaunt condition remains true while the count is positive.</Description>
                 <DefaultValue>2</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x66DCAACB" Archetype="DamageInfo">
@@ -94,9 +100,11 @@
                 </TypeFilter>
             </Element>
             <Element Type="Float" ID="0x51BE00D3">
+                <Description>Minimum cooldown after the mega splinter leaves its pounce attack, in seconds. When a random source is available, a delay between this value and the maximum cooldown is added to the current time to set the next permitted pounce time.</Description>
                 <DefaultValue>2.5</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB7DEAF32">
+                <Description>Maximum cooldown after the mega splinter leaves its pounce attack, in seconds. When a random source is available, a delay between the minimum cooldown and this value is added to the current time to set the next permitted pounce time.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
         </SubProperties>

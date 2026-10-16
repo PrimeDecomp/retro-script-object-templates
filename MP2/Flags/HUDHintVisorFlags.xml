@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Flags">
+        <Name>HUDHintVisorFlags</Name>
+        <DefaultValue>15</DefaultValue>
+        <Flags>
+            <Element Name="Combat" Mask="0x1"/>
+            <Element Name="Echo" Mask="0x2"/>
+            <Element Name="Scan" Mask="0x4"/>
+            <Element Name="Dark" Mask="0x8"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

@@ -3,7 +3,9 @@
     <PropertyArchetype Type="Struct">
         <Name>TweakGui_Credits</Name>
         <SubProperties>
-            <Element Type="String" ID="0x81FC78C2"/>
+            <Element Type="String" ID="0x81FC78C2">
+                <Description>Resource name of the string table used for the credits. Every string becomes a scrolling text entry rendered with EnglishFont, FontColor and FontOutlineColor.</Description>
+            </Element>
             <Element Type="String" ID="0x2BCD300D"/>
             <Element Type="String" ID="0xCEF90C00"/>
             <Element Type="Color" ID="0x1A96EC67">
@@ -22,12 +24,15 @@
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x19686BF6">
+                <Description>Total duration used to calculate credits scroll speed. Scrolling lasts this value minus the longer of MovieFadeTime and TextFadeTime; the full text travel distance is divided by that scrolling time.</Description>
                 <DefaultValue>191.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x52985AD1">
+                <Description>Seconds used to fade the scrolling credits text to transparent after scrolling finishes or the player dismisses the credits. Also contributes to the scroll duration calculated from TotalTime.</Description>
                 <DefaultValue>2.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF0F977E6">
+                <Description>Seconds used for the credits movie's fade-in and fade-out. Also supplies the music fade parameter and contributes to the scroll duration calculated from TotalTime.</Description>
                 <DefaultValue>2.0</DefaultValue>
             </Element>
         </SubProperties>

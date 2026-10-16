@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
+    <PropertyArchetype Type="Flags">
+        <Name>CommandoPirateFlags</Name>
+        <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Pending Ambush" Mask="0x1"/>
+            <Element Name="Break Ambush" Mask="0x2"/>
+            <Element Name="No Dodge" Mask="0x4"/>
+            <Element Name="Melee" Mask="0x8"/>
+            <Element Name="Stationary" Mask="0x10"/>
+            <Element Name="No Knockback Impulse Reset" Mask="0x20"/>
+            <Element Name="No Melee Attack" Mask="0x40"/>
+            <Element Name="Floating Corpse" Mask="0x80"/>
+            <Element Name="Can Warp" Mask="0x100"/>
+            <Element Name="No Shield Charge" Mask="0x200"/>
+            <Element Name="No Arm Shield" Mask="0x400"/>
+            <Element Name="No Grenade Attack" Mask="0x800"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

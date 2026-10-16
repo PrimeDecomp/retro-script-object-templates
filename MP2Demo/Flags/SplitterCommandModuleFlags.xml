@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="EchoesDemo">
+    <PropertyArchetype Type="Flags">
+        <Name>SplitterCommandModuleFlags</Name>
+        <DefaultValue>10</DefaultValue>
+        <Flags>
+            <Element Name="Starts Docked" Mask="0x1"/>
+            <Element Name="Can Dodge" Mask="0x2"/>
+            <Element Name="Can Break Lock On" Mask="0x4"/>
+            <Element Name="Can Dock With Chassis" Mask="0x8"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

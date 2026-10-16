@@ -25,7 +25,9 @@
             <Element Type="Float" ID="0xA72530E8">
                 <DefaultValue>200.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x5D84ED71" Archetype="DamageVulnerability"/>
+            <Element Type="Struct" ID="0x5D84ED71" Archetype="DamageVulnerability">
+                <Description>Weapon damage responses used while the Pill Bug is falling or injured. Wandering uses WanderVulnerability; other modes use the patterned damage vulnerability.</Description>
+            </Element>
             <Element Type="Struct" ID="0xF382DFF7" Archetype="DamageVulnerability"/>
             <Element Type="Float" ID="0xAD98E16D">
                 <DefaultValue>0.34999999</DefaultValue>

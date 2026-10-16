@@ -38,15 +38,18 @@
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xC96B8223">
+                <Description>Restores Dark Samus's health to 1 after damage leaves it below 1 while she is active. Phazon-fall damage handling enables the same restoration regardless of this setting, then applies its separate health limit.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x53FDCB5B">
+                <Description>Hides Dark Samus and her submitted attack effects in the Dark Visor, disables targeting through that visor, and refreshes the freeze-overlay timer during updates.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xD7EF013">
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xAA85C885">
+                <Description>Activates the connected boost-ball path hints when a health threshold advances the battle into this stage.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x80F7E605">
@@ -101,6 +104,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x2D7551E6">
+                <Description>Allows the dive attack after a boost-ball attack unless Dark Samus has already handled a charged-shot hit during that attack.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x93A876F3">

@@ -64,9 +64,7 @@
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
             <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
-            <Element Type="Int" ID="0x7ABED4CE">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x7ABED4CE" Archetype="CommandoPirateFlags"/>
             <Element Type="Float" ID="0x9579B1F2">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
@@ -88,11 +86,13 @@
             <Element Type="Sound" ID="0xE160B593">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xFCA76593">
+            <Element Type="Sound" ID="0xFCA76593">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x467C3D94">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x467C3D94">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xA5912430" Archetype="DamageInfo">
                 <SubProperties>

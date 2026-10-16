@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Flags">
+        <Name>PlayerProxyFlags</Name>
+        <DefaultValue>0</DefaultValue>
+        <Flags>
+            <Element Name="Apply to Player 1" Mask="0x1"/>
+            <Element Name="Apply to Player 2" Mask="0x2"/>
+            <Element Name="Apply to Player 3" Mask="0x4"/>
+            <Element Name="Apply to Player 4" Mask="0x8"/>
+            <Element Name="Apply to Team 1" Mask="0x10"/>
+            <Element Name="Apply to Team 2" Mask="0x20"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

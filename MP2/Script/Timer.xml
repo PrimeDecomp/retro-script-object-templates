@@ -5,18 +5,19 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Float" ID="0x44335AFF">
+                <Description>Initial countdown duration. Reset starts a new countdown from this value plus a newly sampled Random Adjust offset.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x3AD39B31">
-                <Description>A random value between this number and 0 will be added to the timer's start time.</Description>
+                <Description>Adds a random offset from zero to this value whenever the timer is reset. The initial countdown uses Time without this offset.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x7BEF45CA">
-                <Description>If enabled, when the timer reaches 0, it will reset back to its start time. If Auto-Start is also enabled, it will begin ticking again.</Description>
+                <Description>Resets the countdown after it expires and sends Zero. The reset timer runs again only when Auto Start is enabled.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x3217DFF8">
-                <Description>If enabled, the timer will start ticking automatically on load. Otherwise, it will need to be started with a script message.</Description>
+                <Description>Starts the countdown immediately on creation and resumes it after Reset or an automatic reset. StopAndReset still leaves it stopped.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

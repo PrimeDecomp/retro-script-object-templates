@@ -127,6 +127,7 @@
                 <DefaultValue>4.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x3874576D" Archetype="AlphaBloggStageData">
+                <Description>Attack counts and probabilities used by Alpha Blogg while its health is at least 66% of its initial health.</Description>
                 <SubProperties>
                     <Element Type="Int" ID="0x3E505DDB">
                         <DefaultValue>1</DefaultValue>
@@ -146,6 +147,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x97DD1AA7" Archetype="AlphaBloggStageData">
+                <Description>Attack counts and probabilities used by Alpha Blogg while its health is at least 33% but below 66% of its initial health.</Description>
                 <SubProperties>
                     <Element Type="Int" ID="0x3E505DDB">
                         <DefaultValue>1</DefaultValue>
@@ -165,6 +167,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0xF2BA21E1" Archetype="AlphaBloggStageData">
+                <Description>Attack counts and probabilities used by Alpha Blogg while its health is below 33% of its initial health.</Description>
                 <SubProperties>
                     <Element Type="Int" ID="0x3E505DDB">
                         <DefaultValue>1</DefaultValue>

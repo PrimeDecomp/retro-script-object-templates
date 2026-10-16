@@ -136,9 +136,11 @@
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x5D0D2C40">
+                <Description>Radius around the current cover hint used by the cover-leash test. A position farther away in three-dimensional distance is outside the leash. Having no cover hint also counts as outside.</Description>
                 <DefaultValue>15.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xC620183A">
+                <Description>Timer threshold in seconds for leaving corporeal form or starting a mini-portal attack. The timer resets when becoming corporeal or finishing the alert animation. Starting an arm swipe advances the timer by this amount.</Description>
                 <DefaultValue>1.5</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x7D19C3CA">
@@ -177,6 +179,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Float" ID="0xA0D63374">
+                <Description>Damage dealt per second while the body projectile is attached to the player. Each update applies this value multiplied by elapsed seconds until BodyProjectileSuckTime expires.</Description>
                 <DefaultValue>20.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xDFEA60A2">
@@ -274,6 +277,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Float" ID="0x67F6C10E">
+                <Description>Damage dealt per second while holding the player in Morph Ball form. Each update applies this value multiplied by elapsed seconds. MaxGrappleBallHoldTime limits the hold duration; ExitGrappleDamage controls the separate release hit.</Description>
                 <DefaultValue>30.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x11C36D8E" Archetype="DamageInfo">

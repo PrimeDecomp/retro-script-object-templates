@@ -24,9 +24,7 @@
             <Element Type="Int" ID="0x6E88D6AD">
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD993F97B">
-                <DefaultValue>15</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xD993F97B" Archetype="HUDHintVisorFlags"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

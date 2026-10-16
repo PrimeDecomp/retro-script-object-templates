@@ -11,10 +11,18 @@
             <Element Type="Sound" ID="0x46E902E8">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x5E1D1931" Archetype="IngSpaceJumpGuardianStruct"/>
-            <Element Type="Struct" ID="0x6B08E2E5" Archetype="IngSpaceJumpGuardianStruct"/>
-            <Element Type="Struct" ID="0xF223AA76" Archetype="IngSpaceJumpGuardianStruct"/>
-            <Element Type="Struct" ID="0xD0DB5F7A" Archetype="IngSpaceJumpGuardianStruct"/>
+            <Element Type="Struct" ID="0x5E1D1931" Archetype="IngSpaceJumpGuardianStruct">
+                <Description>Movement and attack settings used when none of the three other health thresholds is met.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x6B08E2E5" Archetype="IngSpaceJumpGuardianStruct">
+                <Description>Movement and attack settings used at or below this record's health threshold when neither of the two later records applies.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xF223AA76" Archetype="IngSpaceJumpGuardianStruct">
+                <Description>Movement and attack settings used at or below this record's health threshold when the final record does not apply.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xD0DB5F7A" Archetype="IngSpaceJumpGuardianStruct">
+                <Description>Movement and attack settings used at or below this record's health threshold. This threshold is tested before the other records.</Description>
+            </Element>
             <Element Type="Color" ID="0xBD3EFE7D">
                 <DefaultValue>
                     <R>1.0</R>

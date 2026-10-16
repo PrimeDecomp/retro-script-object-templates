@@ -4,18 +4,23 @@
         <Name>AlphaBloggStageData</Name>
         <SubProperties>
             <Element Type="Int" ID="0x3E505DDB">
+                <Description>Lower inclusive bound for the random number of charge attacks before Alpha Blogg enters a three-charge sequence. Both bounds are converted to unsigned 8-bit values. A selected count of zero disables this trigger.</Description>
                 <DefaultValue>-2143184152</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x118F1E46">
+                <Description>Upper inclusive bound for the random number of charge attacks before Alpha Blogg enters a three-charge sequence. Both bounds are converted to unsigned 8-bit values. A selected count of zero disables this trigger.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x6E603DF2">
+                <Description>Probability of choosing a charge when Alpha Blogg faces the player without a pending projectile-attack result. Projectile count, full aggressiveness and forced attack modes can also permit a charge.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1E74F1EC">
+                <Description>Probability rolled when Alpha Blogg next faces the player after a projectile attack. The result controls melee-attack permission and is checked by the charge gate while a projectile result is pending. Forced attack modes bypass these restrictions.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xECBA9FB2">
+                <Description>Probability that Alpha Blogg will open its mouth during a charge when the player enters charge range. A pending projectile-attack result forces mouth opening regardless of this probability.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
         </SubProperties>

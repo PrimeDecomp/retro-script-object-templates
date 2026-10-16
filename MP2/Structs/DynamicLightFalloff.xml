@@ -4,13 +4,18 @@
         <Name>DynamicLightFalloff</Name>
         <SubProperties>
             <Element Type="Choice" ID="0x456DF20C">
+                <Description>Selects constant, linear or quadratic distance attenuation for point and spot lights. Constant attenuation uses coefficient 1; linear and quadratic attenuation use the FalloffRate curve value in the selected coefficient.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
-            <Element Type="Spline" ID="0x2F7C63A3"/>
+            <Element Type="Spline" ID="0x2F7C63A3">
+                <Description>Curve supplying the linear or quadratic distance-attenuation coefficient selected by FalloffType. Evaluated for active point and spot lights; constant falloff ignores the resulting value.</Description>
+            </Element>
             <Element Type="Float" ID="0x1F6813F1">
+                <Description>End time for the FalloffRate curve. At this time, FalloffRateLoops either resets the curve timer to zero or holds it at this value.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x6D323EA3">
+                <Description>Restarts the FalloffRate curve at time zero when its timer reaches FalloffRateDuration. When disabled, the timer stays at FalloffRateDuration.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>
