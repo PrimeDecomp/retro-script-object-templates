@@ -44,6 +44,7 @@
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x47CDE539">
+                <Description>Cycles per second of the charge beam's radius oscillation between InnerRadius and OuterRadius.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x29D8744A">

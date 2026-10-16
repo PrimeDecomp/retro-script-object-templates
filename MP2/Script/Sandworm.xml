@@ -76,6 +76,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Float" ID="0x61F75902">
+                <Description>Maximum horizontal angle, in degrees, between the Sandworm's body direction and the central spit target. Targets outside this angle are moved toward the forward firing direction before the three-projectile spread is fired.</Description>
                 <DefaultValue>60.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2A7446EE">
@@ -138,6 +139,7 @@
                 </SubProperties>
             </Element>
             <Element Type="Float" ID="0xE593F1C6">
+                <Description>Health lost before the Sandworm can sulk again, as a percentage of its initial health. Loss is measured from spawning or the start of its previous sulk and must exceed this value. Sulking is disabled for the boss variant and below 10% health. LurkUndergroundTimeMin and LurkUndergroundTimeMax set the sulk duration.</Description>
                 <DefaultValue>25.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x3C5D53A4">

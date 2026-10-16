@@ -29,7 +29,7 @@
             <Element Type="Float" ID="0x487E4F9A">
                 <DefaultValue>2.0</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x2BEFC1BF">
+            <Element Type="Animation" ID="0x2BEFC1BF">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x4AEEC093" Archetype="DamageVulnerability"/>

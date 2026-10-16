@@ -1320,6 +1320,10 @@
             <Value Path="Structs/GunTurretTopData.xml"/>
         </Element>
         <Element>
+            <Key>HUDHintVisorFlags</Key>
+            <Value Path="Flags/HUDHintVisorFlags.xml"/>
+        </Element>
+        <Element>
             <Key>HealthInfo</Key>
             <Value Path="Structs/HealthInfo.xml"/>
         </Element>

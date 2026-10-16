@@ -5,30 +5,39 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Float" ID="0x1A26C1CC">
+                <Description>Status-message lifetime, including the final one-second fade. Zero disables the automatic timeout. Also supplies the duration passed to Message Box display.</Description>
                 <DefaultValue>3.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x84E2496F">
+                <Description>Replaces the status-window text and restarts its typewriter effect. When disabled, the new text is appended on a new line if the window already contains text.</Description>
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xA8FADFA5">
+                <Description>Includes player 1 in the recipients of a status message. Use Originator replaces this selection when the message originator is a player.</Description>
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xEF5AA575">
+                <Description>Includes player 2 in the recipients of a status message. Use Originator replaces this selection when the message originator is a player.</Description>
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xD23A8CC5">
+                <Description>Includes player 3 in the recipients of a status message. Use Originator replaces this selection when the message originator is a player.</Description>
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x601A50D5">
+                <Description>Includes player 4 in the recipients of a status message. Use Originator replaces this selection when the message originator is a player.</Description>
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xAFD0158E">
+                <Description>Reveals status-message text with the typewriter effect. Use Originator forces this effect on when it selects a player from the incoming message.</Description>
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xBD6F7B11">
+                <Description>Sends the status message only to the originating player and enables its typewriter effect. If the originator is not a player, Player 1 through Player 4 and Type Out retain their configured values.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x4AB3B95B">
+                <Description>Chooses a status message or a paused message box when an active HUD memo receives SetToZero. Deactivate fades out a status message.</Description>
                 <DefaultValue>0</DefaultValue>
                 <Values>
                     <Element Name="Status Message" ID="0x0"/>
@@ -36,6 +45,7 @@
                 </Values>
             </Element>
             <Element Type="Asset" ID="0x9182250C">
+                <Description>String table displayed by the memo. Status messages read entry 0; Message Box display receives the string-table asset.</Description>
                 <TypeFilter>
                     <Element>STRG</Element>
                 </TypeFilter>

@@ -13,9 +13,11 @@
                 <DefaultValue>3.0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xBB0FFDD6">
+                <Description>Lower bound for the randomly selected number of splash jumps in one sequence. The sequence ends when this count is reached, the boss changes phase, or its minimum-health condition is met.</Description>
                 <DefaultValue>3</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x60B0AE31">
+                <Description>Upper bound for the splash-jump count selected with MinSplashesInSequence.</Description>
                 <DefaultValue>3</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x9CFA9ACB">

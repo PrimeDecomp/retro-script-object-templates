@@ -3,11 +3,15 @@
     <PropertyArchetype Type="Struct">
         <Name>DynamicLightIntensity</Name>
         <SubProperties>
-            <Element Type="Spline" ID="0x239D0D2B"/>
+            <Element Type="Spline" ID="0x239D0D2B">
+                <Description>Intensity curve evaluated while the light is active. For ambient, directional and spot lights, its value multiplies each color channel, capped at 1. For point lights, it sets the constant angular-attenuation coefficient.</Description>
+            </Element>
             <Element Type="Float" ID="0xC90D8899">
+                <Description>End time for the Intensity curve. At this time, IntensityLoops either resets the curve timer to zero or holds it at this value.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xAE67E050">
+                <Description>Restarts the Intensity curve at time zero when its timer reaches IntensityDuration. When disabled, the timer stays at IntensityDuration.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

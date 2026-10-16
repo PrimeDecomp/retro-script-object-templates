@@ -4,18 +4,23 @@
         <Name>TDamageInfo</Name>
         <SubProperties>
             <Element Type="Choice" ID="0x4D577910">
+                <Description>Weapon type used to select the target's damage response.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF3EC8748">
+                <Description>Base damage before the target's Damage Multiplier is applied.</Description>
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x37B6DF3D">
+                <Description>Base damage for radius hits, separate from direct-hit Damage Amount. Multiplied by the target's Damage Multiplier.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF598739">
+                <Description>Radius used for distance-based knockback falloff. Radius damage also requires the caller to enable it.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x56F98C49">
+                <Description>Base knockback strength before distance falloff and the target's damage response are applied. Damage Radius supplies the falloff distance.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
         </SubProperties>

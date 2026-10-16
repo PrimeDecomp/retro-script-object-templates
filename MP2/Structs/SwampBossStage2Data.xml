@@ -166,9 +166,15 @@
                 <DefaultValue>30.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0x87B30E02" Archetype="AudioPlaybackParms"/>
-            <Element Type="Struct" ID="0x427A116A" Archetype="AudioPlaybackParms"/>
-            <Element Type="Struct" ID="0xC05D5C7A" Archetype="AudioPlaybackParms"/>
-            <Element Type="Struct" ID="0x2B3C923A" Archetype="AudioPlaybackParms"/>
+            <Element Type="Struct" ID="0x427A116A" Archetype="AudioPlaybackParms">
+                <Description>One-shot sound played when the sampled body point enters the shallow-water band and starts the water loop.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xC05D5C7A" Archetype="AudioPlaybackParms">
+                <Description>One-shot sound played when an active water loop stops because the sampled point leaves the shallow-water band. It is skipped while water sounds are suppressed.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x2B3C923A" Archetype="AudioPlaybackParms">
+                <Description>Looping sound started with the shallow-water entry sound. The loop stops when the sampled point leaves the shallow-water band or water sounds are suppressed.</Description>
+            </Element>
             <Element Type="Float" ID="0x8FE0BF01">
                 <DefaultValue>15.0</DefaultValue>
             </Element>

@@ -916,6 +916,10 @@
             <Value Path="Structs/CommandoEGrenade.xml"/>
         </Element>
         <Element>
+            <Key>CommandoPirateFlags</Key>
+            <Value Path="Flags/CommandoPirateFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CommandoShield</Key>
             <Value Path="Structs/CommandoShield.xml"/>
         </Element>
@@ -1084,6 +1088,10 @@
             <Value Path="Structs/GuiWidgetProperties.xml"/>
         </Element>
         <Element>
+            <Key>HUDHintVisorFlags</Key>
+            <Value Path="Flags/HUDHintVisorFlags.xml"/>
+        </Element>
+        <Element>
             <Key>HealthInfo</Key>
             <Value Path="Structs/HealthInfo.xml"/>
         </Element>
@@ -1094,6 +1102,10 @@
         <Element>
             <Key>IngBoostBallGuardianData</Key>
             <Value Path="Structs/IngBoostBallGuardianData.xml"/>
+        </Element>
+        <Element>
+            <Key>IngBBGFlags</Key>
+            <Value Path="Flags/IngBBGFlags.xml"/>
         </Element>
         <Element>
             <Key>IngFlags</Key>
@@ -1208,6 +1220,10 @@
             <Value Path="Enums/PlayerItem.xml"/>
         </Element>
         <Element>
+            <Key>PlayerProxyFlags</Key>
+            <Value Path="Flags/PlayerProxyFlags.xml"/>
+        </Element>
+        <Element>
             <Key>PlayerTurretFlags</Key>
             <Value Path="Flags/PlayerTurretFlags.xml"/>
         </Element>
@@ -1316,8 +1332,16 @@
             <Value Path="Structs/SplitterChassisData.xml"/>
         </Element>
         <Element>
+            <Key>SplitterChassisFlags</Key>
+            <Value Path="Flags/SplitterChassisFlags.xml"/>
+        </Element>
+        <Element>
             <Key>SplitterCommandModuleData</Key>
             <Value Path="Structs/SplitterCommandModuleData.xml"/>
+        </Element>
+        <Element>
+            <Key>SplitterCommandModuleFlags</Key>
+            <Value Path="Flags/SplitterCommandModuleFlags.xml"/>
         </Element>
         <Element>
             <Key>SplitterScanBeamData</Key>

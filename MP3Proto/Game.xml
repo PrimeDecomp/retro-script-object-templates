@@ -920,6 +920,10 @@
             <Value Path="Structs/GunTurretTopData.xml"/>
         </Element>
         <Element>
+            <Key>HUDHintVisorFlags</Key>
+            <Value Path="Flags/HUDHintVisorFlags.xml"/>
+        </Element>
+        <Element>
             <Key>HealthInfo</Key>
             <Value Path="Structs/HealthInfo.xml"/>
         </Element>
@@ -1170,6 +1174,10 @@
         <Element>
             <Key>PlayerMovementControls</Key>
             <Value Path="Structs/PlayerMovementControls.xml"/>
+        </Element>
+        <Element>
+            <Key>PlayerProxyFlags</Key>
+            <Value Path="Flags/PlayerProxyFlags.xml"/>
         </Element>
         <Element>
             <Key>PlayerTurretFlags</Key>

@@ -4,24 +4,31 @@
         <Name>SandwormAttackSequence</Name>
         <SubProperties>
             <Element Type="Float" ID="0x98106EE2">
+                <Description>Current-health threshold for selecting this attack sequence. Sequences 1 through 4 are tested in order using a strict greater-than comparison. Sequence 5 is the fallback and does not test its own threshold.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x95081226">
+                <Description>Lower bound, in seconds, for the attack cooldown selected from the current sequence while the boss is Ing-controlled. Used directly when no random generator is available.</Description>
                 <DefaultValue>3.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xC2064265">
+                <Description>Upper bound, in seconds, for the random attack cooldown selected from the current sequence while the boss is Ing-controlled. MinTimeBetweenSequences supplies the lower bound.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xFE9133CD">
+                <Description>Movement-speed setting copied to the boss during its boss-state update and when it begins pursuing the player while Ing-controlled.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x59F14D7C">
+                <Description>First attack in the Ing-controlled Sandworm's sequence. Values: 0 spit, 1 bomb toss, 2 bomb spread, 3 alternate toss and spread, 4 bomb fountain. If the last attack was neither toss nor spread, choice 3 selects randomly when a random generator is available and otherwise selects toss.</Description>
                 <DefaultValue>3</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x9606B4B0">
+                <Description>Attack after FirstAttackInSequence. Uses the same choices; a value outside 0 through 4 ends the sequence before this step and returns to FirstAttackInSequence.</Description>
                 <DefaultValue>5</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0xFC2697DD">
+                <Description>Attack after SecondAttackInSequence, followed by a return to FirstAttackInSequence. Uses the same choices; a value outside 0 through 4 ends the sequence before this step.</Description>
                 <DefaultValue>5</DefaultValue>
             </Element>
         </SubProperties>

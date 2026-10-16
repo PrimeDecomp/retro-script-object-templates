@@ -230,12 +230,24 @@
             <Element Type="Float" ID="0xE5BC88B7">
                 <DefaultValue>0.15000001</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x8F6732EA" Archetype="DigitalGuardianHeadStruct"/>
-            <Element Type="Struct" ID="0x8E128141" Archetype="DigitalGuardianHeadStruct"/>
-            <Element Type="Struct" ID="0xEA54B390" Archetype="DigitalGuardianHeadStruct"/>
-            <Element Type="Struct" ID="0xBBD3E7A7" Archetype="DigitalGuardianHeadStruct"/>
-            <Element Type="Struct" ID="0x2DD88764" Archetype="DigitalGuardianHeadStruct"/>
-            <Element Type="Struct" ID="0x48B46E55" Archetype="DigitalGuardianHeadStruct"/>
+            <Element Type="Struct" ID="0x8F6732EA" Archetype="DigitalGuardianHeadStruct">
+                <Description>Projectile attack settings used while one knee armor remains.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x8E128141" Archetype="DigitalGuardianHeadStruct">
+                <Description>Projectile attack settings used while two knee armors remain.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xEA54B390" Archetype="DigitalGuardianHeadStruct">
+                <Description>Projectile attack settings used while three knee armors remain.</Description>
+            </Element>
+            <Element Type="Struct" ID="0xBBD3E7A7" Archetype="DigitalGuardianHeadStruct">
+                <Description>Projectile attack settings used while all four knee armors remain.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x2DD88764" Archetype="DigitalGuardianHeadStruct">
+                <Description>Projectile attack settings used after all knee armors are destroyed while the head armor remains.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x48B46E55" Archetype="DigitalGuardianHeadStruct">
+                <Description>Projectile attack settings used when no knee armor remains and the head armor is destroyed.</Description>
+            </Element>
             <Element Type="Struct" ID="0x7352D60A" Archetype="DamageVulnerability"/>
             <Element Type="Struct" ID="0x1B2AA049" Archetype="DamageVulnerability"/>
         </SubProperties>

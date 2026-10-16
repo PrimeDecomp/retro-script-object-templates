@@ -18,9 +18,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0xE71DE331">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xE71DE331" Archetype="PlayerProxyFlags"/>
             <Element Type="Asset" ID="0xC27FFA8F"/>
             <Element Type="AnimationSet" ID="0xA244C9D8"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>

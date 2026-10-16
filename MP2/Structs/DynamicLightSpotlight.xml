@@ -3,11 +3,15 @@
     <PropertyArchetype Type="Struct">
         <Name>DynamicLightSpotlight</Name>
         <SubProperties>
-            <Element Type="Spline" ID="0xFEECA0D6"/>
+            <Element Type="Spline" ID="0xFEECA0D6">
+                <Description>Curve controlling the spot-light cutoff angle. Evaluated while the light is active and LightType selects a spot light.</Description>
+            </Element>
             <Element Type="Float" ID="0x79AA798B">
+                <Description>End time for the SpotlightAngle curve. At this time, SpotlightAngleLoops either resets the curve timer to zero or holds it at this value.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x2FD08300">
+                <Description>Restarts the SpotlightAngle curve at time zero when its timer reaches SpotlightAngleDuration. When disabled, the timer stays at SpotlightAngleDuration.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

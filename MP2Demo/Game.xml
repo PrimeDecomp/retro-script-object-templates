@@ -664,6 +664,10 @@
             <Value Path="Structs/CommandoEGrenade.xml"/>
         </Element>
         <Element>
+            <Key>CommandoPirateFlags</Key>
+            <Value Path="Flags/CommandoPirateFlags.xml"/>
+        </Element>
+        <Element>
             <Key>CommandoShield</Key>
             <Value Path="Structs/CommandoShield.xml"/>
         </Element>
@@ -848,6 +852,10 @@
             <Value Path="Enums/PlayerItem.xml"/>
         </Element>
         <Element>
+            <Key>PlayerProxyFlags</Key>
+            <Value Path="Flags/PlayerProxyFlags.xml"/>
+        </Element>
+        <Element>
             <Key>PlayerTurretFlags</Key>
             <Value Path="Flags/PlayerTurretFlags.xml"/>
         </Element>
@@ -924,8 +932,16 @@
             <Value Path="Structs/SplitterChassisData.xml"/>
         </Element>
         <Element>
+            <Key>SplitterChassisFlags</Key>
+            <Value Path="Flags/SplitterChassisFlags.xml"/>
+        </Element>
+        <Element>
             <Key>SplitterCommandModuleData</Key>
             <Value Path="Structs/SplitterCommandModuleData.xml"/>
+        </Element>
+        <Element>
+            <Key>SplitterCommandModuleFlags</Key>
+            <Value Path="Flags/SplitterCommandModuleFlags.xml"/>
         </Element>
         <Element>
             <Key>SurfaceCameraFlags</Key>

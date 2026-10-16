@@ -5,18 +5,23 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Int" ID="0x3FA67145">
+                <Description>Maximum number of objects generated when the active generator receives SetToZero. Each GeneratorConnection/Activate target is used at most once per activation. Generation stops when no targets or follower locations remain.</Description>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x88978E49">
+                <Description>Removes each selected follower location from the current generation batch so it cannot be selected again. With this disabled, multiple generated objects can use the same follower.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x1EB8E254">
+                <Description>Preserves the generated actor's original orientation instead of copying the follower's transform. Its position is still set from the follower and Offset.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x35A5E10">
+                <Description>Uses the message originator as the follower when there are no active GeneratorConnection/Follow targets. With this disabled, the message sender is used instead. KeepOrientation still controls whether the follower's orientation is copied.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x46477064">
+                <Description>Position offset added to the selected follower's translation. For a swarm follower, it is added to the last killed member's position instead. The offset is not rotated with the follower.</Description>
                 <DefaultValue>
                     <X>0.0</X>
                     <Y>0.0</Y>
@@ -24,9 +29,11 @@
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xC3861B64">
+                <Description>Lower bound of the random multiplier applied to each generated actor's existing model scale. RandomScaleMax supplies the upper bound.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x25E6B485">
+                <Description>Upper bound of the random multiplier applied to each generated actor's existing model scale. RandomScaleMin supplies the lower bound.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
         </SubProperties>

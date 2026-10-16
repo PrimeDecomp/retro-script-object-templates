@@ -61,7 +61,9 @@
             <Element Type="Bool" ID="0x67B6EA0B">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xA7326A3" Archetype="DamageVulnerability"/>
+            <Element Type="Struct" ID="0xA7326A3" Archetype="DamageVulnerability">
+                <Description>Weapon damage responses assigned to affected body collision actors after the tail is destroyed. Radius damage is ignored; the Grapple Guardian's protected collision joints remain immune.</Description>
+            </Element>
             <Element Type="AnimationSet" ID="0xA18F626B"/>
             <Element Type="AnimationSet" ID="0xABEF809"/>
             <Element Type="Asset" ID="0x4F3A4566">

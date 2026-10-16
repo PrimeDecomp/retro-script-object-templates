@@ -105,6 +105,7 @@
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xF317F4D5">
+                <Description>Amount subtracted each second from Dark Samus's accumulated recent damage, clamped at zero. The remaining damage is compared with DamageInterruptThreshold.</Description>
                 <DefaultValue>4.0</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x17083924">

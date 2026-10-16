@@ -13,18 +13,23 @@
                 <DefaultValue>127</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xE5587648">
+                <Description>Audio volume for gameEnding_Part3.thp. Only the low eight bits are passed to the movie player. This segment precedes the credits, with the special ending inserted when selected.</Description>
                 <DefaultValue>127</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x9ED00248">
+                <Description>Audio volume for all three completion-screen movies: Win_Movie_begin, Win_Movie_loop and Win_Movie_end. Only the low eight bits are used. MovieVolumeCompletionScreenMusic controls the separate music track.</Description>
                 <DefaultValue>127</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x6F135424">
+                <Description>Audio volume for afterCredits_100.thp. Only the low eight bits are passed to the movie player.</Description>
                 <DefaultValue>127</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xDB2260B7">
+                <Description>Volume of Audio/echoes-end1-32.dsp during the credits. Only the low eight bits are passed to the audio player.</Description>
                 <DefaultValue>127</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xF38093F5">
+                <Description>Volume of Audio/samusjak_edit.dsp on the completion screen. Only the low eight bits are passed to the audio player. MovieVolumeCompletionScreen controls the separate movie audio.</Description>
                 <DefaultValue>127</DefaultValue>
             </Element>
         </SubProperties>

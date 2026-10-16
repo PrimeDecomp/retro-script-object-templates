@@ -14,36 +14,46 @@
                 </TypeFilter>
             </Element>
             <Element Type="Bool" ID="0x3DF5A489">
+                <Description>Allows particle-system updates after the update timer expires while the current area is not occluded. When disabled, an expired timer stops particle-system updates regardless of area visibility.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xA4B9984F">
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xEE538174">
+                <Description>Scales particle generation by the distance to the farthest player camera. Within GenerationRateDistanceScaleStart, the rate blends from GenerationRateDistanceScaleAmount at zero distance to the normal rate at that threshold. UseGenerationRateFarScale applies its distance-range scaling afterward.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xA94B0EFD">
+                <Description>Distance at which near-camera particle-rate scaling begins as the camera approaches. With ScaleGenerationRateBasedOnDistance enabled, the rate changes from normal at this distance to GenerationRateDistanceScaleAmount at zero distance. Uses the farthest player camera.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x93756968">
+                <Description>Particle-generation rate multiplier at zero camera distance when ScaleGenerationRateBasedOnDistance is enabled. It blends to 1 at GenerationRateDistanceScaleStart, using the farthest player camera. UseGenerationRateFarScale applies its distance-range scaling afterward.</Description>
                 <DefaultValue>0.5</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB94597D">
+                <Description>Initial particle-update time allowance. Turning emission back on raises the remaining allowance to at least this value. Visibility can renew the timer separately; expiry stops particle-system updates rather than deleting the effect.</Description>
                 <DefaultValue>0.2</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD0E8A496">
+                <Description>Minimum remaining particle-update time restored during prerender when the actor is visible or has no valid particle bounds. This renewal occurs before visor visibility is checked.</Description>
                 <DefaultValue>0.1</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xA8BB6C61">
+                <Description>Blends the particle-generation rate toward GenerationRateFarAmount between GenerationRateFarScaleDistance and GenerationRateFarScaleDistanceStop. Uses the farthest player camera and applies after ScaleGenerationRateBasedOnDistance.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x7589D549">
+                <Description>Distance where UseGenerationRateFarScale begins changing the particle-generation rate. The rate blends from its current value here to GenerationRateFarAmount at GenerationRateFarScaleDistanceStop. Uses the farthest player camera.</Description>
                 <DefaultValue>20.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xA7D7D767">
+                <Description>Distance where UseGenerationRateFarScale reaches GenerationRateFarAmount. That multiplier is held beyond this distance. Uses the farthest player camera.</Description>
                 <DefaultValue>30.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xFE69615C">
+                <Description>Particle-generation rate multiplier at and beyond GenerationRateFarScaleDistanceStop. With UseGenerationRateFarScale enabled, the rate blends toward this value from GenerationRateFarScaleDistance, after any near-camera scaling.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x88D914A6">

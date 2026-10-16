@@ -15,18 +15,22 @@
                 <DefaultValue>true</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0xA78AC0C0">
+                <Description>Selects the movie's render queue: 0 draws in the last-overlay pass; all other values draw in the last-HUD pass.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x80C66C37">
+                <Description>Sets the movie's audio volume before the scaling selected by VolumeType.</Description>
                 <DefaultValue>127</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0xE1FF4F04">
+                <Description>Selects how Volume uses the audio settings: 1 multiplies it by the music volume divided by 127; 2 uses the sound-effects volume divided by 127. Other values leave Volume unchanged.</Description>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xAD9EB77F">
                 <DefaultValue>0.050000001</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x7C269EBC">
+                <Description>Sets how many seconds before the movie ends to send the Approach state. During a cutscene skip, the simulated playback time first advances to this point and sends Approach, then advances to the end and sends MaxReached.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
         </SubProperties>

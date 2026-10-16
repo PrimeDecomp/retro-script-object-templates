@@ -40,12 +40,15 @@
                 <DefaultValue>0.1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x6A111B96">
+                <Description>Time in seconds to change the ambient orbit speed from AmbientSpeed to AmbientSpeedTarget after InternalMessage1. The transition advances at a constant rate and stops at the target speed.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xFF226EA3">
+                <Description>Time in seconds to return the ambient orbit speed from AmbientSpeedTarget to AmbientSpeed after InternalMessage0. The transition advances at a constant rate and stops at the initial speed.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Vector" ID="0x2190AB0A">
+                <Description>World-space drift velocity added to camera movement when updating the fog texture coordinates. The velocity is multiplied by the current scroll scale and elapsed time, then transformed into camera space. Camera-space X and Z offsets are multiplied by 0.075, and Y by 0.5.</Description>
                 <DefaultValue>
                     <X>0.0</X>
                     <Y>0.0</Y>
@@ -53,12 +56,15 @@
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x9F19F0AF">
+                <Description>Target multiplier for the drift velocity in 0x2190AB0A. The multiplier starts at 1. InternalMessage3 moves it toward this value over 0x90C10FE7 seconds; InternalMessage2 returns it to 1 over 0xD8DAFF1D seconds.</Description>
                 <DefaultValue>0.1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x90C10FE7">
+                <Description>Time in seconds to change the drift-velocity multiplier from 1 to 0x9F19F0AF after InternalMessage3. The transition advances at a constant rate and stops at the target multiplier.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD8DAFF1D">
+                <Description>Time in seconds to return the drift-velocity multiplier from 0x9F19F0AF to 1 after InternalMessage2. The transition advances at a constant rate and stops at 1.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
         </SubProperties>

@@ -23,11 +23,15 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x67C8A8F4">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x67C8A8F4">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
-            <Element Type="Int" ID="0x68D8B844">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x68D8B844">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Color" ID="0xBD3EFE7D">
                 <DefaultValue>

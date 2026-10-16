@@ -94,8 +94,10 @@
             <Element Type="Float" ID="0x3DAD897B">
                 <DefaultValue>50.0</DefaultValue>
             </Element>
-            <Element Type="Sound" ID="0x6CF4324">
-                <DefaultValue>-1</DefaultValue>
+            <Element Type="Asset" ID="0x6CF4324">
+                <TypeFilter>
+                    <Element>PART</Element>
+                </TypeFilter>
             </Element>
             <Element Type="Sound" ID="0x23F5E1EE">
                 <DefaultValue>-1</DefaultValue>

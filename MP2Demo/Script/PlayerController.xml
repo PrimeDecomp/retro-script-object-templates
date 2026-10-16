@@ -21,9 +21,7 @@
                     </Element>
                 </SubProperties>
             </Element>
-            <Element Type="Int" ID="0xE71DE331">
-                <DefaultValue>0</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0xE71DE331" Archetype="PlayerProxyFlags"/>
             <Element Type="Asset" ID="0xC27FFA8F">
                 <TypeFilter>
                     <Element>CMDL</Element>

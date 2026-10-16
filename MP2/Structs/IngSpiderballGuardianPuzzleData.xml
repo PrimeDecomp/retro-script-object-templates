@@ -4,27 +4,35 @@
         <Name>IngSpiderballGuardianPuzzleData</Name>
         <SubProperties>
             <Element Type="Float" ID="0x17C5B61D">
+                <Description>Target speed on entering patrol. Damage taken toward StunnedHitPoints raises the target speed toward MaxPatrolSpeed.</Description>
                 <DefaultValue>5.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB0F13664">
+                <Description>Target speed while charging and the upper end of the damaged-patrol speed range. AngularSpeed is scaled by current speed divided by this value.</Description>
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xAF9B05F4">
+                <Description>Rate at which current movement speed rises toward the target speed. A lower target speed is applied immediately.</Description>
                 <DefaultValue>7.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xBCD7333F">
+                <Description>Maximum turning rate in degrees per second at MaxPatrolSpeed, scaled by current speed. Limits both facing direction and alignment to the waypoint surface normal.</Description>
                 <DefaultValue>720.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD1D9D8BD">
+                <Description>Damage required to stun the guardian after entering patrol. Before this amount is exhausted, accumulated damage raises patrol speed from MinPatrolSpeed toward MaxPatrolSpeed.</Description>
                 <DefaultValue>40.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8D5917D4">
+                <Description>Target movement speed while stunned. LinearAcceleration controls increases toward this speed.</Description>
                 <DefaultValue>2.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8105ECFD">
+                <Description>Stun duration in seconds. Taking another hit while stunned restarts this timer. Return to patrol also waits for the recovery delay to expire and for damage to be enabled.</Description>
                 <DefaultValue>25.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xE5065EA8">
+                <Description>Charge duration in seconds. Return to patrol after the timer expires also waits for the recovery delay to expire and for damage to be enabled.</Description>
                 <DefaultValue>15.0</DefaultValue>
             </Element>
         </SubProperties>

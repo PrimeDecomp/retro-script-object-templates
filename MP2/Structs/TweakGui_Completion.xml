@@ -3,7 +3,9 @@
     <PropertyArchetype Type="Struct">
         <Name>TweakGui_Completion</Name>
         <SubProperties>
-            <Element Type="String" ID="0x81FC78C2"/>
+            <Element Type="String" ID="0x81FC78C2">
+                <Description>Resource name of the completion-screen string table. Supplies MainText, PercentageComplete, TotalTime, the unlock messages and MessageContinue.</Description>
+            </Element>
             <Element Type="String" ID="0x5E7F85C7"/>
             <Element Type="String" ID="0xA0D69D0"/>
             <Element Type="Color" ID="0x5A24A7E4">
@@ -52,12 +54,14 @@
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0xB6FE7398">
+                <Description>Controls the speed of the unlock message's color pulse. The sine wave completes one cycle in twice this value; it blends the text and outline toward grey.</Description>
                 <DefaultValue>0.25</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x6AF2871B">
                 <DefaultValue>0.30000001</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x2955D055">
+                <Description>Seconds before completion-screen text starts updating. Pauses updates to the title, statistics, unlock message and continue text, including the unlock message's color pulse, until the delay expires.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
         </SubProperties>

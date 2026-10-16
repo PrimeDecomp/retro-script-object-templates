@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Flags">
+        <Name>SplitterChassisFlags</Name>
+        <DefaultValue>124</DefaultValue>
+        <Flags>
+            <Element Name="Starts Crouching" Mask="0x1"/>
+            <Element Name="Starts Lurking" Mask="0x2"/>
+            <Element Name="Can Leg Stab" Mask="0x4"/>
+            <Element Name="Can Spin Attack" Mask="0x8"/>
+            <Element Name="Can Dodge In Any Direction" Mask="0x10"/>
+            <Element Name="Can Dodge Down" Mask="0x20"/>
+            <Element Name="Can Laser Sweep" Mask="0x40"/>
+        </Flags>
+    </PropertyArchetype>
+</PropertyTemplate>

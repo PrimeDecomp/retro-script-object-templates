@@ -29,20 +29,32 @@
             <Element Type="Asset" ID="0x396660B4"/>
             <Element Type="Asset" ID="0x48E25884"/>
             <Element Type="Asset" ID="0xF1ABB2C7"/>
-            <Element Type="Asset" ID="0x1EB90D06"/>
+            <Element Type="Asset" ID="0x1EB90D06">
+                <Description>Particle effect emitted at each destroyed chunk. DestroyedChunkEffect_1_NumParticlesToGenerate sets the number of particles created.</Description>
+            </Element>
             <Element Type="Int" ID="0x9D852DFE">
+                <Description>Number of particles created by DestroyedChunkEffect_1 when a chunk is destroyed.</Description>
                 <DefaultValue>4</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0x982D7FA8"/>
+            <Element Type="Asset" ID="0x982D7FA8">
+                <Description>Particle effect emitted at each destroyed chunk. DestroyedChunkEffect_2_NumParticlesToGenerate sets the number of particles created.</Description>
+            </Element>
             <Element Type="Int" ID="0x2E11003D">
+                <Description>Number of particles created by DestroyedChunkEffect_2 when a chunk is destroyed.</Description>
                 <DefaultValue>4</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0x5371AC0D"/>
+            <Element Type="Asset" ID="0x5371AC0D">
+                <Description>Particle effect emitted at each destroyed chunk. DestroyedChunkEffect_3_NumParticlesToGenerate sets the number of particles created.</Description>
+            </Element>
             <Element Type="Int" ID="0x409D1B7C">
+                <Description>Number of particles created by DestroyedChunkEffect_3 when a chunk is destroyed.</Description>
                 <DefaultValue>1</DefaultValue>
             </Element>
-            <Element Type="Asset" ID="0x4E749CB5"/>
+            <Element Type="Asset" ID="0x4E749CB5">
+                <Description>Particle effect emitted at each destroyed chunk. DestroyedChunkEffect_4_NumParticlesToGenerate sets the number of particles created.</Description>
+            </Element>
             <Element Type="Int" ID="0x92485DFA">
+                <Description>Number of particles created by DestroyedChunkEffect_4 when a chunk is destroyed.</Description>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x6E4A9D27">
@@ -61,12 +73,15 @@
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x605847B9">
+                <Description>Percentage of destroyed chunks required to start lowering the raised barrier. Lowering begins only when the destroyed percentage is greater than this value.</Description>
                 <DefaultValue>50.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xCD9C67FE">
+                <Description>Seconds after the first chunk destruction before the raised barrier starts lowering. Values of zero or less disable this timer. Later chunk destruction does not restart it; the timer resets when the barrier reaches its lowered position.</Description>
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xAF428B4">
+                <Description>Speed at which the barrier lowers and rises, in world units per second. Upward movement pauses while the player touches the barrier.</Description>
                 <DefaultValue>10.0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x4D3109E3">

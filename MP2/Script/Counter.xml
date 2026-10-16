@@ -5,15 +5,19 @@
         <SubProperties>
             <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
             <Element Type="Int" ID="0xFD179A6F">
+                <Description>Counter value on creation and after Reset. Auto Reset restores this value after its triggering event.</Description>
                 <DefaultValue>10</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x5B851589">
+                <Description>Value selected by SetToMax and the limit for non-wrapping increments. With Wrap enabled, an increment reaching this value becomes zero; a decrement reaching its negative also becomes zero.</Description>
                 <DefaultValue>10</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x7BEF45CA">
+                <Description>Restores Initial Count after SetToZero, SetToMax, a decrement to zero, or an increment that reaches Max Count without wrapping.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xF076CEF5">
+                <Description>Allows increments beyond the normal maximum and decrements below zero. An increment reaching Max Count wraps to zero. Decrements enter negative values and return to zero on reaching minus Max Count.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

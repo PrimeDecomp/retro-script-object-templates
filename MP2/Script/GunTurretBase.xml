@@ -51,6 +51,7 @@
                 <DefaultValue>-45.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xFC036E93">
+                <Description>Maximum pitch and yaw error, in degrees, that allows the aimed gun to fire. Both errors must be within this limit.</Description>
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD75F9CF2">
@@ -63,6 +64,7 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x8A35B1EA">
+                <Description>Controls how quickly the gun raises and lowers while intact. One tenth of this value is added to or subtracted from the extension-animation weight each second. DeathWithdrawAnimSpeed controls lowering after the gun is destroyed.</Description>
                 <DefaultValue>1.0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xD49BEC5A">
@@ -87,15 +89,18 @@
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x5CF12E9A">
+                <Description>Includes living nonplayer characters when choosing a target. Other turrets are excluded. This option is ignored while the gun-hit flag is set.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x479D8DC4">
+                <Description>Allows living nonplayer characters to trigger detection within the detection range and DetectionHeightUp/DetectionHeightDown limits. Other turrets are excluded.</Description>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x701D65CD">
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0xA33D1C6D">
+                <Description>Collision-response effects applied at the ray hit when a non-pirate turret fires. The hit uses AttackDamage.</Description>
                 <TypeFilter>
                     <Element>CRSC</Element>
                 </TypeFilter>
