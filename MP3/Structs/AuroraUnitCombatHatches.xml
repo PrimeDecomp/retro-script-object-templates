@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct2</Name>
+        <Name>AuroraUnitCombatHatches</Name>
         <SubProperties>
             <Element Type="AnimationSet" ID="0xC107A48A"/>
             <Element Type="Float" ID="0xA6C47CD3">

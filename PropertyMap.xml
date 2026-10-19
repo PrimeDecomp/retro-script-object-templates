@@ -271,7 +271,7 @@
         </Element>
         <Element>
             <Key ID="0x16B65A9" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="RightRemoteWeaponPodDestroyed"/>
         </Element>
         <Element>
             <Key ID="0x16DAA73" Type="float"/>
@@ -642,8 +642,8 @@
             <Value Name="Sequence5"/>
         </Element>
         <Element>
-            <Key ID="0x3A319DF" Type="UnknownStruct13"/>
-            <Value Name="UnknownStruct13"/>
+            <Key ID="0x3A319DF" Type="AuroraUnitCuttingBeams"/>
+            <Value Name="CuttingBeams"/>
         </Element>
         <Element>
             <Key ID="0x3A76D35" Type="float"/>
@@ -2603,7 +2603,7 @@
         </Element>
         <Element>
             <Key ID="0xF676BD9" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="UprootEffect"/>
         </Element>
         <Element>
             <Key ID="0xF6E5327" Type="SummonBehaviorData"/>
@@ -3243,7 +3243,7 @@
         </Element>
         <Element>
             <Key ID="0x12EBB390" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="AnnihilatorChargeFilterCutoffFrequency"/>
         </Element>
         <Element>
             <Key ID="0x12F14C5A" Type="CameraShakerData"/>
@@ -3307,7 +3307,7 @@
         </Element>
         <Element>
             <Key ID="0x13654F20" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelScaleX"/>
         </Element>
         <Element>
             <Key ID="0x1375290A" Type="float"/>
@@ -3355,7 +3355,7 @@
         </Element>
         <Element>
             <Key ID="0x138F1104" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelFlashRampUpTime"/>
         </Element>
         <Element>
             <Key ID="0x13A15B89" Type="float"/>
@@ -3559,7 +3559,7 @@
         </Element>
         <Element>
             <Key ID="0x14A4DDCA" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="ColorSongOfShazzar"/>
         </Element>
         <Element>
             <Key ID="0x14B3F716" Type="enum"/>
@@ -5139,7 +5139,7 @@
         </Element>
         <Element>
             <Key ID="0x1CC6D870" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DetachFromBodyWaitTime"/>
         </Element>
         <Element>
             <Key ID="0x1CC93984" Type="float"/>
@@ -5158,8 +5158,8 @@
             <Value Name="SecondaryModel8"/>
         </Element>
         <Element>
-            <Key ID="0x1CE620A7" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x1CE620A7" Type="UserAnimFlags"/>
+            <Value Name="UserAnimFlags"/>
         </Element>
         <Element>
             <Key ID="0x1CE76B90" Type="asset"/>
@@ -6467,7 +6467,7 @@
         </Element>
         <Element>
             <Key ID="0x24265839" Type="ElectricBeamInfo"/>
-            <Value Name="ElectricBeamInfo"/>
+            <Value Name="PhazonDeathDischargeWeaponInfo"/>
         </Element>
         <Element>
             <Key ID="0x242D205C" Type="float"/>
@@ -6883,7 +6883,7 @@
         </Element>
         <Element>
             <Key ID="0x2646819A" Type="SwarmSoundData"/>
-            <Value Name="SwarmSoundData"/>
+            <Value Name="LocomotionOneShotSoundA"/>
         </Element>
         <Element>
             <Key ID="0x2646A843" Type="float"/>
@@ -8007,7 +8007,7 @@
         </Element>
         <Element>
             <Key ID="0x2C79052C" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="LeftRemoteWeaponPodDestroyed"/>
         </Element>
         <Element>
             <Key ID="0x2C7916EC" Type="IslandLoadConfirmScreen"/>
@@ -8079,7 +8079,7 @@
         </Element>
         <Element>
             <Key ID="0x2CF6F605" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="HeadTrackWhenIdling"/>
         </Element>
         <Element>
             <Key ID="0x2CF86398" Type="asset"/>
@@ -9699,7 +9699,7 @@
         </Element>
         <Element>
             <Key ID="0x35E0BD31" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SliderToTextWidthRatio"/>
         </Element>
         <Element>
             <Key ID="0x35E83E43" Type="string"/>
@@ -9951,7 +9951,7 @@
         </Element>
         <Element>
             <Key ID="0x373BEBE3" Type="SwarmSoundData"/>
-            <Value Name="SwarmSoundData"/>
+            <Value Name="LocomotionOneShotSoundB"/>
         </Element>
         <Element>
             <Key ID="0x374C17BA" Type="float"/>
@@ -9987,7 +9987,7 @@
         </Element>
         <Element>
             <Key ID="0x376E909F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntsBeforeAttackingMax"/>
         </Element>
         <Element>
             <Key ID="0x37771360" Type="float"/>
@@ -10039,7 +10039,7 @@
         </Element>
         <Element>
             <Key ID="0x37DFFBFD" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorBeamMenuIconMoveSpeed"/>
         </Element>
         <Element>
             <Key ID="0x37E381C2" Type="Color"/>
@@ -10939,7 +10939,7 @@
         </Element>
         <Element>
             <Key ID="0x3CA59E4E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxRandomTimeBetweenWipes"/>
         </Element>
         <Element>
             <Key ID="0x3CADCC64" Type="JungleBoss1AttackTypeEnum"/>
@@ -11238,8 +11238,8 @@
             <Value Name="WheelTumbleContactDamage"/>
         </Element>
         <Element>
-            <Key ID="0x3E1E7597" Type="SwampBossStage1Struct"/>
-            <Value Name="SwampBossStage1Struct"/>
+            <Key ID="0x3E1E7597" Type="SwampBossBattleStage"/>
+            <Value Name="BattleStage2"/>
         </Element>
         <Element>
             <Key ID="0x3E23D4D8" Type="float"/>
@@ -12115,7 +12115,7 @@
         </Element>
         <Element>
             <Key ID="0x42C7FBE4" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChargeGaugeFlashCycleTime"/>
         </Element>
         <Element>
             <Key ID="0x42C900ED" Type="bool"/>
@@ -12455,7 +12455,7 @@
         </Element>
         <Element>
             <Key ID="0x449DD059" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ImpulseSpeedOnMax"/>
         </Element>
         <Element>
             <Key ID="0x449F5275" Type="asset"/>
@@ -12510,8 +12510,8 @@
             <Value Name="Tier2"/>
         </Element>
         <Element>
-            <Key ID="0x4500F774" Type="SwampBossStage1Struct"/>
-            <Value Name="SwampBossStage1Struct"/>
+            <Key ID="0x4500F774" Type="SwampBossBattleStage"/>
+            <Value Name="BattleStage1"/>
         </Element>
         <Element>
             <Key ID="0x4508EB0E" Type="RobotChickenStompAttackData"/>
@@ -13487,7 +13487,7 @@
         </Element>
         <Element>
             <Key ID="0x4A1E8961" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TurnToTargetThreshold"/>
         </Element>
         <Element>
             <Key ID="0x4A2BEDE4" Type="asset"/>
@@ -14323,7 +14323,7 @@
         </Element>
         <Element>
             <Key ID="0x4E599427" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EmitEighthBeats"/>
         </Element>
         <Element>
             <Key ID="0x4E749CB5" Type="asset"/>
@@ -14491,7 +14491,7 @@
         </Element>
         <Element>
             <Key ID="0x4F522994" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxShadowDashSearchRange"/>
         </Element>
         <Element>
             <Key ID="0x4F547915" Type="float"/>
@@ -14663,7 +14663,7 @@
         </Element>
         <Element>
             <Key ID="0x50398A06" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="IngSpotMaxHurriedSpeed"/>
         </Element>
         <Element>
             <Key ID="0x503DDDCA" Type="float"/>
@@ -14903,7 +14903,7 @@
         </Element>
         <Element>
             <Key ID="0x519C7197" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FloorSnapLerpFactor"/>
         </Element>
         <Element>
             <Key ID="0x519C83E7" Type="float"/>
@@ -15950,8 +15950,8 @@
             <Value Name="MapMoveRight"/>
         </Element>
         <Element>
-            <Key ID="0x571EB1EF" Type="UnknownStruct140"/>
-            <Value Name="UnknownStruct140"/>
+            <Key ID="0x571EB1EF" Type="GenericCreatureModulesData"/>
+            <Value Name="Modules"/>
         </Element>
         <Element>
             <Key ID="0x5724CCD8" Type="float"/>
@@ -16131,7 +16131,7 @@
         </Element>
         <Element>
             <Key ID="0x58795865" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SliderToTextHeightRatio"/>
         </Element>
         <Element>
             <Key ID="0x587CA175" Type="float"/>
@@ -16582,8 +16582,8 @@
             <Value Name="PART"/>
         </Element>
         <Element>
-            <Key ID="0x5B514E8C" Type="UnknownStruct2"/>
-            <Value Name="UnknownStruct2"/>
+            <Key ID="0x5B514E8C" Type="AuroraUnitCombatHatches"/>
+            <Value Name="CombatHatches"/>
         </Element>
         <Element>
             <Key ID="0x5B5F1A7D" Type="bool"/>
@@ -16743,7 +16743,7 @@
         </Element>
         <Element>
             <Key ID="0x5C072FD0" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="UprootDamage"/>
         </Element>
         <Element>
             <Key ID="0x5C1FFC8D" Type="CharacterAnimationSet"/>
@@ -17030,8 +17030,8 @@
             <Value Name="SplineAdvancement"/>
         </Element>
         <Element>
-            <Key ID="0x5D8916EA" Type="UnknownStruct134"/>
-            <Value Name="UnknownStruct134"/>
+            <Key ID="0x5D8916EA" Type="RenderBoundsModifierData"/>
+            <Value Name="RenderBounds"/>
         </Element>
         <Element>
             <Key ID="0x5D8F2BEE" Type="float"/>
@@ -17207,7 +17207,7 @@
         </Element>
         <Element>
             <Key ID="0x5E8D301B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PatrolSniffIntervalMax"/>
         </Element>
         <Element>
             <Key ID="0x5E96989A" Type="asset"/>
@@ -18418,8 +18418,8 @@
             <Value Name="FlyingPirateToSwarm"/>
         </Element>
         <Element>
-            <Key ID="0x659DF76D" Type="UnknownStruct7"/>
-            <Value Name="UnknownStruct7"/>
+            <Key ID="0x659DF76D" Type="AuroraUnit2AttackChance"/>
+            <Value Name="NextAttackChance"/>
         </Element>
         <Element>
             <Key ID="0x65A1308E" Type="float"/>
@@ -20343,7 +20343,7 @@
         </Element>
         <Element>
             <Key ID="0x7039FB9F" Type="HoverThenHomeProjectile"/>
-            <Value Name="HoverThenHomeProjectile"/>
+            <Value Name="RocketHoverThenHome"/>
         </Element>
         <Element>
             <Key ID="0x70420ED1" Type="float"/>
@@ -20411,7 +20411,7 @@
         </Element>
         <Element>
             <Key ID="0x7083FAF0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelZoomedPosition"/>
         </Element>
         <Element>
             <Key ID="0x7087C377" Type="float"/>
@@ -20723,7 +20723,7 @@
         </Element>
         <Element>
             <Key ID="0x723D42D6" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseCachedCollisionGeometry"/>
         </Element>
         <Element>
             <Key ID="0x723DD19C" Type="enum"/>
@@ -20763,7 +20763,7 @@
         </Element>
         <Element>
             <Key ID="0x726CD31D" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntsBeforeAttackingMin"/>
         </Element>
         <Element>
             <Key ID="0x72767C80" Type="DepthOfFieldTunerData"/>
@@ -21051,7 +21051,7 @@
         </Element>
         <Element>
             <Key ID="0x74367D95" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxActiveSummonedObjects"/>
         </Element>
         <Element>
             <Key ID="0x74411162" Type="VolcanoBossAttackSetData"/>
@@ -23523,7 +23523,7 @@
         </Element>
         <Element>
             <Key ID="0x81591346" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="HeadTrackWhenFidgeting"/>
         </Element>
         <Element>
             <Key ID="0x815A88C5" Type="float"/>
@@ -25131,7 +25131,7 @@
         </Element>
         <Element>
             <Key ID="0x8A83A097" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxStage3aStunnedTime"/>
         </Element>
         <Element>
             <Key ID="0x8A8D5AA5" Type="asset"/>
@@ -25303,7 +25303,7 @@
         </Element>
         <Element>
             <Key ID="0x8B66820D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelFlashMagnitude"/>
         </Element>
         <Element>
             <Key ID="0x8B66ECA2" Type="sound"/>
@@ -25483,7 +25483,7 @@
         </Element>
         <Element>
             <Key ID="0x8C9A8472" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinRandomTimeBetweenWipes"/>
         </Element>
         <Element>
             <Key ID="0x8C9C574C" Type="ConfirmPopup"/>
@@ -25587,7 +25587,7 @@
         </Element>
         <Element>
             <Key ID="0x8D3C1940" Type="SwarmSoundData"/>
-            <Value Name="SwarmSoundData"/>
+            <Value Name="AttackOneShotSoundB"/>
         </Element>
         <Element>
             <Key ID="0x8D42A8D5" Type="float"/>
@@ -25839,7 +25839,7 @@
         </Element>
         <Element>
             <Key ID="0x8E79A0FB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphAtoBFadeTime"/>
         </Element>
         <Element>
             <Key ID="0x8E7EA4FC" Type="float"/>
@@ -26342,8 +26342,8 @@
             <Value Name="OrbitUpperAngle"/>
         </Element>
         <Element>
-            <Key ID="0x91502686" Type="UnknownStruct11"/>
-            <Value Name="UnknownStruct11"/>
+            <Key ID="0x91502686" Type="AuroraUnitPhazonHyperCannon"/>
+            <Value Name="PhazonHyperCannon"/>
         </Element>
         <Element>
             <Key ID="0x91532A8C" Type="choice"/>
@@ -27139,7 +27139,7 @@
         </Element>
         <Element>
             <Key ID="0x95CC4ED8" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="KillWonHighlightColor"/>
         </Element>
         <Element>
             <Key ID="0x95CDD594" Type="spline"/>
@@ -27522,8 +27522,8 @@
             <Value Name="IsTaskFollower"/>
         </Element>
         <Element>
-            <Key ID="0x97D16AA1" Type="UnknownStruct4"/>
-            <Value Name="UnknownStruct4"/>
+            <Key ID="0x97D16AA1" Type="AuroraUnitDarkSamusEcho"/>
+            <Value Name="DarkSamusEchoProperties"/>
         </Element>
         <Element>
             <Key ID="0x97D30F8B" Type="enum"/>
@@ -28311,7 +28311,7 @@
         </Element>
         <Element>
             <Key ID="0x9C417339" Type="SwarmSoundData"/>
-            <Value Name="SwarmSoundData"/>
+            <Value Name="AttackOneShotSoundA"/>
         </Element>
         <Element>
             <Key ID="0x9C425325" Type="float"/>
@@ -28538,8 +28538,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x9DD3BB57" Type="UnknownStruct14"/>
-            <Value Name="UnknownStruct14"/>
+            <Key ID="0x9DD3BB57" Type="AuroraUnitGroundSpin"/>
+            <Value Name="GroundSpin"/>
         </Element>
         <Element>
             <Key ID="0x9DD3E88B" Type="float"/>
@@ -28827,7 +28827,7 @@
         </Element>
         <Element>
             <Key ID="0x9FA9C457" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxHecklers"/>
         </Element>
         <Element>
             <Key ID="0x9FACEA01" Type="string"/>
@@ -29023,7 +29023,7 @@
         </Element>
         <Element>
             <Key ID="0xA0D037EE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinShadowDashSearchRange"/>
         </Element>
         <Element>
             <Key ID="0xA0D0963B" Type="GhorShieldGeneratorData"/>
@@ -29191,7 +29191,7 @@
         </Element>
         <Element>
             <Key ID="0xA182DEA4" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphBtoAFadeTime"/>
         </Element>
         <Element>
             <Key ID="0xA184D013" Type="float"/>
@@ -29223,7 +29223,7 @@
         </Element>
         <Element>
             <Key ID="0xA19D5F62" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="NumProjectileAttacksBeforeCharge"/>
         </Element>
         <Element>
             <Key ID="0xA19DB1DF" Type="bool"/>
@@ -29242,8 +29242,8 @@
             <Value Name="DisplaySubtitles"/>
         </Element>
         <Element>
-            <Key ID="0xA1C4F609" Type="SwampBossStage1Struct"/>
-            <Value Name="SwampBossStage1Struct"/>
+            <Key ID="0xA1C4F609" Type="SwampBossBattleStage"/>
+            <Value Name="BattleStage3"/>
         </Element>
         <Element>
             <Key ID="0xA1C6D9DE" Type="ReactivePlatformData"/>
@@ -29679,7 +29679,7 @@
         </Element>
         <Element>
             <Key ID="0xA3F4095E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelIdlePosition"/>
         </Element>
         <Element>
             <Key ID="0xA404D536" Type="float"/>
@@ -29931,7 +29931,7 @@
         </Element>
         <Element>
             <Key ID="0xA598CA16" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EmitHalfBeats"/>
         </Element>
         <Element>
             <Key ID="0xA59B3320" Type="Color"/>
@@ -31374,8 +31374,8 @@
             <Value Name="FlyingHealthEffect"/>
         </Element>
         <Element>
-            <Key ID="0xAD62C993" Type="UnknownStruct12"/>
-            <Value Name="UnknownStruct12"/>
+            <Key ID="0xAD62C993" Type="AuroraUnitGravitonWave"/>
+            <Value Name="GravitonWave"/>
         </Element>
         <Element>
             <Key ID="0xAD662AE9" Type="float"/>
@@ -31943,7 +31943,7 @@
         </Element>
         <Element>
             <Key ID="0xB0253266" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="NoncriticalScanObjectIndicatorOutOfRangeColor"/>
         </Element>
         <Element>
             <Key ID="0xB0259D23" Type="float"/>
@@ -32691,7 +32691,7 @@
         </Element>
         <Element>
             <Key ID="0xB41C7A19" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorBeamMenuSelectionsOpenTime"/>
         </Element>
         <Element>
             <Key ID="0xB43A4CAA" Type="asset"/>
@@ -33131,7 +33131,7 @@
         </Element>
         <Element>
             <Key ID="0xB6A61E34" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="CriticalScanObjectIndicatorOutOfRangeColor"/>
         </Element>
         <Element>
             <Key ID="0xB6ACEA88" Type="float"/>
@@ -33503,7 +33503,7 @@
         </Element>
         <Element>
             <Key ID="0xB8ED9FFA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PatrolSniffIntervalMin"/>
         </Element>
         <Element>
             <Key ID="0xB8EECC95" Type="float"/>
@@ -33747,7 +33747,7 @@
         </Element>
         <Element>
             <Key ID="0xBA53888E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorBeamMenuPostSelectOpenTime"/>
         </Element>
         <Element>
             <Key ID="0xBA5A65C8" Type="Color"/>
@@ -34994,8 +34994,8 @@
             <Value Name="RotationMaxSpeedAir"/>
         </Element>
         <Element>
-            <Key ID="0xC108CFA0" Type="UnknownStruct7"/>
-            <Value Name="UnknownStruct7"/>
+            <Key ID="0xC108CFA0" Type="AuroraUnit2AttackChance"/>
+            <Value Name="InitialAttackChance"/>
         </Element>
         <Element>
             <Key ID="0xC110ED44" Type="asset"/>
@@ -35119,7 +35119,7 @@
         </Element>
         <Element>
             <Key ID="0xC1EC3637" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="CriticalScanObjectIndicatorInRangeColor"/>
         </Element>
         <Element>
             <Key ID="0xC1EDCC0D" Type="TrainTrackManagerSequenceInstData"/>
@@ -35903,7 +35903,7 @@
         </Element>
         <Element>
             <Key ID="0xC60575F5" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphAToBDuration"/>
         </Element>
         <Element>
             <Key ID="0xC6089A3F" Type="enum"/>
@@ -36667,7 +36667,7 @@
         </Element>
         <Element>
             <Key ID="0xC9C29626" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="EmitQuarterBeats"/>
         </Element>
         <Element>
             <Key ID="0xC9D225C7" Type="UnknownStruct22"/>
@@ -37955,7 +37955,7 @@
         </Element>
         <Element>
             <Key ID="0xD0D1760E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelFlashRampDownTime"/>
         </Element>
         <Element>
             <Key ID="0xD0D88EA6" Type="float"/>
@@ -39511,7 +39511,7 @@
         </Element>
         <Element>
             <Key ID="0xD919FB13" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxStage3bStunnedTime"/>
         </Element>
         <Element>
             <Key ID="0xD92F485D" Type="float"/>
@@ -39847,7 +39847,7 @@
         </Element>
         <Element>
             <Key ID="0xDB2CA6FF" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="KillLostHightlightColor"/>
         </Element>
         <Element>
             <Key ID="0xDB36872A" Type="SeparateAndReformParts"/>
@@ -41647,7 +41647,7 @@
         </Element>
         <Element>
             <Key ID="0xE57CA27C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SplashShockWaveKnockBackDecayRate"/>
         </Element>
         <Element>
             <Key ID="0xE5839374" Type="float"/>
@@ -42235,7 +42235,7 @@
         </Element>
         <Element>
             <Key ID="0xE8907530" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BombProximityDetonationDistance"/>
         </Element>
         <Element>
             <Key ID="0xE89C7707" Type="float"/>
@@ -42531,7 +42531,7 @@
         </Element>
         <Element>
             <Key ID="0xE9FE0BAA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MorphBToADuration"/>
         </Element>
         <Element>
             <Key ID="0xEA024AF3" Type="ShipDecalSwapPair"/>
@@ -42779,7 +42779,7 @@
         </Element>
         <Element>
             <Key ID="0xEB6A7F2A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelTranslateTime"/>
         </Element>
         <Element>
             <Key ID="0xEB7C1BF2" Type="LevelStatusIcons"/>
@@ -45287,7 +45287,7 @@
         </Element>
         <Element>
             <Key ID="0xF874AA52" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayFidgetsRandomly"/>
         </Element>
         <Element>
             <Key ID="0xF87A15E7" Type="float"/>
@@ -45778,8 +45778,8 @@
             <Value Name="2"/>
         </Element>
         <Element>
-            <Key ID="0xFAED98DB" Type="UnknownStruct8"/>
-            <Value Name="UnknownStruct8"/>
+            <Key ID="0xFAED98DB" Type="AuroraUnitGravityBuster"/>
+            <Value Name="GravityBusterProperties"/>
         </Element>
         <Element>
             <Key ID="0xFAF066E3" Type="float"/>
@@ -46239,7 +46239,7 @@
         </Element>
         <Element>
             <Key ID="0xFD32E2D8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="VisorBeamMenuChoiceFlashTime"/>
         </Element>
         <Element>
             <Key ID="0xFD38A106" Type="CharacterAnimationSet"/>
@@ -46323,7 +46323,7 @@
         </Element>
         <Element>
             <Key ID="0xFDCD9589" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="NoncriticalScanObjectIndicatorInRangeColor"/>
         </Element>
         <Element>
             <Key ID="0xFDD2FE20" Type="DamageVulnerability"/>
@@ -46675,7 +46675,7 @@
         </Element>
         <Element>
             <Key ID="0xFF7688BF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AnnihilatorChargeBlurVisorTime"/>
         </Element>
         <Element>
             <Key ID="0xFF77C96F" Type="float"/>
@@ -46715,7 +46715,7 @@
         </Element>
         <Element>
             <Key ID="0xFFBC22BA" Type="SeedBoss1Action"/>
-            <Value Name="SeedBoss1Action"/>
+            <Value Name="SongOfShazzar"/>
         </Element>
         <Element>
             <Key ID="0xFFCD72D7" Type="asset"/>
@@ -46751,7 +46751,7 @@
         </Element>
         <Element>
             <Key ID="0xFFEBA1F2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ScanPanelZRotationDegrees"/>
         </Element>
         <Element>
             <Key ID="0xFFEEBC46" Type="choice"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct13</Name>
+        <Name>AuroraUnitCuttingBeams</Name>
         <SubProperties>
             <Element Type="Struct" ID="0x1598012A" Archetype="PlasmaBeamInfo"/>
             <Element Type="Struct" ID="0x337F9524" Archetype="DamageInfo"/>
@@ -32,7 +32,7 @@
             <Element Type="Float" ID="0x18505E36">
                 <DefaultValue>1.5</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x659DF76D" Archetype="UnknownStruct7"/>
+            <Element Type="Struct" ID="0x659DF76D" Archetype="AuroraUnit2AttackChance"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

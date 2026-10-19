@@ -1096,16 +1096,16 @@
             <Value Path="Structs/HealthInfo.xml"/>
         </Element>
         <Element>
+            <Key>IngBBGFlags</Key>
+            <Value Path="Flags/IngBBGFlags.xml"/>
+        </Element>
+        <Element>
             <Key>IngBoostBallGuardianBoostData</Key>
             <Value Path="Structs/IngBoostBallGuardianBoostData.xml"/>
         </Element>
         <Element>
             <Key>IngBoostBallGuardianData</Key>
             <Value Path="Structs/IngBoostBallGuardianData.xml"/>
-        </Element>
-        <Element>
-            <Key>IngBBGFlags</Key>
-            <Value Path="Flags/IngBBGFlags.xml"/>
         </Element>
         <Element>
             <Key>IngFlags</Key>
@@ -1356,16 +1356,16 @@
             <Value Path="Structs/SurroundPan.xml"/>
         </Element>
         <Element>
+            <Key>SwampBossBattleStage</Key>
+            <Value Path="Structs/SwampBossBattleStage.xml"/>
+        </Element>
+        <Element>
             <Key>SwampBossStage1Data</Key>
             <Value Path="Structs/SwampBossStage1Data.xml"/>
         </Element>
         <Element>
             <Key>SwampBossStage1Sounds</Key>
             <Value Path="Structs/SwampBossStage1Sounds.xml"/>
-        </Element>
-        <Element>
-            <Key>SwampBossStage1Struct</Key>
-            <Value Path="Structs/SwampBossStage1Struct.xml"/>
         </Element>
         <Element>
             <Key>SwampBossStage2Data</Key>
