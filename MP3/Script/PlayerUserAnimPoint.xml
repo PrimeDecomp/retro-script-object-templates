@@ -17,9 +17,7 @@
             <Element Type="Float" ID="0x6806D0B3">
                 <DefaultValue>0.1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x1CE620A7">
-                <DefaultValue>5</DefaultValue>
-            </Element>
+            <Element Type="Flags" ID="0x1CE620A7" Archetype="UserAnimFlags"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

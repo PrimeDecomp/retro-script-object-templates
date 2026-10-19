@@ -860,8 +860,40 @@
             <Value Path="Structs/AuroraUnit1Data.xml"/>
         </Element>
         <Element>
+            <Key>AuroraUnit2AttackChance</Key>
+            <Value Path="Structs/AuroraUnit2AttackChance.xml"/>
+        </Element>
+        <Element>
             <Key>AuroraUnit2Data</Key>
             <Value Path="Structs/AuroraUnit2Data.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitCombatHatches</Key>
+            <Value Path="Structs/AuroraUnitCombatHatches.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitCuttingBeams</Key>
+            <Value Path="Structs/AuroraUnitCuttingBeams.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitDarkSamusEcho</Key>
+            <Value Path="Structs/AuroraUnitDarkSamusEcho.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitGravitonWave</Key>
+            <Value Path="Structs/AuroraUnitGravitonWave.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitGravityBuster</Key>
+            <Value Path="Structs/AuroraUnitGravityBuster.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitGroundSpin</Key>
+            <Value Path="Structs/AuroraUnitGroundSpin.xml"/>
+        </Element>
+        <Element>
+            <Key>AuroraUnitPhazonHyperCannon</Key>
+            <Value Path="Structs/AuroraUnitPhazonHyperCannon.xml"/>
         </Element>
         <Element>
             <Key>BallMiscControls</Key>
@@ -904,12 +936,12 @@
             <Value Path="Structs/CableProperties.xml"/>
         </Element>
         <Element>
-            <Key>CameraConstraints</Key>
-            <Value Path="Structs/CameraConstraints.xml"/>
-        </Element>
-        <Element>
             <Key>CameraConstraintFlags</Key>
             <Value Path="Flags/CameraConstraintFlags.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraConstraints</Key>
+            <Value Path="Structs/CameraConstraints.xml"/>
         </Element>
         <Element>
             <Key>CameraControls</Key>
@@ -964,12 +996,12 @@
             <Value Path="Structs/CameraShakerData.xml"/>
         </Element>
         <Element>
-            <Key>CameraShakerFlags</Key>
-            <Value Path="Flags/CameraShakerFlags.xml"/>
-        </Element>
-        <Element>
             <Key>CameraShakerEnvelope</Key>
             <Value Path="Structs/CameraShakerEnvelope.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraShakerFlags</Key>
+            <Value Path="Flags/CameraShakerFlags.xml"/>
         </Element>
         <Element>
             <Key>ChasePosition</Key>
@@ -2264,36 +2296,12 @@
             <Value Path="Structs/UnknownStruct10.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct11</Key>
-            <Value Path="Structs/UnknownStruct11.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct12</Key>
-            <Value Path="Structs/UnknownStruct12.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct13</Key>
-            <Value Path="Structs/UnknownStruct13.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct14</Key>
-            <Value Path="Structs/UnknownStruct14.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct18</Key>
             <Value Path="Structs/UnknownStruct18.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct2</Key>
-            <Value Path="Structs/UnknownStruct2.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct3</Key>
             <Value Path="Structs/UnknownStruct3.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct4</Key>
-            <Value Path="Structs/UnknownStruct4.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct48</Key>
@@ -2312,16 +2320,12 @@
             <Value Path="Structs/UnknownStruct60.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct7</Key>
-            <Value Path="Structs/UnknownStruct7.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct8</Key>
-            <Value Path="Structs/UnknownStruct8.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct9</Key>
             <Value Path="Structs/UnknownStruct9.xml"/>
+        </Element>
+        <Element>
+            <Key>UserAnimFlags</Key>
+            <Value Path="Flags/UserAnimFlags.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>

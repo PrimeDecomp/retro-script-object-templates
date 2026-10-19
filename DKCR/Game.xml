@@ -668,12 +668,12 @@
             <Value Path="Structs/ActorAttachments.xml"/>
         </Element>
         <Element>
-            <Key>ActorTransformFlags</Key>
-            <Value Path="Flags/ActorTransformFlags.xml"/>
-        </Element>
-        <Element>
             <Key>ActorParameters</Key>
             <Value Path="Structs/ActorParameters.xml"/>
+        </Element>
+        <Element>
+            <Key>ActorTransformFlags</Key>
+            <Value Path="Flags/ActorTransformFlags.xml"/>
         </Element>
         <Element>
             <Key>AddDropScreen</Key>
@@ -848,12 +848,12 @@
             <Value Path="Structs/CameraClip.xml"/>
         </Element>
         <Element>
-            <Key>CameraConstraints</Key>
-            <Value Path="Structs/CameraConstraints.xml"/>
-        </Element>
-        <Element>
             <Key>CameraConstraintFlags</Key>
             <Value Path="Flags/CameraConstraintFlags.xml"/>
+        </Element>
+        <Element>
+            <Key>CameraConstraints</Key>
+            <Value Path="Structs/CameraConstraints.xml"/>
         </Element>
         <Element>
             <Key>CameraFieldOfView</Key>
@@ -1052,10 +1052,6 @@
             <Value Path="Structs/CreditsData.xml"/>
         </Element>
         <Element>
-            <Key>DamageFlags</Key>
-            <Value Path="Flags/DamageFlags.xml"/>
-        </Element>
-        <Element>
             <Key>DKBarrelGlueData</Key>
             <Value Path="Structs/DKBarrelGlueData.xml"/>
         </Element>
@@ -1074,6 +1070,10 @@
         <Element>
             <Key>DamageEffectData</Key>
             <Value Path="Structs/DamageEffectData.xml"/>
+        </Element>
+        <Element>
+            <Key>DamageFlags</Key>
+            <Value Path="Flags/DamageFlags.xml"/>
         </Element>
         <Element>
             <Key>DamageInfo</Key>
@@ -1310,6 +1310,10 @@
         <Element>
             <Key>GenericCreatureGroupData</Key>
             <Value Path="Structs/GenericCreatureGroupData.xml"/>
+        </Element>
+        <Element>
+            <Key>GenericCreatureModulesData</Key>
+            <Value Path="Structs/GenericCreatureModulesData.xml"/>
         </Element>
         <Element>
             <Key>GlyphRenderMode</Key>
@@ -1728,12 +1732,12 @@
             <Value Path="Structs/OptionsScreen.xml"/>
         </Element>
         <Element>
-            <Key>OrientationInterpolationMethod</Key>
-            <Value Path="Structs/OrientationInterpolationMethod.xml"/>
-        </Element>
-        <Element>
             <Key>OrientationFlags</Key>
             <Value Path="Flags/OrientationFlags.xml"/>
+        </Element>
+        <Element>
+            <Key>OrientationInterpolationMethod</Key>
+            <Value Path="Structs/OrientationInterpolationMethod.xml"/>
         </Element>
         <Element>
             <Key>PIDConvergence</Key>
@@ -2142,6 +2146,10 @@
         <Element>
             <Key>RelayRandomData</Key>
             <Value Path="Structs/RelayRandomData.xml"/>
+        </Element>
+        <Element>
+            <Key>RenderBoundsModifierData</Key>
+            <Value Path="Structs/RenderBoundsModifierData.xml"/>
         </Element>
         <Element>
             <Key>RenderingType</Key>
@@ -2626,14 +2634,6 @@
         <Element>
             <Key>UnknownStruct</Key>
             <Value Path="Structs/UnknownStruct.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct134</Key>
-            <Value Path="Structs/UnknownStruct134.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct140</Key>
-            <Value Path="Structs/UnknownStruct140.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct22</Key>

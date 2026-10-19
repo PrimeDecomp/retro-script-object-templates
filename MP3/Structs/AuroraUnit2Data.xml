@@ -55,11 +55,11 @@
                 <DefaultValue>0.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xFDD2FE20" Archetype="DamageVulnerability"/>
-            <Element Type="Struct" ID="0xC108CFA0" Archetype="UnknownStruct7"/>
-            <Element Type="Struct" ID="0x91502686" Archetype="UnknownStruct11"/>
-            <Element Type="Struct" ID="0xAD62C993" Archetype="UnknownStruct12"/>
-            <Element Type="Struct" ID="0x3A319DF" Archetype="UnknownStruct13"/>
-            <Element Type="Struct" ID="0x9DD3BB57" Archetype="UnknownStruct14"/>
+            <Element Type="Struct" ID="0xC108CFA0" Archetype="AuroraUnit2AttackChance"/>
+            <Element Type="Struct" ID="0x91502686" Archetype="AuroraUnitPhazonHyperCannon"/>
+            <Element Type="Struct" ID="0xAD62C993" Archetype="AuroraUnitGravitonWave"/>
+            <Element Type="Struct" ID="0x3A319DF" Archetype="AuroraUnitCuttingBeams"/>
+            <Element Type="Struct" ID="0x9DD3BB57" Archetype="AuroraUnitGroundSpin"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

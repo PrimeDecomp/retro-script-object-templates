@@ -26,10 +26,10 @@
             <Element Type="Float" ID="0xA33BD3DF">
                 <DefaultValue>10.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x5B514E8C" Archetype="UnknownStruct2"/>
+            <Element Type="Struct" ID="0x5B514E8C" Archetype="AuroraUnitCombatHatches"/>
             <Element Type="Struct" ID="0x828C2238" Archetype="UnknownStruct3"/>
-            <Element Type="Struct" ID="0x97D16AA1" Archetype="UnknownStruct4"/>
-            <Element Type="Struct" ID="0xFAED98DB" Archetype="UnknownStruct8"/>
+            <Element Type="Struct" ID="0x97D16AA1" Archetype="AuroraUnitDarkSamusEcho"/>
+            <Element Type="Struct" ID="0xFAED98DB" Archetype="AuroraUnitGravityBuster"/>
             <Element Type="Struct" ID="0x9A9EB786" Archetype="UnknownStruct9"/>
             <Element Type="Struct" ID="0x7CC2A36E" Archetype="UnknownStruct6">
                 <SubProperties>

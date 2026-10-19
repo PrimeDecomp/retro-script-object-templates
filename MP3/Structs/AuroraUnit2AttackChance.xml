@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Corruption">
     <PropertyArchetype Type="Struct">
-        <Name>UnknownStruct7</Name>
+        <Name>AuroraUnit2AttackChance</Name>
         <SubProperties>
             <Element Type="Float" ID="0x174A5EC9">
                 <DefaultValue>35.0</DefaultValue>

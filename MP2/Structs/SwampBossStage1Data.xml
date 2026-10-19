@@ -87,9 +87,9 @@
                 <DefaultValue>2.0</DefaultValue>
             </Element>
             <Element Type="Struct" ID="0xD402095F" Archetype="SwampBossStage1Sounds"/>
-            <Element Type="Struct" ID="0x4500F774" Archetype="SwampBossStage1Struct"/>
-            <Element Type="Struct" ID="0x3E1E7597" Archetype="SwampBossStage1Struct"/>
-            <Element Type="Struct" ID="0xA1C4F609" Archetype="SwampBossStage1Struct"/>
+            <Element Type="Struct" ID="0x4500F774" Archetype="SwampBossBattleStage"/>
+            <Element Type="Struct" ID="0x3E1E7597" Archetype="SwampBossBattleStage"/>
+            <Element Type="Struct" ID="0xA1C4F609" Archetype="SwampBossBattleStage"/>
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

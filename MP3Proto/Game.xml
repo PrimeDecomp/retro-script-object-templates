@@ -1668,6 +1668,10 @@
             <Value Path="Structs/TweakTargeting_VulnerabilityIndicator.xml"/>
         </Element>
         <Element>
+            <Key>UserAnimFlags</Key>
+            <Value Path="Flags/UserAnimFlags.xml"/>
+        </Element>
+        <Element>
             <Key>Vector2f</Key>
             <Value Path="Structs/Vector2f.xml"/>
         </Element>
