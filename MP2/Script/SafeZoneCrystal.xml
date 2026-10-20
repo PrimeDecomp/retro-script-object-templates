@@ -6,7 +6,13 @@
     <Properties Type="Struct">
         <Name>SafeZoneCrystal</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
+            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties">
+                <SubProperties>
+                    <Element Type="Flags" ID="0x5D298A43">
+                        <DefaultValue>3</DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
             <Element Type="Struct" ID="0xD29C031D" Archetype="ActorParameters"/>
             <Element Type="Asset" ID="0x9B8B3323">
                 <TypeFilter>

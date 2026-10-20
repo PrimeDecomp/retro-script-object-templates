@@ -22,6 +22,27 @@
                     <Element Type="Int" ID="0x45830901">
                         <CookPreference>OnlyIfModified</CookPreference>
                     </Element>
+                    <Element Type="Color" ID="0x3F39E635">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>1.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0x60D78569">
+                        <DefaultValue>
+                            <R>0.0</R>
+                            <G>0.0</G>
+                            <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0x5908EF39">
+                        <DefaultValue>
+                            <R>1.0</R>
+                            <G>1.0</G>
+                            <B>1.0</B>
+                        </DefaultValue>
+                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0xC8E441FA" Archetype="TextProperties">

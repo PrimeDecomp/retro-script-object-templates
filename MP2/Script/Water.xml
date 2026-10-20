@@ -3,7 +3,24 @@
     <Properties Type="Struct">
         <Name>Water</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
+            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties">
+                <SubProperties>
+                    <Element Type="Struct" ID="0x5846524D">
+                        <SubProperties>
+                            <Element Type="Vector" ID="0x2">
+                                <DefaultValue>
+                                    <X>1.0</X>
+                                    <Y>1.0</Y>
+                                    <Z>1.0</Z>
+                                </DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
+                    <Element Type="Flags" ID="0x5D298A43">
+                        <DefaultValue>3</DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
             <Element Type="Struct" ID="0x77A27411" Archetype="TriggerInfo"/>
             <Element Type="Float" ID="0xDE5EA267">
                 <DefaultValue>0.0</DefaultValue>
