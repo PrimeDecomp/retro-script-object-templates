@@ -6,7 +6,13 @@
     <Properties Type="Struct">
         <Name>Splinter</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
+            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties">
+                <SubProperties>
+                    <Element Type="Flags" ID="0x5D298A43">
+                        <DefaultValue>3</DefaultValue>
+                    </Element>
+                </SubProperties>
+            </Element>
             <Element Type="Struct" ID="0xB3774750" Archetype="PatternedAITypedef">
                 <SubProperties>
                     <Element Type="Float" ID="0x8DB77EE4">
@@ -23,6 +29,13 @@
                     </Element>
                     <Element Type="Float" ID="0x3011B5DF">
                         <DefaultValue>1.0</DefaultValue>
+                    </Element>
+                    <Element Type="Struct" ID="0x4476BED8">
+                        <SubProperties>
+                            <Element Type="Bool" ID="0x17ADDFC6">
+                                <DefaultValue>true</DefaultValue>
+                            </Element>
+                        </SubProperties>
                     </Element>
                 </SubProperties>
             </Element>
@@ -75,7 +88,20 @@
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0x4436A388" Archetype="DamageInfo"/>
-            <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData"/>
+            <Element Type="Struct" ID="0xE61748ED" Archetype="IngPossessionData">
+                <SubProperties>
+                    <Element Type="Struct" ID="0x1D852D4B">
+                        <SubProperties>
+                            <Element Type="Float" ID="0xF0668919">
+                                <DefaultValue>150.0</DefaultValue>
+                            </Element>
+                            <Element Type="Float" ID="0x3A2D17E4">
+                                <DefaultValue>2.0</DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
+                </SubProperties>
+            </Element>
             <Element Type="Bool" ID="0x7DC82F46">
                 <DefaultValue>false</DefaultValue>
             </Element>

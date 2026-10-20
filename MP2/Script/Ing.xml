@@ -26,6 +26,13 @@
                     <Element Type="Choice" ID="0x4BC4C4D9">
                         <DefaultValue>1</DefaultValue>
                     </Element>
+                    <Element Type="Struct" ID="0x4476BED8">
+                        <SubProperties>
+                            <Element Type="Bool" ID="0x17ADDFC6">
+                                <DefaultValue>true</DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>

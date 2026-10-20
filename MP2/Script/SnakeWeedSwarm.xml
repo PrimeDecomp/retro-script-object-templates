@@ -6,7 +6,21 @@
     <Properties Type="Struct">
         <Name>SnakeWeedSwarm</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties"/>
+            <Element Type="Struct" ID="0x255A4580" Archetype="EditorProperties">
+                <SubProperties>
+                    <Element Type="Struct" ID="0x5846524D">
+                        <SubProperties>
+                            <Element Type="Vector" ID="0x2">
+                                <DefaultValue>
+                                    <X>1.0</X>
+                                    <Y>1.0</Y>
+                                    <Z>1.0</Z>
+                                </DefaultValue>
+                            </Element>
+                        </SubProperties>
+                    </Element>
+                </SubProperties>
+            </Element>
             <Element Type="AnimationSet" ID="0xE25FB08C"/>
             <Element Type="Struct" ID="0x7E397FED" Archetype="ActorParameters"/>
             <Element Type="Float" ID="0x64E5FE9F">
