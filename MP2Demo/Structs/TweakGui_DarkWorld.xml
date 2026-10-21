@@ -102,7 +102,7 @@
                     <Z>0.0</Z>
                 </DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xD83FCBA0">
+            <Element Type="Choice" ID="0xD83FCBA0">
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x9E442F31">

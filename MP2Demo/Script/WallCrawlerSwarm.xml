@@ -15,10 +15,10 @@
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="AnimationSet" ID="0xE25FB08C"/>
-            <Element Type="Int" ID="0xE23C7CAF">
+            <Element Type="Animation" ID="0xE23C7CAF">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x75F08C9D">
+            <Element Type="Animation" ID="0x75F08C9D">
                 <DefaultValue>-1</DefaultValue>
             </Element>
             <Element Type="Asset" ID="0x5BA86245">

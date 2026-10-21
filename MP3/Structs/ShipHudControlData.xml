@@ -17,25 +17,25 @@
             <Element Type="Bool" ID="0xF1943B5A">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x44BF1DC9">
+            <Element Type="Animation" ID="0x44BF1DC9">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x7C538ED3">
+            <Element Type="Animation" ID="0x7C538ED3">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xFCD2A1A0">
+            <Element Type="Animation" ID="0xFCD2A1A0">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x1AEC3E02">
+            <Element Type="Animation" ID="0x1AEC3E02">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xE0E4573D">
+            <Element Type="Animation" ID="0xE0E4573D">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0x21103EC1">
+            <Element Type="Animation" ID="0x21103EC1">
                 <DefaultValue>-1</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xC7C06435">
+            <Element Type="Animation" ID="0xC7C06435">
                 <DefaultValue>-1</DefaultValue>
             </Element>
         </SubProperties>
