@@ -64,10 +64,10 @@
             </Element>
             <Element Type="Color" ID="0xED286CE4">
                 <DefaultValue>
-                    <R>0.49803901</R>
-                    <G>0.49803901</G>
-                    <B>0.49803901</B>
-                    <A>0.74901998</A>
+                    <R>0.5</R>
+                    <G>0.5</G>
+                    <B>0.5</B>
+                    <A>0.75</A>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xAD671492">
@@ -79,9 +79,9 @@
             </Element>
             <Element Type="Color" ID="0xB44D4C70">
                 <DefaultValue>
-                    <R>0.247059</R>
-                    <G>0.247059</G>
-                    <B>0.247059</B>
+                    <R>0.25</R>
+                    <G>0.25</G>
+                    <B>0.25</B>
                 </DefaultValue>
             </Element>
             <Element Type="Sound" ID="0x2D23720F">
