@@ -71,15 +71,15 @@
             <Element Type="Color" ID="0x47B4E863">
                 <DefaultValue>
                     <R>0.094117999</R>
-                    <G>0.49803901</G>
-                    <B>0.49803901</B>
+                    <G>0.5</G>
+                    <B>0.5</B>
                 </DefaultValue>
             </Element>
             <Element Type="Color" ID="0xE68B1FA8">
                 <DefaultValue>
-                    <R>0.74901998</R>
-                    <G>0.74901998</G>
-                    <B>0.74901998</B>
+                    <R>0.75</R>
+                    <G>0.75</G>
+                    <B>0.75</B>
                 </DefaultValue>
             </Element>
         </SubProperties>

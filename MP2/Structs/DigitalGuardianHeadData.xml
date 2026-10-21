@@ -165,18 +165,18 @@
                     </Element>
                     <Element Type="Color" ID="0x1AFB2B73">
                         <DefaultValue>
-                            <R>0.49803901</R>
+                            <R>0.5</R>
                             <G>0.0</G>
                             <B>0.0</B>
-                            <A>0.49803901</A>
+                            <A>0.5</A>
                         </DefaultValue>
                     </Element>
                     <Element Type="Color" ID="0x9FD338FC">
                         <DefaultValue>
-                            <R>0.698039</R>
+                            <R>0.69999999</R>
                             <G>0.0</G>
                             <B>0.0</B>
-                            <A>0.49803901</A>
+                            <A>0.5</A>
                         </DefaultValue>
                     </Element>
                 </SubProperties>

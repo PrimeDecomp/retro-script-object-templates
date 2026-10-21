@@ -28,12 +28,15 @@
                     <Element Type="Float" ID="0xB8652FE4">
                         <DefaultValue>2.0</DefaultValue>
                     </Element>
+                    <Element Type="Float" ID="0x3FED5E52">
+                        <DefaultValue>150.0</DefaultValue>
+                    </Element>
                     <Element Type="Color" ID="0x1AFB2B73">
                         <DefaultValue>
-                            <R>0.49803901</R>
-                            <G>0.49803901</G>
-                            <B>0.49803901</B>
-                            <A>0.49803901</A>
+                            <R>0.5</R>
+                            <G>0.5</G>
+                            <B>0.5</B>
+                            <A>0.5</A>
                         </DefaultValue>
                     </Element>
                     <Element Type="Color" ID="0x9FD338FC">
@@ -41,7 +44,7 @@
                             <R>0.60000002</R>
                             <G>0.60000002</G>
                             <B>0.0</B>
-                            <A>0.49803901</A>
+                            <A>0.5</A>
                         </DefaultValue>
                     </Element>
                 </SubProperties>
