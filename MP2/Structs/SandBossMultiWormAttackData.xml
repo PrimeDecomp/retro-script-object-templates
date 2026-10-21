@@ -28,6 +28,9 @@
                     <Element Type="Float" ID="0xB8652FE4">
                         <DefaultValue>2.0</DefaultValue>
                     </Element>
+                    <Element Type="Float" ID="0x3FED5E52">
+                        <DefaultValue>150.0</DefaultValue>
+                    </Element>
                     <Element Type="Color" ID="0x1AFB2B73">
                         <DefaultValue>
                             <R>0.5</R>
