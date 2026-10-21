@@ -2235,7 +2235,7 @@
         </Element>
         <Element>
             <Key ID="0xD24AE6B" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="EchoPingRadarColor"/>
         </Element>
         <Element>
             <Key ID="0xD2531E7" Type="float"/>
@@ -3875,7 +3875,7 @@
         </Element>
         <Element>
             <Key ID="0x166C22E0" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="RadarBoundaryRingColor"/>
         </Element>
         <Element>
             <Key ID="0x1680A254" Type="bool"/>
@@ -4267,7 +4267,7 @@
         </Element>
         <Element>
             <Key ID="0x189DD0D2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="StunDelayNeverGrappledMax"/>
         </Element>
         <Element>
             <Key ID="0x18A514AC" Type="float"/>
@@ -4782,8 +4782,8 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x1AEC3E02" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x1AEC3E02" Type="characteranimation"/>
+            <Value Name="DropCommandAnimation"/>
         </Element>
         <Element>
             <Key ID="0x1AF89F4B" Type="float"/>
@@ -5894,8 +5894,8 @@
             <Value Name="DeathFall"/>
         </Element>
         <Element>
-            <Key ID="0x21103EC1" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x21103EC1" Type="characteranimation"/>
+            <Value Name="BombAttackCommandAnimation"/>
         </Element>
         <Element>
             <Key ID="0x21296BDC" Type="float"/>
@@ -6771,7 +6771,7 @@
         </Element>
         <Element>
             <Key ID="0x25BD3372" Type="asset"/>
-            <Value Name="SWHC"/>
+            <Value Name="GrappleSwooshEffect1"/>
         </Element>
         <Element>
             <Key ID="0x25BD39C0" Type="float"/>
@@ -10067,7 +10067,7 @@
         </Element>
         <Element>
             <Key ID="0x37F4052D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinStampedeSyncTime"/>
         </Element>
         <Element>
             <Key ID="0x37F86DC4" Type="asset"/>
@@ -10079,7 +10079,7 @@
         </Element>
         <Element>
             <Key ID="0x3801A56B" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="BloomWeightOverVolume"/>
         </Element>
         <Element>
             <Key ID="0x380585EC" Type="CameraBehaviour"/>
@@ -10887,7 +10887,7 @@
         </Element>
         <Element>
             <Key ID="0x3C5C5405" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SomethingFar"/>
         </Element>
         <Element>
             <Key ID="0x3C5D53A4" Type="float"/>
@@ -11571,7 +11571,7 @@
         </Element>
         <Element>
             <Key ID="0x4032C58A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CrossBarHeight2"/>
         </Element>
         <Element>
             <Key ID="0x40338715" Type="sound"/>
@@ -12466,8 +12466,8 @@
             <Value Name="SlavePositionInLocalSpace"/>
         </Element>
         <Element>
-            <Key ID="0x44BF1DC9" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x44BF1DC9" Type="characteranimation"/>
+            <Value Name="IdleModeAnimation"/>
         </Element>
         <Element>
             <Key ID="0x44C1F241" Type="AudioPlaybackParms"/>
@@ -14955,7 +14955,7 @@
         </Element>
         <Element>
             <Key ID="0x51DF1B80" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SomethingRange"/>
         </Element>
         <Element>
             <Key ID="0x51E5C747" Type="bool"/>
@@ -15707,7 +15707,7 @@
         </Element>
         <Element>
             <Key ID="0x55DA2EA4" Type="string"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrappleShimmerJointName"/>
         </Element>
         <Element>
             <Key ID="0x55EBB850" Type="float"/>
@@ -20531,7 +20531,7 @@
         </Element>
         <Element>
             <Key ID="0x7128F60E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JointTargetRadiusOther"/>
         </Element>
         <Element>
             <Key ID="0x712D3274" Type="float"/>
@@ -20955,7 +20955,7 @@
         </Element>
         <Element>
             <Key ID="0x73C0F1AE" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="Repulse"/>
         </Element>
         <Element>
             <Key ID="0x73D5076B" Type="float"/>
@@ -21278,8 +21278,8 @@
             <Value Name="MaxSpawnDelay"/>
         </Element>
         <Element>
-            <Key ID="0x75F08C9D" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x75F08C9D" Type="animation"/>
+            <Value Name="Animation_Extra"/>
         </Element>
         <Element>
             <Key ID="0x75F5DDDA" Type="bool"/>
@@ -22570,8 +22570,8 @@
             <Value Name="BalloonDecrementSound"/>
         </Element>
         <Element>
-            <Key ID="0x7C538ED3" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0x7C538ED3" Type="characteranimation"/>
+            <Value Name="MoveCommandAnimation"/>
         </Element>
         <Element>
             <Key ID="0x7C642C9C" Type="asset"/>
@@ -23703,7 +23703,7 @@
         </Element>
         <Element>
             <Key ID="0x826009E1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinDoubleChargeAttackTime"/>
         </Element>
         <Element>
             <Key ID="0x8266B529" Type="enum"/>
@@ -24055,7 +24055,7 @@
         </Element>
         <Element>
             <Key ID="0x8482E270" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JointTargetRadiusXRay"/>
         </Element>
         <Element>
             <Key ID="0x84843807" Type="RagDollData"/>
@@ -25311,7 +25311,7 @@
         </Element>
         <Element>
             <Key ID="0x8B6E162F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CrossBarHeight3"/>
         </Element>
         <Element>
             <Key ID="0x8B6F9B43" Type="asset"/>
@@ -25503,7 +25503,7 @@
         </Element>
         <Element>
             <Key ID="0x8CB60FC9" Type="string"/>
-            <Value Name="Unknown"/>
+            <Value Name="RightJointCollisionSetName"/>
         </Element>
         <Element>
             <Key ID="0x8CC8EEA6" Type="TrainTrackManagerSequenceInstData"/>
@@ -26139,7 +26139,7 @@
         </Element>
         <Element>
             <Key ID="0x902D66F9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="WeldBlobSpacing"/>
         </Element>
         <Element>
             <Key ID="0x903D9B7E" Type="Color"/>
@@ -27259,7 +27259,7 @@
         </Element>
         <Element>
             <Key ID="0x966B2697" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CrossBarHeight4"/>
         </Element>
         <Element>
             <Key ID="0x966D11F3" Type="float"/>
@@ -29491,7 +29491,7 @@
         </Element>
         <Element>
             <Key ID="0xA32941DC" Type="asset"/>
-            <Value Name="SWHC"/>
+            <Value Name="GrappleSwooshEffect2"/>
         </Element>
         <Element>
             <Key ID="0xA32F3E1C" Type="float"/>
@@ -30007,7 +30007,7 @@
         </Element>
         <Element>
             <Key ID="0xA62404DC" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JointTargetAlphaDim"/>
         </Element>
         <Element>
             <Key ID="0xA6257CD8" Type="int"/>
@@ -30327,7 +30327,7 @@
         </Element>
         <Element>
             <Key ID="0xA793E5F3" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BombingRunsMax"/>
         </Element>
         <Element>
             <Key ID="0xA795E79C" Type="OceanBridgeSoundSelect"/>
@@ -32643,7 +32643,7 @@
         </Element>
         <Element>
             <Key ID="0xB3F30B93" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SomethingNear"/>
         </Element>
         <Element>
             <Key ID="0xB3F4EE57" Type="float"/>
@@ -33787,7 +33787,7 @@
         </Element>
         <Element>
             <Key ID="0xBA801F2F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbRadiusEndRatio"/>
         </Element>
         <Element>
             <Key ID="0xBA84F23E" Type="SpinnerData"/>
@@ -34755,7 +34755,7 @@
         </Element>
         <Element>
             <Key ID="0xBF8B57BF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JointTargetAlphaFull"/>
         </Element>
         <Element>
             <Key ID="0xBF95A130" Type="Color"/>
@@ -36167,7 +36167,7 @@
         </Element>
         <Element>
             <Key ID="0xC717A929" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinTripleChargeAttackTime"/>
         </Element>
         <Element>
             <Key ID="0xC7182898" Type="Color"/>
@@ -36310,8 +36310,8 @@
             <Value Name="BallCameraOffset"/>
         </Element>
         <Element>
-            <Key ID="0xC7C06435" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xC7C06435" Type="characteranimation"/>
+            <Value Name="LandCommandAnimation"/>
         </Element>
         <Element>
             <Key ID="0xC7C1967B" Type="Color"/>
@@ -39366,8 +39366,8 @@
             <Value Name="BallGravity"/>
         </Element>
         <Element>
-            <Key ID="0xD83FCBA0" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xD83FCBA0" Type="choice"/>
+            <Value Name="DarkWorldFogMode"/>
         </Element>
         <Element>
             <Key ID="0xD840598D" Type="asset"/>
@@ -39591,7 +39591,7 @@
         </Element>
         <Element>
             <Key ID="0xD9C4AA53" Type="string"/>
-            <Value Name="Unknown"/>
+            <Value Name="LeftJointCollisionSetName"/>
         </Element>
         <Element>
             <Key ID="0xD9CA50C2" Type="spline"/>
@@ -40067,7 +40067,7 @@
         </Element>
         <Element>
             <Key ID="0xDCBFA4E6" Type="spline"/>
-            <Value Name="Unknown"/>
+            <Value Name="BloomWeightOverTime"/>
         </Element>
         <Element>
             <Key ID="0xDCC0C6FB" Type="TDamageInfo"/>
@@ -40455,7 +40455,7 @@
         </Element>
         <Element>
             <Key ID="0xDEFCA700" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="HUDMissileGroupActiveColor"/>
         </Element>
         <Element>
             <Key ID="0xDEFF74EA" Type="DamageInfo"/>
@@ -40790,8 +40790,8 @@
             <Value Name="BeltData"/>
         </Element>
         <Element>
-            <Key ID="0xE0E4573D" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xE0E4573D" Type="characteranimation"/>
+            <Value Name="MissileAttackCommandAnimation"/>
         </Element>
         <Element>
             <Key ID="0xE0F4C8A2" Type="float"/>
@@ -41030,8 +41030,8 @@
             <Value Name="InventoryText"/>
         </Element>
         <Element>
-            <Key ID="0xE23C7CAF" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xE23C7CAF" Type="animation"/>
+            <Value Name="Animation_Jump"/>
         </Element>
         <Element>
             <Key ID="0xE23FE8A7" Type="asset"/>
@@ -41079,7 +41079,7 @@
         </Element>
         <Element>
             <Key ID="0xE291A671" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BombingRunsMin"/>
         </Element>
         <Element>
             <Key ID="0xE29543EF" Type="float"/>
@@ -42175,7 +42175,7 @@
         </Element>
         <Element>
             <Key ID="0xE846D37F" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="ThermalTrackersColor"/>
         </Element>
         <Element>
             <Key ID="0xE84A887B" Type="float"/>
@@ -44578,8 +44578,8 @@
             <Value Name="MapIconM"/>
         </Element>
         <Element>
-            <Key ID="0xF4EC68AE" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xF4EC68AE" Type="choice"/>
+            <Value Name="LagType"/>
         </Element>
         <Element>
             <Key ID="0xF4ED9547" Type="PlayerInventory"/>
@@ -45939,7 +45939,7 @@
         </Element>
         <Element>
             <Key ID="0xFBA7C57B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbRadiusStartRatio"/>
         </Element>
         <Element>
             <Key ID="0xFBAA9F01" Type="FlyingPirateJetPackData"/>
@@ -46174,8 +46174,8 @@
             <Value Name="AimHorizontalSpeed"/>
         </Element>
         <Element>
-            <Key ID="0xFCD2A1A0" Type="int"/>
-            <Value Name="Unknown"/>
+            <Key ID="0xFCD2A1A0" Type="characteranimation"/>
+            <Value Name="PickupCommandAnimation"/>
         </Element>
         <Element>
             <Key ID="0xFCD4ED64" Type="bool"/>
@@ -46599,7 +46599,7 @@
         </Element>
         <Element>
             <Key ID="0xFEFD7F33" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="StunDelayNeverGrappledMin"/>
         </Element>
         <Element>
             <Key ID="0xFEFE4C34" Type="string"/>

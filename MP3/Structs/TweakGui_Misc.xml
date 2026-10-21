@@ -131,7 +131,7 @@
             <Element Type="Int" ID="0x9B970087">
                 <DefaultValue>16</DefaultValue>
             </Element>
-            <Element Type="Int" ID="0xF4EC68AE">
+            <Element Type="Choice" ID="0xF4EC68AE">
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x4DD9D6D1">

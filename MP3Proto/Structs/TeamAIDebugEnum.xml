@@ -7,9 +7,9 @@
                 <DefaultValue>0xFC1B1B4F</DefaultValue>
                 <Values>
                     <Element Name="Unknown 1" ID="0xFC1B1B4F"/>
-                    <Element Name="Unknown 2" ID="0xAD41759A"/>
-                    <Element Name="Unknown 3" ID="0xC8D35A3"/>
-                    <Element Name="Unknown 4" ID="0xC349790F"/>
+                    <Element Name="MeleeAttacker" ID="0xAD41759A"/>
+                    <Element Name="RangedAttacker" ID="0xC8D35A3"/>
+                    <Element Name="Heckler" ID="0xC349790F"/>
                 </Values>
             </Element>
         </SubProperties>
