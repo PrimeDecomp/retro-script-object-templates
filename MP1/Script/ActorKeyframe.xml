@@ -23,6 +23,7 @@
                 <Values>
                     <Element Name="Zero" ID="0x0"/>
                     <Element Name="One" ID="0x1"/>
+                    <Element Name="Two" ID="0x2"/>
                 </Values>
             </Element>
             <Element Type="Float" ID="0x6">

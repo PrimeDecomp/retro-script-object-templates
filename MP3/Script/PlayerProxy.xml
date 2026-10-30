@@ -20,9 +20,11 @@
             </Element>
             <Element Type="Bool" ID="0xD62F2D4E">
                 <DefaultValue>false</DefaultValue>
+                <CookPreference>OnlyIfModified</CookPreference>
             </Element>
             <Element Type="Bool" ID="0x847909F">
                 <DefaultValue>false</DefaultValue>
+                <CookPreference>OnlyIfModified</CookPreference>
             </Element>
             <Element Type="Vector" ID="0x8927B141">
                 <CookPreference>OnlyIfModified</CookPreference>
