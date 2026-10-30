@@ -41,7 +41,7 @@
                 <Name>LoweredTimeVariation</Name>
             </Element>
             <Element Type="Float" ID="0xD">
-                <Name>MaxDepth</Name>
+                <Name>RetreatDepth</Name>
             </Element>
             <Element Type="Float" ID="0xE">
                 <Name>Speed</Name>

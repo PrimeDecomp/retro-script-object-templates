@@ -13,7 +13,7 @@
                 <Name>Active</Name>
             </Element>
             <Element Type="Struct" ID="0x3" Archetype="DamageInfo">
-                <Name>DamageInfo</Name>
+                <Name>Damage</Name>
             </Element>
             <Element Type="Float" ID="0x4">
                 <Name>Radius</Name>

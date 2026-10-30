@@ -33,7 +33,7 @@
                 </TypeFilter>
             </Element>
             <Element Type="Struct" ID="0xA" Archetype="DamageInfo">
-                <Name>DamageInfo</Name>
+                <Name>RayDamage</Name>
             </Element>
             <Element Type="Asset" ID="0xB">
                 <Name>BeamContactFXID</Name>

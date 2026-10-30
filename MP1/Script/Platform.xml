@@ -16,7 +16,7 @@
                 <Name>Scale</Name>
             </Element>
             <Element Type="Vector" ID="0x4">
-                <Name>CollisionSize</Name>
+                <Name>CollisionBox</Name>
             </Element>
             <Element Type="Vector" ID="0x5">
                 <Name>CollisionOffset</Name>

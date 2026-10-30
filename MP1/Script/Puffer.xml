@@ -51,7 +51,7 @@
                 <Name>ExplosionDamage</Name>
             </Element>
             <Element Type="Sound" ID="0xF">
-                <Name>TurnSound</Name>
+                <Name>Sound_Turn</Name>
             </Element>
         </SubProperties>
     </Properties>

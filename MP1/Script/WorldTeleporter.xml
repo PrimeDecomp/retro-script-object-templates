@@ -94,7 +94,7 @@
                 <LoadCondition>propCount &gt;= 19</LoadCondition>
             </Element>
             <Element Type="Float" ID="0x13">
-                <Name>CharsPerSecond</Name>
+                <Name>CharactersPerSecond</Name>
                 <LoadCondition>propCount &gt;= 20</LoadCondition>
             </Element>
             <Element Type="Float" ID="0x14">
@@ -106,19 +106,19 @@
                 <LoadCondition>propCount &gt;= 22 (PAL builds only)</LoadCondition>
             </Element>
             <Element Type="Bool" ID="0x16">
-                <Name>ShowSecondaryText</Name>
+                <Name>DisplaySubtitles</Name>
                 <LoadCondition>propCount &gt;= 23 (PAL builds only)</LoadCondition>
             </Element>
             <Element Type="Float" ID="0x17">
-                <Name>TextEndDelay</Name>
+                <Name>EndDelay</Name>
                 <LoadCondition>propCount &gt;= 24 (PAL builds only)</LoadCondition>
             </Element>
             <Element Type="Float" ID="0x18">
-                <Name>SecondaryTextStartTime</Name>
+                <Name>SubtitleFadeInDelay</Name>
                 <LoadCondition>propCount &gt;= 25 (PAL builds only)</LoadCondition>
             </Element>
             <Element Type="Float" ID="0x19">
-                <Name>SecondaryTextFadeDuration</Name>
+                <Name>SubtitleFadeTime</Name>
                 <LoadCondition>propCount &gt;= 26 (PAL builds only)</LoadCondition>
             </Element>
         </SubProperties>

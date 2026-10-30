@@ -69,13 +69,13 @@
                 <Name>KamikazeDamageInfo</Name>
             </Element>
             <Element Type="Float" ID="0x13">
-                <Name>SpinToDeathChance</Name>
+                <Name>SpiralChance</Name>
             </Element>
             <Element Type="Float" ID="0x14">
-                <Name>MissileAttackDelay</Name>
+                <Name>MinimumMissileTime</Name>
             </Element>
             <Element Type="Float" ID="0x15">
-                <Name>MissileAttackDelayVariance</Name>
+                <Name>MissileTimeVariation</Name>
             </Element>
             <Element Type="Float" ID="0x16">
                 <Name>Unknown 10</Name>
@@ -90,10 +90,10 @@
                 <Name>CoverCheckChance</Name>
             </Element>
             <Element Type="Float" ID="0x1A">
-                <Name>AverageNextShotTime</Name>
+                <Name>IntraBurstShotTime</Name>
             </Element>
             <Element Type="Float" ID="0x1B">
-                <Name>NextShotTimeVariation</Name>
+                <Name>IntraBurstShotVariation</Name>
             </Element>
             <Element Type="Asset" ID="0x1C">
                 <Name>ParticleGen1</Name>
