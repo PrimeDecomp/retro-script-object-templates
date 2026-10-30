@@ -78,7 +78,7 @@
                 <Name>MissileTimeVariation</Name>
             </Element>
             <Element Type="Float" ID="0x16">
-                <Name>Unknown 10</Name>
+                <Name>FlightThrust</Name>
             </Element>
             <Element Type="Sound" ID="0x17">
                 <Name>RagDollSFX1</Name>
