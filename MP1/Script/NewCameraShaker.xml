@@ -12,8 +12,13 @@
             <Element Type="Bool" ID="0x2">
                 <Name>Active</Name>
             </Element>
-            <Element Type="Struct" ID="0x3" Archetype="IntBool"/>
-            <Element Type="Struct" ID="0x4" Archetype="GuessStruct"/>
+            <Element Type="Struct" ID="0x3" Archetype="IntBool">
+                <Name>Flags</Name>
+                <Description>Parameter flags: a flag count (1) followed by one bool, the distance attenuation toggle.</Description>
+            </Element>
+            <Element Type="Struct" ID="0x4" Archetype="GuessStruct">
+                <Name>DurationAndSfxDist</Name>
+            </Element>
             <Element Type="Struct" ID="0x5" Archetype="NewCameraShakerStruct">
                 <Name>ShakerX</Name>
             </Element>
@@ -25,6 +30,7 @@
             </Element>
         </SubProperties>
     </Properties>
+    <ExpectedPropertyCount>8</ExpectedPropertyCount>
     <EditorProperties>
         <NameProperty>0x00</NameProperty>
         <PositionProperty>0x01</PositionProperty>

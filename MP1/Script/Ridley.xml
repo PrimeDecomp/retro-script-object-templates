@@ -116,7 +116,7 @@
             <Element Type="Struct" ID="0x18" Archetype="DamageInfo">
                 <Name>DamageInfo 1</Name>
             </Element>
-            <Element Type="Struct" ID="0x19" Archetype="RidleyStruct1"/>
+            <Element Type="Struct" ID="0x19" Archetype="ScriptBeamStruct"/>
             <Element Type="Sound" ID="0x1A">
                 <Name>Sound ID 1</Name>
             </Element>
@@ -191,9 +191,11 @@
             </Element>
             <Element Type="Struct" ID="0x2F" Archetype="DamageInfo">
                 <Name>DamageInfo 8</Name>
+                <LoadCondition>propCount &gt; 47</LoadCondition>
             </Element>
         </SubProperties>
     </Properties>
+    <ExpectedPropertyCount>47-48</ExpectedPropertyCount>
     <EditorProperties>
         <NameProperty>0x00</NameProperty>
         <PositionProperty>0x01</PositionProperty>

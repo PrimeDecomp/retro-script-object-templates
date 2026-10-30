@@ -4,16 +4,16 @@
         <Name>MagdoliteStruct</Name>
         <SubProperties>
             <Element Type="Int" ID="0x0">
-                <Name>Unknown 1</Name>
+                <Name>Attributes</Name>
             </Element>
             <Element Type="Asset" ID="0x1">
-                <Name>Particle</Name>
+                <Name>FlameFX</Name>
                 <TypeFilter>
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
             <Element Type="Int" ID="0x2">
-                <Name>Unknown 2</Name>
+                <Name>Length</Name>
             </Element>
             <Element Type="Float" ID="0x3">
                 <Name>Unknown 3</Name>

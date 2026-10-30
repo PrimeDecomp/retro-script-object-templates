@@ -5,46 +5,46 @@
         <Atomic>true</Atomic>
         <SubProperties>
             <Element Type="Int" ID="0x0">
-                <Name>Unknown 1</Name>
+                <Name>ModulationFlagCount</Name>
             </Element>
             <Element Type="Bool" ID="0x1">
-                <Name>Unknown 2</Name>
+                <Name>UseModulation</Name>
             </Element>
             <Element Type="Int" ID="0x2">
-                <Name>Unknown 3</Name>
+                <Name>AmplitudeFlagCount</Name>
             </Element>
             <Element Type="Bool" ID="0x3">
-                <Name>Unknown 4</Name>
+                <Name>AmplitudeIgnoreEnvelope</Name>
             </Element>
             <Element Type="Float" ID="0x4">
-                <Name>Unknown 5</Name>
+                <Name>AmplitudeAttackTime</Name>
             </Element>
             <Element Type="Float" ID="0x5">
-                <Name>Unknown 6</Name>
+                <Name>AmplitudeSustainTime</Name>
             </Element>
             <Element Type="Float" ID="0x6">
-                <Name>Unknown 7</Name>
+                <Name>AmplitudeDuration</Name>
             </Element>
             <Element Type="Float" ID="0x7">
-                <Name>Unknown 8</Name>
+                <Name>AmplitudeMagnitude</Name>
             </Element>
             <Element Type="Int" ID="0x8">
-                <Name>Unknown 9</Name>
+                <Name>FrequencyFlagCount</Name>
             </Element>
             <Element Type="Bool" ID="0x9">
-                <Name>Unknown 10</Name>
+                <Name>FrequencyIgnoreEnvelope</Name>
             </Element>
             <Element Type="Float" ID="0xA">
-                <Name>Unknown 11</Name>
+                <Name>FrequencyAttackTime</Name>
             </Element>
             <Element Type="Float" ID="0xB">
-                <Name>Unknown 12</Name>
+                <Name>FrequencySustainTime</Name>
             </Element>
             <Element Type="Float" ID="0xC">
-                <Name>Unknown 13</Name>
+                <Name>FrequencyDuration</Name>
             </Element>
             <Element Type="Float" ID="0xD">
-                <Name>Unknown 14</Name>
+                <Name>FrequencyMagnitude</Name>
             </Element>
         </SubProperties>
     </PropertyArchetype>

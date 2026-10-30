@@ -129,12 +129,15 @@
             </Element>
             <Element Type="Float" ID="0x22">
                 <Name>Unknown 19</Name>
+                <LoadCondition>propCount &gt;= 35 (default 0.2)</LoadCondition>
             </Element>
             <Element Type="Float" ID="0x23">
                 <Name>AvoidDistance</Name>
+                <LoadCondition>propCount &gt;= 36 (default 8.0)</LoadCondition>
             </Element>
         </SubProperties>
     </Properties>
+    <ExpectedPropertyCount>34-36</ExpectedPropertyCount>
     <EditorProperties>
         <NameProperty>0x00</NameProperty>
         <PositionProperty>0x01</PositionProperty>
