@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Prime">
     <PropertyArchetype Type="Struct">
-        <Name>MassivePrimeStruct</Name>
+        <Name>MetroidPrimeData</Name>
         <Atomic>true</Atomic>
         <SubProperties>
             <Element Type="Int" ID="0x0">
@@ -12,14 +12,14 @@
             <Element Type="Int" ID="0x3">
                 <Name>Unknown 2</Name>
             </Element>
-            <Element Type="Struct" ID="0x4" Archetype="PrimeStruct2">
-                <Name>PrimeStruct2 1</Name>
+            <Element Type="Struct" ID="0x4" Archetype="PrimeCameraShakeData">
+                <Name>PrimeCameraShakeData 1</Name>
             </Element>
-            <Element Type="Struct" ID="0x5" Archetype="PrimeStruct2">
-                <Name>PrimeStruct2 2</Name>
+            <Element Type="Struct" ID="0x5" Archetype="PrimeCameraShakeData">
+                <Name>PrimeCameraShakeData 2</Name>
             </Element>
-            <Element Type="Struct" ID="0x6" Archetype="PrimeStruct2">
-                <Name>PrimeStruct2 3</Name>
+            <Element Type="Struct" ID="0x6" Archetype="PrimeCameraShakeData">
+                <Name>PrimeCameraShakeData 3</Name>
             </Element>
             <Element Type="Int" ID="0x7">
                 <Name>Unknown 3</Name>
@@ -69,17 +69,17 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x12" Archetype="PrimeStruct4">
-                <Name>PrimeStruct4 1</Name>
+            <Element Type="Struct" ID="0x12" Archetype="MetroidPrimeParasiteQueenAttack">
+                <Name>MetroidPrimeParasiteQueenAttack 1</Name>
             </Element>
-            <Element Type="Struct" ID="0x13" Archetype="PrimeStruct4">
-                <Name>PrimeStruct4 2</Name>
+            <Element Type="Struct" ID="0x13" Archetype="MetroidPrimeParasiteQueenAttack">
+                <Name>MetroidPrimeParasiteQueenAttack 2</Name>
             </Element>
-            <Element Type="Struct" ID="0x14" Archetype="PrimeStruct4">
-                <Name>PrimeStruct4 3</Name>
+            <Element Type="Struct" ID="0x14" Archetype="MetroidPrimeParasiteQueenAttack">
+                <Name>MetroidPrimeParasiteQueenAttack 3</Name>
             </Element>
-            <Element Type="Struct" ID="0x15" Archetype="PrimeStruct4">
-                <Name>PrimeStruct4 4</Name>
+            <Element Type="Struct" ID="0x15" Archetype="MetroidPrimeParasiteQueenAttack">
+                <Name>MetroidPrimeParasiteQueenAttack 4</Name>
             </Element>
             <Element Type="Asset" ID="0x16">
                 <Name>WPSC 1</Name>
@@ -90,8 +90,8 @@
             <Element Type="Struct" ID="0x17" Archetype="DamageInfo">
                 <Name>DamageInfo 2</Name>
             </Element>
-            <Element Type="Struct" ID="0x18" Archetype="PrimeStruct2">
-                <Name>PrimeStruct2 4</Name>
+            <Element Type="Struct" ID="0x18" Archetype="PrimeCameraShakeData">
+                <Name>PrimeCameraShakeData 4</Name>
             </Element>
             <Element Type="Asset" ID="0x19">
                 <Name>WPSC 2</Name>
@@ -102,8 +102,8 @@
             <Element Type="Struct" ID="0x1A" Archetype="DamageInfo">
                 <Name>DamageInfo 3</Name>
             </Element>
-            <Element Type="Struct" ID="0x1B" Archetype="PrimeStruct2">
-                <Name>PrimeStruct2 5</Name>
+            <Element Type="Struct" ID="0x1B" Archetype="PrimeCameraShakeData">
+                <Name>PrimeCameraShakeData 5</Name>
             </Element>
             <Element Type="Int" ID="0x1C">
                 <Name>Unknown 8</Name>
@@ -147,8 +147,8 @@
             <Element Type="Struct" ID="0x27" Archetype="DamageInfo">
                 <Name>DamageInfo 5</Name>
             </Element>
-            <Element Type="Struct" ID="0x28" Archetype="PrimeStruct2">
-                <Name>PrimeStruct2 6</Name>
+            <Element Type="Struct" ID="0x28" Archetype="PrimeCameraShakeData">
+                <Name>PrimeCameraShakeData 6</Name>
             </Element>
             <Element Type="Asset" ID="0x29">
                 <Name>Particle 6</Name>
@@ -174,17 +174,17 @@
                     <Element>PART</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x2D" Archetype="PrimeStruct6">
-                <Name>PrimeStruct6 1</Name>
+            <Element Type="Struct" ID="0x2D" Archetype="MetroidPrimeVulnerabilityEntry">
+                <Name>MetroidPrimeVulnerabilityEntry 1</Name>
             </Element>
-            <Element Type="Struct" ID="0x2E" Archetype="PrimeStruct6">
-                <Name>PrimeStruct6 2</Name>
+            <Element Type="Struct" ID="0x2E" Archetype="MetroidPrimeVulnerabilityEntry">
+                <Name>MetroidPrimeVulnerabilityEntry 2</Name>
             </Element>
-            <Element Type="Struct" ID="0x2F" Archetype="PrimeStruct6">
-                <Name>PrimeStruct6 3</Name>
+            <Element Type="Struct" ID="0x2F" Archetype="MetroidPrimeVulnerabilityEntry">
+                <Name>MetroidPrimeVulnerabilityEntry 3</Name>
             </Element>
-            <Element Type="Struct" ID="0x30" Archetype="PrimeStruct6">
-                <Name>PrimeStruct6 4</Name>
+            <Element Type="Struct" ID="0x30" Archetype="MetroidPrimeVulnerabilityEntry">
+                <Name>MetroidPrimeVulnerabilityEntry 4</Name>
             </Element>
         </SubProperties>
     </PropertyArchetype>

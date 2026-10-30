@@ -59,7 +59,7 @@
             <Element Type="Float" ID="0x11">
                 <Name>MinHP</Name>
             </Element>
-            <Element Type="Struct" ID="0x12" Archetype="MagdoliteStruct">
+            <Element Type="Struct" ID="0x12" Archetype="MagdoliteData">
                 <Name>FlameInfo</Name>
             </Element>
             <Element Type="Float" ID="0x13">

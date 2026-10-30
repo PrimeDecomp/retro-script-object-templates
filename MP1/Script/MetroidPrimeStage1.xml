@@ -49,16 +49,16 @@
             <Element Type="Int" ID="0xE">
                 <Name>Unknown 9</Name>
             </Element>
-            <Element Type="Struct" ID="0xF" Archetype="PrimeStruct1">
+            <Element Type="Struct" ID="0xF" Archetype="MetroidPrimeAttackWeights">
                 <Name>RoomAttackWeights1</Name>
             </Element>
-            <Element Type="Struct" ID="0x10" Archetype="PrimeStruct1">
+            <Element Type="Struct" ID="0x10" Archetype="MetroidPrimeAttackWeights">
                 <Name>RoomAttackWeights2</Name>
             </Element>
-            <Element Type="Struct" ID="0x11" Archetype="PrimeStruct1">
+            <Element Type="Struct" ID="0x11" Archetype="MetroidPrimeAttackWeights">
                 <Name>RoomAttackWeights3</Name>
             </Element>
-            <Element Type="Struct" ID="0x12" Archetype="PrimeStruct1">
+            <Element Type="Struct" ID="0x12" Archetype="MetroidPrimeAttackWeights">
                 <Name>RoomAttackWeights4</Name>
             </Element>
             <Element Type="Int" ID="0x13">
@@ -67,7 +67,7 @@
             <Element Type="Int" ID="0x14">
                 <Name>Unknown 11</Name>
             </Element>
-            <Element Type="Struct" ID="0x15" Archetype="MassivePrimeStruct"/>
+            <Element Type="Struct" ID="0x15" Archetype="MetroidPrimeData"/>
         </SubProperties>
     </Properties>
     <ExpectedPropertyCount>22</ExpectedPropertyCount>

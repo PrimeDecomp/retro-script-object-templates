@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Prime">
     <PropertyArchetype Type="Struct">
-        <Name>PrimeStruct3</Name>
+        <Name>PrimeCameraShakerComponent</Name>
         <Atomic>true</Atomic>
         <SubProperties>
             <Element Type="Bool" ID="0x0">

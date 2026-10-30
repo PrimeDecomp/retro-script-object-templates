@@ -18,7 +18,7 @@
             <Element Type="Int" ID="0x4">
                 <Name>Effect</Name>
             </Element>
-            <Element Type="Struct" ID="0x5" Archetype="RumbleEffectStruct"/>
+            <Element Type="Struct" ID="0x5" Archetype="RumbleEffectFlags"/>
         </SubProperties>
     </Properties>
     <ExpectedPropertyCount>6</ExpectedPropertyCount>

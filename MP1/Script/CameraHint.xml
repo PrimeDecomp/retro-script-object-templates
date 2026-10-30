@@ -32,7 +32,7 @@
                     <Element Name="SpindleCamera" ID="0x8"/>
                 </Values>
             </Element>
-            <Element Type="Struct" ID="0x6" Archetype="CameraHintStruct">
+            <Element Type="Struct" ID="0x6" Archetype="CameraHintFlags">
                 <Name>BallCameraHints</Name>
             </Element>
             <Element Type="Struct" ID="0x7" Archetype="BoolFloat">

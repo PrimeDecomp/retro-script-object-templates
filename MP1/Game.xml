@@ -536,8 +536,8 @@
             <Value Path="Structs/BoolVec3f.xml"/>
         </Element>
         <Element>
-            <Key>CameraHintStruct</Key>
-            <Value Path="Structs/CameraHintStruct.xml"/>
+            <Key>CameraHintFlags</Key>
+            <Value Path="Structs/CameraHintFlags.xml"/>
         </Element>
         <Element>
             <Key>ChargedBeams</Key>
@@ -612,20 +612,20 @@
             <Value Path="Enums/LogbookCategory.xml"/>
         </Element>
         <Element>
-            <Key>MagdoliteStruct</Key>
-            <Value Path="Structs/MagdoliteStruct.xml"/>
+            <Key>MagdoliteData</Key>
+            <Value Path="Structs/MagdoliteData.xml"/>
         </Element>
         <Element>
-            <Key>MassivePrimeStruct</Key>
-            <Value Path="Structs/MassivePrimeStruct.xml"/>
+            <Key>MetroidPrimeData</Key>
+            <Value Path="Structs/MetroidPrimeData.xml"/>
         </Element>
         <Element>
-            <Key>NewCameraShakerStruct</Key>
-            <Value Path="Structs/NewCameraShakerStruct.xml"/>
+            <Key>CameraShakerComponent</Key>
+            <Value Path="Structs/CameraShakerComponent.xml"/>
         </Element>
         <Element>
-            <Key>PathCameraStruct</Key>
-            <Value Path="Structs/PathCameraStruct.xml"/>
+            <Key>PathCameraFlags</Key>
+            <Value Path="Structs/PathCameraFlags.xml"/>
         </Element>
         <Element>
             <Key>PatternedAITypedef</Key>
@@ -636,40 +636,40 @@
             <Value Path="Enums/PlayerAction.xml"/>
         </Element>
         <Element>
-            <Key>PlayerActorStruct</Key>
-            <Value Path="Structs/PlayerActorStruct.xml"/>
+            <Key>PlayerActorFlags</Key>
+            <Value Path="Structs/PlayerActorFlags.xml"/>
         </Element>
         <Element>
-            <Key>PlayerHintStruct</Key>
-            <Value Path="Structs/PlayerHintStruct.xml"/>
+            <Key>PlayerHintFlags</Key>
+            <Value Path="Structs/PlayerHintFlags.xml"/>
         </Element>
         <Element>
             <Key>PlayerItem</Key>
             <Value Path="Enums/PlayerItem.xml"/>
         </Element>
         <Element>
-            <Key>PrimeStruct1</Key>
-            <Value Path="Structs/PrimeStruct1.xml"/>
+            <Key>MetroidPrimeAttackWeights</Key>
+            <Value Path="Structs/MetroidPrimeAttackWeights.xml"/>
         </Element>
         <Element>
-            <Key>PrimeStruct2</Key>
-            <Value Path="Structs/PrimeStruct2.xml"/>
+            <Key>PrimeCameraShakeData</Key>
+            <Value Path="Structs/PrimeCameraShakeData.xml"/>
         </Element>
         <Element>
-            <Key>PrimeStruct3</Key>
-            <Value Path="Structs/PrimeStruct3.xml"/>
+            <Key>PrimeCameraShakerComponent</Key>
+            <Value Path="Structs/PrimeCameraShakerComponent.xml"/>
         </Element>
         <Element>
-            <Key>PrimeStruct4</Key>
-            <Value Path="Structs/PrimeStruct4.xml"/>
+            <Key>MetroidPrimeParasiteQueenAttack</Key>
+            <Value Path="Structs/MetroidPrimeParasiteQueenAttack.xml"/>
         </Element>
         <Element>
-            <Key>PrimeStruct5</Key>
-            <Value Path="Structs/PrimeStruct5.xml"/>
+            <Key>WeaponAssetInfo</Key>
+            <Value Path="Structs/WeaponAssetInfo.xml"/>
         </Element>
         <Element>
-            <Key>PrimeStruct6</Key>
-            <Value Path="Structs/PrimeStruct6.xml"/>
+            <Key>MetroidPrimeVulnerabilityEntry</Key>
+            <Value Path="Structs/MetroidPrimeVulnerabilityEntry.xml"/>
         </Element>
         <Element>
             <Key>RidleyStruct1</Key>
@@ -680,8 +680,8 @@
             <Value Path="Structs/RidleyStruct2.xml"/>
         </Element>
         <Element>
-            <Key>RumbleEffectStruct</Key>
-            <Value Path="Structs/RumbleEffectStruct.xml"/>
+            <Key>RumbleEffectFlags</Key>
+            <Value Path="Structs/RumbleEffectFlags.xml"/>
         </Element>
         <Element>
             <Key>ScanImage</Key>
@@ -708,8 +708,8 @@
             <Value Path="Structs/ShotParam.xml"/>
         </Element>
         <Element>
-            <Key>SpindleCameraStruct</Key>
-            <Value Path="Structs/SpindleCameraStruct.xml"/>
+            <Key>SpindleCameraInterpolant</Key>
+            <Value Path="Structs/SpindleCameraInterpolant.xml"/>
         </Element>
         <Element>
             <Key>Vector2f</Key>
