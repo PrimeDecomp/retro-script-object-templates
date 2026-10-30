@@ -19,13 +19,13 @@
             <Element Type="Struct" ID="0x4" Archetype="GuessStruct">
                 <Name>DurationAndSfxDist</Name>
             </Element>
-            <Element Type="Struct" ID="0x5" Archetype="CameraShakerComponent">
+            <Element Type="Struct" ID="0x5" Archetype="HorizontalMotion2">
                 <Name>ShakerX</Name>
             </Element>
-            <Element Type="Struct" ID="0x6" Archetype="CameraShakerComponent">
+            <Element Type="Struct" ID="0x6" Archetype="HorizontalMotion2">
                 <Name>ShakerY</Name>
             </Element>
-            <Element Type="Struct" ID="0x7" Archetype="CameraShakerComponent">
+            <Element Type="Struct" ID="0x7" Archetype="HorizontalMotion2">
                 <Name>ShakerZ</Name>
             </Element>
         </SubProperties>

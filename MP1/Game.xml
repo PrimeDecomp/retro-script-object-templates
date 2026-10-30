@@ -620,8 +620,8 @@
             <Value Path="Structs/MetroidPrimeData.xml"/>
         </Element>
         <Element>
-            <Key>CameraShakerComponent</Key>
-            <Value Path="Structs/CameraShakerComponent.xml"/>
+            <Key>HorizontalMotion2</Key>
+            <Value Path="Structs/HorizontalMotion2.xml"/>
         </Element>
         <Element>
             <Key>PathCameraFlags</Key>
@@ -648,36 +648,36 @@
             <Value Path="Enums/PlayerItem.xml"/>
         </Element>
         <Element>
-            <Key>MetroidPrimeAttackWeights</Key>
-            <Value Path="Structs/MetroidPrimeAttackWeights.xml"/>
+            <Key>IceAttackWeights</Key>
+            <Value Path="Structs/IceAttackWeights.xml"/>
         </Element>
         <Element>
-            <Key>PrimeCameraShakeData</Key>
-            <Value Path="Structs/PrimeCameraShakeData.xml"/>
+            <Key>IdleCameraShakeData</Key>
+            <Value Path="Structs/IdleCameraShakeData.xml"/>
         </Element>
         <Element>
-            <Key>PrimeCameraShakerComponent</Key>
-            <Value Path="Structs/PrimeCameraShakerComponent.xml"/>
+            <Key>HorizontalMotion</Key>
+            <Value Path="Structs/HorizontalMotion.xml"/>
         </Element>
         <Element>
-            <Key>MetroidPrimeParasiteQueenAttack</Key>
-            <Value Path="Structs/MetroidPrimeParasiteQueenAttack.xml"/>
+            <Key>IcePQAttack</Key>
+            <Value Path="Structs/IcePQAttack.xml"/>
         </Element>
         <Element>
-            <Key>WeaponAssetInfo</Key>
-            <Value Path="Structs/WeaponAssetInfo.xml"/>
+            <Key>SecondaryEffect</Key>
+            <Value Path="Structs/SecondaryEffect.xml"/>
         </Element>
         <Element>
-            <Key>MetroidPrimeVulnerabilityEntry</Key>
-            <Value Path="Structs/MetroidPrimeVulnerabilityEntry.xml"/>
+            <Key>IceVulnerability</Key>
+            <Value Path="Structs/IceVulnerability.xml"/>
         </Element>
         <Element>
             <Key>RidleyStruct1</Key>
             <Value Path="Structs/RidleyStruct1.xml"/>
         </Element>
         <Element>
-            <Key>RidleyStruct2</Key>
-            <Value Path="Structs/RidleyStruct2.xml"/>
+            <Key>MirvMissileCameraShakeData</Key>
+            <Value Path="Structs/MirvMissileCameraShakeData.xml"/>
         </Element>
         <Element>
             <Key>RumbleEffectFlags</Key>
@@ -700,8 +700,8 @@
             <Value Path="Structs/ScannableParameters.xml"/>
         </Element>
         <Element>
-            <Key>ScriptBeamStruct</Key>
-            <Value Path="Structs/ScriptBeamStruct.xml"/>
+            <Key>IntroBossAttack</Key>
+            <Value Path="Structs/IntroBossAttack.xml"/>
         </Element>
         <Element>
             <Key>ShotParam</Key>

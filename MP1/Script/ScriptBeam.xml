@@ -21,7 +21,7 @@
                     <Element>WPSC</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Struct" ID="0x5" Archetype="ScriptBeamStruct"/>
+            <Element Type="Struct" ID="0x5" Archetype="IntroBossAttack"/>
             <Element Type="Struct" ID="0x6" Archetype="DamageInfo"/>
         </SubProperties>
     </Properties>

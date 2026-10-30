@@ -49,16 +49,16 @@
             <Element Type="Int" ID="0xE">
                 <Name>Unknown 9</Name>
             </Element>
-            <Element Type="Struct" ID="0xF" Archetype="MetroidPrimeAttackWeights">
+            <Element Type="Struct" ID="0xF" Archetype="IceAttackWeights">
                 <Name>RoomAttackWeights1</Name>
             </Element>
-            <Element Type="Struct" ID="0x10" Archetype="MetroidPrimeAttackWeights">
+            <Element Type="Struct" ID="0x10" Archetype="IceAttackWeights">
                 <Name>RoomAttackWeights2</Name>
             </Element>
-            <Element Type="Struct" ID="0x11" Archetype="MetroidPrimeAttackWeights">
+            <Element Type="Struct" ID="0x11" Archetype="IceAttackWeights">
                 <Name>RoomAttackWeights3</Name>
             </Element>
-            <Element Type="Struct" ID="0x12" Archetype="MetroidPrimeAttackWeights">
+            <Element Type="Struct" ID="0x12" Archetype="IceAttackWeights">
                 <Name>RoomAttackWeights4</Name>
             </Element>
             <Element Type="Int" ID="0x13">
