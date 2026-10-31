@@ -71,10 +71,10 @@
             <Element Type="Float" ID="0x14">
                 <Name>Unknown 7</Name>
             </Element>
-            <Element Type="AnimationSet" ID="0x15">
+            <Element Type="AnimationSet" ID="0x15" IgnoreDependenciesMlvl="True">
                 <Name>AnimationParameters</Name>
             </Element>
-            <Element Type="Asset" ID="0x16">
+            <Element Type="Asset" ID="0x16" IgnoreDependenciesMlvl="True">
                 <Name>DGRP</Name>
                 <TypeFilter>
                     <Element>DGRP</Element>

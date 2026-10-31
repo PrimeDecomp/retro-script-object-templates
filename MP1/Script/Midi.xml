@@ -9,7 +9,7 @@
             <Element Type="Bool" ID="0x1">
                 <Name>Unknown 1</Name>
             </Element>
-            <Element Type="Asset" ID="0x2">
+            <Element Type="Asset" ID="0x2" IgnoreDependencies="True">
                 <Name>CSNG</Name>
                 <TypeFilter>
                     <Element>CSNG</Element>
