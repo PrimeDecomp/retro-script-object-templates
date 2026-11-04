@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>SwitchMP1</Name>
         <SubProperties>
+            <Element Type="Bool" ID="0xb84cdeee">
+                <Name>Opened</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x378a7ddd">
+                <Name>CloseOnOpened</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>

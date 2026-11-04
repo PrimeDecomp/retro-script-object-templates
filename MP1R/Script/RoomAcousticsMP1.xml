@@ -1,8 +1,128 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>RoomAcousticsMP1</Name>
         <SubProperties>
+            <Element Type="Int" ID="0xf6cb8abd">
+                <Name>VolumeScale</Name>
+                <DefaultValue>117</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xfbd4098f">
+                <Name>RevHiColoration</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xb8991467">
+                <Name>RevHiMix</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x16eac442">
+                <Name>RevHiTime</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x197c1a75">
+                <Name>RevHiDamping</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x83997be9">
+                <Name>RevHiPreDelay</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xe3ba5ef6">
+                <Name>RevHiCrosstalk</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x9fc75f94">
+                <Name>ChorusBaseDelay</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xfd6b8f6a">
+                <Name>ChorusVariation</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xc129c99a">
+                <Name>ChorusPeriod</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x98a3eca5">
+                <Name>RevStdColoration</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x3e3e269f">
+                <Name>RevStdMix</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xc977b3ec">
+                <Name>RevStdTime</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xffe3f5df">
+                <Name>RevStdDamping</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x42d38082">
+                <Name>RevStdPreDelay</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x197ba273">
+                <Name>DelayL</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0xd4a35549">
+                <Name>DelayR</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0xaf24623a">
+                <Name>DelayS</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x3da92c15">
+                <Name>FeedbackL</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x772126e5">
+                <Name>FeedbackR</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x0ce7edab">
+                <Name>FeedbackS</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x90003ff6">
+                <Name>OutputL</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x3aa04f0f">
+                <Name>OutputR</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x098a90bf">
+                <Name>OutputS</Name>
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x28842b62">
+                <Name>RevHi</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x6f04ebed">
+                <Name>RevHiDisable</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0xc988c651">
+                <Name>Chorus</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x11c5b66f">
+                <Name>RevStd</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x72feff35">
+                <Name>RevStdDisable</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0xa3b340a0">
+                <Name>Delay</Name>
+                <DefaultValue>false</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>
