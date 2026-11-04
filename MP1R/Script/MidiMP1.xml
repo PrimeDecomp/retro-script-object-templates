@@ -4,18 +4,14 @@
         <Name>MidiMP1</Name>
         <SubProperties>
             <Element Type="Asset" ID="0x7b33383a">
-                <Name>Song</Name>
             </Element>
             <Element Type="Float" ID="0x216ef6fd">
-                <Name>FadeInDuration</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x4f3570b3">
-                <Name>FadeOutDuration</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xb862f41f">
-                <Name>Volume</Name>
                 <DefaultValue>127</DefaultValue>
             </Element>
         </SubProperties>

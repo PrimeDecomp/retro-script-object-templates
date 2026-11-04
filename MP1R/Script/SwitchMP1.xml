@@ -4,11 +4,9 @@
         <Name>SwitchMP1</Name>
         <SubProperties>
             <Element Type="Bool" ID="0xb84cdeee">
-                <Name>Opened</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x378a7ddd">
-                <Name>CloseOnOpened</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

@@ -4,43 +4,33 @@
         <Name>AreaAttributesMP1</Name>
         <SubProperties>
             <Element Type="Asset" ID="0x85d4a657">
-                <Name>Skybox</Name>
             </Element>
             <Element Type="Int" ID="0x5996e5a6">
-                <Name>EnvFxType</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xfd2c3b59">
-                <Name>EnvFxDensity</Name>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xfeac06d0">
-                <Name>EnvFxOpacity</Name>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x86bd23b4">
-                <Name>Load</Name>
                 <DefaultValue>1</DefaultValue>
                 <Description>Legacy load selector, retained in the loader but not forwarded to the Remastered component.</Description>
             </Element>
             <Element Type="Float" ID="0x4a503730">
-                <Name>ThermalHeat</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xf66e735d">
-                <Name>XRayFogDistance</Name>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xde03b5b3">
-                <Name>WorldLightingLevel</Name>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0xbe855b91">
-                <Name>PhazonType</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x4c8fe8d6">
-                <Name>ShowSkybox</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

@@ -4,23 +4,18 @@
         <Name>TimerMP1</Name>
         <SubProperties>
             <Element Type="Float" ID="0xfb2a2cf0">
-                <Name>StartTime</Name>
                 <DefaultValue>5</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x35c8fdd3">
-                <Name>MaxRandDelay</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x79f25d24">
-                <Name>AutoReset</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0xd0ecc8ea">
-                <Name>AutoStart</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Bool" ID="0x75ce4b13">
-                <Name>Loop</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

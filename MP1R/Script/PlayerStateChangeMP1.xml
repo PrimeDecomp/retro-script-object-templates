@@ -4,23 +4,18 @@
         <Name>PlayerStateChangeMP1</Name>
         <SubProperties>
             <Element Type="Int" ID="0xe09b6833">
-                <Name>ItemType</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x5bf53de7">
-                <Name>ItemCapacity</Name>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x765017f0">
-                <Name>ItemCount</Name>
                 <DefaultValue>1</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x683da5e7">
-                <Name>Control</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x34bb0292">
-                <Name>ControlCommandOption</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>

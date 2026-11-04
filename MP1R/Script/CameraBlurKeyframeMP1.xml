@@ -4,24 +4,19 @@
         <Name>CameraBlurKeyframeMP1</Name>
         <SubProperties>
             <Element Type="Int" ID="0x4eabcae7">
-                <Name>BlurType</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0x1a38a901">
-                <Name>Amount</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Int" ID="0x14565ac4">
-                <Name>FilterGroup</Name>
                 <DefaultValue>0</DefaultValue>
                 <Description>Retained legacy filter index; not used by the current blur update.</Description>
             </Element>
             <Element Type="Float" ID="0xc6ad2fcf">
-                <Name>TimeIn</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
             <Element Type="Float" ID="0xb9570750">
-                <Name>TimeOut</Name>
                 <DefaultValue>0</DefaultValue>
             </Element>
         </SubProperties>
