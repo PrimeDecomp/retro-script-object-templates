@@ -131,7 +131,7 @@
         </Element>
         <Element>
             <Key ID="0xC3F023" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SwoopDistancePastTarget"/>
         </Element>
         <Element>
             <Key ID="0xC95A55" Type="spline"/>
@@ -591,7 +591,7 @@
         </Element>
         <Element>
             <Key ID="0x35F1FD2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NormalGridMaxY"/>
         </Element>
         <Element>
             <Key ID="0x364F0B8" Type="bool"/>
@@ -911,7 +911,7 @@
         </Element>
         <Element>
             <Key ID="0x50CB86E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShardstormRangeMin"/>
         </Element>
         <Element>
             <Key ID="0x5117E35" Type="asset"/>
@@ -1815,11 +1815,11 @@
         </Element>
         <Element>
             <Key ID="0xA9689E2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChanceToFireSweepShot"/>
         </Element>
         <Element>
             <Key ID="0xA9D701D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightAngleAttenuationLinear"/>
         </Element>
         <Element>
             <Key ID="0xA9DBF91" Type="PlatformMotionProperties"/>
@@ -2811,7 +2811,7 @@
         </Element>
         <Element>
             <Key ID="0x108E8ED8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CantReachPlayerDistance"/>
         </Element>
         <Element>
             <Key ID="0x10922293" Type="asset"/>
@@ -3471,7 +3471,7 @@
         </Element>
         <Element>
             <Key ID="0x1431157A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DownAdditiveIntoTime"/>
         </Element>
         <Element>
             <Key ID="0x14322138" Type="DynamicLightMotionSpline"/>
@@ -4299,7 +4299,7 @@
         </Element>
         <Element>
             <Key ID="0x18C4D552" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TimeBetweenSwoops"/>
         </Element>
         <Element>
             <Key ID="0x18C7396A" Type="bool"/>
@@ -4779,7 +4779,7 @@
         </Element>
         <Element>
             <Key ID="0x1AEB498D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmorHPInStage1"/>
         </Element>
         <Element>
             <Key ID="0x1AEC3E02" Type="characteranimation"/>
@@ -6247,7 +6247,7 @@
         </Element>
         <Element>
             <Key ID="0x23057384" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="SwoopFromProximity"/>
         </Element>
         <Element>
             <Key ID="0x2307A992" Type="float"/>
@@ -6631,7 +6631,7 @@
         </Element>
         <Element>
             <Key ID="0x24F779CA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ApproachPlayerThroughAIChance"/>
         </Element>
         <Element>
             <Key ID="0x24FDEEA1" Type="Vector"/>
@@ -7743,7 +7743,7 @@
         </Element>
         <Element>
             <Key ID="0x2B3109A6" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="StartHeeling"/>
         </Element>
         <Element>
             <Key ID="0x2B31C882" Type="asset"/>
@@ -7907,7 +7907,7 @@
         </Element>
         <Element>
             <Key ID="0x2BEF7961" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FreeLookBarMaxOpenDistance"/>
         </Element>
         <Element>
             <Key ID="0x2BEFC1BF" Type="animation"/>
@@ -8147,7 +8147,7 @@
         </Element>
         <Element>
             <Key ID="0x2D5BFAE8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DownAdditiveOutOfTime"/>
         </Element>
         <Element>
             <Key ID="0x2D60ACFF" Type="int"/>
@@ -8739,7 +8739,7 @@
         </Element>
         <Element>
             <Key ID="0x3063BBF1" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="ShardstormDamage"/>
         </Element>
         <Element>
             <Key ID="0x306A19B8" Type="bool"/>
@@ -9607,7 +9607,7 @@
         </Element>
         <Element>
             <Key ID="0x354D1781" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AngryGridMinY"/>
         </Element>
         <Element>
             <Key ID="0x35521A04" Type="TextGradientColors"/>
@@ -10411,7 +10411,7 @@
         </Element>
         <Element>
             <Key ID="0x39A6DEC3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PathMeshEdgeAvoidanceDistance"/>
         </Element>
         <Element>
             <Key ID="0x39AB62FB" Type="float"/>
@@ -10887,7 +10887,7 @@
         </Element>
         <Element>
             <Key ID="0x3C5C5405" Type="float"/>
-            <Value Name="SomethingFar"/>
+            <Value Name="SongOfShazzarAttractAmountFar"/>
         </Element>
         <Element>
             <Key ID="0x3C5D53A4" Type="float"/>
@@ -11747,7 +11747,7 @@
         </Element>
         <Element>
             <Key ID="0x411A705E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightAngleAttenuationConstant"/>
         </Element>
         <Element>
             <Key ID="0x411D0552" Type="enum"/>
@@ -11991,7 +11991,7 @@
         </Element>
         <Element>
             <Key ID="0x42420F6E" Type="Color"/>
-            <Value Name="Unknown"/>
+            <Value Name="ThermalReticleSeekerColor"/>
         </Element>
         <Element>
             <Key ID="0x424928B3" Type="GrappleBlock"/>
@@ -12567,7 +12567,7 @@
         </Element>
         <Element>
             <Key ID="0x4566B3EF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntAfterFailedAttackChance"/>
         </Element>
         <Element>
             <Key ID="0x45694DB0" Type="SeedBoss1Stage"/>
@@ -12595,7 +12595,7 @@
         </Element>
         <Element>
             <Key ID="0x4584843B" Type="asset"/>
-            <Value Name="WPSC"/>
+            <Value Name="ShardstormProjectile"/>
         </Element>
         <Element>
             <Key ID="0x458F7B04" Type="float"/>
@@ -14443,7 +14443,7 @@
         </Element>
         <Element>
             <Key ID="0x4F0D651C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightXAngleMagnitude"/>
         </Element>
         <Element>
             <Key ID="0x4F1952AC" Type="asset"/>
@@ -14527,7 +14527,7 @@
         </Element>
         <Element>
             <Key ID="0x4F7CF7D8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="FreeLookBarOpenCloseTime"/>
         </Element>
         <Element>
             <Key ID="0x4F7FEC39" Type="RumbleFlags"/>
@@ -14691,7 +14691,7 @@
         </Element>
         <Element>
             <Key ID="0x50812F49" Type="Vector"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightBasePosition"/>
         </Element>
         <Element>
             <Key ID="0x508520E1" Type="sound"/>
@@ -14955,7 +14955,7 @@
         </Element>
         <Element>
             <Key ID="0x51DF1B80" Type="float"/>
-            <Value Name="SomethingRange"/>
+            <Value Name="SongOfShazzarAttractAmountRange"/>
         </Element>
         <Element>
             <Key ID="0x51E5C747" Type="bool"/>
@@ -15659,7 +15659,7 @@
         </Element>
         <Element>
             <Key ID="0x55B323E5" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightAngleCutoff"/>
         </Element>
         <Element>
             <Key ID="0x55BB9BA8" Type="Color"/>
@@ -18695,7 +18695,7 @@
         </Element>
         <Element>
             <Key ID="0x6735F19B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChanceToFireMissileSequence"/>
         </Element>
         <Element>
             <Key ID="0x673A2724" Type="float"/>
@@ -18719,7 +18719,7 @@
         </Element>
         <Element>
             <Key ID="0x6760BD02" Type="asset"/>
-            <Value Name="Unknown"/>
+            <Value Name="WarpDestinationEffect"/>
         </Element>
         <Element>
             <Key ID="0x67621600" Type="int"/>
@@ -19799,7 +19799,7 @@
         </Element>
         <Element>
             <Key ID="0x6CCE17A9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxVerticalDriftUp"/>
         </Element>
         <Element>
             <Key ID="0x6CD8813E" Type="float"/>
@@ -20855,7 +20855,7 @@
         </Element>
         <Element>
             <Key ID="0x7312F1C1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MissileFreezeTimerStage2"/>
         </Element>
         <Element>
             <Key ID="0x731756F6" Type="TextGradientColors"/>
@@ -21023,7 +21023,7 @@
         </Element>
         <Element>
             <Key ID="0x742287F5" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="InHandTalonSlashDamage"/>
         </Element>
         <Element>
             <Key ID="0x74288EF3" Type="bool"/>
@@ -22087,7 +22087,7 @@
         </Element>
         <Element>
             <Key ID="0x79E70805" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="UpAdditiveIntoTime"/>
         </Element>
         <Element>
             <Key ID="0x79EA6F12" Type="Color"/>
@@ -24267,7 +24267,7 @@
         </Element>
         <Element>
             <Key ID="0x85C31390" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightZAngleMagnitude"/>
         </Element>
         <Element>
             <Key ID="0x85CEA266" Type="bool"/>
@@ -24539,7 +24539,7 @@
         </Element>
         <Element>
             <Key ID="0x875D59F9" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="SwoopFromRequest"/>
         </Element>
         <Element>
             <Key ID="0x87613768" Type="bool"/>
@@ -26307,7 +26307,7 @@
         </Element>
         <Element>
             <Key ID="0x910AD1E0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntAfterSuccessfulAttackChance"/>
         </Element>
         <Element>
             <Key ID="0x911A2476" Type="bool"/>
@@ -27955,7 +27955,7 @@
         </Element>
         <Element>
             <Key ID="0x9A5D81FA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntAfterFailedEnragedAttackChance"/>
         </Element>
         <Element>
             <Key ID="0x9A5EBA1C" Type="float"/>
@@ -28339,7 +28339,7 @@
         </Element>
         <Element>
             <Key ID="0x9C7F3B23" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ArmorHPInStage2"/>
         </Element>
         <Element>
             <Key ID="0x9C8094F5" Type="GrappleData"/>
@@ -29815,7 +29815,7 @@
         </Element>
         <Element>
             <Key ID="0xA4CB7B3C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="InHandTalonSlashDamageThreshold"/>
         </Element>
         <Element>
             <Key ID="0xA4CCE30F" Type="float"/>
@@ -30043,7 +30043,7 @@
         </Element>
         <Element>
             <Key ID="0xA65F4B32" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ChanceToFireBurstShot"/>
         </Element>
         <Element>
             <Key ID="0xA6609CC5" Type="Color"/>
@@ -30883,7 +30883,7 @@
         </Element>
         <Element>
             <Key ID="0xAAD0B493" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxVerticalDriftDown"/>
         </Element>
         <Element>
             <Key ID="0xAADAABB8" Type="sound"/>
@@ -30987,7 +30987,7 @@
         </Element>
         <Element>
             <Key ID="0xAB46A8C3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BelowBeamVisorBlowOutMaxSize"/>
         </Element>
         <Element>
             <Key ID="0xAB47975F" Type="BehaviorData"/>
@@ -32571,7 +32571,7 @@
         </Element>
         <Element>
             <Key ID="0xB39833C0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinOrbitBreakIntensity"/>
         </Element>
         <Element>
             <Key ID="0xB39A8A36" Type="int"/>
@@ -32643,7 +32643,7 @@
         </Element>
         <Element>
             <Key ID="0xB3F30B93" Type="float"/>
-            <Value Name="SomethingNear"/>
+            <Value Name="SongOfShazzarAttractAmountNear"/>
         </Element>
         <Element>
             <Key ID="0xB3F4EE57" Type="float"/>
@@ -34151,7 +34151,7 @@
         </Element>
         <Element>
             <Key ID="0xBC2F8F30" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntFirstTimeChance"/>
         </Element>
         <Element>
             <Key ID="0xBC3A7FD1" Type="float"/>
@@ -34703,7 +34703,7 @@
         </Element>
         <Element>
             <Key ID="0xBF4F8D8C" Type="asset"/>
-            <Value Name="TXTR"/>
+            <Value Name="BelowBeamVisorBlowOutTexture"/>
         </Element>
         <Element>
             <Key ID="0xBF583BF2" Type="int"/>
@@ -34983,7 +34983,7 @@
         </Element>
         <Element>
             <Key ID="0xC10219BF" Type="bool"/>
-            <Value Name="PointVisible"/>
+            <Value Name="PointVisible?"/>
         </Element>
         <Element>
             <Key ID="0xC107A48A" Type="CharacterAnimationSet"/>
@@ -35407,7 +35407,7 @@
         </Element>
         <Element>
             <Key ID="0xC34BFFCA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinTimeBetweenRoars"/>
         </Element>
         <Element>
             <Key ID="0xC3544D67" Type="float"/>
@@ -38407,7 +38407,7 @@
         </Element>
         <Element>
             <Key ID="0xD2EE80B9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PlayerExplosionProximity"/>
         </Element>
         <Element>
             <Key ID="0xD2F678EB" Type="Color"/>
@@ -38759,7 +38759,7 @@
         </Element>
         <Element>
             <Key ID="0xD4B4AD93" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NormalGridMinY"/>
         </Element>
         <Element>
             <Key ID="0xD4B4B3D2" Type="enum"/>
@@ -38767,7 +38767,7 @@
         </Element>
         <Element>
             <Key ID="0xD4C6CC95" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxDistFromSpline"/>
         </Element>
         <Element>
             <Key ID="0xD4C88DD1" Type="asset"/>
@@ -40099,7 +40099,7 @@
         </Element>
         <Element>
             <Key ID="0xDCDDEBC0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TauntAfterSuccessfulEnragedAttackChance"/>
         </Element>
         <Element>
             <Key ID="0xDCE1A940" Type="asset"/>
@@ -40127,7 +40127,7 @@
         </Element>
         <Element>
             <Key ID="0xDCFA472A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SwoopDistanceWithTarget"/>
         </Element>
         <Element>
             <Key ID="0xDD042FE0" Type="DarkSamusData"/>
@@ -41107,7 +41107,7 @@
         </Element>
         <Element>
             <Key ID="0xE2A6A5C0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AngryGridMaxY"/>
         </Element>
         <Element>
             <Key ID="0xE2ACF76E" Type="GrappleBlock"/>
@@ -41263,7 +41263,7 @@
         </Element>
         <Element>
             <Key ID="0xE36C178F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShardstormRangeMax"/>
         </Element>
         <Element>
             <Key ID="0xE36E20A7" Type="asset"/>
@@ -42427,7 +42427,7 @@
         </Element>
         <Element>
             <Key ID="0xE978BCF7" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="CantReachPlayerTime"/>
         </Element>
         <Element>
             <Key ID="0xE97E5BA3" Type="Color"/>
@@ -43211,7 +43211,7 @@
         </Element>
         <Element>
             <Key ID="0xED8C4058" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="UpAdditiveOutOfTime"/>
         </Element>
         <Element>
             <Key ID="0xED8F36CF" Type="DamageVulnerability"/>
@@ -44503,7 +44503,7 @@
         </Element>
         <Element>
             <Key ID="0xF4A8E8EA" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HudDamageLightAngleAttenuationQuadratic"/>
         </Element>
         <Element>
             <Key ID="0xF4AC7CAA" Type="enum"/>
@@ -44735,7 +44735,7 @@
         </Element>
         <Element>
             <Key ID="0xF586836F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MissileFreezeTimerStage1"/>
         </Element>
         <Element>
             <Key ID="0xF58A3F18" Type="MultiKeyframeAnim"/>
