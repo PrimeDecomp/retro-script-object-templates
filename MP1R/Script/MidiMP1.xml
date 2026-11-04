@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>MidiMP1</Name>
         <SubProperties>
+            <Element Type="Asset" ID="0x7b33383a">
+            </Element>
+            <Element Type="Float" ID="0x216ef6fd">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x4f3570b3">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0xb862f41f">
+                <DefaultValue>127</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>

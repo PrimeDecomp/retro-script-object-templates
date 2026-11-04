@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>ScriptRelayMP1</Name>
-        <SubProperties>
-        </SubProperties>
+        <SubProperties />
     </Properties>
 </ScriptObject>

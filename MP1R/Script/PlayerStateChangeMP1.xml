@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>PlayerStateChangeMP1</Name>
         <SubProperties>
+            <Element Type="Int" ID="0xe09b6833">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x5bf53de7">
+                <DefaultValue>1</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x765017f0">
+                <DefaultValue>1</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x683da5e7">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x34bb0292">
+                <DefaultValue>0</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>

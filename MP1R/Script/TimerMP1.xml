@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>TimerMP1</Name>
         <SubProperties>
+            <Element Type="Float" ID="0xfb2a2cf0">
+                <DefaultValue>5</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x35c8fdd3">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x79f25d24">
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0xd0ecc8ea">
+                <DefaultValue>false</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x75ce4b13">
+                <DefaultValue>false</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>

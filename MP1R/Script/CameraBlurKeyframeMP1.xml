@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ScriptObject ArchiveVer="4" Game="PrimeRemastered">
-    <Properties Type="Struct" Incomplete="true">
+    <Properties Type="Struct">
         <Name>CameraBlurKeyframeMP1</Name>
         <SubProperties>
+            <Element Type="Int" ID="0x4eabcae7">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0x1a38a901">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Int" ID="0x14565ac4">
+                <DefaultValue>0</DefaultValue>
+                <Description>Retained legacy filter index; not used by the current blur update.</Description>
+            </Element>
+            <Element Type="Float" ID="0xc6ad2fcf">
+                <DefaultValue>0</DefaultValue>
+            </Element>
+            <Element Type="Float" ID="0xb9570750">
+                <DefaultValue>0</DefaultValue>
+            </Element>
         </SubProperties>
     </Properties>
 </ScriptObject>
