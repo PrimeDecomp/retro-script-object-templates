@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PropertyTemplate ArchiveVer="4" Game="Prime">
     <PropertyArchetype Type="Struct">
-        <Name>PlayerActorStruct</Name>
+        <Name>PlayerActorFlags</Name>
         <SubProperties>
             <Element Type="Bool" ID="0x0">
                 <Name>SuitTransition</Name>
@@ -18,6 +18,11 @@
             <Element Type="Bool" ID="0x4">
                 <Name>KeepInStateManager</Name>
             </Element>
+            <!-- <Element Type="Bool" ID="0x5">
+                <Name>DisableProjectedShadow</Name>
+                <LoadCondition>only present in PAL data (struct property count &gt; 5)</LoadCondition>
+                <Description>Only checked by the PAL version, which creates a projected shadow unless this is set.</Description>
+            </Element> -->
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>
