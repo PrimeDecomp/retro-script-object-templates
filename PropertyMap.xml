@@ -670,7 +670,7 @@
             <Value Name="Model01"/>
         </Element>
         <Element>
-            <Key ID="0x3BF493E" Type="bool"/>
+            <Key ID="0x3BF493E" Type="bool" NonCRC32="True"/>
             <Value Name="SkipSendActive"/>
         </Element>
         <Element>
@@ -1010,7 +1010,7 @@
             <Value Name="Achievement"/>
         </Element>
         <Element>
-            <Key ID="0x590502C" Type="bool"/>
+            <Key ID="0x590502C" Type="bool" NonCRC32="True"/>
             <Value Name="IgnoreMessages"/>
         </Element>
         <Element>
@@ -1654,7 +1654,7 @@
             <Value Name="ExplodeSound"/>
         </Element>
         <Element>
-            <Key ID="0x98A90BF" Type="int"/>
+            <Key ID="0x98A90BF" Type="int" NonCRC32="True"/>
             <Value Name="OutputS"/>
         </Element>
         <Element>
@@ -2194,7 +2194,7 @@
             <Value Name="HardHypermodeData"/>
         </Element>
         <Element>
-            <Key ID="0xCE7EDAB" Type="int"/>
+            <Key ID="0xCE7EDAB" Type="int" NonCRC32="True"/>
             <Value Name="FeedbackS"/>
         </Element>
         <Element>
@@ -3054,7 +3054,7 @@
             <Value Name="ExitGrappleDamage"/>
         </Element>
         <Element>
-            <Key ID="0x11C5B66F" Type="bool"/>
+            <Key ID="0x11C5B66F" Type="bool" NonCRC32="True"/>
             <Value Name="RevStd"/>
         </Element>
         <Element>
@@ -3534,7 +3534,7 @@
             <Value Name="DarkAmmoMeterSelectedFillColor"/>
         </Element>
         <Element>
-            <Key ID="0x14565AC4" Type="int"/>
+            <Key ID="0x14565AC4" Type="int" NonCRC32="True"/>
             <Value Name="FilterGroup"/>
         </Element>
         <Element>
@@ -4014,7 +4014,7 @@
             <Value Name="PirateDroneData"/>
         </Element>
         <Element>
-            <Key ID="0x16EAC442" Type="float"/>
+            <Key ID="0x16EAC442" Type="float" NonCRC32="True"/>
             <Value Name="RevHiTime"/>
         </Element>
         <Element>
@@ -4446,11 +4446,11 @@
             <Value Name="ApplyBoostAfterStun"/>
         </Element>
         <Element>
-            <Key ID="0x197BA273" Type="int"/>
+            <Key ID="0x197BA273" Type="int" NonCRC32="True"/>
             <Value Name="DelayL"/>
         </Element>
         <Element>
-            <Key ID="0x197C1A75" Type="float"/>
+            <Key ID="0x197C1A75" Type="float" NonCRC32="True"/>
             <Value Name="RevHiDamping"/>
         </Element>
         <Element>
@@ -4610,7 +4610,7 @@
             <Value Name="AllowGrabDetach"/>
         </Element>
         <Element>
-            <Key ID="0x1A38A901" Type="float"/>
+            <Key ID="0x1A38A901" Type="float" NonCRC32="True"/>
             <Value Name="Amount"/>
         </Element>
         <Element>
@@ -4954,7 +4954,7 @@
             <Value Name="Bomb"/>
         </Element>
         <Element>
-            <Key ID="0x1B87B249" Type="bool"/>
+            <Key ID="0x1B87B249" Type="bool" NonCRC32="True"/>
             <Value Name="DefaultActive"/>
         </Element>
         <Element>
@@ -5994,7 +5994,7 @@
             <Value Name="SamusGunModel"/>
         </Element>
         <Element>
-            <Key ID="0x216EF6FD" Type="float"/>
+            <Key ID="0x216EF6FD" Type="float" NonCRC32="True"/>
             <Value Name="FadeInDuration"/>
         </Element>
         <Element>
@@ -7330,7 +7330,7 @@
             <Value Name="ShieldInfo"/>
         </Element>
         <Element>
-            <Key ID="0x28842B62" Type="bool"/>
+            <Key ID="0x28842B62" Type="bool" NonCRC32="True"/>
             <Value Name="RevHi"/>
         </Element>
         <Element>
@@ -9554,7 +9554,7 @@
             <Value Name="DodgeTimeVariance"/>
         </Element>
         <Element>
-            <Key ID="0x34BB0292" Type="int"/>
+            <Key ID="0x34BB0292" Type="int" NonCRC32="True"/>
             <Value Name="ControlCommandOption"/>
         </Element>
         <Element>
@@ -9742,7 +9742,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x35C8FDD3" Type="float"/>
+            <Key ID="0x35C8FDD3" Type="float" NonCRC32="True"/>
             <Value Name="MaxRandDelay"/>
         </Element>
         <Element>
@@ -10062,7 +10062,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x378A7DDD" Type="bool"/>
+            <Key ID="0x378A7DDD" Type="bool" NonCRC32="True"/>
             <Value Name="CloseOnOpened"/>
         </Element>
         <Element>
@@ -10630,7 +10630,7 @@
             <Value Name="AdditiveStateMachine"/>
         </Element>
         <Element>
-            <Key ID="0x3AA04F0F" Type="int"/>
+            <Key ID="0x3AA04F0F" Type="int" NonCRC32="True"/>
             <Value Name="OutputR"/>
         </Element>
         <Element>
@@ -11210,7 +11210,7 @@
             <Value Name="Inglet"/>
         </Element>
         <Element>
-            <Key ID="0x3DA92C15" Type="int"/>
+            <Key ID="0x3DA92C15" Type="int" NonCRC32="True"/>
             <Value Name="FeedbackL"/>
         </Element>
         <Element>
@@ -11334,7 +11334,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x3E3E269F" Type="float"/>
+            <Key ID="0x3E3E269F" Type="float" NonCRC32="True"/>
             <Value Name="RevStdMix"/>
         </Element>
         <Element>
@@ -11574,7 +11574,7 @@
             <Value Name="AimAtOrbitPoint"/>
         </Element>
         <Element>
-            <Key ID="0x3FB658D6" Type="bool"/>
+            <Key ID="0x3FB658D6" Type="bool" NonCRC32="True"/>
             <Value Name="AutoReset"/>
         </Element>
         <Element>
@@ -12206,7 +12206,7 @@
             <Value Name="SelectedNodeScale"/>
         </Element>
         <Element>
-            <Key ID="0x42D38082" Type="float"/>
+            <Key ID="0x42D38082" Type="float" NonCRC32="True"/>
             <Value Name="RevStdPreDelay"/>
         </Element>
         <Element>
@@ -13606,7 +13606,7 @@
             <Value Name="VerticalMotion"/>
         </Element>
         <Element>
-            <Key ID="0x4A503730" Type="float"/>
+            <Key ID="0x4A503730" Type="float" NonCRC32="True"/>
             <Value Name="ThermalHeat"/>
         </Element>
         <Element>
@@ -14082,7 +14082,7 @@
             <Value Name="MinJumpTime"/>
         </Element>
         <Element>
-            <Key ID="0x4C8FE8D6" Type="bool"/>
+            <Key ID="0x4C8FE8D6" Type="bool" NonCRC32="True"/>
             <Value Name="ShowSkybox"/>
         </Element>
         <Element>
@@ -14462,7 +14462,7 @@
             <Value Name="Bomb"/>
         </Element>
         <Element>
-            <Key ID="0x4EABCAE7" Type="int"/>
+            <Key ID="0x4EABCAE7" Type="int" NonCRC32="True"/>
             <Value Name="BlurType"/>
         </Element>
         <Element>
@@ -14562,7 +14562,7 @@
             <Value Name="PositionBehaviorVerticalAxis"/>
         </Element>
         <Element>
-            <Key ID="0x4F3570B3" Type="float"/>
+            <Key ID="0x4F3570B3" Type="float" NonCRC32="True"/>
             <Value Name="FadeOutDuration"/>
         </Element>
         <Element>
@@ -16446,7 +16446,7 @@
             <Value Name="MasterLayer4"/>
         </Element>
         <Element>
-            <Key ID="0x5996E5A6" Type="int"/>
+            <Key ID="0x5996E5A6" Type="int" NonCRC32="True"/>
             <Value Name="EnvFxType"/>
         </Element>
         <Element>
@@ -16830,7 +16830,7 @@
             <Value Name="ScanDotMoveMaxTime"/>
         </Element>
         <Element>
-            <Key ID="0x5BF53DE7" Type="int"/>
+            <Key ID="0x5BF53DE7" Type="int" NonCRC32="True"/>
             <Value Name="ItemCapacity"/>
         </Element>
         <Element>
@@ -19022,7 +19022,7 @@
             <Value Name="Something2Angle"/>
         </Element>
         <Element>
-            <Key ID="0x683DA5E7" Type="int"/>
+            <Key ID="0x683DA5E7" Type="int" NonCRC32="True"/>
             <Value Name="Control"/>
         </Element>
         <Element>
@@ -19810,7 +19810,7 @@
             <Value Name="DetectionBox"/>
         </Element>
         <Element>
-            <Key ID="0x6C550F6B" Type="int"/>
+            <Key ID="0x6C550F6B" Type="int" NonCRC32="True"/>
             <Value Name="MaximumValue"/>
         </Element>
         <Element>
@@ -20290,7 +20290,7 @@
             <Value Name="SwampKey1"/>
         </Element>
         <Element>
-            <Key ID="0x6F04EBED" Type="bool"/>
+            <Key ID="0x6F04EBED" Type="bool" NonCRC32="True"/>
             <Value Name="RevHiDisable"/>
         </Element>
         <Element>
@@ -20962,7 +20962,7 @@
             <Value Name="EnragedDuration"/>
         </Element>
         <Element>
-            <Key ID="0x72FEFF35" Type="bool"/>
+            <Key ID="0x72FEFF35" Type="bool" NonCRC32="True"/>
             <Value Name="RevStdDisable"/>
         </Element>
         <Element>
@@ -21386,7 +21386,7 @@
             <Value Name="CreatureTargetHeight"/>
         </Element>
         <Element>
-            <Key ID="0x75CE4B13" Type="bool"/>
+            <Key ID="0x75CE4B13" Type="bool" NonCRC32="True"/>
             <Value Name="Loop"/>
         </Element>
         <Element>
@@ -21490,7 +21490,7 @@
             <Value Name="InterpolationBehavior"/>
         </Element>
         <Element>
-            <Key ID="0x765017F0" Type="int"/>
+            <Key ID="0x765017F0" Type="int" NonCRC32="True"/>
             <Value Name="ItemCount"/>
         </Element>
         <Element>
@@ -21674,7 +21674,7 @@
             <Value Name="SuckAirVulnerability"/>
         </Element>
         <Element>
-            <Key ID="0x772126E5" Type="int"/>
+            <Key ID="0x772126E5" Type="int" NonCRC32="True"/>
             <Value Name="FeedbackR"/>
         </Element>
         <Element>
@@ -22238,7 +22238,7 @@
             <Value Name="OrbitLockGUIRotationTime"/>
         </Element>
         <Element>
-            <Key ID="0x79F25D24" Type="bool"/>
+            <Key ID="0x79F25D24" Type="bool" NonCRC32="True"/>
             <Value Name="AutoReset"/>
         </Element>
         <Element>
@@ -22482,7 +22482,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x7B33383A" Type="asset"/>
+            <Key ID="0x7B33383A" Type="asset" NonCRC32="True"/>
             <Value Name="Song"/>
         </Element>
         <Element>
@@ -24042,7 +24042,7 @@
             <Value Name="HyperModeBurstShotsMin"/>
         </Element>
         <Element>
-            <Key ID="0x83997BE9" Type="float"/>
+            <Key ID="0x83997BE9" Type="float" NonCRC32="True"/>
             <Value Name="RevHiPreDelay"/>
         </Element>
         <Element>
@@ -24430,7 +24430,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x85D4A657" Type="asset"/>
+            <Key ID="0x85D4A657" Type="asset" NonCRC32="True"/>
             <Value Name="Skybox"/>
         </Element>
         <Element>
@@ -24606,7 +24606,7 @@
             <Value Name="FaceLightQuadraticAttenuationScalar"/>
         </Element>
         <Element>
-            <Key ID="0x86BD23B4" Type="int"/>
+            <Key ID="0x86BD23B4" Type="int" NonCRC32="True"/>
             <Value Name="Load"/>
         </Element>
         <Element>
@@ -26278,7 +26278,7 @@
             <Value Name="MinimumMissileTime"/>
         </Element>
         <Element>
-            <Key ID="0x90003FF6" Type="int"/>
+            <Key ID="0x90003FF6" Type="int" NonCRC32="True"/>
             <Value Name="OutputL"/>
         </Element>
         <Element>
@@ -27858,7 +27858,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0x98A3ECA5" Type="float"/>
+            <Key ID="0x98A3ECA5" Type="float" NonCRC32="True"/>
             <Value Name="RevStdColoration"/>
         </Element>
         <Element>
@@ -29010,7 +29010,7 @@
             <Value Name="ArmorModel5"/>
         </Element>
         <Element>
-            <Key ID="0x9FC75F94" Type="float"/>
+            <Key ID="0x9FC75F94" Type="float" NonCRC32="True"/>
             <Value Name="ChorusBaseDelay"/>
         </Element>
         <Element>
@@ -29778,7 +29778,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xA3B340A0" Type="bool"/>
+            <Key ID="0xA3B340A0" Type="bool" NonCRC32="True"/>
             <Value Name="Delay"/>
         </Element>
         <Element>
@@ -31926,7 +31926,7 @@
             <Value Name="Sound_FormCircSaw"/>
         </Element>
         <Element>
-            <Key ID="0xAF24623A" Type="int"/>
+            <Key ID="0xAF24623A" Type="int" NonCRC32="True"/>
             <Value Name="DelayS"/>
         </Element>
         <Element>
@@ -33582,7 +33582,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xB84CDEEE" Type="bool"/>
+            <Key ID="0xB84CDEEE" Type="bool" NonCRC32="True"/>
             <Value Name="Opened"/>
         </Element>
         <Element>
@@ -33594,7 +33594,7 @@
             <Value Name="QuitConfirm"/>
         </Element>
         <Element>
-            <Key ID="0xB862F41F" Type="int"/>
+            <Key ID="0xB862F41F" Type="int" NonCRC32="True"/>
             <Value Name="Volume"/>
         </Element>
         <Element>
@@ -33630,7 +33630,7 @@
             <Value Name="DarkMapUnvisitedOutlineColor"/>
         </Element>
         <Element>
-            <Key ID="0xB8991467" Type="float"/>
+            <Key ID="0xB8991467" Type="float" NonCRC32="True"/>
             <Value Name="RevHiMix"/>
         </Element>
         <Element>
@@ -33758,7 +33758,7 @@
             <Value Name="BeamWidth"/>
         </Element>
         <Element>
-            <Key ID="0xB9570750" Type="float"/>
+            <Key ID="0xB9570750" Type="float" NonCRC32="True"/>
             <Value Name="TimeOut"/>
         </Element>
         <Element>
@@ -34750,7 +34750,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xBE855B91" Type="int"/>
+            <Key ID="0xBE855B91" Type="int" NonCRC32="True"/>
             <Value Name="PhazonType"/>
         </Element>
         <Element>
@@ -35210,7 +35210,7 @@
             <Value Name="PlatformTime"/>
         </Element>
         <Element>
-            <Key ID="0xC129C99A" Type="float"/>
+            <Key ID="0xC129C99A" Type="float" NonCRC32="True"/>
             <Value Name="ChorusPeriod"/>
         </Element>
         <Element>
@@ -36250,7 +36250,7 @@
             <Value Name="UseAnimation"/>
         </Element>
         <Element>
-            <Key ID="0xC6AD2FCF" Type="float"/>
+            <Key ID="0xC6AD2FCF" Type="float" NonCRC32="True"/>
             <Value Name="TimeIn"/>
         </Element>
         <Element>
@@ -36830,7 +36830,7 @@
             <Value Name="DamageInfo"/>
         </Element>
         <Element>
-            <Key ID="0xC977B3EC" Type="float"/>
+            <Key ID="0xC977B3EC" Type="float" NonCRC32="True"/>
             <Value Name="RevStdTime"/>
         </Element>
         <Element>
@@ -36842,7 +36842,7 @@
             <Value Name="FreeLookDampenFactor"/>
         </Element>
         <Element>
-            <Key ID="0xC988C651" Type="bool"/>
+            <Key ID="0xC988C651" Type="bool" NonCRC32="True"/>
             <Value Name="Chorus"/>
         </Element>
         <Element>
@@ -38194,7 +38194,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xD0ECC8EA" Type="bool"/>
+            <Key ID="0xD0ECC8EA" Type="bool" NonCRC32="True"/>
             <Value Name="AutoStart"/>
         </Element>
         <Element>
@@ -38966,7 +38966,7 @@
             <Value Name="MovementFrictionNormal"/>
         </Element>
         <Element>
-            <Key ID="0xD4A35549" Type="int"/>
+            <Key ID="0xD4A35549" Type="int" NonCRC32="True"/>
             <Value Name="DelayR"/>
         </Element>
         <Element>
@@ -40130,7 +40130,7 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
-            <Key ID="0xDB9CAEEF" Type="int"/>
+            <Key ID="0xDB9CAEEF" Type="int" NonCRC32="True"/>
             <Value Name="InitialValue"/>
         </Element>
         <Element>
@@ -40510,7 +40510,7 @@
             <Value Name="ItemMenu"/>
         </Element>
         <Element>
-            <Key ID="0xDE03B5B3" Type="float"/>
+            <Key ID="0xDE03B5B3" Type="float" NonCRC32="True"/>
             <Value Name="WorldLightingLevel"/>
         </Element>
         <Element>
@@ -40970,7 +40970,7 @@
             <Value Name="CanConverseHere"/>
         </Element>
         <Element>
-            <Key ID="0xE09B6833" Type="int"/>
+            <Key ID="0xE09B6833" Type="int" NonCRC32="True"/>
             <Value Name="ItemType"/>
         </Element>
         <Element>
@@ -41574,7 +41574,7 @@
             <Value Name="RollingSound2"/>
         </Element>
         <Element>
-            <Key ID="0xE3BA5EF6" Type="float"/>
+            <Key ID="0xE3BA5EF6" Type="float" NonCRC32="True"/>
             <Value Name="RevHiCrosstalk"/>
         </Element>
         <Element>
@@ -45170,7 +45170,7 @@
             <Value Name="CloudAlphaTarget"/>
         </Element>
         <Element>
-            <Key ID="0xF66E735D" Type="float"/>
+            <Key ID="0xF66E735D" Type="float" NonCRC32="True"/>
             <Value Name="XRayFogDistance"/>
         </Element>
         <Element>
@@ -45234,7 +45234,7 @@
             <Value Name="ShipFire"/>
         </Element>
         <Element>
-            <Key ID="0xF6CB8ABD" Type="int"/>
+            <Key ID="0xF6CB8ABD" Type="int" NonCRC32="True"/>
             <Value Name="VolumeScale"/>
         </Element>
         <Element>
@@ -46070,7 +46070,7 @@
             <Value Name="Suck"/>
         </Element>
         <Element>
-            <Key ID="0xFB2A2CF0" Type="float"/>
+            <Key ID="0xFB2A2CF0" Type="float" NonCRC32="True"/>
             <Value Name="StartTime"/>
         </Element>
         <Element>
@@ -46226,7 +46226,7 @@
             <Value Name="HypermodeDecoFadeInControl"/>
         </Element>
         <Element>
-            <Key ID="0xFBD4098F" Type="float"/>
+            <Key ID="0xFBD4098F" Type="float" NonCRC32="True"/>
             <Value Name="RevHiColoration"/>
         </Element>
         <Element>
@@ -46490,7 +46490,7 @@
             <Value Name="SeedBoss3Data"/>
         </Element>
         <Element>
-            <Key ID="0xFD2C3B59" Type="float"/>
+            <Key ID="0xFD2C3B59" Type="float" NonCRC32="True"/>
             <Value Name="EnvFxDensity"/>
         </Element>
         <Element>
@@ -46538,7 +46538,7 @@
             <Value Name="PlankModel9"/>
         </Element>
         <Element>
-            <Key ID="0xFD6B8F6A" Type="float"/>
+            <Key ID="0xFD6B8F6A" Type="float" NonCRC32="True"/>
             <Value Name="ChorusVariation"/>
         </Element>
         <Element>
@@ -46786,7 +46786,7 @@
             <Value Name="MaxHyperModeTime"/>
         </Element>
         <Element>
-            <Key ID="0xFEAC06D0" Type="float"/>
+            <Key ID="0xFEAC06D0" Type="float" NonCRC32="True"/>
             <Value Name="EnvFxOpacity"/>
         </Element>
         <Element>
@@ -47010,7 +47010,7 @@
             <Value Name="Viscosity"/>
         </Element>
         <Element>
-            <Key ID="0xFFE3F5DF" Type="float"/>
+            <Key ID="0xFFE3F5DF" Type="float" NonCRC32="True"/>
             <Value Name="RevStdDamping"/>
         </Element>
         <Element>
