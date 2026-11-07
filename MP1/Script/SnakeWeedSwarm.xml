@@ -74,7 +74,7 @@
             <Element Type="Sound" ID="0x18">
                 <Name>Sfx3</Name>
             </Element>
-            <Element Type="Asset" ID="0x19">
+            <!-- <Element Type="Asset" ID="0x19">
                 <Name>RetreatParticle</Name>
                 <LoadCondition>propCount &gt;= 29</LoadCondition>
                 <TypeFilter>
@@ -95,7 +95,7 @@
             <Element Type="Float" ID="0x1C">
                 <Name>Unknown</Name>
                 <LoadCondition>propCount &gt;= 29</LoadCondition>
-            </Element>
+            </Element> -->
         </SubProperties>
     </Properties>
     <ExpectedPropertyCount>25-29</ExpectedPropertyCount>

@@ -101,7 +101,7 @@
                 <Name>ShowDelay</Name>
                 <LoadCondition>propCount &gt;= 21</LoadCondition>
             </Element>
-            <Element Type="String" ID="0x15">
+            <!-- <Element Type="String" ID="0x15">
                 <Name>AudioStream</Name>
                 <LoadCondition>propCount &gt;= 22 (PAL builds only)</LoadCondition>
             </Element>
@@ -120,7 +120,7 @@
             <Element Type="Float" ID="0x19">
                 <Name>SubtitleFadeTime</Name>
                 <LoadCondition>propCount &gt;= 26 (PAL builds only)</LoadCondition>
-            </Element>
+            </Element> -->
         </SubProperties>
     </Properties>
     <ExpectedPropertyCount>4-26</ExpectedPropertyCount>

@@ -12,10 +12,10 @@
             <Element Type="Bool" ID="0x2">
                 <Name>SkipSendActive</Name>
             </Element>
-            <Element Type="Bool" ID="0x3">
+            <!-- <Element Type="Bool" ID="0x3">
                 <Name>IgnoreMessages</Name>
                 <LoadCondition>propCount &gt; 3 (default false)</LoadCondition>
-            </Element>
+            </Element> -->
         </SubProperties>
     </Properties>
     <ExpectedPropertyCount>3-4</ExpectedPropertyCount>

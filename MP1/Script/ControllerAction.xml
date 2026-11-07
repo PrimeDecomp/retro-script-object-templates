@@ -12,15 +12,15 @@
             <Element Type="Choice" ID="0x2" Archetype="PlayerAction">
                 <Name>Command</Name>
             </Element>
-            <Element Type="Bool" ID="0x3">
+            <!-- <Element Type="Bool" ID="0x3">
                 <Name>MapScreenResponse</Name>
                 <LoadCondition>propCount &gt;= 6</LoadCondition>
             </Element>
             <Element Type="Int" ID="0x4">
                 <Name>MapScreenSubaction</Name>
                 <LoadCondition>propCount &gt;= 6</LoadCondition>
-            </Element>
-            <Element Type="Bool" ID="0x5">
+            </Element> -->
+            <Element Type="Bool" ID="0x3">
                 <Name>DeactivateOnClose</Name>
                 <LoadCondition>always read, as the last property (index 3 when propCount &lt; 6)</LoadCondition>
             </Element>

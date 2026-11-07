@@ -44,10 +44,10 @@
             <Element Type="Struct" ID="0xE" Archetype="DamageInfo">
                 <Name>HaltDamageInfo</Name>
             </Element>
-            <Element Type="Float" ID="0xF">
+            <!-- <Element Type="Float" ID="0xF">
                 <Name>TouchBoundsScale</Name>
                 <LoadCondition>propCount &gt; 15 (only read by PAL builds; USA v1.088 requires exactly 15)</LoadCondition>
-            </Element>
+            </Element> -->
         </SubProperties>
     </Properties>
     <ExpectedPropertyCount>15-16</ExpectedPropertyCount>
