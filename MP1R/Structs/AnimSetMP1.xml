@@ -3,13 +3,13 @@
     <PropertyArchetype Type="Struct">
         <Name>AnimSetMP1</Name>
         <SubProperties>
-            <Element Type="Asset" ID="0xa589d885" Name="id">
+            <Element Type="Asset" ID="0xa589d885">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="PooledString" ID="0xd6f0c0f0" Name="str1">
+            <Element Type="PooledString" ID="0xd6f0c0f0">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="PooledString" ID="0x87c03a01" Name="str2">
+            <Element Type="PooledString" ID="0x87c03a01">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
         </SubProperties>

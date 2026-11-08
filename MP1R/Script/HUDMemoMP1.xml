@@ -3,12 +3,11 @@
     <Properties Type="Struct">
         <Name>HUDMemoMP1</Name>
         <SubProperties>
-            <Element Type="Int" ID="0xf429b4d0" Name="Unk Int 1">
+            <Element Type="Int" ID="0xf429b4d0">
                 <DefaultValue>1077936128</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
             <Element Type="Choice" ID="0x1e1f3dfd">
-                <Name>Memo Type</Name>
                 <Values>
                     <Element Name="Status Message" ID="0x0"/>
                     <Element Name="Message Box" ID="0x1"/>
@@ -16,15 +15,15 @@
                 <DefaultValue>0</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Asset" ID="0xd786d118" Name="GUID 1">
+            <Element Type="Asset" ID="0xd786d118">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
-            <Element Type="Bool" ID="0xe73cc9cf" Name="Unk Bool 1">
+            <Element Type="Bool" ID="0xe73cc9cf">
                 <DefaultValue>true</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
 
-            <Element Type="Int" ID="0x56e17395" Name="Unk Int 3">
+            <Element Type="Int" ID="0x56e17395">
                 <DefaultValue>0</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
