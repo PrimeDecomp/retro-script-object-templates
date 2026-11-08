@@ -38,6 +38,10 @@
             <Value Name="AimUpControl"/>
         </Element>
         <Element>
+            <Key ID="0x36D778" Type="asset" NonCRC32="True"/>
+            <Value Name="Unk GUID 1"/>
+        </Element>
+        <Element>
             <Key ID="0x3E7991" Type="asset"/>
             <Value Name="GuiPointerExitSound"/>
         </Element>
@@ -594,6 +598,10 @@
             <Value Name="NormalGridMaxY"/>
         </Element>
         <Element>
+            <Key ID="0x364A97A" Type="asset" NonCRC32="True"/>
+            <Value Name="Unk GUID 5"/>
+        </Element>
+        <Element>
             <Key ID="0x364F0B8" Type="bool"/>
             <Value Name="OnlyTargetActive"/>
         </Element>
@@ -708,6 +716,10 @@
         <Element>
             <Key ID="0x3F59B70" Type="MultiKeyframeAnim"/>
             <Value Name="Animation06"/>
+        </Element>
+        <Element>
+            <Key ID="0x3FA3EA7" Type="bool" NonCRC32="True"/>
+            <Value Name="UpwardElevator"/>
         </Element>
         <Element>
             <Key ID="0x3FB2DD4" Type="float"/>
@@ -902,6 +914,10 @@
             <Value Name="Left"/>
         </Element>
         <Element>
+            <Key ID="0x50751FB" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 5"/>
+        </Element>
+        <Element>
             <Key ID="0x50881A9" Type="bool"/>
             <Value Name="NoOcclusionTest"/>
         </Element>
@@ -924,6 +940,10 @@
         <Element>
             <Key ID="0x524BC7E" Type="Vector"/>
             <Value Name="FuseAttachedOffset"/>
+        </Element>
+        <Element>
+            <Key ID="0x5264039" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool"/>
         </Element>
         <Element>
             <Key ID="0x5291EF7" Type="spline"/>
@@ -2930,6 +2950,10 @@
             <Value Name="DockNumber"/>
         </Element>
         <Element>
+            <Key ID="0x110889D1" Type="float" NonCRC32="True"/>
+            <Value Name="R"/>
+        </Element>
+        <Element>
             <Key ID="0x1109AD02" Type="float"/>
             <Value Name="MinCoverAttackTime"/>
         </Element>
@@ -3346,6 +3370,10 @@
             <Value Name="XRaySeekerMinRadiusViewport"/>
         </Element>
         <Element>
+            <Key ID="0x1382CA50" Type="bool" NonCRC32="True"/>
+            <Value Name="Unknown 3"/>
+        </Element>
+        <Element>
             <Key ID="0x13834D6F" Type="enum"/>
             <Value Name="Message"/>
         </Element>
@@ -3580,6 +3608,10 @@
         <Element>
             <Key ID="0x149D7339" Type="float"/>
             <Value Name="CameraBobPeriod"/>
+        </Element>
+        <Element>
+            <Key ID="0x149E3CF2" Type="LightingMP1" NonCRC32="True"/>
+            <Value Name="Lighting"/>
         </Element>
         <Element>
             <Key ID="0x14A4DDCA" Type="Color"/>
@@ -4542,6 +4574,10 @@
             <Value Name="SalvoInterval"/>
         </Element>
         <Element>
+            <Key ID="0x19D911B1" Type="AnimSetMP1" NonCRC32="True"/>
+            <Value Name="AnimationParameters"/>
+        </Element>
+        <Element>
             <Key ID="0x19E9738B" Type="Color"/>
             <Value Name="LightAmmoDigitsUnselectedColor"/>
         </Element>
@@ -4654,8 +4690,16 @@
             <Value Name="MaxGrappleAttackDist"/>
         </Element>
         <Element>
+            <Key ID="0x1A73E2B4" Type="asset" NonCRC32="True"/>
+            <Value Name="Scan File"/>
+        </Element>
+        <Element>
             <Key ID="0x1A758434" Type="float"/>
             <Value Name="GravityDampenFactor"/>
+        </Element>
+        <Element>
+            <Key ID="0x1A759FFD" Type="float" NonCRC32="True"/>
+            <Value Name="Unk Float 3"/>
         </Element>
         <Element>
             <Key ID="0x1A75C2D0" Type="float"/>
@@ -4944,6 +4988,10 @@
         <Element>
             <Key ID="0x1B67981A" Type="float"/>
             <Value Name="AttackDelay"/>
+        </Element>
+        <Element>
+            <Key ID="0x1B68A003" Type="bool" NonCRC32="True"/>
+            <Value Name="ShowTextInsteadOfCutscene"/>
         </Element>
         <Element>
             <Key ID="0x1B7540C8" Type="asset"/>
@@ -5436,6 +5484,10 @@
         <Element>
             <Key ID="0x1E1D08F4" Type="bool"/>
             <Value Name="RiderMustBeAboveMount"/>
+        </Element>
+        <Element>
+            <Key ID="0x1E1F3DFD" Type="choice" NonCRC32="True"/>
+            <Value Name="Memo Type"/>
         </Element>
         <Element>
             <Key ID="0x1E2C8483" Type="GhostBehave"/>
@@ -6938,6 +6990,10 @@
             <Value Name="MinSpawnDelay"/>
         </Element>
         <Element>
+            <Key ID="0x2649E551" Type="float" NonCRC32="True"/>
+            <Value Name="x"/>
+        </Element>
+        <Element>
             <Key ID="0x2658958D" Type="float"/>
             <Value Name="RewardSpeed"/>
         </Element>
@@ -7622,6 +7678,10 @@
             <Value Name="AnimationTime"/>
         </Element>
         <Element>
+            <Key ID="0x2A5349E9" Type="float" NonCRC32="True"/>
+            <Value Name="B"/>
+        </Element>
+        <Element>
             <Key ID="0x2A5449BA" Type="float"/>
             <Value Name="Unknown"/>
         </Element>
@@ -8208,6 +8268,10 @@
         <Element>
             <Key ID="0x2D63B0F7" Type="SwitchBehaviorData"/>
             <Value Name="SwitchBehavior"/>
+        </Element>
+        <Element>
+            <Key ID="0x2D644844" Type="VectorMP1" NonCRC32="True"/>
+            <Value Name="Scan/Collision Offset"/>
         </Element>
         <Element>
             <Key ID="0x2D64493A" Type="float"/>
@@ -9894,6 +9958,10 @@
             <Value Name="ConfirmCopy"/>
         </Element>
         <Element>
+            <Key ID="0x36A5A738" Type="float" NonCRC32="True"/>
+            <Value Name="Unk Float 1"/>
+        </Element>
+        <Element>
             <Key ID="0x36AD9D19" Type="float"/>
             <Value Name="MoveOutofIntoPlayerDistance"/>
         </Element>
@@ -11420,6 +11488,10 @@
         <Element>
             <Key ID="0x3E9F0188" Type="float"/>
             <Value Name="MeltSpeedMax"/>
+        </Element>
+        <Element>
+            <Key ID="0x3E9F5EFF" Type="float" NonCRC32="True"/>
+            <Value Name="Spawn Delay"/>
         </Element>
         <Element>
             <Key ID="0x3EA2BED8" Type="string"/>
@@ -13742,6 +13814,10 @@
             <Value Name="DesiredAngularSpeed"/>
         </Element>
         <Element>
+            <Key ID="0x4ACA4EFA" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 8"/>
+        </Element>
+        <Element>
             <Key ID="0x4ACC5921" Type="ForestBossData"/>
             <Value Name="ForestBoss"/>
         </Element>
@@ -14674,6 +14750,10 @@
             <Value Name="ConfirmString"/>
         </Element>
         <Element>
+            <Key ID="0x4FB5E821" Type="VectorMP1" NonCRC32="True"/>
+            <Value Name="PlatformScale"/>
+        </Element>
+        <Element>
             <Key ID="0x4FB8747E" Type="float"/>
             <Value Name="Unknown"/>
         </Element>
@@ -14966,6 +15046,10 @@
             <Value Name="Choice4"/>
         </Element>
         <Element>
+            <Key ID="0x5149FC12" Type="bool" NonCRC32="True"/>
+            <Value Name="Unknown 2"/>
+        </Element>
+        <Element>
             <Key ID="0x515268E5" Type="asset"/>
             <Value Name="BubbleTelegraphEffect"/>
         </Element>
@@ -15206,6 +15290,10 @@
             <Value Name="FlyInSpline1"/>
         </Element>
         <Element>
+            <Key ID="0x528A56A5" Type="flags" NonCRC32="True"/>
+            <Value Name="Visor Flags"/>
+        </Element>
+        <Element>
             <Key ID="0x528D951E" Type="float"/>
             <Value Name="BoostBallMass"/>
         </Element>
@@ -15426,6 +15514,10 @@
             <Value Name="JapanTextPositionX"/>
         </Element>
         <Element>
+            <Key ID="0x53B5754B" Type="float" NonCRC32="True"/>
+            <Value Name="UnkFloat1"/>
+        </Element>
+        <Element>
             <Key ID="0x53C1D089" Type="float"/>
             <Value Name="CameraSequenceDuration"/>
         </Element>
@@ -15476,6 +15568,10 @@
         <Element>
             <Key ID="0x5405F708" Type="asset"/>
             <Value Name="AttachModel"/>
+        </Element>
+        <Element>
+            <Key ID="0x5407BB23" Type="asset" NonCRC32="True"/>
+            <Value Name="Sound"/>
         </Element>
         <Element>
             <Key ID="0x5409B2BE" Type="bool"/>
@@ -15684,6 +15780,10 @@
         <Element>
             <Key ID="0x55578CFC" Type="SandwormAttackSequence"/>
             <Value Name="BombBossAttackSequence3"/>
+        </Element>
+        <Element>
+            <Key ID="0x5558F09D" Type="float" NonCRC32="True"/>
+            <Value Name="CharFadeInTime"/>
         </Element>
         <Element>
             <Key ID="0x555B055E" Type="ReverbProperties"/>
@@ -15992,6 +16092,10 @@
         <Element>
             <Key ID="0x56C48141" Type="BeastRiderData"/>
             <Value Name="BeastRiderProperties"/>
+        </Element>
+        <Element>
+            <Key ID="0x56E17395" Type="int" NonCRC32="True"/>
+            <Value Name="Unk Int 3"/>
         </Element>
         <Element>
             <Key ID="0x56E3CEEF" Type="float"/>
@@ -17850,6 +17954,10 @@
             <Value Name="UseBalloon"/>
         </Element>
         <Element>
+            <Key ID="0x61B39963" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 10"/>
+        </Element>
+        <Element>
             <Key ID="0x61C4C0EA" Type="float"/>
             <Value Name="TauntInterval"/>
         </Element>
@@ -17928,6 +18036,10 @@
         <Element>
             <Key ID="0x6248AA06" Type="int"/>
             <Value Name="MaxSplashes"/>
+        </Element>
+        <Element>
+            <Key ID="0x6251CCA7" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 4"/>
         </Element>
         <Element>
             <Key ID="0x625F214B" Type="float"/>
@@ -19182,6 +19294,10 @@
             <Value Name="NonSolid"/>
         </Element>
         <Element>
+            <Key ID="0x68F9D4B6" Type="ActorInformationMP1" NonCRC32="True"/>
+            <Value Name="Actor Info"/>
+        </Element>
+        <Element>
             <Key ID="0x68FD49AE" Type="AnimGridModifierData"/>
             <Value Name="AnimGrid"/>
         </Element>
@@ -19538,6 +19654,10 @@
             <Value Name="IceModel"/>
         </Element>
         <Element>
+            <Key ID="0x6AD8955D" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 9"/>
+        </Element>
+        <Element>
             <Key ID="0x6ADE8B91" Type="CharacterAnimationSet"/>
             <Value Name="WeldingTip"/>
         </Element>
@@ -19560,6 +19680,10 @@
         <Element>
             <Key ID="0x6AE6F0EB" Type="animation"/>
             <Value Name="Animation_Anim3"/>
+        </Element>
+        <Element>
+            <Key ID="0x6AEAEE72" Type="AnimSetMP1" NonCRC32="True"/>
+            <Value Name="AnimationInformation"/>
         </Element>
         <Element>
             <Key ID="0x6AF2871B" Type="float"/>
@@ -20598,6 +20722,10 @@
             <Value Name="PalmSwipe"/>
         </Element>
         <Element>
+            <Key ID="0x70E39EC6" Type="VectorMP1" NonCRC32="True"/>
+            <Value Name="Collision Scale"/>
+        </Element>
+        <Element>
             <Key ID="0x70E597D4" Type="float"/>
             <Value Name="StrafeNormalRezInterval"/>
         </Element>
@@ -20608,6 +20736,10 @@
         <Element>
             <Key ID="0x70E97166" Type="asset"/>
             <Value Name="MissileProjectile"/>
+        </Element>
+        <Element>
+            <Key ID="0x70F8474B" Type="int" NonCRC32="True"/>
+            <Value Name="Unk Int 1"/>
         </Element>
         <Element>
             <Key ID="0x70FDFCC4" Type="bool"/>
@@ -21210,6 +21342,10 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
+            <Key ID="0x74822F37" Type="asset" NonCRC32="True"/>
+            <Value Name="Unk GUID 4"/>
+        </Element>
+        <Element>
             <Key ID="0x748E43FB" Type="float"/>
             <Value Name="Randomness"/>
         </Element>
@@ -21594,6 +21730,10 @@
             <Value Name="MaxBeamSoundPercent"/>
         </Element>
         <Element>
+            <Key ID="0x76BE91D5" Type="int" NonCRC32="True"/>
+            <Value Name="Capacity"/>
+        </Element>
+        <Element>
             <Key ID="0x76BEA905" Type="TrainTrackManagerSequenceInstData"/>
             <Value Name="U"/>
         </Element>
@@ -21648,6 +21788,10 @@
         <Element>
             <Key ID="0x76FAF77E" Type="choice"/>
             <Value Name="EnviroVisor"/>
+        </Element>
+        <Element>
+            <Key ID="0x77066D1B" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 2"/>
         </Element>
         <Element>
             <Key ID="0x770BCD3B" Type="asset"/>
@@ -23006,6 +23150,10 @@
             <Value Name="GridAnimData"/>
         </Element>
         <Element>
+            <Key ID="0x7E405EE2" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 3"/>
+        </Element>
+        <Element>
             <Key ID="0x7E4359D1" Type="int"/>
             <Value Name="NumSubdivisions"/>
         </Element>
@@ -23170,6 +23318,10 @@
             <Value Name="IsMorphTarget"/>
         </Element>
         <Element>
+            <Key ID="0x7F2AAF7D" Type="float" NonCRC32="True"/>
+            <Value Name="Life Time"/>
+        </Element>
+        <Element>
             <Key ID="0x7F30924C" Type="float"/>
             <Value Name="MaxLength"/>
         </Element>
@@ -23256,6 +23408,10 @@
         <Element>
             <Key ID="0x7F8C4C69" Type="float"/>
             <Value Name="BodyDamageMultiplier"/>
+        </Element>
+        <Element>
+            <Key ID="0x7F9499B2" Type="float" NonCRC32="True"/>
+            <Value Name="z"/>
         </Element>
         <Element>
             <Key ID="0x7F96D93C" Type="characteranimation"/>
@@ -23384,6 +23540,10 @@
         <Element>
             <Key ID="0x80279E8A" Type="Color"/>
             <Value Name="LockedOnIndicatorSlot3Color"/>
+        </Element>
+        <Element>
+            <Key ID="0x802A053A" Type="asset" NonCRC32="True"/>
+            <Value Name="Unk GUID 3"/>
         </Element>
         <Element>
             <Key ID="0x802B706E" Type="float"/>
@@ -23882,6 +24042,10 @@
             <Value Name="SwingDelayDifferent"/>
         </Element>
         <Element>
+            <Key ID="0x82955270" Type="int" NonCRC32="True"/>
+            <Value Name="Volume"/>
+        </Element>
+        <Element>
             <Key ID="0x8299E96E" Type="float"/>
             <Value Name="JumpTargetPossibleSecondaryColorBlue"/>
         </Element>
@@ -23952,6 +24116,10 @@
         <Element>
             <Key ID="0x82EE63C8" Type="asset"/>
             <Value Name="WheelTumbleWorldCollision"/>
+        </Element>
+        <Element>
+            <Key ID="0x82F75015" Type="bool" NonCRC32="True"/>
+            <Value Name="Unknown 1"/>
         </Element>
         <Element>
             <Key ID="0x83040135" Type="Color"/>
@@ -24032,6 +24200,10 @@
         <Element>
             <Key ID="0x838A75A4" Type="float"/>
             <Value Name="PowerDownTime"/>
+        </Element>
+        <Element>
+            <Key ID="0x838C35FF" Type="int" NonCRC32="True"/>
+            <Value Name="Pan"/>
         </Element>
         <Element>
             <Key ID="0x838EE838" Type="DefenseMechanoidData"/>
@@ -24340,6 +24512,10 @@
         <Element>
             <Key ID="0x852D3BB0" Type="float"/>
             <Value Name="BabyMetroidEnergySourceCheckTimeInterval"/>
+        </Element>
+        <Element>
+            <Key ID="0x853F438A" Type="VectorMP1" NonCRC32="True"/>
+            <Value Name="Unk Vec 3"/>
         </Element>
         <Element>
             <Key ID="0x85437C89" Type="float"/>
@@ -24764,6 +24940,10 @@
         <Element>
             <Key ID="0x87B52F4C" Type="asset"/>
             <Value Name="RewardModel"/>
+        </Element>
+        <Element>
+            <Key ID="0x87C03A01" Type="pooledstring" NonCRC32="True"/>
+            <Value Name="str2"/>
         </Element>
         <Element>
             <Key ID="0x87C20643" Type="float"/>
@@ -25226,6 +25406,10 @@
             <Value Name="UseTimeToCompleteBlock"/>
         </Element>
         <Element>
+            <Key ID="0x8A410818" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 1"/>
+        </Element>
+        <Element>
             <Key ID="0x8A4C3F96" Type="VolcanoBossGridAnimSetData"/>
             <Value Name="HandSwipe"/>
         </Element>
@@ -25268,6 +25452,10 @@
         <Element>
             <Key ID="0x8A764463" Type="int"/>
             <Value Name="Pitch"/>
+        </Element>
+        <Element>
+            <Key ID="0x8A7AFF22" Type="float" NonCRC32="True"/>
+            <Value Name="G"/>
         </Element>
         <Element>
             <Key ID="0x8A7B245F" Type="float"/>
@@ -26282,6 +26470,10 @@
             <Value Name="OutputL"/>
         </Element>
         <Element>
+            <Key ID="0x90075D55" Type="float" NonCRC32="True"/>
+            <Value Name="Unk Float 2"/>
+        </Element>
+        <Element>
             <Key ID="0x900A62F6" Type="float"/>
             <Value Name="HungryPhaseOutChanceRegen"/>
         </Element>
@@ -26560,6 +26752,10 @@
         <Element>
             <Key ID="0x919D7DE0" Type="choice"/>
             <Value Name="GunToggleHolster"/>
+        </Element>
+        <Element>
+            <Key ID="0x91A53221" Type="asset" NonCRC32="True"/>
+            <Value Name="Unk GUID"/>
         </Element>
         <Element>
             <Key ID="0x91A9880D" Type="float"/>
@@ -27158,6 +27354,10 @@
             <Value Name="PanVariance"/>
         </Element>
         <Element>
+            <Key ID="0x952E3BAD" Type="bool" NonCRC32="True"/>
+            <Value Name="UnkBool2"/>
+        </Element>
+        <Element>
             <Key ID="0x95371A32" Type="SandBossStampedeData"/>
             <Value Name="StampedeProperties"/>
         </Element>
@@ -27614,6 +27814,10 @@
             <Value Name="DrawsShadow"/>
         </Element>
         <Element>
+            <Key ID="0x977347D4" Type="float" NonCRC32="True"/>
+            <Value Name="UnkFloat2"/>
+        </Element>
+        <Element>
             <Key ID="0x9774749D" Type="float"/>
             <Value Name="AimMaxAngleDown"/>
         </Element>
@@ -27740,6 +27944,10 @@
         <Element>
             <Key ID="0x980A75B6" Type="float"/>
             <Value Name="Unknown"/>
+        </Element>
+        <Element>
+            <Key ID="0x980B33E8" Type="asset" NonCRC32="True"/>
+            <Value Name="Text"/>
         </Element>
         <Element>
             <Key ID="0x980C9FDC" Type="float"/>
@@ -28124,6 +28332,10 @@
         <Element>
             <Key ID="0x9A5EBA1C" Type="float"/>
             <Value Name="AdvancedRotationalAccelLava"/>
+        </Element>
+        <Element>
+            <Key ID="0x9A5FFB6C" Type="asset" NonCRC32="True"/>
+            <Value Name="Area"/>
         </Element>
         <Element>
             <Key ID="0x9A6210D3" Type="bool"/>
@@ -28532,6 +28744,10 @@
         <Element>
             <Key ID="0x9CA8F357" Type="float"/>
             <Value Name="JetPackFlameSpeedMin"/>
+        </Element>
+        <Element>
+            <Key ID="0x9CAF8D12" Type="int" NonCRC32="True"/>
+            <Value Name="Unk Int 2"/>
         </Element>
         <Element>
             <Key ID="0x9CAFFE7B" Type="ModalParameters"/>
@@ -29020,6 +29236,10 @@
         <Element>
             <Key ID="0x9FD338FC" Type="Color"/>
             <Value Name="OuterColor"/>
+        </Element>
+        <Element>
+            <Key ID="0x9FDBD2F6" Type="int" NonCRC32="True"/>
+            <Value Name="Amount"/>
         </Element>
         <Element>
             <Key ID="0x9FDF211A" Type="float"/>
@@ -30090,6 +30310,10 @@
             <Value Name="HeartExposedTime"/>
         </Element>
         <Element>
+            <Key ID="0xA589D885" Type="asset" NonCRC32="True"/>
+            <Value Name="id"/>
+        </Element>
+        <Element>
             <Key ID="0xA58CE476" Type="float"/>
             <Value Name="FixedDelay4"/>
         </Element>
@@ -30232,6 +30456,10 @@
         <Element>
             <Key ID="0xA681D655" Type="GraphicalTransitionTexture"/>
             <Value Name="BlackScreen"/>
+        </Element>
+        <Element>
+            <Key ID="0xA6931C09" Type="bool" NonCRC32="True"/>
+            <Value Name="UnkBool1"/>
         </Element>
         <Element>
             <Key ID="0xA6938C8E" Type="float"/>
@@ -30538,6 +30766,10 @@
             <Value Name="MaxGroundPoundDistance"/>
         </Element>
         <Element>
+            <Key ID="0xA7B31F8E" Type="asset" NonCRC32="True"/>
+            <Value Name="Platform"/>
+        </Element>
+        <Element>
             <Key ID="0xA7BDC4F8" Type="float"/>
             <Value Name="MaxTimeEntangled"/>
         </Element>
@@ -30780,6 +31012,10 @@
         <Element>
             <Key ID="0xA934D6F4" Type="float"/>
             <Value Name="AttachPositionDepthMin"/>
+        </Element>
+        <Element>
+            <Key ID="0xA936D90D" Type="float" NonCRC32="True"/>
+            <Value Name="DelayBeforeShow"/>
         </Element>
         <Element>
             <Key ID="0xA938BF39" Type="Color"/>
@@ -31184,6 +31420,10 @@
         <Element>
             <Key ID="0xAB67D302" Type="float"/>
             <Value Name="SideScrollerSpeed"/>
+        </Element>
+        <Element>
+            <Key ID="0xAB68F7A7" Type="asset" NonCRC32="True"/>
+            <Value Name="Unk GUID 2"/>
         </Element>
         <Element>
             <Key ID="0xAB783F75" Type="asset"/>
@@ -31970,6 +32210,10 @@
             <Value Name="DarkShieldPop"/>
         </Element>
         <Element>
+            <Key ID="0xAF510B78" Type="VisorMP1" NonCRC32="True"/>
+            <Value Name="Visor"/>
+        </Element>
+        <Element>
             <Key ID="0xAF57FA7C" Type="Color"/>
             <Value Name="HelmetBaseAmbientColorDarkDarkWorld"/>
         </Element>
@@ -32456,6 +32700,10 @@
         <Element>
             <Key ID="0xB21E67C8" Type="bool"/>
             <Value Name="GetMaxZoomFromZoomSpline"/>
+        </Element>
+        <Element>
+            <Key ID="0xB222556A" Type="int" NonCRC32="True"/>
+            <Value Name="Water Sort Type"/>
         </Element>
         <Element>
             <Key ID="0xB22F0DD3" Type="float"/>
@@ -33678,6 +33926,10 @@
             <Value Name="BombBossAttackSequence1"/>
         </Element>
         <Element>
+            <Key ID="0xB8D54E2C" Type="pooledstring" NonCRC32="True"/>
+            <Value Name="UnkStr"/>
+        </Element>
+        <Element>
             <Key ID="0xB8D62DDF" Type="float"/>
             <Value Name="MaximumBeamTime"/>
         </Element>
@@ -33918,6 +34170,10 @@
             <Value Name="DeathEffect3Scale"/>
         </Element>
         <Element>
+            <Key ID="0xBA38A80B" Type="MapInfoMP1" NonCRC32="True"/>
+            <Value Name="Map Info"/>
+        </Element>
+        <Element>
             <Key ID="0xBA3EF7EA" Type="float"/>
             <Value Name="Unknown"/>
         </Element>
@@ -33984,6 +34240,10 @@
         <Element>
             <Key ID="0xBA84F23E" Type="SpinnerData"/>
             <Value Name="SpinnerData"/>
+        </Element>
+        <Element>
+            <Key ID="0xBA89B4E8" Type="int" NonCRC32="True"/>
+            <Value Name="Unk Int"/>
         </Element>
         <Element>
             <Key ID="0xBA8CB0F2" Type="float"/>
@@ -34108,6 +34368,10 @@
         <Element>
             <Key ID="0xBB38D077" Type="float"/>
             <Value Name="AttractionDistance"/>
+        </Element>
+        <Element>
+            <Key ID="0xBB3AE62A" Type="VectorMP1" NonCRC32="True"/>
+            <Value Name="ShaftScale"/>
         </Element>
         <Element>
             <Key ID="0xBB3C2629" Type="float"/>
@@ -34466,6 +34730,10 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
+            <Key ID="0xBCE29CB3" Type="asset" NonCRC32="True"/>
+            <Value Name="GUID 1"/>
+        </Element>
+        <Element>
             <Key ID="0xBCE8171C" Type="RevolutionControl"/>
             <Value Name="Core_BeatLeft"/>
         </Element>
@@ -34536,6 +34804,10 @@
         <Element>
             <Key ID="0xBD71AD8B" Type="bool"/>
             <Value Name="IdleAtStart"/>
+        </Element>
+        <Element>
+            <Key ID="0xBD71E2F2" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 1"/>
         </Element>
         <Element>
             <Key ID="0xBD735F69" Type="float"/>
@@ -35432,6 +35704,10 @@
         <Element>
             <Key ID="0xC2515A84" Type="asset"/>
             <Value Name="CrouchInput"/>
+        </Element>
+        <Element>
+            <Key ID="0xC2536679" Type="VectorMP1" NonCRC32="True"/>
+            <Value Name="PlayerScale"/>
         </Element>
         <Element>
             <Key ID="0xC25DC1B8" Type="float"/>
@@ -36474,6 +36750,10 @@
             <Value Name="ChewDamageOnSpitOutDelayTime"/>
         </Element>
         <Element>
+            <Key ID="0xC79794EE" Type="PlayerItem" NonCRC32="True"/>
+            <Value Name="Item"/>
+        </Element>
+        <Element>
             <Key ID="0xC79AA0C6" Type="FramingRules"/>
             <Value Name="FramingRules"/>
         </Element>
@@ -36500,6 +36780,10 @@
         <Element>
             <Key ID="0xC7B1DD81" Type="ShipDecalSwapPair"/>
             <Value Name="WiiPlay"/>
+        </Element>
+        <Element>
+            <Key ID="0xC7B23A2C" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 7"/>
         </Element>
         <Element>
             <Key ID="0xC7B46B16" Type="CollisionContactData"/>
@@ -36660,6 +36944,10 @@
         <Element>
             <Key ID="0xC8B7DBD5" Type="asset"/>
             <Value Name="AddDrop"/>
+        </Element>
+        <Element>
+            <Key ID="0xC8BA5DC9" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 6"/>
         </Element>
         <Element>
             <Key ID="0xC8CD5CDC" Type="int"/>
@@ -38570,6 +38858,10 @@
             <Value Name="HoldLocator"/>
         </Element>
         <Element>
+            <Key ID="0xD2BB5BC6" Type="float" NonCRC32="True"/>
+            <Value Name="y"/>
+        </Element>
+        <Element>
             <Key ID="0xD2BE3AF7" Type="asset"/>
             <Value Name="Sound_ElectricityHitsWall"/>
         </Element>
@@ -38950,6 +39242,10 @@
             <Value Name="ProjectileInterval"/>
         </Element>
         <Element>
+            <Key ID="0xD49A517F" Type="asset" NonCRC32="True"/>
+            <Value Name="World"/>
+        </Element>
+        <Element>
             <Key ID="0xD49BEC5A" Type="float"/>
             <Value Name="DeathWithdrawAnimSpeed"/>
         </Element>
@@ -39306,6 +39602,10 @@
             <Value Name="Splash_Big"/>
         </Element>
         <Element>
+            <Key ID="0xD6F0C0F0" Type="pooledstring" NonCRC32="True"/>
+            <Value Name="str1"/>
+        </Element>
+        <Element>
             <Key ID="0xD6F71BB3" Type="int"/>
             <Value Name="MinBounces"/>
         </Element>
@@ -39416,6 +39716,10 @@
         <Element>
             <Key ID="0xD7732923" Type="DamageVulnerability"/>
             <Value Name="BuriedVulnerability"/>
+        </Element>
+        <Element>
+            <Key ID="0xD786D118" Type="asset" NonCRC32="True"/>
+            <Value Name="GUID 1"/>
         </Element>
         <Element>
             <Key ID="0xD78A4B1F" Type="RetronomeMessageAnimationList"/>
@@ -40214,6 +40518,10 @@
             <Value Name="Unknown"/>
         </Element>
         <Element>
+            <Key ID="0xDC35E803" Type="float" NonCRC32="True"/>
+            <Value Name="UnkFloat3"/>
+        </Element>
+        <Element>
             <Key ID="0xDC36E745" Type="float"/>
             <Value Name="DodgeCheck"/>
         </Element>
@@ -40568,6 +40876,10 @@
         <Element>
             <Key ID="0xDE513312" Type="float"/>
             <Value Name="ColorPercent"/>
+        </Element>
+        <Element>
+            <Key ID="0xDE5135DD" Type="float" NonCRC32="True"/>
+            <Value Name="Unk Float 4"/>
         </Element>
         <Element>
             <Key ID="0xDE56521D" Type="bool"/>
@@ -41330,6 +41642,10 @@
             <Value Name="NormalMovementParameters"/>
         </Element>
         <Element>
+            <Key ID="0xE2A07D8E" Type="asset" NonCRC32="True"/>
+            <Value Name="GUID 2"/>
+        </Element>
+        <Element>
             <Key ID="0xE2A0B6F1" Type="float"/>
             <Value Name="CameraBobExtentX"/>
         </Element>
@@ -41492,6 +41808,10 @@
         <Element>
             <Key ID="0xE35ED218" Type="float"/>
             <Value Name="JettisonLineScaleSpeed"/>
+        </Element>
+        <Element>
+            <Key ID="0xE364C93A" Type="float" NonCRC32="True"/>
+            <Value Name="A"/>
         </Element>
         <Element>
             <Key ID="0xE36C178F" Type="float"/>
@@ -41800,6 +42120,10 @@
         <Element>
             <Key ID="0xE50CDA52" Type="Color"/>
             <Value Name="PhazonHyperModeVulnerableBackgroundColorPhaaze"/>
+        </Element>
+        <Element>
+            <Key ID="0xE50D083C" Type="ScannableMP1" NonCRC32="True"/>
+            <Value Name="Scannable"/>
         </Element>
         <Element>
             <Key ID="0xE50D8DD2" Type="float"/>
@@ -42208,6 +42532,10 @@
         <Element>
             <Key ID="0xE73B9EB0" Type="bool"/>
             <Value Name="CollideWithAiBlock"/>
+        </Element>
+        <Element>
+            <Key ID="0xE73CC9CF" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 1"/>
         </Element>
         <Element>
             <Key ID="0xE73F123D" Type="bool"/>
@@ -43726,6 +44054,10 @@
             <Value Name="Sound_Splash_Small"/>
         </Element>
         <Element>
+            <Key ID="0xEEFC68E9" Type="float" NonCRC32="True"/>
+            <Value Name="CharsPerSecond"/>
+        </Element>
+        <Element>
             <Key ID="0xEF19BA33" Type="float"/>
             <Value Name="ViewWanderRollVariation"/>
         </Element>
@@ -43828,6 +44160,10 @@
         <Element>
             <Key ID="0xEF90F09D" Type="Vector"/>
             <Value Name="PositionOffset"/>
+        </Element>
+        <Element>
+            <Key ID="0xEF930F2B" Type="float" NonCRC32="True"/>
+            <Value Name="Fade Length"/>
         </Element>
         <Element>
             <Key ID="0xEFA0624E" Type="bool"/>
@@ -44318,6 +44654,10 @@
             <Value Name="BallCameraChaseDistance"/>
         </Element>
         <Element>
+            <Key ID="0xF2165C6E" Type="bool" NonCRC32="True"/>
+            <Value Name="Unk Bool 2"/>
+        </Element>
+        <Element>
             <Key ID="0xF223AA76" Type="IngSpaceJumpGuardianStruct"/>
             <Value Name="IngSpaceJumpGuardianStruct"/>
         </Element>
@@ -44664,6 +45004,10 @@
         <Element>
             <Key ID="0xF41A57E6" Type="float"/>
             <Value Name="KillThreshold"/>
+        </Element>
+        <Element>
+            <Key ID="0xF429B4D0" Type="int" NonCRC32="True"/>
+            <Value Name="Unk Int 1"/>
         </Element>
         <Element>
             <Key ID="0xF4379CF4" Type="Color"/>
@@ -46448,6 +46792,10 @@
         <Element>
             <Key ID="0xFCECF744" Type="int"/>
             <Value Name="DarkBeamAmmo"/>
+        </Element>
+        <Element>
+            <Key ID="0xFCF349D2" Type="float" NonCRC32="True"/>
+            <Value Name="Drop Rate"/>
         </Element>
         <Element>
             <Key ID="0xFCF4AAB0" Type="float"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="PrimeRemaster">
+<PropertyTemplate ArchiveVer="4" Game="PrimeRemastered">
     <PropertyArchetype Type="Struct">
-        <Name>LightingMP1</Name>
+        <Name>Vector3f</Name>
         <Atomic>true</Atomic>
         <SubProperties>
             <Element Type="Float" ID="0x0" Name="x" />

@@ -1,25 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="PrimeRemaster">
+<PropertyTemplate ArchiveVer="4" Game="PrimeRemastered">
     <PropertyArchetype Type="Struct">
         <Name>VisorMP1</Name>
         <SubProperties>
             <Element Type="Bool" ID="0x82f75015">
-                <Name>Unknown 1</Name>
                 <DefaultValue>false</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
             <Element Type="Bool" ID="0x5149fc12">
-                <Name>Unknown 2</Name>
                 <DefaultValue>false</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
             <Element Type="Bool" ID="0x1382ca50">
-                <Name>Unknown 3</Name>
                 <DefaultValue>false</DefaultValue>
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
             <Element Type="Flags" ID="0x528a56a5">
-                <Name>Visor Flags</Name>
                 <Flags>
                     <Element Name="Combat" Mask="0x1"/>
                     <Element Name="Scan" Mask="0x2"/>

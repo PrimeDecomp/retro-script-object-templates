@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PropertyTemplate ArchiveVer="4" Game="PrimeRemaster">
+<PropertyTemplate ArchiveVer="4" Game="PrimeRemastered">
     <PropertyArchetype Type="Struct">
         <Name>ScannableMP1</Name>
         <SubProperties>
             <Element Type="Asset" ID="0x1a73e2b4">
-                <Name>Scan File</Name>
                 <TypeFilter>
                     <Element>SCAN</Element>
                 </TypeFilter>
             </Element>
-            <Element Type="Bool" ID="0x05264039" Name="Unk Bool">
+            <Element Type="Bool" ID="0x05264039">
                 <CookPreference>OnlyIfModified</CookPreference>
             </Element>
         </SubProperties>
