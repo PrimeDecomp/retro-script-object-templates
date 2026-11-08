@@ -4,8 +4,12 @@
         <Name>EntityProperties</Name>
         <Atomic>true</Atomic>
         <SubProperties>
-            <Element Type="Bool" ID="0x0" Name="Unk Bool 1" />
-            <Element Type="Bool" ID="0x1" Name="Unk Bool 2" />
+            <Element Type="Bool" ID="0x0" Name="Active">
+                <DefaultValue>true</DefaultValue>
+            </Element>
+            <Element Type="Bool" ID="0x1" Name="Unk Bool 2">
+                <DefaultValue>false</DefaultValue>
+            </Element>
             <Element Type="Struct" ID="0x2" Archetype="Vector3f" Name="Position" />
             <Element Type="Struct" ID="0x3" Archetype="Vector3f" Name="Rotation" />
             <Element Type="Struct" ID="0x4" Archetype="Vector3f" Name="Scale" />
