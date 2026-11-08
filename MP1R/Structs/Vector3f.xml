@@ -4,9 +4,9 @@
         <Name>Vector3f</Name>
         <Atomic>true</Atomic>
         <SubProperties>
-            <Element Type="Float" ID="0x0" />
-            <Element Type="Float" ID="0x1" />
-            <Element Type="Float" ID="0x2" />
+            <Element Type="Float" ID="0x0" Name="x" />
+            <Element Type="Float" ID="0x1" Name="y" />
+            <Element Type="Float" ID="0x2" Name="z" />
         </SubProperties>
     </PropertyArchetype>
 </PropertyTemplate>

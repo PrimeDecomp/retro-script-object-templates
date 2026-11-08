@@ -2,38 +2,6 @@
 <PropertyMap ArchiveVer="4">
     <PropertyMap>
         <Element>
-            <Key ID="0x0" Type="bool" NonCRC32="True"/>
-            <Value Name="Unk Bool 1"/>
-        </Element>
-        <Element>
-            <Key ID="0x0" Type="float" NonCRC32="True"/>
-            <Value Name="x"/>
-        </Element>
-        <Element>
-            <Key ID="0x1" Type="bool" NonCRC32="True"/>
-            <Value Name="Unk Bool 2"/>
-        </Element>
-        <Element>
-            <Key ID="0x1" Type="float" NonCRC32="True"/>
-            <Value Name="y"/>
-        </Element>
-        <Element>
-            <Key ID="0x2" Type="float" NonCRC32="True"/>
-            <Value Name="z"/>
-        </Element>
-        <Element>
-            <Key ID="0x2" Type="Vector3f" NonCRC32="True"/>
-            <Value Name="Position"/>
-        </Element>
-        <Element>
-            <Key ID="0x3" Type="Vector3f" NonCRC32="True"/>
-            <Value Name="Rotation"/>
-        </Element>
-        <Element>
-            <Key ID="0x4" Type="Vector3f" NonCRC32="True"/>
-            <Value Name="Scale"/>
-        </Element>
-        <Element>
             <Key ID="0x1F679" Type="RevolutionControl"/>
             <Value Name="MapMoveBackward"/>
         </Element>
