@@ -815,7 +815,7 @@
         </Element>
         <Element>
             <Key ID="0x4721A06" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage3MissileHatchOpenScale"/>
         </Element>
         <Element>
             <Key ID="0x479C95B" Type="float"/>
@@ -1499,7 +1499,7 @@
         </Element>
         <Element>
             <Key ID="0x8730E2C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxNextPulseTimeLowHealth"/>
         </Element>
         <Element>
             <Key ID="0x8772297" Type="float"/>
@@ -1711,7 +1711,7 @@
         </Element>
         <Element>
             <Key ID="0x9C6CA10" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="UnderwaterFogGravSuitFactor"/>
         </Element>
         <Element>
             <Key ID="0x9C8DB87" Type="asset"/>
@@ -1899,7 +1899,7 @@
         </Element>
         <Element>
             <Key ID="0xAF428B4" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MovementSpeedOnReset"/>
         </Element>
         <Element>
             <Key ID="0xAF707DF" Type="asset"/>
@@ -2143,7 +2143,7 @@
         </Element>
         <Element>
             <Key ID="0xC7A95FF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxChaseTimeToTaunt"/>
         </Element>
         <Element>
             <Key ID="0xC7B243D" Type="MetroidPhazeoidStruct"/>
@@ -4731,7 +4731,7 @@
         </Element>
         <Element>
             <Key ID="0x1A8DBEA7" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="GrappleTotalTimeToComplete"/>
         </Element>
         <Element>
             <Key ID="0x1A8DC454" Type="float"/>
@@ -10983,7 +10983,7 @@
         </Element>
         <Element>
             <Key ID="0x3C2D681E" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="EnterHostMoldEffect"/>
         </Element>
         <Element>
             <Key ID="0x3C327181" Type="float"/>
@@ -12187,7 +12187,7 @@
         </Element>
         <Element>
             <Key ID="0x426F2F60" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ZipDistanceBelow"/>
         </Element>
         <Element>
             <Key ID="0x42774887" Type="float"/>
@@ -13631,7 +13631,7 @@
         </Element>
         <Element>
             <Key ID="0x4A02103C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="UnderwaterFogNoGravSuitDist"/>
         </Element>
         <Element>
             <Key ID="0x4A033475" Type="OceanBridgeSoundSelect"/>
@@ -15367,7 +15367,7 @@
         </Element>
         <Element>
             <Key ID="0x530ECF07" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JointTargetAlphaDeltaMultiplier"/>
         </Element>
         <Element>
             <Key ID="0x5318357D" Type="bool"/>
@@ -15499,7 +15499,7 @@
         </Element>
         <Element>
             <Key ID="0x538D71CB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage2UpperHealth"/>
         </Element>
         <Element>
             <Key ID="0x53963A68" Type="CharacterAnimationSet"/>
@@ -16479,7 +16479,7 @@
         </Element>
         <Element>
             <Key ID="0x592FC47E" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ShouldExcludeShadows"/>
         </Element>
         <Element>
             <Key ID="0x59412843" Type="float"/>
@@ -16891,7 +16891,7 @@
         </Element>
         <Element>
             <Key ID="0x5BBBE79E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ZipDistanceBehind"/>
         </Element>
         <Element>
             <Key ID="0x5BBDBC45" Type="float"/>
@@ -19695,7 +19695,7 @@
         </Element>
         <Element>
             <Key ID="0x6AFE0147" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage2MissileHatchOpenScale"/>
         </Element>
         <Element>
             <Key ID="0x6B01100C" Type="StaticGeometryTest"/>
@@ -19775,7 +19775,7 @@
         </Element>
         <Element>
             <Key ID="0x6B7E5F47" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage3CameraHatchOpenScale"/>
         </Element>
         <Element>
             <Key ID="0x6B9F6B7C" Type="CreditsData"/>
@@ -22242,8 +22242,8 @@
             <Value Name="Sound_SpiderballFastRolling"/>
         </Element>
         <Element>
-            <Key ID="0x7971E068" Type="UnknownStruct48"/>
-            <Value Name="UnknownStruct48"/>
+            <Key ID="0x7971E068" Type="NightBarbSwarmData"/>
+            <Value Name="NightBarbSwarmProperties"/>
         </Element>
         <Element>
             <Key ID="0x7975982C" Type="float"/>
@@ -23295,7 +23295,7 @@
         </Element>
         <Element>
             <Key ID="0x7F1279E1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="StopTestMinTimePaused"/>
         </Element>
         <Element>
             <Key ID="0x7F127AEA" Type="float"/>
@@ -23711,7 +23711,7 @@
         </Element>
         <Element>
             <Key ID="0x80C6880F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JumpShotHoverTime"/>
         </Element>
         <Element>
             <Key ID="0x80C6A38D" Type="AnimationSet"/>
@@ -24303,7 +24303,7 @@
         </Element>
         <Element>
             <Key ID="0x84368D03" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="WorldCollisionCubeSize"/>
         </Element>
         <Element>
             <Key ID="0x844AB6B0" Type="Color"/>
@@ -24811,7 +24811,7 @@
         </Element>
         <Element>
             <Key ID="0x86EC276A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DashMouthCollisionRadius"/>
         </Element>
         <Element>
             <Key ID="0x86FB5A9B" Type="bool"/>
@@ -25195,7 +25195,7 @@
         </Element>
         <Element>
             <Key ID="0x8922AF69" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="HUDDefaultY"/>
         </Element>
         <Element>
             <Key ID="0x8927B141" Type="Vector"/>
@@ -25467,7 +25467,7 @@
         </Element>
         <Element>
             <Key ID="0x8A821FEE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TargetingStartY"/>
         </Element>
         <Element>
             <Key ID="0x8A834618" Type="float"/>
@@ -25787,7 +25787,7 @@
         </Element>
         <Element>
             <Key ID="0x8C63F9D0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage2CameraHatchOpenScale"/>
         </Element>
         <Element>
             <Key ID="0x8C6A34AD" Type="OceanBridgeModelSelect"/>
@@ -25875,7 +25875,7 @@
         </Element>
         <Element>
             <Key ID="0x8CE1176E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ModelBoxPadding"/>
         </Element>
         <Element>
             <Key ID="0x8CE161CB" Type="enum"/>
@@ -26159,7 +26159,7 @@
         </Element>
         <Element>
             <Key ID="0x8E55276E" Type="Vector"/>
-            <Value Name="Unknown"/>
+            <Value Name="FixedBounceVelocity"/>
         </Element>
         <Element>
             <Key ID="0x8E5F1638" Type="float"/>
@@ -26407,7 +26407,7 @@
         </Element>
         <Element>
             <Key ID="0x8F922C1C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxVelocityTowardSpline"/>
         </Element>
         <Element>
             <Key ID="0x8F9A085F" Type="float"/>
@@ -26519,7 +26519,7 @@
         </Element>
         <Element>
             <Key ID="0x905063F4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="HasTwoHandOrbGrab"/>
         </Element>
         <Element>
             <Key ID="0x905289AC" Type="SpindlePositionInterpolant"/>
@@ -27951,7 +27951,7 @@
         </Element>
         <Element>
             <Key ID="0x980C9FDC" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DashDistancePastPlayer"/>
         </Element>
         <Element>
             <Key ID="0x980D701A" Type="float"/>
@@ -28063,7 +28063,7 @@
         </Element>
         <Element>
             <Key ID="0x9888C19C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="StopTestBufferDist"/>
         </Element>
         <Element>
             <Key ID="0x98A3ECA5" Type="float" NonCRC32="True"/>
@@ -28459,7 +28459,7 @@
         </Element>
         <Element>
             <Key ID="0x9AF26C4E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="SafeHopRadius"/>
         </Element>
         <Element>
             <Key ID="0x9AF3FD16" Type="bool"/>
@@ -28563,7 +28563,7 @@
         </Element>
         <Element>
             <Key ID="0x9B970087" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="HUDDefaultZ"/>
         </Element>
         <Element>
             <Key ID="0x9B980788" Type="float"/>
@@ -29395,7 +29395,7 @@
         </Element>
         <Element>
             <Key ID="0xA0ACE6AE" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DashMouthChargeStunThreshold"/>
         </Element>
         <Element>
             <Key ID="0xA0ADD2DF" Type="enum"/>
@@ -29663,7 +29663,11 @@
         </Element>
         <Element>
             <Key ID="0xA1ECC54B" Type="string"/>
-            <Value Name="Unknown"/>
+            <Value Name="LUAScript"/>
+        </Element>
+        <Element>
+            <Key ID="0xA1ECC54B" Type="scriptcode"/>
+            <Value Name="LUAScript"/>
         </Element>
         <Element>
             <Key ID="0xA1ED5408" Type="bool"/>
@@ -30127,7 +30131,7 @@
         </Element>
         <Element>
             <Key ID="0xA439CA6A" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseTotalTimeToComplete"/>
         </Element>
         <Element>
             <Key ID="0xA442B4A3" Type="WeaponVulnerability"/>
@@ -31319,7 +31323,7 @@
         </Element>
         <Element>
             <Key ID="0xAAFF9224" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NormalContinuousDamagePulseCycleTime"/>
         </Element>
         <Element>
             <Key ID="0xAB03D22B" Type="TrainTrackManagerSequenceInstData"/>
@@ -32111,7 +32115,7 @@
         </Element>
         <Element>
             <Key ID="0xAED1FBA2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="StopTestConeAngle"/>
         </Element>
         <Element>
             <Key ID="0xAED23ABC" Type="AudioPlaybackParms"/>
@@ -33827,7 +33831,7 @@
         </Element>
         <Element>
             <Key ID="0xB84C1410" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinNextPulseTimeLowHealth"/>
         </Element>
         <Element>
             <Key ID="0xB84CDEEE" Type="bool" NonCRC32="True"/>
@@ -34075,7 +34079,7 @@
         </Element>
         <Element>
             <Key ID="0xB9A462FD" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="StopTestConeOffsetDist"/>
         </Element>
         <Element>
             <Key ID="0xB9A97FEE" Type="CheckpointData"/>
@@ -35019,7 +35023,7 @@
         </Element>
         <Element>
             <Key ID="0xBE833F97" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="ConversationInterruptsFidget"/>
         </Element>
         <Element>
             <Key ID="0xBE855B91" Type="int" NonCRC32="True"/>
@@ -35451,7 +35455,7 @@
         </Element>
         <Element>
             <Key ID="0xC10219BF" Type="bool"/>
-            <Value Name="PointVisible?"/>
+            <Value Name="PointVisible"/>
         </Element>
         <Element>
             <Key ID="0xC107A48A" Type="CharacterAnimationSet"/>
@@ -36315,7 +36319,7 @@
         </Element>
         <Element>
             <Key ID="0xC5A02C2C" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="LoiterPointMustBeOnScreen"/>
         </Element>
         <Element>
             <Key ID="0xC5A31FC4" Type="VolcanoBossHandSlamAttackData"/>
@@ -39171,7 +39175,7 @@
         </Element>
         <Element>
             <Key ID="0xD42BBA88" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage3UpperHealth"/>
         </Element>
         <Element>
             <Key ID="0xD42FA1C1" Type="float"/>
@@ -39591,7 +39595,7 @@
         </Element>
         <Element>
             <Key ID="0xD6C8EAC2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxDistanceFromPointPathFinding"/>
         </Element>
         <Element>
             <Key ID="0xD6CC62CB" Type="SeedBoss2BotSwarmData"/>
@@ -39771,7 +39775,7 @@
         </Element>
         <Element>
             <Key ID="0xD7C5C618" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinChaseTimeToTaunt"/>
         </Element>
         <Element>
             <Key ID="0xD7C6638E" Type="ShipDecalSwapPair"/>
@@ -39787,7 +39791,7 @@
         </Element>
         <Element>
             <Key ID="0xD7D24BFA" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="OrbChargeLoops"/>
         </Element>
         <Element>
             <Key ID="0xD7D2B3DE" Type="float"/>
@@ -40975,7 +40979,7 @@
         </Element>
         <Element>
             <Key ID="0xDEE1A2C2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="ApproachDist2D"/>
         </Element>
         <Element>
             <Key ID="0xDEE65317" Type="float"/>
@@ -41511,7 +41515,7 @@
         </Element>
         <Element>
             <Key ID="0xE1FCA71B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="UnderwaterFogNoGravSuitFactor"/>
         </Element>
         <Element>
             <Key ID="0xE1FEFD3C" Type="bool"/>
@@ -42151,7 +42155,7 @@
         </Element>
         <Element>
             <Key ID="0xE54DE3E1" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TimeToSpitOutMorphball"/>
         </Element>
         <Element>
             <Key ID="0xE550FCBD" Type="Color"/>
@@ -42379,7 +42383,7 @@
         </Element>
         <Element>
             <Key ID="0xE677AF2C" Type="FriendlyData"/>
-            <Value Name="FriendlyData"/>
+            <Value Name="TaskFollowerInfo"/>
         </Element>
         <Element>
             <Key ID="0xE678EBCF" Type="float"/>
@@ -42427,7 +42431,7 @@
         </Element>
         <Element>
             <Key ID="0xE6B57A25" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="EffectGenerationDist"/>
         </Element>
         <Element>
             <Key ID="0xE6BACDE5" Type="WeaponVulnerability"/>
@@ -42591,7 +42595,7 @@
         </Element>
         <Element>
             <Key ID="0xE79A390F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AccelerationTowardSpline"/>
         </Element>
         <Element>
             <Key ID="0xE79ECFD4" Type="DamageInfo"/>
@@ -43519,7 +43523,7 @@
         </Element>
         <Element>
             <Key ID="0xEC56E80D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BounceVelocityMultiple"/>
         </Element>
         <Element>
             <Key ID="0xEC689E56" Type="VerticalFlightBehaviorData"/>
@@ -44859,7 +44863,7 @@
         </Element>
         <Element>
             <Key ID="0xF37267EF" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="AllowWarpJumpBehavior"/>
         </Element>
         <Element>
             <Key ID="0xF37F8DEB" Type="Color"/>
@@ -45103,7 +45107,7 @@
         </Element>
         <Element>
             <Key ID="0xF4B9C6C3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage4UpperHealth"/>
         </Element>
         <Element>
             <Key ID="0xF4BF6637" Type="enum"/>
@@ -46247,7 +46251,7 @@
         </Element>
         <Element>
             <Key ID="0xFA4A836C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="NormalContinuousDamagePulseScalar"/>
         </Element>
         <Element>
             <Key ID="0xFA4AE412" Type="float"/>
@@ -46563,7 +46567,7 @@
         </Element>
         <Element>
             <Key ID="0xFBCE966A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="UnderwaterFogGravSuitDist"/>
         </Element>
         <Element>
             <Key ID="0xFBD0FA9B" Type="spline"/>

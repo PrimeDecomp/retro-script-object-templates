@@ -11,7 +11,7 @@
             </Element>
             <Element Type="Struct" ID="0x4CFC46FE" Archetype="SwarmBasicsData"/>
             <Element Type="Struct" ID="0x99C18702" Archetype="FlyerSwarmData"/>
-            <Element Type="Struct" ID="0x7971E068" Archetype="UnknownStruct48"/>
+            <Element Type="Struct" ID="0x7971E068" Archetype="NightBarbSwarmData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>
