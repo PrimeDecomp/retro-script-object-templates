@@ -43,15 +43,15 @@
                     <Element Name="EnterLogBookScreen" ID="0x1C"/>
                     <Element Name="PowerBombStation" ID="0x1D"/>
                     <Element Name="EndingActivator" ID="0x1E"/>
-                    <Element Name="FusionRelay" ID="0x1F"/>
+                    <Element Name="Fusion" ID="0x1F"/>
                     <Element Name="WeaponSwitch" ID="0x20"/>
                     <Element Name="LaunchPlayer" ID="0x21"/>
                     <Element Name="RechargeStation" ID="0x22"/>
                     <Element Name="WorldSwapper" ID="0x23"/>
                     <Element Name="PlayerOffscreen" ID="0x24"/>
-                    <Element Name="Function 37" ID="0x25"/>
-                    <Element Name="Function 38" ID="0x26"/>
-                    <Element Name="Function 39" ID="0x27"/>
+                    <Element Name="RespawnPlayer" ID="0x25"/>
+                    <Element Name="SetPlayerRespawnPoint" ID="0x26"/>
+                    <Element Name="SetCameraToPlayer" ID="0x27"/>
                     <Element Name="SetInventoryCapacity" ID="0x28"/>
                     <Element Name="SetInventoryAmount" ID="0x29"/>
                     <Element Name="ModifyInventoryAmount" ID="0x2A"/>
@@ -62,7 +62,7 @@
                     <Element Name="SunPlacement" ID="0x2F"/>
                     <Element Name="Function 48" ID="0x30"/>
                     <Element Name="TransparencyWipe" ID="0x31"/>
-                    <Element Name="Function 50" ID="0x32"/>
+                    <Element Name="MoviePlayer" ID="0x32"/>
                     <Element Name="InventoryItemLost" ID="0x33"/>
                     <Element Name="DemoTimeoutResetController" ID="0x34"/>
                     <Element Name="SunGeneratorTeleporter" ID="0x35"/>

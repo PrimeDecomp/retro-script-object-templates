@@ -1476,6 +1476,10 @@
             <Value Path="Structs/MysteryFlyerData.xml"/>
         </Element>
         <Element>
+            <Key>NightBarbSwarmData</Key>
+            <Value Path="Structs/NightBarbSwarmData.xml"/>
+        </Element>
+        <Element>
             <Key>OffsetInterpolant</Key>
             <Value Path="Structs/OffsetInterpolant.xml"/>
         </Element>
@@ -2302,10 +2306,6 @@
         <Element>
             <Key>UnknownStruct3</Key>
             <Value Path="Structs/UnknownStruct3.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct48</Key>
-            <Value Path="Structs/UnknownStruct48.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct50</Key>
