@@ -16,7 +16,7 @@
                 </ItemArchetype>
             </Element>
             <Element Type="Bool" ID="0x2">
-                <Name>Unknown</Name>
+                <Name>Skip When Skipping Cinematic</Name>
                 <DefaultValue>false</DefaultValue>
             </Element>
         </SubProperties>

@@ -75,7 +75,7 @@
             <Element Type="Bool" ID="0xFAF13D08">
                 <DefaultValue>false</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0xC9D225C7" Archetype="UnknownStruct22"/>
+            <Element Type="Struct" ID="0xC9D225C7" Archetype="RicketyBarrelCannonData"/>
         </SubProperties>
     </Properties>
     <EditorProperties>

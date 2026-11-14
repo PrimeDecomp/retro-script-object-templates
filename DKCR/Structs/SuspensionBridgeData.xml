@@ -15,7 +15,7 @@
             <Element Type="Float" ID="0xDA13807D">
                 <DefaultValue>20.0</DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x681F4C76" Archetype="UnknownStruct269"/>
+            <Element Type="Struct" ID="0x681F4C76" Archetype="SuspensionBridgePlayerActionData"/>
             <Element Type="Struct" ID="0xF6555670" Archetype="SuspensionBridgeMovementDetectionData"/>
             <Element Type="Struct" ID="0x7CB2693B" Archetype="SuspensionBridgeMovementDetectionData"/>
         </SubProperties>
