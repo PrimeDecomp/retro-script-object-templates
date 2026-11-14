@@ -3,8 +3,8 @@
     <PropertyArchetype Type="Struct">
         <Name>SpinnerData</Name>
         <SubProperties>
-            <Element Type="Struct" ID="0x69B1EDE1" Archetype="UnknownStruct266"/>
-            <Element Type="Struct" ID="0x1B23374B" Archetype="UnknownStruct266"/>
+            <Element Type="Struct" ID="0x69B1EDE1" Archetype="SpinnerPositiveImpulseData"/>
+            <Element Type="Struct" ID="0x1B23374B" Archetype="SpinnerNegativeImpulseData"/>
             <Element Type="Float" ID="0xE6FE52E5">
                 <DefaultValue>1.0</DefaultValue>
             </Element>

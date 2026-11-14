@@ -2216,6 +2216,10 @@
             <Value Path="Enums/RevolutionVirtualControl.xml"/>
         </Element>
         <Element>
+            <Key>RicketyBarrelCannonData</Key>
+            <Value Path="Structs/RicketyBarrelCannonData.xml"/>
+        </Element>
+        <Element>
             <Key>RobotChickenAttackData</Key>
             <Value Path="Structs/RobotChickenAttackData.xml"/>
         </Element>
@@ -2408,6 +2412,14 @@
             <Value Path="Structs/SpinnerData.xml"/>
         </Element>
         <Element>
+            <Key>SpinnerNegativeImpulseData</Key>
+            <Value Path="Structs/SpinnerNegativeImpulseData.xml"/>
+        </Element>
+        <Element>
+            <Key>SpinnerPositiveImpulseData</Key>
+            <Value Path="Structs/SpinnerPositiveImpulseData.xml"/>
+        </Element>
+        <Element>
             <Key>SpinnerSoundData</Key>
             <Value Path="Structs/SpinnerSoundData.xml"/>
         </Element>
@@ -2486,6 +2498,10 @@
         <Element>
             <Key>SuspensionBridgeMovementDetectionData</Key>
             <Value Path="Structs/SuspensionBridgeMovementDetectionData.xml"/>
+        </Element>
+        <Element>
+            <Key>SuspensionBridgePlayerActionData</Key>
+            <Value Path="Structs/SuspensionBridgePlayerActionData.xml"/>
         </Element>
         <Element>
             <Key>SwingLineBehaviorData</Key>
@@ -2636,24 +2652,12 @@
             <Value Path="Structs/UnknownStruct.xml"/>
         </Element>
         <Element>
-            <Key>UnknownStruct22</Key>
-            <Value Path="Structs/UnknownStruct22.xml"/>
-        </Element>
-        <Element>
             <Key>UnknownStruct227</Key>
             <Value Path="Structs/UnknownStruct227.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct229</Key>
             <Value Path="Structs/UnknownStruct229.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct266</Key>
-            <Value Path="Structs/UnknownStruct266.xml"/>
-        </Element>
-        <Element>
-            <Key>UnknownStruct269</Key>
-            <Value Path="Structs/UnknownStruct269.xml"/>
         </Element>
         <Element>
             <Key>UnknownStruct299</Key>
