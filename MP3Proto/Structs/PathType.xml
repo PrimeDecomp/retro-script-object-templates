@@ -4,7 +4,7 @@
         <Name>PathType</Name>
         <SubProperties>
             <Element Type="Enum" ID="0xF4AC7CAA">
-                <DefaultValue>0x8C1B1D20</DefaultValue>
+                <DefaultValue>0xB9B7640F</DefaultValue>
                 <Values>
                     <Element Name="kST_CatmullRom" ID="0xB9B7640F"/>
                     <Element Name="kST_BSpline" ID="0x461A0618"/>
