@@ -563,7 +563,7 @@
         </Element>
         <Element>
             <Key ID="0x345FA17" Type="asset"/>
-            <Value Name="SWHC"/>
+            <Value Name="BoostBallJaggyTrailSwoosh"/>
         </Element>
         <Element>
             <Key ID="0x34F377B" Type="enum"/>
@@ -611,7 +611,7 @@
         </Element>
         <Element>
             <Key ID="0x3698C10" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="JumpToBottomLevelChance"/>
         </Element>
         <Element>
             <Key ID="0x36DC8DD" Type="float"/>
@@ -1127,7 +1127,7 @@
         </Element>
         <Element>
             <Key ID="0x5F4D5D7" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BerserkAttackCoverPointInterval"/>
         </Element>
         <Element>
             <Key ID="0x5FC6001" Type="float"/>
@@ -1271,7 +1271,7 @@
         </Element>
         <Element>
             <Key ID="0x7184C29" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="BerserkAttackBoostBallDamage"/>
         </Element>
         <Element>
             <Key ID="0x71D8999" Type="bool"/>
@@ -2863,7 +2863,7 @@
         </Element>
         <Element>
             <Key ID="0x10B171AC" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinHealthPercentThisStage"/>
         </Element>
         <Element>
             <Key ID="0x10BBDFD1" Type="float"/>
@@ -6171,7 +6171,7 @@
         </Element>
         <Element>
             <Key ID="0x221A902D" Type="asset"/>
-            <Value Name="StartsPreventEffect"/>
+            <Value Name="NormalDeathEffect"/>
         </Element>
         <Element>
             <Key ID="0x221C7EC1" Type="float"/>
@@ -6655,7 +6655,7 @@
         </Element>
         <Element>
             <Key ID="0x24A4FC9E" Type="asset"/>
-            <Value Name="ELSC"/>
+            <Value Name="BiostaticImpactVisorEffect"/>
         </Element>
         <Element>
             <Key ID="0x24A80F03" Type="string"/>
@@ -6827,7 +6827,7 @@
         </Element>
         <Element>
             <Key ID="0x258B5A9F" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="NumSpinPointsMin"/>
         </Element>
         <Element>
             <Key ID="0x258C3E1B" Type="sound"/>
@@ -8367,7 +8367,7 @@
         </Element>
         <Element>
             <Key ID="0x2DCA199D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PauseBeforeFiring"/>
         </Element>
         <Element>
             <Key ID="0x2DD09193" Type="Vector"/>
@@ -8523,7 +8523,7 @@
         </Element>
         <Element>
             <Key ID="0x2E95D9AD" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HealthReplenishThreshold5"/>
         </Element>
         <Element>
             <Key ID="0x2E9827AD" Type="PlayerAlternateSkin"/>
@@ -9423,7 +9423,7 @@
         </Element>
         <Element>
             <Key ID="0x3390E915" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HealthReplenishThreshold2"/>
         </Element>
         <Element>
             <Key ID="0x33924AFB" Type="Color"/>
@@ -10279,7 +10279,7 @@
         </Element>
         <Element>
             <Key ID="0x3863160B" Type="asset"/>
-            <Value Name="TXTR"/>
+            <Value Name="DarkVisorBlownOutTexture"/>
         </Element>
         <Element>
             <Key ID="0x386431AC" Type="sound"/>
@@ -10679,7 +10679,7 @@
         </Element>
         <Element>
             <Key ID="0x3A6D3A64" Type="asset"/>
-            <Value Name="PART"/>
+            <Value Name="PillarGroundSlamEffect"/>
         </Element>
         <Element>
             <Key ID="0x3A7F59F7" Type="bool"/>
@@ -10767,7 +10767,7 @@
         </Element>
         <Element>
             <Key ID="0x3AEE01E4" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BerserkAttackProjectileCount"/>
         </Element>
         <Element>
             <Key ID="0x3AEE673F" Type="Color"/>
@@ -11399,7 +11399,7 @@
         </Element>
         <Element>
             <Key ID="0x3E370622" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TriggerAttackHP"/>
         </Element>
         <Element>
             <Key ID="0x3E3E269F" Type="float" NonCRC32="True"/>
@@ -11695,7 +11695,7 @@
         </Element>
         <Element>
             <Key ID="0x3FF87A8C" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="BodyGlowsDuringThisStage"/>
         </Element>
         <Element>
             <Key ID="0x3FFCD8AE" Type="float"/>
@@ -11911,7 +11911,7 @@
         </Element>
         <Element>
             <Key ID="0x411F8004" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TimePhasedOutMax"/>
         </Element>
         <Element>
             <Key ID="0x4123323A" Type="sound"/>
@@ -11927,7 +11927,7 @@
         </Element>
         <Element>
             <Key ID="0x412C60DA" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BerserkAttackNumBounces"/>
         </Element>
         <Element>
             <Key ID="0x4133DBE2" Type="float"/>
@@ -12151,7 +12151,7 @@
         </Element>
         <Element>
             <Key ID="0x42493AB9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinMorphballStabHoldTime"/>
         </Element>
         <Element>
             <Key ID="0x424A6D37" Type="DamageInfo"/>
@@ -13263,7 +13263,7 @@
         </Element>
         <Element>
             <Key ID="0x482D569D" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="AimAtLocator"/>
         </Element>
         <Element>
             <Key ID="0x4832703B" Type="sound"/>
@@ -13911,7 +13911,7 @@
         </Element>
         <Element>
             <Key ID="0x4B2DE673" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BoostTowardsPlayerInterval"/>
         </Element>
         <Element>
             <Key ID="0x4B2E9260" Type="float"/>
@@ -15587,7 +15587,7 @@
         </Element>
         <Element>
             <Key ID="0x54178CB8" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AnalogDirectionRequired"/>
         </Element>
         <Element>
             <Key ID="0x54203510" Type="string"/>
@@ -16315,7 +16315,7 @@
         </Element>
         <Element>
             <Key ID="0x5867275B" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxDefendPointAttackTime"/>
         </Element>
         <Element>
             <Key ID="0x586A8F75" Type="bool"/>
@@ -17075,7 +17075,7 @@
         </Element>
         <Element>
             <Key ID="0x5CDC877D" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="SelfCollides"/>
         </Element>
         <Element>
             <Key ID="0x5CE1B917" Type="enum"/>
@@ -17747,7 +17747,7 @@
         </Element>
         <Element>
             <Key ID="0x6089191D" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="NumSpinPointsMax"/>
         </Element>
         <Element>
             <Key ID="0x608E1757" Type="ProjectileMotionHomingMissile"/>
@@ -20515,7 +20515,7 @@
         </Element>
         <Element>
             <Key ID="0x6FC4508C" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PathFindRootZOffset"/>
         </Element>
         <Element>
             <Key ID="0x6FCAF068" Type="float"/>
@@ -22623,7 +22623,7 @@
         </Element>
         <Element>
             <Key ID="0x7B21E31A" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BoostBallCrystalStunTime"/>
         </Element>
         <Element>
             <Key ID="0x7B33383A" Type="asset" NonCRC32="True"/>
@@ -23199,7 +23199,7 @@
         </Element>
         <Element>
             <Key ID="0x7E922362" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UseNewHyperModeTimers"/>
         </Element>
         <Element>
             <Key ID="0x7EA45F85" Type="PlayerControls"/>
@@ -23779,7 +23779,7 @@
         </Element>
         <Element>
             <Key ID="0x810F3185" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxFirstPersonStabHoldTime"/>
         </Element>
         <Element>
             <Key ID="0x81170D21" Type="float"/>
@@ -25223,7 +25223,7 @@
         </Element>
         <Element>
             <Key ID="0x894C2B5D" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BlowOutVisorTime"/>
         </Element>
         <Element>
             <Key ID="0x895A47FB" Type="float"/>
@@ -25867,7 +25867,7 @@
         </Element>
         <Element>
             <Key ID="0x8CD7444D" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="UsePathMeshAvoidance"/>
         </Element>
         <Element>
             <Key ID="0x8CDE5BD9" Type="ProjectileRenderCharacter"/>
@@ -28819,7 +28819,7 @@
         </Element>
         <Element>
             <Key ID="0x9D0C992F" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HoldTimeRequired"/>
         </Element>
         <Element>
             <Key ID="0x9D1A67A8" Type="asset"/>
@@ -30707,7 +30707,7 @@
         </Element>
         <Element>
             <Key ID="0xA77F2FE5" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="TimePhasedOutMin"/>
         </Element>
         <Element>
             <Key ID="0xA77F6212" Type="float"/>
@@ -31203,7 +31203,7 @@
         </Element>
         <Element>
             <Key ID="0xAA19D1DC" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="BiostaticShockDamage"/>
         </Element>
         <Element>
             <Key ID="0xAA2BEE9A" Type="ReptilicusHunterHyperMode"/>
@@ -31339,7 +31339,7 @@
         </Element>
         <Element>
             <Key ID="0xAB0B9AC4" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="AlwaysFacingCSI"/>
         </Element>
         <Element>
             <Key ID="0xAB0D65EB" Type="float"/>
@@ -31867,7 +31867,7 @@
         </Element>
         <Element>
             <Key ID="0xADCB24C3" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxMorphballStabHoldTime"/>
         </Element>
         <Element>
             <Key ID="0xADCBB494" Type="float"/>
@@ -32111,7 +32111,7 @@
         </Element>
         <Element>
             <Key ID="0xAED07218" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinFirstPersonStabHoldTime"/>
         </Element>
         <Element>
             <Key ID="0xAED1FBA2" Type="float"/>
@@ -32947,7 +32947,7 @@
         </Element>
         <Element>
             <Key ID="0xB35F3997" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="RepairDist2D"/>
         </Element>
         <Element>
             <Key ID="0xB3673269" Type="asset"/>
@@ -33103,7 +33103,7 @@
         </Element>
         <Element>
             <Key ID="0xB40C6FBF" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage3SpeedupPercent"/>
         </Element>
         <Element>
             <Key ID="0xB4135CDD" Type="Color"/>
@@ -33255,7 +33255,7 @@
         </Element>
         <Element>
             <Key ID="0xB5049BBB" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HealthReplenishThreshold1"/>
         </Element>
         <Element>
             <Key ID="0xB515DD12" Type="float"/>
@@ -33647,7 +33647,7 @@
         </Element>
         <Element>
             <Key ID="0xB7329CEC" Type="bool"/>
-            <Value Name="Unknown"/>
+            <Value Name="FudgeProjection"/>
         </Element>
         <Element>
             <Key ID="0xB7346005" Type="RevolutionControl"/>
@@ -33771,7 +33771,7 @@
         </Element>
         <Element>
             <Key ID="0xB7E53921" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinDefendPointAttackTime"/>
         </Element>
         <Element>
             <Key ID="0xB7ECDCF9" Type="DamageVulnerability"/>
@@ -34963,7 +34963,7 @@
         </Element>
         <Element>
             <Key ID="0xBE36E228" Type="asset"/>
-            <Value Name="ELSC"/>
+            <Value Name="BiostaticAttackEffect"/>
         </Element>
         <Element>
             <Key ID="0xBE3B8E93" Type="float"/>
@@ -35819,7 +35819,7 @@
         </Element>
         <Element>
             <Key ID="0xC2F2B95C" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinGravitonPulses"/>
         </Element>
         <Element>
             <Key ID="0xC2FFF029" Type="DamageInfo"/>
@@ -37775,7 +37775,7 @@
         </Element>
         <Element>
             <Key ID="0xCD4EDCA2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MinTimeBetweenAttacksMissingOrb"/>
         </Element>
         <Element>
             <Key ID="0xCD4EE9FC" Type="float"/>
@@ -38567,7 +38567,7 @@
         </Element>
         <Element>
             <Key ID="0xD16B54F9" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="Stage2SpeedupPercent"/>
         </Element>
         <Element>
             <Key ID="0xD16EECFB" Type="DarkSamusStage"/>
@@ -39059,7 +39059,7 @@
         </Element>
         <Element>
             <Key ID="0xD398DAC2" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="PercentagePerStage"/>
         </Element>
         <Element>
             <Key ID="0xD39CDAD5" Type="int"/>
@@ -40855,7 +40855,7 @@
         </Element>
         <Element>
             <Key ID="0xDE38F04E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="AnalogFudgeFactor"/>
         </Element>
         <Element>
             <Key ID="0xDE3E40A3" Type="choice"/>
@@ -41059,7 +41059,7 @@
         </Element>
         <Element>
             <Key ID="0xDF6A1706" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="DesiredDistanceFromPlayer"/>
         </Element>
         <Element>
             <Key ID="0xDF6DA1A2" Type="asset"/>
@@ -41507,7 +41507,7 @@
         </Element>
         <Element>
             <Key ID="0xE1F030D5" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BiostaticAttackRange"/>
         </Element>
         <Element>
             <Key ID="0xE1FAC41A" Type="int"/>
@@ -42291,7 +42291,7 @@
         </Element>
         <Element>
             <Key ID="0xE5C90A08" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HealthReplenishThreshold4"/>
         </Element>
         <Element>
             <Key ID="0xE5D4D300" Type="int"/>
@@ -43371,7 +43371,7 @@
         </Element>
         <Element>
             <Key ID="0xEB8C4444" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxGravitonPulses"/>
         </Element>
         <Element>
             <Key ID="0xEB903473" Type="float"/>
@@ -43939,7 +43939,7 @@
         </Element>
         <Element>
             <Key ID="0xEE492513" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BerserkAttackSpeedModifier"/>
         </Element>
         <Element>
             <Key ID="0xEE4C1F4B" Type="float"/>
@@ -43967,7 +43967,7 @@
         </Element>
         <Element>
             <Key ID="0xEE69B993" Type="int"/>
-            <Value Name="Unknown"/>
+            <Value Name="BoostTowardsCoverPointInterval"/>
         </Element>
         <Element>
             <Key ID="0xEE6B6F47" Type="float"/>
@@ -44971,7 +44971,7 @@
         </Element>
         <Element>
             <Key ID="0xF3EA94DC" Type="DamageVulnerability"/>
-            <Value Name="DamageVulnerability"/>
+            <Value Name="NovaOneShotKillVulnerability"/>
         </Element>
         <Element>
             <Key ID="0xF3EC8748" Type="float"/>
@@ -45983,7 +45983,7 @@
         </Element>
         <Element>
             <Key ID="0xF8CC3AB0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="HealthReplenishThreshold3"/>
         </Element>
         <Element>
             <Key ID="0xF8CFA987" Type="ShipDecalSwapPair"/>
@@ -46135,7 +46135,7 @@
         </Element>
         <Element>
             <Key ID="0xF9B082B0" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="MaxTimeBetweenAttacksMissingOrb"/>
         </Element>
         <Element>
             <Key ID="0xF9B150FC" Type="PlayerCling2Data"/>
@@ -46499,7 +46499,7 @@
         </Element>
         <Element>
             <Key ID="0xFB72F91E" Type="float"/>
-            <Value Name="Unknown"/>
+            <Value Name="BiostaticAttackTime"/>
         </Element>
         <Element>
             <Key ID="0xFB7A7ABB" Type="bool"/>
@@ -46987,7 +46987,7 @@
         </Element>
         <Element>
             <Key ID="0xFE138B07" Type="DamageInfo"/>
-            <Value Name="DamageInfo"/>
+            <Value Name="BiostaticImpactDamage"/>
         </Element>
         <Element>
             <Key ID="0xFE16F98D" Type="choice"/>
