@@ -1232,6 +1232,10 @@
             <Value Path="Structs/PowerBombGuardianStageProperties.xml"/>
         </Element>
         <Element>
+            <Key>ProxyType</Key>
+            <Value Path="Enums/ProxyType.xml"/>
+        </Element>
+        <Element>
             <Key>RepulsorFlags</Key>
             <Value Path="Flags/RepulsorFlags.xml"/>
         </Element>

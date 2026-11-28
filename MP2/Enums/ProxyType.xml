@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyTemplate ArchiveVer="4" Game="Echoes">
+    <PropertyArchetype Type="Choice">
+        <Name>ProxyType</Name>
+        <Values>
+            <Element Name="Event Relay" ID="0x0"/>
+            <Element Name="Coin Collector" ID="0x1"/>
+            <Element Name="Archenemy Marker" ID="0x2"/>
+            <Element Name="Player Follower" ID="0x3"/>
+            <Element Name="Persistent Counter Reset" ID="0x4"/>
+            <Element Name="Combat Visor Watcher" ID="0x5"/>
+            <Element Name="Scan Visor Watcher" ID="0x6"/>
+            <Element Name="Dark Visor Watcher" ID="0x7"/>
+            <Element Name="Echo Visor Watcher" ID="0x8"/>
+            <Element Name="Player Message Relay" ID="0x9"/>
+            <Element Name="Damage Over Time" ID="0xA"/>
+        </Values>
+    </PropertyArchetype>
+</PropertyTemplate>
