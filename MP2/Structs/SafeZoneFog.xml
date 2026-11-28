@@ -4,7 +4,7 @@
         <Name>SafeZoneFog</Name>
         <SubProperties>
             <Element Type="Bool" ID="0x29C77D27">
-                <DefaultValue>true</DefaultValue>
+                <DefaultValue>false</DefaultValue>
             </Element>
             <Element Type="Choice" ID="0x9AD63DE">
                 <DefaultValue>0</DefaultValue>
@@ -17,13 +17,7 @@
                     <A>0.0</A>
                 </DefaultValue>
             </Element>
-            <Element Type="Struct" ID="0x652008DA" Archetype="Vector2f">
-                <SubProperties>
-                    <Element Type="Float" ID="0xA1677D4E">
-                        <DefaultValue>1.0</DefaultValue>
-                    </Element>
-                </SubProperties>
-            </Element>
+            <Element Type="Struct" ID="0x652008DA" Archetype="Vector2f"/>
             <Element Type="Float" ID="0x29AB4727">
                 <DefaultValue>0.0</DefaultValue>
             </Element>

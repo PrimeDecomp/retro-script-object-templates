@@ -74,6 +74,13 @@
                             <B>0.39215699</B>
                         </DefaultValue>
                     </Element>
+                    <Element Type="Color" ID="0xE68B1FA8">
+                        <DefaultValue>
+                            <R>0.75</R>
+                            <G>0.75</G>
+                            <B>0.75</B>
+                        </DefaultValue>
+                    </Element>
                 </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x6471D643" Archetype="SafeZoneAttributes">
@@ -101,6 +108,13 @@
                             <R>1.0</R>
                             <G>0.0</G>
                             <B>0.0</B>
+                        </DefaultValue>
+                    </Element>
+                    <Element Type="Color" ID="0xE68B1FA8">
+                        <DefaultValue>
+                            <R>0.75</R>
+                            <G>0.75</G>
+                            <B>0.75</B>
                         </DefaultValue>
                     </Element>
                 </SubProperties>
@@ -158,7 +172,7 @@
                     <R>0.73725498</R>
                     <G>1.0</G>
                     <B>1.0</B>
-                    <A>0.247059</A>
+                    <A>0.25</A>
                 </DefaultValue>
             </Element>
             <Element Type="Float" ID="0x9F638987">
@@ -166,9 +180,6 @@
             </Element>
             <Element Type="Struct" ID="0x8A09F99A" Archetype="SafeZoneFog">
                 <SubProperties>
-                    <Element Type="Bool" ID="0x29C77D27">
-                        <DefaultValue>false</DefaultValue>
-                    </Element>
                     <Element Type="Choice" ID="0x9AD63DE">
                         <DefaultValue>1</DefaultValue>
                     </Element>
@@ -181,9 +192,6 @@
                     </Element>
                     <Element Type="Struct" ID="0x652008DA">
                         <SubProperties>
-                            <Element Type="Float" ID="0xA1677D4E">
-                                <DefaultValue>0.0</DefaultValue>
-                            </Element>
                             <Element Type="Float" ID="0x6A3BAEEB">
                                 <DefaultValue>750.0</DefaultValue>
                             </Element>
@@ -206,25 +214,19 @@
             </Element>
             <Element Type="Struct" ID="0xAFB855B8" Archetype="SafeZoneFog">
                 <SubProperties>
-                    <Element Type="Bool" ID="0x29C77D27">
-                        <DefaultValue>false</DefaultValue>
-                    </Element>
                     <Element Type="Choice" ID="0x9AD63DE">
                         <DefaultValue>1</DefaultValue>
                     </Element>
                     <Element Type="Color" ID="0x37C7D09D">
                         <DefaultValue>
                             <R>0.0</R>
-                            <G>0.098039001</G>
+                            <G>0.1</G>
                             <B>0.0</B>
                             <A>0.0</A>
                         </DefaultValue>
                     </Element>
                     <Element Type="Struct" ID="0x652008DA">
                         <SubProperties>
-                            <Element Type="Float" ID="0xA1677D4E">
-                                <DefaultValue>0.0</DefaultValue>
-                            </Element>
                             <Element Type="Float" ID="0x6A3BAEEB">
                                 <DefaultValue>1000.0</DefaultValue>
                             </Element>
