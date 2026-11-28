@@ -154,63 +154,12 @@
             </Element>
             <Element Type="Struct" ID="0x3874576D" Archetype="AlphaBloggStageData">
                 <Description>Attack counts and probabilities used by Alpha Blogg while its health is at least 66% of its initial health.</Description>
-                <SubProperties>
-                    <Element Type="Int" ID="0x3E505DDB">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                    <Element Type="Int" ID="0x118F1E46">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x6E603DF2">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x1E74F1EC">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0xECBA9FB2">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                </SubProperties>
             </Element>
             <Element Type="Struct" ID="0x97DD1AA7" Archetype="AlphaBloggStageData">
                 <Description>Attack counts and probabilities used by Alpha Blogg while its health is at least 33% but below 66% of its initial health.</Description>
-                <SubProperties>
-                    <Element Type="Int" ID="0x3E505DDB">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                    <Element Type="Int" ID="0x118F1E46">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x6E603DF2">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x1E74F1EC">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0xECBA9FB2">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                </SubProperties>
             </Element>
             <Element Type="Struct" ID="0xF2BA21E1" Archetype="AlphaBloggStageData">
                 <Description>Attack counts and probabilities used by Alpha Blogg while its health is below 33% of its initial health.</Description>
-                <SubProperties>
-                    <Element Type="Int" ID="0x3E505DDB">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                    <Element Type="Int" ID="0x118F1E46">
-                        <DefaultValue>1</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x6E603DF2">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0x1E74F1EC">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                    <Element Type="Float" ID="0xECBA9FB2">
-                        <DefaultValue>0.5</DefaultValue>
-                    </Element>
-                </SubProperties>
             </Element>
         </SubProperties>
     </Properties>
